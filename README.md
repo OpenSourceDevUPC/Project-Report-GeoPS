@@ -197,6 +197,54 @@ URL del Repositoria del Project Report:
 ## Capítulo 4: Product Design
 ### 4.1. Style Guidelines
   #### 4.1.1. General Style Guidelines  
+  **Branding**
+  - El nombre completo de nuestro servicio es “Geo Publicity Service”.
+  - Para el dominio web y la aplicación, así como para ser más memorable, se utilizará el nombre corto GeoPS.
+  - El tagline es “Promociones cerca de ti”, reflejando el servicio principal de promocionar ofertas de diversas tiendas cerca de tu ubicación.
+  - El logo tiene un diseño sencillo, lo que lo hace minimalista y fácil de recordar. Además, el uso del color morado demuestra creatividad e innovación.
+
+<div align="center"><img src="resources/imgs/capitulo-4/GeoPS-Logo.png" alt="Logo de GeoPS"></div>
+
+**Typography**
+
+Las tipografías seleccionadas son Poppins y Lobster. Lobster fué elegida principalmente para representar nuestro Logo GeoPS de una manera expresiva, atrayendo la atención de los usuarios a nuestra landing page. La tipografía Poppins se utiliza en los párrafos, títulos, subtítulos y botones de la página, transmitiendo claridad y profesionalismo, ofreciendo una buena legibilidad en la página web mediante su amplia variedad de pesos de letra.
+
+**Tamaños y peso de tipografía**
+
+Lobster: Peso 400, 60 px de tamaño para el logo.
+Poppins:
+- Títulos: Peso 600, 35 px de tamaño.
+- Párrafos y texto secundario: Peso 300, 20 px de tamaño.
+- Texto terciario: Peso 400, 16 px de tamaño.
+- Pié de imagen y video: Peso 300, 16 px de tamaño.
+- Texto dentro de imágenes: Peso 600, 24 px de tamaño.
+- Texto de botones CTA: Peso 600, 25 px de tamaño.
+
+**Colors**
+
+Utilizaremos la siguiente paleta de colores:
+
+<div align="center"><img src="resources/imgs/capitulo-4/Paleta-Colores.png" alt="Paleta de colores"></div>
+
+|        |        |
+|--------|--------|
+| <img src="resources/imgs/capitulo-4/Amatista.png" alt="Color amatista"> | El color amatista se utiliza principalmente en el menú vertical, el cual necesita resaltar. Este color representa la innovación y modernidad, atrayendo la atención de los usuarios sin tener que ser agresivo.  |
+| <img src="resources/imgs/capitulo-4/Indigo.png" alt="Color indigo">| El color índigo es utilizado para secciones que desean llamar la atención mostrando información importante, todo en un espacio pequeño. El color muestra elegancia, formalidad y confianza al ser un color fuerte. |
+| <img src="resources/imgs/capitulo-4/Blanco.png" alt="Color blanco"> | El color blanco es utilizado en el cuerpo de la página web. El color blanco muestra un área limpia, clara y donde hay espacio visual para mostrar las secciones de nuestra landing page.  |
+| <img src="resources/imgs/capitulo-4/Negro.png" alt="Color negro"> | El color negro es utilizado en botones principales y el footer de nuestra página. El color negro demuestra profesionalismo y un contraste fuerte con los otros colores utilizados, especialmente el color blanco. |
+| <img src="resources/imgs/capitulo-4/Uva.png" alt="Color uva"> | El color uva es utilizado en botones CTA de tamaño mediano y secciones con imágenes. Este color muestra energía, dinamismo y una personalidad fuerte, en comparación a otros botones principales. También ayuda a destacar el texto de los botones.  |
+| <img src="resources/imgs/capitulo-4/Veronica.png" alt="Color veronica"> | El color verónica es utilizado en botones pequeños CTA. Este color muestra juventud y frescura al ser un poco más claro que los otros colores de tono parecido. |
+
+**Spacing**
+
+- El espacio en el diseño de GeoPS se enfocará en proporcionar una experiencia visual clara y accesible para el usuario, reflejando los principios de orden y claridad. Se utilizarán márgenes amplios para resaltar los elementos clave, como botones y áreas interactivas, permitiendo una navegación fluida y sin distracciones.
+- Al utilizar muchas imágenes, consideramos utilizar un espaciado horizontal entre las imágenes lo suficiente para mostrarlas con claridad visual y sin que interrumpa la navegación del usuario.
+- El espaciado será utilizado para diferenciar las zonas de información, especialmente en secciones interactivas con párrafos.
+
+**Tonos de Comunicacion**
+
+El tono de comunicación de GeoPS será amigable, cercano y orientado al usuario. Buscamos establecer una conexión genuina mediante un lenguaje claro y accesible a todos, sin utilizar demasiados tecnicismos. Resaltaremos los beneficios y la facilidad de uso de nuestra aplicación web, sin abrumar al usuario con tanta información. Queremos que el usuario se sienta valorado y escuchado en cada interacción.
+
   #### 4.1.2. Web Style Guidelines
 ### 4.2. Information Architecture
   #### 4.2.1. Organization Systems 

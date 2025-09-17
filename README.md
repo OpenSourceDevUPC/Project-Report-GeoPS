@@ -246,6 +246,42 @@ Utilizaremos la siguiente paleta de colores:
 El tono de comunicación de GeoPS será amigable, cercano y orientado al usuario. Buscamos establecer una conexión genuina mediante un lenguaje claro y accesible a todos, sin utilizar demasiados tecnicismos. Resaltaremos los beneficios y la facilidad de uso de nuestra aplicación web, sin abrumar al usuario con tanta información. Queremos que el usuario se sienta valorado y escuchado en cada interacción.
 
   #### 4.1.2. Web Style Guidelines
+En esta sección, se describe la guía de nuestra landing page con sus características en el estilo para mantener una coherencia visual.
+
+**Estructura general de la página**:
+
+**Cabecera**:
+- Logotipo: El logotipo de nuestra startup está ubicado en la esquina superior izquierda. Cuando haces click, te redirigirá a la página principal.
+- Barra de búsqueda: La barra de búsqueda está ubicada en la parte superior derecha. Servirá para ubicar fácilmente y rápidamente secciones en la página.
+- Menú de navegación: El menú de navegación se ubica en la parte superior izquierda y en la esquina derecha. Es un conjunto de botones que permite la navegación en la página principal. Los botones designados son:
+  1. Inicio
+  2. Marcas
+  3. Conoce más
+  4. Inicia sesión
+
+**Cuerpo**:
+- Sección principal: La sección principal es la que va a atraer al usuario. Se muestran promociones conocidas y ofertas.
+- Beneficios: Muestra que nuestra página ofrece beneficios, ofertas y promociones en diversas tiendas.
+- Empresas que confían en nosotros: Muestra las marcas que tienen confianza en nosotros y están dispuestos a promocionar sus productos en nuestra página.
+- Quienes somos: Muestra información de la empresa y permite conocer más de nosotros mediante un botón.
+- Planes: Permite la muestra y promoción de los planes de compra de nuestra empresa para los usuarios de la página.
+- Promociones: Muestra diversas promociones de diferentes tipos en varias tiendas.
+- Invitación a los negocios: Sección de llamado a los usuarios que tienen negocios que desean participar en nuestro programa.
+- Dudas: Sección que muestra preguntas frecuentes de nuestra empresa y las responde de una manera corta y clara.
+- Conocenos mejor: Muestra los videos que hablan sobre nuestra marca de empresa para conectar con el usuario que ve los videos.
+
+**Pié de página**:
+- Copyright: Se incluye la información sobre los derechos de autor de la marca.
+- Enlaces de soporte: Se proporcionan links de soporte y ayuda, tales como “Nosotros”, “Servicios” y “Contacto”.
+- Redes sociales: Se incluyen los iconos de las redes sociales de nuestro emprendimiento para conectar con la audiencia en otras plataformas, las cuales son Instagram y LinkedIn.
+- Logotipo y eslogan: Se incluye el Logo con su eslogan que representa nuestra empresa. La frase designada es: “Promociones cerca de ti”
+
+**Diseño de la página inicial**:
+
+<div align="center"><img src="resources/imgs/capitulo-4/landingpage-geops-1.png" alt="Landing Page GeoPS 1"></div>
+<div align="center"><img src="resources/imgs/capitulo-4/landingpage-geops-2.png" alt="Landing Page GeoPS 2"></div>
+<div align="center"><img src="resources/imgs/capitulo-4/landingpage-geops-3.png" alt="Landing Page GeoPS 3"></div>
+
 ### 4.2. Information Architecture
   #### 4.2.1. Organization Systems 
   #### 4.2.2. Labeling Systems 

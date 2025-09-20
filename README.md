@@ -141,8 +141,8 @@ URL del Repositoria del Project Report:
       - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
       - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
   - [Conclusiones](#conclusiones)
-  - [Anexos](#anexos)
   - [Bibliografía](#bibliografía)
+  - [Anexos](#anexos)
 
 
 
@@ -285,145 +285,281 @@ Aplicamos la convención de Conventional Commits para mantener un historial clar
 
 #### 5.1.3. Source Code Style Guide & Conventions
 
-En esta sección, establecemos las convenciones y reglas para el estilo del código y convenciones de programación que usamos para la creación de la plataforma web GeoPS. Aplicamos estas prácticas con el fin de garantizar la coherencia, legibilidad y calidad del código durante el desarrollo de la aplicación de publicidad hiperlocalizada.
+En esta sección, establecemos las convenciones y reglas para el estilo del código y convenciones de programación que usamos para la creación de la landing page de GeoPS. Aplicamos estas prácticas con el fin de garantizar la coherencia, legibilidad y calidad del código durante el desarrollo de la página web informativa.
 
-En este proyecto, empleamos HTML5, CSS3 y JavaScript para desarrollar la aplicación web, utilizando además frameworks como Bootstrap para el diseño responsivo y bibliotecas para la implementación de funcionalidades de geolocalización. Por otro lado, utilizamos Gherkin para los casos de prueba del proyecto.
+En este proyecto, empleamos HTML5, CSS3 y JavaScript para desarrollar la landing page, utilizando además frameworks como Bootstrap para el diseño responsivo y bibliotecas para animaciones e interactividad. Por otro lado, utilizamos Gherkin para los casos de prueba del proyecto.
 
 **Nomenclatura y Convenciones Generales**
 
-Los nombres asignados a variables, funciones, clases y elementos se definirán en idioma inglés, procurando que tengan relación directa con las funcionalidades de geolocalización y publicidad. Se evitará el uso inconsistente de mayúsculas y minúsculas, priorizando el uso de camelCase para JavaScript y kebab-case para CSS.
+Los nombres asignados a variables, funciones, clases y elementos se definirán en idioma inglés, procurando que tengan relación directa con las secciones y funcionalidades de la landing page. Se evitará el uso inconsistente de mayúsculas y minúsculas, priorizando el uso de camelCase para JavaScript y kebab-case para CSS.
 
 Ejemplo:
 ```css
-.location-marker {} /* Buena práctica para elementos relacionados con geolocalización */
-.ad-campaign-panel {} /* Buena práctica para panel de gestión de campañas */
+.hero-section {} /* Buena práctica para sección principal */
+.promotion-card {} /* Buena práctica para tarjetas de promociones */
+.contact-form {} /* Buena práctica para formularios de contacto */
 ```
 
 **Sangría e Identación**
 
-Utilizamos 2 espacios para la sangría en lugar de tabulaciones, siguiendo las recomendaciones de Google para mantener consistencia en el código de la plataforma GeoPS.
+Utilizamos 2 espacios para la sangría en lugar de tabulaciones, siguiendo las recomendaciones de Google para mantener consistencia en el código de la landing page.
 
-**HTML5 - Estructura para GeoPS**
+**HTML5 - Estructura para Landing Page GeoPS**
 
 + **Document Type:** Utilizamos `<!DOCTYPE html>` para HTML5
-+ **Etiquetas Semánticas:** Empleamos etiquetas semánticas apropiadas para la estructura de GeoPS:
++ **Etiquetas Semánticas:** Empleamos etiquetas semánticas apropiadas para la estructura de la landing page:
 
 ```html
 <header>
-  <nav class="geo-navigation">
-    <div class="location-selector"></div>
+  <nav class="navbar">
+    <div class="nav-brand">
+      <img src="logo.png" alt="GeoPS Logo">
+    </div>
+    <ul class="nav-menu">
+      <li><a href="#home">Inicio</a></li>
+      <li><a href="#about">Nosotros</a></li>
+      <li><a href="#contact">Contacto</a></li>
+    </ul>
   </nav>
 </header>
 
 <main>
-  <section class="promotion-grid">
-    <article class="promotion-card"></article>
+  <section class="hero-section">
+    <div class="hero-content">
+      <h1 class="hero-title">Conectamos PyMEs con clientes</h1>
+      <p class="hero-description">Publicidad efectiva para negocios locales</p>
+      <button class="cta-button">Comenzar Ahora</button>
+    </div>
   </section>
-  <aside class="map-container">
-    <div id="interactive-map"></div>
-  </aside>
+  
+  <section class="features-section">
+    <article class="feature-card">
+      <h3>Para Consumidores</h3>
+      <p>Descubre ofertas y promociones cercanas</p>
+    </article>
+  </section>
 </main>
 ```
 
-+ **Atributos de Geolocalización:**
++ **Atributos Semánticos y de Accesibilidad:**
 ```html
-<div class="business-card" 
-     data-lat="40.7128" 
-     data-lng="-74.0060" 
-     data-category="restaurant">
-</div>
+<button class="cta-button" 
+        aria-label="Comenzar registro en GeoPS"
+        data-action="register">
+  Comenzar Ahora
+</button>
+
+<img src="feature-image.jpg" 
+     alt="Ilustración de promociones para PyMEs" 
+     loading="lazy">
 ```
 
-**CSS3 - Estilos para GeoPS**
+**CSS3 - Estilos para Landing Page**
 
-+ **Propiedades para Funcionalidades Específicas:**
++ **Variables CSS para Consistencia:**
 ```css
-.map-overlay {
-  position: absolute;
-  z-index: 1000;
+:root {
+  --primary-color: #3498db;
+  --secondary-color: #2c3e50;
+  --accent-color: #e74c3c;
+  --text-color: #2c3e50;
+  --background-color: #ffffff;
+  --border-radius: 8px;
+  --box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+```
+
++ **Componentes Reutilizables:**
+```css
+.btn {
+  padding: 12px 24px;
+  border: none;
+  border-radius: var(--border-radius);
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
 }
 
-.proximity-indicator {
-  border-radius: 50%;
-  background: linear-gradient(45deg, #4CAF50, #2196F3);
+.btn-primary {
+  background-color: var(--primary-color);
+  color: white;
 }
 
-.promotion-modal {
-  display: none;
-  transition: opacity 0.3s ease-in-out;
+.btn-primary:hover {
+  background-color: #2980b9;
+  transform: translateY(-2px);
+  box-shadow: var(--box-shadow);
+}
+
+.card {
+  background: white;
+  border-radius: var(--border-radius);
+  box-shadow: var(--box-shadow);
+  padding: 2rem;
+  margin: 1rem 0;
 }
 ```
 
 + **Responsive Design para Dispositivos Móviles:**
 ```css
-@media (max-width: 768px) {
-  .map-container {
-    height: 50vh;
+/* Mobile First Approach */
+.hero-section {
+  padding: 2rem 1rem;
+  text-align: center;
+}
+
+.hero-title {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+/* Tablet */
+@media (min-width: 768px) {
+  .hero-section {
+    padding: 4rem 2rem;
   }
   
-  .promotion-grid {
-    grid-template-columns: 1fr;
+  .hero-title {
+    font-size: 2.5rem;
+  }
+  
+  .features-section {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 2rem;
+  }
+}
+
+/* Desktop */
+@media (min-width: 1024px) {
+  .hero-section {
+    padding: 6rem 2rem;
+  }
+  
+  .hero-title {
+    font-size: 3rem;
+  }
+  
+  .features-section {
+    grid-template-columns: repeat(3, 1fr);
   }
 }
 ```
 
-**JavaScript - Funcionalidades de GeoPS**
+**JavaScript - Funcionalidades de Landing Page**
 
-+ **Convenciones para Funciones de Geolocalización:**
++ **Convenciones para Interactividad:**
 ```javascript
-function getCurrentUserLocation() {
-  return new Promise((resolve, reject) => {
-    navigator.geolocation.getCurrentPosition(resolve, reject);
+// Navegación suave entre secciones
+function smoothScrollTo(targetId) {
+  const element = document.getElementById(targetId);
+  if (element) {
+    element.scrollIntoView({
+      behavior: 'smooth',
+      block: 'start'
+    });
+  }
+}
+
+// Gestión de formularios
+function validateContactForm(formData) {
+  const { name, email, message } = formData;
+  const errors = [];
+  
+  if (!name || name.trim().length < 2) {
+    errors.push('El nombre debe tener al menos 2 caracteres');
+  }
+  
+  if (!isValidEmail(email)) {
+    errors.push('Por favor ingresa un email válido');
+  }
+  
+  return {
+    isValid: errors.length === 0,
+    errors
+  };
+}
+
+function isValidEmail(email) {
+  const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+  return emailRegex.test(email);
+}
+```
+
++ **Manejo de Eventos y Animaciones:**
+```javascript
+// Inicialización de eventos DOM
+document.addEventListener('DOMContentLoaded', function() {
+  initializeNavigation();
+  initializeAnimations();
+  initializeForms();
+});
+
+function initializeNavigation() {
+  const navLinks = document.querySelectorAll('.nav-menu a');
+  
+  navLinks.forEach(link => {
+    link.addEventListener('click', function(e) {
+      e.preventDefault();
+      const targetId = this.getAttribute('href').substring(1);
+      smoothScrollTo(targetId);
+    });
   });
 }
 
-function calculateDistanceToPromotion(userLat, userLng, promoLat, promoLng) {
-  const R = 6371;
-  const dLat = (promoLat - userLat) * Math.PI / 180;
-  const dLng = (promoLng - userLng) * Math.PI / 180;
-  // Implementación de fórmula de Haversine
-}
-```
-
-+ **Gestión de Notificaciones Web Push:**
-```javascript
-class NotificationManager {
-  constructor() {
-    this.isSupported = 'serviceWorker' in navigator;
-  }
+// Animaciones en scroll
+function initializeAnimations() {
+  const observerOptions = {
+    threshold: 0.1,
+    rootMargin: '0px 0px -50px 0px'
+  };
   
-  async requestPermission() {
-    const permission = await Notification.requestPermission();
-    return permission === 'granted';
-  }
+  const observer = new IntersectionObserver(function(entries) {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        entry.target.classList.add('animate-in');
+      }
+    });
+  }, observerOptions);
+  
+  document.querySelectorAll('.feature-card').forEach(card => {
+    observer.observe(card);
+  });
 }
 ```
 
-**Gherkin - Casos de Prueba para GeoPS**
+**Gherkin - Casos de Prueba para Landing Page**
 
 Aplicamos las siguientes convenciones para los escenarios de prueba:
 
 ```gherkin
-#------- Escenario de búsqueda por proximidad -------
-Scenario: Usuario busca promociones cercanas
-  Given que el usuario está en la página principal de GeoPS
-  And ha habilitado la geolocalización
-  When presiona el botón "Buscar cerca de mí"
-  Then debería ver una lista de promociones ordenadas por distancia
-  And debería ver un mapa con marcadores de ubicación
+#------- Escenario de navegación en landing page -------
+Scenario: Usuario navega por las secciones de la landing page
+  Given que el usuario está en la landing page de GeoPS
+  When hace clic en el enlace "Nosotros" del menú de navegación
+  Then debería desplazarse suavemente a la sección "Quiénes Somos"
+  And debería ver la información sobre PanPun Source
+  And el enlace "Nosotros" debería estar resaltado en el menú
 
-#------- Escenario de gestión de campañas -------
-Scenario: PyME crea una nueva campaña publicitaria
-  Given que el comerciante está autenticado en el panel de GeoPS
-  And está en la sección "Crear Campaña"
-  When completa los datos de la promoción:
-    | campo          | valor                    |
-    | título         | Descuento 20% en cafés  |
-    | radio          | 500 metros              |
-    | duración       | 7 días                  |
-  And presiona "Publicar Campaña"
-  Then debería ver la campaña en estado "Activa"
-  And debería recibir una confirmación por email
+#------- Escenario de formulario de contacto -------
+Scenario: Usuario envía formulario de contacto
+  Given que el usuario está en la sección de contacto
+  When completa el formulario con los siguientes datos:
+    | campo   | valor                    |
+    | nombre  | Juan Pérez              |
+    | email   | juan@email.com          |
+    | mensaje | Estoy interesado en GeoPS |
+  And hace clic en "Enviar mensaje"
+  Then debería ver un mensaje de confirmación
+  And debería recibir un email de confirmación
+
+#------- Escenario de diseño responsivo -------
+Scenario: Landing page se adapta a dispositivos móviles
+  Given que el usuario accede desde un dispositivo móvil
+  When carga la landing page de GeoPS
+  Then debería ver el menú de navegación como hamburger menu
+  And las tarjetas de características deberían apilarse verticalmente
+  And todos los elementos deberían ser legibles y accesibles
 ```
 
 #### 5.1.4. Software Deployment Configuration
@@ -436,9 +572,9 @@ Para el despliegue de la plataforma GeoPS, utilizamos las siguientes configuraci
 + **CI/CD:** Integración automática con GitHub para deployment continuo
 
 **Web Application:**
-+ **Frontend:** Vercel para aplicación React/Vue.js
++ **Frontend:** Vercel para aplicación Angular
 + **Backend:** Railway/Heroku para servicios Node.js
-+ **Base de Datos:** MongoDB Atlas para almacenamiento de datos de usuarios y campañas
++ **Base de Datos:** MySQL para almacenamiento de datos de usuarios y campañas
 + **CDN:** Cloudflare para optimización de carga global
 
 **APIs Externas:**
@@ -774,5 +910,29 @@ Durante el Sprint 1, el equipo utilizó diversas herramientas de colaboración p
 5. El diseño responsivo requirió más iteraciones para lograr una experiencia óptima en móviles
 
 ## Conclusiones
-## Anexos
+
+El desarrollo del Sprint 1 del proyecto GeoPS ha representado un hito fundamental en la materialización de nuestra visión de conectar PyMEs con consumidores a través de una plataforma digital innovadora. A lo largo de este primer sprint, nuestro equipo de cinco integrantes ha demostrado una capacidad excepcional de colaboración, complementando habilidades técnicas diversas para crear una landing page funcional y atractiva que sirve como carta de presentación de nuestra propuesta de valor.
+
+La implementación exitosa de la landing page, desplegada en GitHub Pages, evidencia no solo nuestras competencias técnicas en HTML5, CSS3 y JavaScript, sino también nuestra capacidad para gestionar proyectos de manera eficiente utilizando metodologías ágiles y herramientas colaborativas como GitHub, Trello y Discord. La distribución equitativa de responsabilidades entre los miembros del equipo, desde la planificación estratégica hasta la implementación técnica y el diseño de experiencia de usuario, ha permitido alcanzar los objetivos establecidos dentro de los plazos programados.
+
+El enfoque en una landing page informativa, centrada en comunicar claramente los beneficios de GeoPS para ambos segmentos de usuarios (consumidores y PyMEs), ha sentado las bases sólidas para los siguientes sprints donde se desarrollará la funcionalidad completa de la plataforma. La decisión de priorizar la experiencia de usuario y la comunicación efectiva sobre la funcionalidad técnica avanzada en esta primera iteración ha demostrado ser acertada, permitiendo validar conceptos fundamentales antes de invertir en desarrollos más complejos.
+
+Los resultados obtenidos refuerzan nuestra confianza en el potencial de GeoPS para revolucionar la forma en que las pequeñas y medianas empresas se conectan con sus clientes locales, aprovechando las tendencias actuales de digitalización y geolocalización. El Sprint 1 ha establecido un precedente sólido para la continuidad del proyecto, demostrando que nuestro equipo posee las habilidades, la dedicación y la visión necesarias para llevar GeoPS desde el concepto hasta una solución tecnológica impactante en el mercado peruano.
+
 ## Bibliografía
+
+Banco Interamericano de Desarrollo (BID). (2020). *La digitalización de las pymes en América Latina y el Caribe*. BID. https://publications.iadb.org
+
+Kemp, S. (2023). *Digital 2023: Peru*. DataReportal. https://datareportal.com/reports/digital-2023-peru
+
+Loza, J. (2024, marzo 15). Peruanos pasan más de cinco horas diarias conectados a internet. *La República*. https://larepublica.pe
+
+Nielsen. (2021). *Trust in Advertising 2021: Global Report*. Nielsen. https://www.nielsen.com
+
+Organisation for Economic Co-operation and Development (OECD). (2020). *SME Policy Index: Latin America and the Caribbean 2019*. OECD Publishing. https://doi.org/10.1787/25203303
+
+Think with Google. (2019). *How mobile search connects consumers to stores*. Google Insights. https://www.thinkwithgoogle.com
+
+World Bank. (2019). *World Development Report 2019: The Changing Nature of Work*. World Bank. https://doi.org/10.1596/978-1-4648-1328-3
+
+## Anexos

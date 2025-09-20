@@ -189,9 +189,31 @@ URL del Repositoria del Project Report:
 | Oportunidades                                          | Crecimiento del comercio local. Aumento de la preferencia por negocios de barrio. Expansión del marketing de proximidad. Los negocios buscan publicidad más dirigida. | Expansión de servicios. Podrían incluir nuevas categorías. Mayor integración. Posibilidad de ofrecer ofertas más personalizadas por ubicación. | Alertas personalizadas. Notificar a usuarios sobre ofertas de tiendas favoritas. Mayor interacción. Crear listas de compras desde los folletos. | Expansión geográfica. Oportunidad de entrar con fuerza en nuevos mercados. Integración con billeteras digitales. Facilitar el uso de los descuentos. |
 | Amenazas                                               | Competencia de apps nativas. Pueden ofrecer una integración más profunda. Monopolio de gigantes. Google Maps es una fuerte competencia indirecta. | Nuevas startups. El surgimiento de apps locales más ágiles. Fatiga del usuario. El modelo de cupones puede volverse predecible. | Competencia de Google Ads. Los minoristas pueden optar por publicidad más efectiva. Obsolescencia. Los usuarios jóvenes pueden considerar los folletos digitales obsoletos. | Competencia de tiendas. Los minoristas desarrollan sus propias apps de lealtad. Fatiga de cupones. Los usuarios se cansan de buscar descuentos y prefieren precios directos. |
 
-
-
   #### 2.1.1. Analisis competitivo
+
+**1. Estrategias para Mitigar Debilidades Propias**
+Frente a la dependencia del navegador y la privacidad: La principal debilidad de GeoPS es la necesidad de que el usuario dé su permiso de ubicación. Para mitigar esta fricción, la plataforma debe ser transparente y construir confianza.
+
+**Táctica:** Ofrece la opción de explorar la plataforma sin compartir la ubicación de inmediato, permitiendo al usuario buscar ofertas manualmente por distritos o categorías antes de que se sientan cómodos compartiendo su ubicación.
+
+**2. Estrategias para Aprovechar Oportunidades**
+Frente al crecimiento del comercio local y el marketing de proximidad: Este es el momento ideal para que GeoPS se posicione como el líder del marketing de proximidad en el mercado peruano.
+
+**Táctica:** Organizar webinars y talleres gratuitos dirigidos a dueños de PyMEs para educarlos sobre el marketing de proximidad y cómo pueden usar la plataforma para crecer.
+
+**Táctica:** Crear un programa de referidos para que los negocios existentes reciban descuentos al invitar a otros a unirse a la plataforma, expandiendo la red de forma orgánica.
+
+**3. Estrategias para Afrontar Amenazas**
+Frente a la posible saturación y el surgimiento de nuevas apps: El riesgo de que el mercado se sature con ofertas irrelevantes es alto. GeoPS debe enfocarse en la calidad sobre la cantidad.
+
+**Táctica:** Establecer criterios estrictos para los negocios que deseen unirse a la plataforma. Priorizar la calidad de las ofertas y la reputación de los negocios para mantener la confianza de los usuarios.
+
+**Táctica:** Ofrecer herramientas de segmentación avanzadas para que los negocios publiquen ofertas ultra-específicas, evitando el "ruido" publicitario para el usuario final.
+
+Frente a la preferencia por las apps nativas: Aunque GeoPS es web, puede ofrecer una experiencia muy similar a una app.
+
+**Táctica:** Destacar las ventajas de no tener que descargar ni actualizar la aplicación. Usar mensajes como "Accede a ofertas al instante, sin descargas, sin ocupar memoria". Esto posiciona la plataforma como una solución ágil y moderna.
+
   #### 2.1.2. Estrategias y tácticas frente a competidores 
 ### 2.2. Entrevistas
   #### 2.2.1. Diseño de entrevistas

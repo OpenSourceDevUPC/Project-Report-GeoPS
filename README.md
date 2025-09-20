@@ -306,14 +306,84 @@ A partir de de las entrevistas a tres jóvenes consumidores de ofertas, podemos 
 
 ### 2.3. Needfinding
   #### 2.3.1. User Personas
+  
+*Segmento 1: Dueños de negocios de diferentes rubros*
+
+<p align="center"><img src="images for chapter ii/userpersona_segmento1.png" alt="PI5" width="1000"></p>
+
+*Segmento 2: Consumidores de ofertas de diferentes ámbitos*
+
+<p align="center"><img src="images for chapter ii/userpersona_segmento2.png" alt="PI5" width="1000"></p>
+  
   #### 2.3.2  User Task Matrix
+  
+  *Segmento 1: Dueños de negocios de diferentes rubros*
+
+  | Task                                                                  | Frecuencia | Importancia |
+|-----------------------------------------------------------------------|------------|-------------|
+| Promocionar productos y servicios en redes sociales                   | Alto       | Alto        |
+| Responder a consultas de clientes por diversos canales                | Alto       | Alto        |
+| Crear y publicar ofertas especiales o promociones                     | Medio      | Alto        |
+| Actualizar el inventario de productos y sus precios                   | Medio      | Medio       |
+| Buscar nuevas ideas de marketing o tendencias digitales               | Bajo       | Medio       |
+| Registrar y dar seguimiento a nuevos clientes                         | Alto       | Alto        |
+| Analizar qué tipo de promoción genera más ventas                      | Bajo       | Medio       |
+| Interactuar con comentarios o mensajes de clientes en sus publicaciones | Medio      | Alto        |
+
+  *Segmento 2: Consumidores de ofertas de diferentes ámbitos*
+
+  | Task                                                                 | Frecuencia | Importancia |
+|----------------------------------------------------------------------|------------|-------------|
+| Buscar activamente ofertas para productos o servicios específicos    | Alto       | Alto        |
+| Validar la credibilidad de una oferta (reputación, comentarios)       | Alto       | Alto        |
+| Comparar precios y promociones entre diferentes tiendas o apps        | Alto       | Alto        |
+| Leer reseñas y opiniones de otros usuarios                            | Medio      | Alto        |
+| Planificar gastos personales y asignar un presupuesto para ocio       | Alto       | Alto        |
+| Revisar notificaciones de ofertas que le interesan                    | Alto       | Alto        |
+| Compartir ofertas encontradas con amigos o familiares                 | Bajo       | Bajo        |
+| Guardar ofertas para usarlas en el futuro                             | Medio      | Medio       |
+  
   #### 2.3.3. User Journey Mapping
+
+*Segmento 1: Dueños de negocios de diferentes rubros*
+
+<p align="center"><img src="images for chapter ii/journeymap_segmento1.png" alt="PI5" width="1000"></p>
+
+*Segmento 2: Consumidores de ofertas de diferentes ámbitos*
+
+<p align="center"><img src="images for chapter ii/journeymap_segmento2.png" alt="PI5" width="1000"></p>
+  
   #### 2.3.4. Empathy Mapping
-  #### 2.3.5. As-is Scenario Mapping
-### 2.4. Ubiquitous Language   
+
+  *Segmento 1: Dueños de negocios de diferentes rubros*
+
+<p align="center"><img src="images for chapter ii/empathymap_segmento1.png" alt="PI5" width="1000"></p>
+
+*Segmento 2: Consumidores de ofertas de diferentes ámbitos*
+
+<p align="center"><img src="images for chapter ii/empathymap_segmento2.png" alt="PI5" width="1000"></p>
+
+### 2.4. Big Picture Event Storming
+
+<p align="center"><img src="images for chapter ii/bigpictureeventstorming.png" alt="PI5" width="1000"></p>
+
+### 2.5. Ubiquitous Language   
+
+* **Oferta:** Una promoción, descuento o paquete especial que un negocio publica con el objetivo de atraer a nuevos clientes o fidelizar a los existentes.
+
+* **Dueño de Negocio:** La persona encargada de un negocio local que busca herramientas y estrategias para promocionar sus productos o servicios.
+
+* **Consumidor:** Un usuario que busca activamente promociones y descuentos, con la meta de ahorrar dinero o encontrar productos de su interés.
+
+* **Conversión:** El momento en que un consumidor completa una acción deseada, como canjear una oferta, realizar una compra o contactar a un negocio.
+
+* **Credibilidad:** El nivel de confianza que una oferta o un negocio genera en el consumidor, influenciado por la reputación y la transparencia de la información.
+
+* **Canje:** El proceso en el que un consumidor valida y utiliza una oferta para obtener el beneficio prometido por el negocio.
+
+* **Fidelización:** Las estrategias que un negocio implementa para retener a sus clientes y fomentar que repitan sus compras a largo plazo.
 
 ## Capitulo 3: Requirements Specification 
-### 3.1. To-Be Scenario Mapping
 ### 3.2. User Stories
 ### 3.3. Impact Mapping
 ### 3.4. Product Backlog

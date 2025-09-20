@@ -174,6 +174,7 @@ URL del Repositoria del Project Report:
 
 ## Capitulo 2: Requirements Elicitation & Analysis
 ### 2.1. Competidores
+  #### 2.1.1. Analisis competitivo
 
 | Competitive Analysis Landscape | Su startup <p align="center"><img src="images for chapter ii/logo_geops.png" alt="PI5" width="1000"></p>  GeoPs | Competidor 1 <p align="center"><img src="images for chapter ii/logo_groupon.jpeg" alt="PI5" width="1000"></p> Groupon | Competidor 2 <p align="center"><img src="images for chapter ii/logo_tiendeo.png" alt="PI5" width="1000"></p> Tiendeo | Competidor 3 <p align="center"><img src="images for chapter ii/logo_retailmenot.png" alt="PI5" width="1000"></p> RetailMeNot |
 |--------------------------------|------------------|----------------------|----------------------|--------------------------|
@@ -189,7 +190,7 @@ URL del Repositoria del Project Report:
 | Oportunidades                                          | Crecimiento del comercio local. Aumento de la preferencia por negocios de barrio. Expansión del marketing de proximidad. Los negocios buscan publicidad más dirigida. | Expansión de servicios. Podrían incluir nuevas categorías. Mayor integración. Posibilidad de ofrecer ofertas más personalizadas por ubicación. | Alertas personalizadas. Notificar a usuarios sobre ofertas de tiendas favoritas. Mayor interacción. Crear listas de compras desde los folletos. | Expansión geográfica. Oportunidad de entrar con fuerza en nuevos mercados. Integración con billeteras digitales. Facilitar el uso de los descuentos. |
 | Amenazas                                               | Competencia de apps nativas. Pueden ofrecer una integración más profunda. Monopolio de gigantes. Google Maps es una fuerte competencia indirecta. | Nuevas startups. El surgimiento de apps locales más ágiles. Fatiga del usuario. El modelo de cupones puede volverse predecible. | Competencia de Google Ads. Los minoristas pueden optar por publicidad más efectiva. Obsolescencia. Los usuarios jóvenes pueden considerar los folletos digitales obsoletos. | Competencia de tiendas. Los minoristas desarrollan sus propias apps de lealtad. Fatiga de cupones. Los usuarios se cansan de buscar descuentos y prefieren precios directos. |
 
-  #### 2.1.1. Analisis competitivo
+  #### 2.1.2. Estrategias y tácticas frente a competidores 
 
 **1. Estrategias para Mitigar Debilidades Propias**
 Frente a la dependencia del navegador y la privacidad: La principal debilidad de GeoPS es la necesidad de que el usuario dé su permiso de ubicación. Para mitigar esta fricción, la plataforma debe ser transparente y construir confianza.
@@ -214,10 +215,67 @@ Frente a la preferencia por las apps nativas: Aunque GeoPS es web, puede ofrecer
 
 **Táctica:** Destacar las ventajas de no tener que descargar ni actualizar la aplicación. Usar mensajes como "Accede a ofertas al instante, sin descargas, sin ocupar memoria". Esto posiciona la plataforma como una solución ágil y moderna.
 
-  #### 2.1.2. Estrategias y tácticas frente a competidores 
 ### 2.2. Entrevistas
   #### 2.2.1. Diseño de entrevistas
+
+**Segmento 1: Dueños de negocios de diferentes rubros**
+
+**Características demográficas:**
+* ¿Cuál es tu edad?
+* ¿De qué rubro es tu negocio?
+* ¿Dónde se encuentra ubicado tu local principal?
+  
+**Preguntas principales:**
+* ¿Cuál consideras que es el mayor reto para atraer nuevos clientes hoy en día?
+* ¿Qué estrategias de promoción has usado antes? ¿Cuáles funcionaron y cuáles no?
+* ¿Qué tan efectivas son para ti las redes sociales como canal publicitario?
+* ¿Qué temores o barreras tienes al invertir en nuevas formas de publicidad?
+* ¿Cómo mides actualmente si tu publicidad está funcionando?
+* ¿Qué papel juegan las ofertas y descuentos en tu estrategia de ventas?
+  
+**Preguntas sobre el proyecto:**
+  
+* Si existiera una plataforma que conecte tu negocio con clientes cercanos, ¿qué funcionalidades te gustaría que tuviera?
+* ¿Qué tipo de clientes te interesa atraer más (nuevos, frecuentes, turistas, vecinos)?
+* ¿Qué tan dispuesto estarías a pagar por una herramienta digital que realmente te acerque a clientes locales?
+* Si pudieras diseñar la aplicación perfecta para promocionar tu negocio, ¿qué funciones no podrían faltar?
+
+**Segmento 2: Consumidores de ofertas de diferentes ámbitos**
+
+**Características demográficas:**
+
+* ¿Cuál es tu edad?
+* ¿En qué distrito/ciudad vives?
+* ¿Con qué frecuencia sueles buscar o aprovechar ofertas?
+* ¿Qué tan familiarizado estás con el uso de plataformas digitales?
+  
+**Preguntas principales:**
+  
+* Cuéntame de la última vez que buscaste ofertas locales. ¿Cómo fue la experiencia?
+* ¿Qué aspectos te resultan más molestos o poco prácticos en la forma en que te enteras de promociones hoy?
+* ¿Qué tipo de publicidad sueles ignorar o rechazar? ¿Por qué?
+* ¿Qué tan importante es para ti la facilidad y rapidez al encontrar una oferta?
+* ¿Usas herramientas como Google Maps o redes sociales para decidir si visitar un local? ¿Por qué sí o por qué no?
+* ¿Qué factores te hacen confiar o desconfiar de una promoción?
+  
+**Preguntas sobre el proyecto:**
+
+* ¿Qué te gustaría que fuera diferente en la forma de recibir promociones cerca de ti?
+* ¿Qué preocupaciones tendrías al compartir tu ubicación o datos personales en una app de este tipo? ¿Qué te daría seguridad?
+* ¿Cómo sería para ti la experiencia ideal al descubrir ofertas en tu zona?
+
   #### 2.2.2. Registro de entrevistas
+
+  ## Segmento 1: Dueños de negocios de diferentes rubros
+
+
+| Número de registro | Datos del entrevistado | Captura |
+|--------------------|-------------------------|---------|
+| **1** | **Nombre:** Mirta <br> **Edad:** 57 años <br> **Distrito:** Jesús María <br> **Duración de la entrevista:** 5 minutos y 54 segundos <br> **Link:** [https://youtu.be/fC130lduBCM](https://youtu.be/fC130lduBCM) <br> **Resumen:** En esta entrevista, Mirta, una comerciante de 57 años, dueña de una piñatería, habla sobre los desafíos de su negocio, especialmente la promoción y la competencia. Menciona que utiliza redes sociales como Instagram y Facebook, pero que la clave para ella es el trato personalizado al cliente y las recomendaciones de boca en boca. Prefiere usar WhatsApp para comunicarse con sus clientes y valora la interacción directa. También expresa su interés en una herramienta digital que la conecte con clientes locales. | <p align="center"><img src="images for chapter ii/entrevista1_segmento1.png" alt="PI5" width="1000"></p> |
+| **2** |
+| **3** |
+
+
   #### 2.2.3. Análisis de entrevistas
 ### 2.3. Needfinding
   #### 2.3.1. User Personas

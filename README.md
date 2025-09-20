@@ -27,7 +27,7 @@
 |-----------------------------------------|----------------|
 | Huapaya Galindo, Dyaron                 | U202322855     |
 | Huarcaya Matias, Gilbert Alonso         | u202322187     |
-|                                         |                |
+| Cotrina Siclla, Sofia Alessandra        | u20231b120     |
 |                                         |                |
 |                                         |                |
 
@@ -268,15 +268,42 @@ Frente a la preferencia por las apps nativas: Aunque GeoPS es web, puede ofrecer
 
   ## Segmento 1: Dueños de negocios de diferentes rubros
 
-
 | Número de registro | Datos del entrevistado | Captura |
 |--------------------|-------------------------|---------|
 | **1** | **Nombre:** Mirta <br> **Edad:** 57 años <br> **Distrito:** Jesús María <br> **Duración de la entrevista:** 5 minutos y 54 segundos <br> **Link:** [https://youtu.be/fC130lduBCM](https://youtu.be/fC130lduBCM) <br> **Resumen:** En esta entrevista, Mirta, una comerciante de 57 años, dueña de una piñatería, habla sobre los desafíos de su negocio, especialmente la promoción y la competencia. Menciona que utiliza redes sociales como Instagram y Facebook, pero que la clave para ella es el trato personalizado al cliente y las recomendaciones de boca en boca. Prefiere usar WhatsApp para comunicarse con sus clientes y valora la interacción directa. También expresa su interés en una herramienta digital que la conecte con clientes locales. | <p align="center"><img src="images for chapter ii/entrevista1_segmento1.png" alt="PI5" width="1000"></p> |
-| **2** |
-| **3** |
+| **2** | **Nombre:** Kelly <br> **Edad:** 21 años <br> **Distrito:** Jesús María <br> **Duración de la entrevista:** 3 minutos y 8 segundos <br> **Link:** [https://youtu.be/k7YhV_pqApc](https://youtu.be/k7YhV_pqApc) <br> **Resumen:** En esta entrevista, Kelly, la dueña de una tienda de mascotas, de 21 años, comparte sus ideas sobre el marketing digital. Destaca que el mayor desafío es el uso de las redes sociales para atraer clientes, y que las ofertas como "compra uno y lleva uno gratis" han sido muy efectivas. También menciona que se están enfocando en TikTok para transmisiones en vivo, lo cual ha aumentado sus ventas y seguidores. Explica que miden el éxito de su publicidad directamente a través de las ventas y que buscan clientes recurrentes. Finalmente, describe una aplicación ideal que le gustaría para su negocio, con funciones para ver productos, ofertas y realizar compras desde casa. | <p align="center"><img src="images for chapter ii/entrevista2_segmento1.png" alt="PI5" width="1000"></p> |
+| **3** | **Nombre:** Cesar <br> **Edad:** 50 años <br> **Distrito:** Miraflores <br> **Duración de la entrevista:** 3 minutos y 34 segundos <br> **Link:** [https://youtu.be/VHkTCRW2Igc](https://youtu.be/VHkTCRW2Igc) <br> **Resumen:** En este video, se entrevista al dueño de un negocio de comida. Habla sobre la efectividad del "boca a boca" y el uso de WhatsApp para las ventas. Mide el éxito de su promoción directamente a través de las ventas generadas por WhatsApp. Expresa interés en una plataforma digital para negocios locales que le permita mostrar sus platos con fotos y videos, y que le ayude a atraer clientes, especialmente turistas, ya que considera que tienen mayor poder adquisitivo. Además, está dispuesto a pagar por una aplicación si esta le garantiza la captación de clientes locales de manera efectiva. | <p align="center"><img src="images for chapter ii/entrevista3_segmento1.png" alt="PI5" width="1000"></p> |
 
+  ## Segmento 2: Consumidores de ofertas de diferentes ámbitos
+
+| Número de registro | Datos del entrevistado | Captura |
+|--------------------|-------------------------|---------|
+| **1** | **Nombre:** Andrés Torres <br> **Edad:** 19 años <br> **Distrito:** San Miguel <br> **Duración de la entrevista:** 3 minutos y 29 segundos <br> **Link:** [https://youtu.be/lss8fRI5_3g](https://youtu.be/lss8fRI5_3g) <br> **Resumen:** En este video, se entrevista a Andrés Torres, un joven de 19 años del distrito de San Miguel. Habla sobre cómo busca ofertas para el cine usando aplicaciones como Yape. Le molesta la publicidad intrusiva en la calle y en aplicaciones que no le interesa. Su confianza en las promociones depende de la reputación de la empresa, aunque también consideraría ofertas de empresas menos conocidas si tienen buena presentación. Andrés sugiere que las promociones deberían adaptarse a los intereses de los usuarios y que las aplicaciones deberían solicitar datos básicos a los creadores de los proyectos para generar mayor seguridad. | <p align="center"><img src="images for chapter ii/entrevista1_segmento2.png" alt="PI5" width="1000"></p> |
+| **2** | **Nombre:** Ángel José <br> **Edad:** 22 años <br> **Distrito:** Cercado de Lima <br> **Duración de la entrevista:** 4 minutos y 47 segundos <br> **Link:** [https://youtu.be/s_zL-OGBqJE](https://youtu.be/s_zL-OGBqJE) <br> **Resumen:** En este video, Ángel José, de 22 años, del Cercado de Lima, comparte su experiencia buscando ofertas. Explica que usa plataformas como Yape, Instagram y Facebook. Le molesta tener que buscar manualmente y a menudo pide recomendaciones a conocidos. Desconfía de los descuentos muy altos que podrían ser estafas o productos falsos. Su experiencia ideal sería recibir notificaciones de ofertas que le interesen, que sean de locales conocidos y fáciles de canjear. Además, se sentiría seguro compartiendo sus datos si la empresa es profesional y cifra la información. | <p align="center"><img src="images for chapter ii/entrevista2_segmento2.png" alt="PI5" width="1000"></p> |
+| **3** | **Nombre:** Elian <br> **Edad:** 25 años <br> **Distrito:** San Martín de Porres <br> **Duración de la entrevista:** 5 minutos y 10 segundos <br> **Link:** [https://youtu.be/h1kiEyQ9aIY](https://youtu.be/h1kiEyQ9aIY) <br> **Resumen:** En esta entrevista, Elian, de 25 años, del distrito de San Martín de Porres, habla sobre su experiencia con la búsqueda de ofertas en línea. Menciona que las páginas web no son fáciles de usar y le molesta la publicidad de ofertas que ya no están vigentes. Su principal interés es encontrar ofertas de manera rápida y fácil. Desconfía de las promociones "demasiado buenas para ser verdad" y sugiere que las plataformas deberían personalizar las ofertas según su historial de compras. No le preocupa compartir sus datos o ubicación, ya que es algo común en aplicaciones de entrega. Su experiencia ideal sería encontrar ofertas buenas y cercanas a su ubicación. | <p align="center"><img src="images for chapter ii/entrevista3_segmento2.png" alt="PI5" width="1000"></p> |
 
   #### 2.2.3. Análisis de entrevistas
+
+*Segmento 1: Dueños de negocios de diferentes rubros*
+
+A partir de las entrevistas a tres dueños de negocios, de edades y rubros variados, podemos extraer las siguientes conclusiones:
+
+**a) La tecnología es una herramienta de apoyo, no un reemplazo de las estrategias tradicionales.** El 100% de los entrevistados (Mirta, Kelly y Cesar) enfatiza la importancia del contacto personal y el "boca a boca". Aunque todos usan plataformas digitales (WhatsApp, Facebook, Instagram, TikTok), lo hacen para complementar sus métodos tradicionales, como el trato personalizado o la venta directa. Esto demuestra que valoran la conexión humana tanto o más que las herramientas digitales.
+
+**b) Existe una clara y urgente necesidad de una plataforma digital centralizada y adaptada a negocios locales.** El 100% de los entrevistados expresa su interés en una herramienta digital que resuelva problemas específicos. Mirta busca una que la conecte con clientes locales, Kelly describe una app ideal para mostrar productos y gestionar ventas, y Cesar menciona que pagaría por una solución que le garantice la captación de clientes de su zona. Esto evidencia que los dueños de negocios están buscando una solución que vaya más allá de las redes sociales genéricas, y que les ofrezca funcionalidades específicas para su tipo de negocio.
+
+**c) El éxito del marketing digital se mide directamente en ventas, no en interacciones superficiales.** El 100% de los entrevistados evalúa la efectividad de sus esfuerzos de promoción en función de los resultados tangibles. Kelly y Cesar mencionan explícitamente que miden su éxito a través de las ventas generadas por WhatsApp, y Mirta se enfoca en que sus acciones de marketing se traduzcan en nuevas recomendaciones. Esto indica que para este segmento, el objetivo principal de cualquier herramienta digital es el crecimiento de los ingresos.
+
+*Segmento 2: Consumidores de ofertas de diferentes ámbitos*
+
+A partir de de las entrevistas a tres jóvenes consumidores de ofertas, podemos extraer las siguientes conclusiones:
+
+**a) Existe una desconfianza generalizada hacia la publicidad intrusiva y las ofertas poco realistas.** Un 100% de los entrevistados (Andrés, Ángel y Elian) manifiesta su rechazo a las estrategias de marketing que no son de su interés. Andrés detesta la publicidad en la calle, Ángel desconfía de los descuentos "muy llamativos" que parecen estafas, y a Elian le molesta la publicidad de ofertas ya caducadas. Esto demuestra que este segmento prefiere la proactividad de buscar sus propias ofertas en plataformas que confían en vez de ser interrumpidos por información irrelevante o sospechosa.
+
+**b) La conveniencia, la relevancia y la personalización son elementos clave para la adopción de plataformas de ofertas.** El 100% de los entrevistados valora la facilidad de uso y la personalización. Andrés sugiere que las promociones se adapten a sus intereses, mientras que Elian desearía ofertas personalizadas basadas en su historial de compras, similar a TikTok. Ángel, por su parte, busca recibir notificaciones de ofertas que le interesen sin tener que buscar manualmente. Para este segmento, una experiencia ideal no implica buscar constantemente, sino que las ofertas adecuadas "lleguen a ellos" de manera organizada y relevante.
+
+**c) La seguridad y la transparencia son esenciales para generar confianza.** Dos de los tres entrevistados (Andrés y Ángel) mencionan la importancia de la confianza. Andrés afirma que la reputación de la empresa es crucial y sugiere que las aplicaciones deberían solicitar datos a los creadores para generar seguridad. Ángel se sentiría seguro compartiendo sus datos si la empresa es profesional y cifra la información. Por otro lado, Elian, que no tiene preocupaciones sobre compartir datos en aplicaciones de entrega, muestra que la confianza se puede construir si la plataforma es conocida y tiene un historial de uso común, como un app de delivery. Esto demuestra que este segmento tiene un nivel de conciencia sobre la seguridad de sus datos y que la transparencia es fundamental para que se sientan cómodos usando una plataforma de ofertas.
+
 ### 2.3. Needfinding
   #### 2.3.1. User Personas
   #### 2.3.2  User Task Matrix

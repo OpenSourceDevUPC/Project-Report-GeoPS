@@ -165,7 +165,6 @@ URL del Repositoria del Project Report:
   
   **GeoPS Labs** es una startup enfocada en el desarrollo de soluciones tecnológicas que conectan comercios locales con usuarios mediante publicidad **hiperlocalizada** basada en análisis de **geolocalización inteligente**. A través de una **plataforma web accesible** desde cualquier navegador, los usuarios pueden visualizar ofertas en tiempo real, mientras que los comercios acceden a un **panel de gestión de campañas** con herramientas de marketing basadas en proximidad y perfil de   movimiento. Esto permite aumentar la conversión de sus estrategias publicitarias con un menor costo y mayor control de resultados. **GeoPS Labs** apuesta por combinar **tecnología, datos y experiencia de usuario** para generar beneficios reales, priorizando siempre la **privacidad** y la **relevancia** en la entrega de contenidos.
   
-  ---
   
   #### Misión
   Conectar personas y comercios de manera inteligente y relevante, mejorando la experiencia de compra diaria mediante tecnología web de geolocalización respetuosa y personalizada.
@@ -267,7 +266,14 @@ Con un **diseño responsive** que se adapta a cualquier dispositivo, **GeoPS Lab
   ##### 1.2.1.7. How much
   El impacto económico y social de la problemática es considerable. Para las PyMEs, representa pérdidas al no captar clientes cercanos ni medir el retorno de inversión en publicidad. El BID (2020) estima que la digitalización puede aumentar en más de 30% las ventas de pequeñas empresas que adoptan herramientas tecnológicas. Para los consumidores, implica ahorro de tiempo y dinero al acceder a ofertas relevantes en el momento oportuno. GeoPS Web busca capturar ese valor mediante un modelo accesible y medible desde el navegador.
 
+<div align="center">
+  <img src="./assets/chapter-i/how much.png" alt="How much — KPI Chart" width="700">
+  <p><em>Figura: How much — KPIs objetivo</em></p>
+</div>
+
+  
 ---
+
   #### 1.2.2. Lean UX Process
   
   ##### 1.2.2.1. Lean UX Problem Statements

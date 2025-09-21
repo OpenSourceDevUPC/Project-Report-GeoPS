@@ -13,7 +13,7 @@
 
 **Profesor:** Mori Paiva, Hugo Allan
 
-----
+---
 
 ## Informe de Trabajo Final
 
@@ -23,21 +23,23 @@
 
 #### Relación de integrantes
 
-| Integrante                              | Código         |
-|-----------------------------------------|----------------|
-| Huapaya Galindo, Dyron                 | U202322855     |
-| Huarcaya Matias, Gilbert Alonso         | u202322187     |
-|                                         |                |
-|                                         |                |
-|                                         |                |
-
+| Integrante                      | Código     |
+| ------------------------------- | ---------- |
+| Huapaya Galindo, Dyron          | U202322855 |
+| Huarcaya Matias, Gilbert Alonso | u202322187 |
+|                                 |            |
+|                                 |            |
+|                                 |            |
 
 <br><div align="center"><h3>Agosto 2025</h3></div><br>
+
 </div>
 <br><br>
 
 ---
+
 ### Registro de Versiones
+
 <div align="justify">
   
 |**Versión**|**Fecha**|**Autor**|**Descripción de modificación**|
@@ -48,19 +50,21 @@
 
 # Project Report Collaboration Insights
 
-URL de Organización de GitHub DevWebUPC: 
+URL de Organización de GitHub DevWebUPC:
 [https://github.com/OpenSourceDevUPC](https://github.com/OpenSourceDevUPC)
 
 URL del Repositoria del Project Report:
 [https://github.com/OpenSourceDevUPC/Project-Report-GeoPS](https://github.com/OpenSourceDevUPC/Project-Report-GeoPS)
 
-<strong>*Entrega TB1:*</strong>
+<strong>_Entrega TB1:_</strong>
 
 - Desarrollo de Actividades:
 - Evidencias de colaboracion y commits:
 
 ---
+
 # Contenido
+
 - [Project Report Collaboration Insights](#project-report-collaboration-insights)
 - [Contenido](#contenido)
 - [Student Outcome](#student-outcome)
@@ -86,7 +90,7 @@ URL del Repositoria del Project Report:
       - [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
     - [2.3. Needfinding](#23-needfinding)
       - [2.3.1. User Personas](#231-user-personas)
-      - [2.3.2  User Task Matrix](#232--user-task-matrix)
+      - [2.3.2 User Task Matrix](#232--user-task-matrix)
       - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
       - [2.3.4. Empathy Mapping](#234-empathy-mapping)
       - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
@@ -145,10 +149,8 @@ URL del Repositoria del Project Report:
   - [Anexos](#anexos)
   - [Bibliografía](#bibliografía)
 
-
-
-
 # Student Outcome
+
  <div aligh="justify">
    
    |Criterio Específico|Acciones Realizadas|Conclusiones|
@@ -157,48 +159,81 @@ URL del Repositoria del Project Report:
  </div>
 
 ## Capitulo 1: Introducción
+
 ### 1.1. Startup Profile
-  #### 1.1.1. Descripcion del Startup
-  #### 1.1.2. Perfiles de Integrantes del equipo
+
+#### 1.1.1. Descripcion del Startup
+
+#### 1.1.2. Perfiles de Integrantes del equipo
+
 ### 1.2. Solution Profile
-  #### 1.2.1. Antecedentes y problemática
-  #### 1.2.2. Lean UX Process
-  ##### 1.2.2.1. Lean UX Problem Statements
-  ##### 1.2.2.2. Lean UX Assumptions
-  ##### 1.2.2.3. Lean UX Hypothesis Statements
-  ##### 1.2.2.4. Lean UX Canvas
+
+#### 1.2.1. Antecedentes y problemática
+
+#### 1.2.2. Lean UX Process
+
+##### 1.2.2.1. Lean UX Problem Statements
+
+##### 1.2.2.2. Lean UX Assumptions
+
+##### 1.2.2.3. Lean UX Hypothesis Statements
+
+##### 1.2.2.4. Lean UX Canvas
+
 ### 1.3. Segmentos objetivos
 
 ## Capitulo 2: Requirements Elicitation & Analysis
-### 2.1. Competidores
-  #### 2.1.1. Analisis competitivo
-  #### 2.1.2. Estrategias y tácticas frente a competidores 
-### 2.2. Entrevistas
-  #### 2.2.1. Diseño de entrevistas
-  #### 2.2.2. Registro de entrevistas
-  #### 2.2.3. Análisis de entrevistas
-### 2.3. Needfinding
-  #### 2.3.1. User Personas
-  #### 2.3.2  User Task Matrix
-  #### 2.3.3. User Journey Mapping
-  #### 2.3.4. Empathy Mapping
-  #### 2.3.5. As-is Scenario Mapping
-### 2.4. Ubiquitous Language   
 
-## Capitulo 3: Requirements Specification 
+### 2.1. Competidores
+
+#### 2.1.1. Analisis competitivo
+
+#### 2.1.2. Estrategias y tácticas frente a competidores
+
+### 2.2. Entrevistas
+
+#### 2.2.1. Diseño de entrevistas
+
+#### 2.2.2. Registro de entrevistas
+
+#### 2.2.3. Análisis de entrevistas
+
+### 2.3. Needfinding
+
+#### 2.3.1. User Personas
+
+#### 2.3.2 User Task Matrix
+
+#### 2.3.3. User Journey Mapping
+
+#### 2.3.4. Empathy Mapping
+
+#### 2.3.5. As-is Scenario Mapping
+
+### 2.4. Ubiquitous Language
+
+## Capitulo 3: Requirements Specification
+
 ### 3.1. To-Be Scenario Mapping
+
 ### 3.2. User Stories
+
 ### 3.3. Impact Mapping
+
 ### 3.4. Product Backlog
 
 ## Capítulo 4: Product Design
+
 ### 4.1. Style Guidelines
-  #### 4.1.1. General Style Guidelines  
-  **Branding**
-  - El nombre completo de nuestro servicio es “Geo Publicity Service”.
-  - Para el dominio web y la aplicación, así como para ser más memorable, se utilizará el nombre corto GeoPS.
-  - El tagline es “Promociones cerca de ti”, reflejando el servicio principal de promocionar ofertas de diversas tiendas cerca de tu ubicación.
-  - El logo tiene un diseño sencillo, lo que lo hace minimalista y fácil de recordar. Además, el uso del color morado demuestra creatividad e innovación.
+
+#### 4.1.1. General Style Guidelines
+
+**Branding**
+
+- El nombre completo de nuestro servicio es “Geo Publicity Service”.
+- Para el dominio web y la aplicación, así como para ser más memorable, se utilizará el nombre corto GeoPS.
+- El tagline es “Promociones cerca de ti”, reflejando el servicio principal de promocionar ofertas de diversas tiendas cerca de tu ubicación.
+- El logo tiene un diseño sencillo, lo que lo hace minimalista y fácil de recordar. Además, el uso del color morado demuestra creatividad e innovación.
 
 <div align="center"><img src="resources/imgs/capitulo-4/GeoPS-Logo.png" alt="Logo de GeoPS"></div>
 
@@ -210,6 +245,7 @@ Las tipografías seleccionadas son Poppins y Lobster. Lobster fué elegida princ
 
 Lobster: Peso 400, 60 px de tamaño para el logo.
 Poppins:
+
 - Títulos: Peso 600, 35 px de tamaño.
 - Párrafos y texto secundario: Peso 300, 20 px de tamaño.
 - Texto terciario: Peso 400, 16 px de tamaño.
@@ -223,14 +259,14 @@ Utilizaremos la siguiente paleta de colores:
 
 <div align="center"><img src="resources/imgs/capitulo-4/Paleta-Colores.png" alt="Paleta de colores"></div>
 
-|        |        |
-|--------|--------|
-| <img src="resources/imgs/capitulo-4/Amatista.png" alt="Color amatista"> | El color amatista se utiliza principalmente en el menú vertical, el cual necesita resaltar. Este color representa la innovación y modernidad, atrayendo la atención de los usuarios sin tener que ser agresivo.  |
-| <img src="resources/imgs/capitulo-4/Indigo.png" alt="Color indigo">| El color índigo es utilizado para secciones que desean llamar la atención mostrando información importante, todo en un espacio pequeño. El color muestra elegancia, formalidad y confianza al ser un color fuerte. |
-| <img src="resources/imgs/capitulo-4/Blanco.png" alt="Color blanco"> | El color blanco es utilizado en el cuerpo de la página web. El color blanco muestra un área limpia, clara y donde hay espacio visual para mostrar las secciones de nuestra landing page.  |
-| <img src="resources/imgs/capitulo-4/Negro.png" alt="Color negro"> | El color negro es utilizado en botones principales y el footer de nuestra página. El color negro demuestra profesionalismo y un contraste fuerte con los otros colores utilizados, especialmente el color blanco. |
-| <img src="resources/imgs/capitulo-4/Uva.png" alt="Color uva"> | El color uva es utilizado en botones CTA de tamaño mediano y secciones con imágenes. Este color muestra energía, dinamismo y una personalidad fuerte, en comparación a otros botones principales. También ayuda a destacar el texto de los botones.  |
-| <img src="resources/imgs/capitulo-4/Veronica.png" alt="Color veronica"> | El color verónica es utilizado en botones pequeños CTA. Este color muestra juventud y frescura al ser un poco más claro que los otros colores de tono parecido. |
+|                                                                         |                                                                                                                                                                                                                                                     |
+| ----------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="resources/imgs/capitulo-4/Amatista.png" alt="Color amatista"> | El color amatista se utiliza principalmente en el menú vertical, el cual necesita resaltar. Este color representa la innovación y modernidad, atrayendo la atención de los usuarios sin tener que ser agresivo.                                     |
+| <img src="resources/imgs/capitulo-4/Indigo.png" alt="Color indigo">     | El color índigo es utilizado para secciones que desean llamar la atención mostrando información importante, todo en un espacio pequeño. El color muestra elegancia, formalidad y confianza al ser un color fuerte.                                  |
+| <img src="resources/imgs/capitulo-4/Blanco.png" alt="Color blanco">     | El color blanco es utilizado en el cuerpo de la página web. El color blanco muestra un área limpia, clara y donde hay espacio visual para mostrar las secciones de nuestra landing page.                                                            |
+| <img src="resources/imgs/capitulo-4/Negro.png" alt="Color negro">       | El color negro es utilizado en botones principales y el footer de nuestra página. El color negro demuestra profesionalismo y un contraste fuerte con los otros colores utilizados, especialmente el color blanco.                                   |
+| <img src="resources/imgs/capitulo-4/Uva.png" alt="Color uva">           | El color uva es utilizado en botones CTA de tamaño mediano y secciones con imágenes. Este color muestra energía, dinamismo y una personalidad fuerte, en comparación a otros botones principales. También ayuda a destacar el texto de los botones. |
+| <img src="resources/imgs/capitulo-4/Veronica.png" alt="Color veronica"> | El color verónica es utilizado en botones pequeños CTA. Este color muestra juventud y frescura al ser un poco más claro que los otros colores de tono parecido.                                                                                     |
 
 **Spacing**
 
@@ -242,12 +278,14 @@ Utilizaremos la siguiente paleta de colores:
 
 El tono de comunicación de GeoPS será amigable, cercano y orientado al usuario. Buscamos establecer una conexión genuina mediante un lenguaje claro y accesible a todos, sin utilizar demasiados tecnicismos. Resaltaremos los beneficios y la facilidad de uso de nuestra aplicación web, sin abrumar al usuario con tanta información. Queremos que el usuario se sienta valorado y escuchado en cada interacción.
 
-  #### 4.1.2. Web Style Guidelines
+#### 4.1.2. Web Style Guidelines
+
 En esta sección, se describe la guía de nuestra landing page con sus características en el estilo para mantener una coherencia visual.
 
 **Estructura general de la página**:
 
 **Cabecera**:
+
 - Logotipo: El logotipo de nuestra startup está ubicado en la esquina superior izquierda. Cuando haces click, te redirigirá a la página principal.
 - Barra de búsqueda: La barra de búsqueda está ubicada en la parte superior derecha. Servirá para ubicar fácilmente y rápidamente secciones en la página.
 - Menú de navegación: El menú de navegación se ubica en la parte superior izquierda y en la esquina derecha. Es un conjunto de botones que permite la navegación en la página principal. Los botones designados son:
@@ -257,6 +295,7 @@ En esta sección, se describe la guía de nuestra landing page con sus caracter�
   4. Inicia sesión
 
 **Cuerpo**:
+
 - Sección principal: La sección principal es la que va a atraer al usuario. Se muestran promociones conocidas y ofertas.
 - Beneficios: Muestra que nuestra página ofrece beneficios, ofertas y promociones en diversas tiendas.
 - Empresas que confían en nosotros: Muestra las marcas que tienen confianza en nosotros y están dispuestos a promocionar sus productos en nuestra página.
@@ -268,6 +307,7 @@ En esta sección, se describe la guía de nuestra landing page con sus caracter�
 - Conocenos mejor: Muestra los videos que hablan sobre nuestra marca de empresa para conectar con el usuario que ve los videos.
 
 **Pié de página**:
+
 - Copyright: Se incluye la información sobre los derechos de autor de la marca.
 - Enlaces de soporte: Se proporcionan links de soporte y ayuda, tales como “Nosotros”, “Servicios” y “Contacto”.
 - Redes sociales: Se incluyen los iconos de las redes sociales de nuestro emprendimiento para conectar con la audiencia en otras plataformas, las cuales son Instagram y LinkedIn.
@@ -280,70 +320,97 @@ En esta sección, se describe la guía de nuestra landing page con sus caracter�
 <div align="center"><img src="resources/imgs/capitulo-4/landingpage-geops-3.png" alt="Landing Page GeoPS 3"></div>
 
 ### 4.2. Information Architecture
-  #### 4.2.1. Organization Systems 
-  #### 4.2.2. Labeling Systems 
-  #### 4.2.3. SEO Tags and Meta Tags
-  #### 4.2.4. Searching Systems
-  #### 4.2.5. Navigation Systems  
+
+#### 4.2.1. Organization Systems
+
+#### 4.2.2. Labeling Systems
+
+#### 4.2.3. SEO Tags and Meta Tags
+
+#### 4.2.4. Searching Systems
+
+#### 4.2.5. Navigation Systems
+
 ### 4.3. Landing Page UI Design
-  #### 4.3.1. Landing Page Wireframe  
-  #### 4.3.2. Landing Page Mock-up 
+
+#### 4.3.1. Landing Page Wireframe
+
+#### 4.3.2. Landing Page Mock-up
+
 ### 4.4. Web Applications UX/UI Design
 
-  #### 4.4.1. Web Applications Wireframes
+#### 4.4.1. Web Applications Wireframes
+
 **Inicio de Sesión**
+
 <div align="center"><img src="resources/imgs/capitulo-4/loginandregister-geops-wireframe.png" alt="Inicio de Sesión y Registro GeoPS"></div>
 
 **Perfil**
+
 <div align="center"><img src="resources/imgs/capitulo-4/profileclient-geops-wireframe.png" alt="Perfil de Cliente GeoPs"></div>
 <div align="center"><img src="resources/imgs/capitulo-4/editprofileclient-geops-wireframe.png" alt="Editar Perfil de Cliente GeoPs"></div>
 
 **Home**
+
 <div align="center"><img src="resources/imgs/capitulo-4/home-geops-wireframe.png" alt="Página Principal GeoPs"></div>
 
 **Ofertas (Vista de Categorías)**
+
 <div align="center"><img src="resources/imgs/capitulo-4/home-seemore-geops-wireframe.png" alt="Ofertas por Categoría GeoPs"></div>
 
 **Ofertas**
+
 <div align="center"><img src="resources/imgs/capitulo-4/offers-geops-wireframe.png" alt="Listado de Ofertas GeoPs"></div>
 
 **Detalle de Oferta**
+
 <div align="center"><img src="resources/imgs/capitulo-4/seemore-geops-wireframe.png" alt="Detalle de Oferta GeoPs"></div>
 
 **Categorías**
+
 <div align="center"><img src="resources/imgs/capitulo-4/categories-geops-wireframe.png" alt="Vista de Categorias GeoPs"></div>
 
 **Favoritos**
+
 <div align="center"><img src="resources/imgs/capitulo-4/favs-geops-wireframe.png" alt="Favoritos GeoPs"></div>
 
 **Mis Cupones**
+
 <div align="center"><img src="resources/imgs/capitulo-4/coupons-geops-wireframe.png" alt="Mis Cupones GeoPs"></div>
 
 **Notificaciones**
+
 <div align="center"><img src="resources/imgs/capitulo-4/noticlient-geops-wireframe.png" alt="Notificaciones de Cliente GeoPs"></div>
 <div align="center"><img src="resources/imgs/capitulo-4/clientseennoti-geops-wireframe.png" alt="Preferencia de Notificaciones GeoPs"></div>
 <div align="center"><img src="resources/imgs/capitulo-4/noticlear-geops-wireframe.png" alt="Listado de Notificaciones GeoPs"></div>
 
 **Carrito de Compra**
+
 <div align="center"><img src="resources/imgs/capitulo-4/cart-geops-wireframe.png" alt="Carrito de Compras GeoPs"></div>
 
 **Proceso de Pago**
+
 <div align="center"><img src="resources/imgs/capitulo-4/payment-geops-wireframe.png" alt="Proceso de Pago GeoPs"></div>
 
-  #### 4.4.2. Web Applications Wireflow Diagrams  
-  #### 4.4.3. Web Applications Mock-ups  
-  #### 4.4.4. Web Applications User Flow Diagrams  
+#### 4.4.2. Web Applications Wireflow Diagrams
+
+#### 4.4.3. Web Applications Mock-ups
+
+#### 4.4.4. Web Applications User Flow Diagrams
+
 ### 4.5. Web Applications Prototyping.
+
 ### 4.6. Domain-Driven Software Architecture
 
 La arquitectura de software basada en Domain-Driven Design (DDD) se centra en el dominio del negocio, buscando que la aplicación represente de forma fiel los procesos, reglas y necesidades de los usuarios. Con este enfoque, el desarrollo se mantiene alineado con los objetivos estratégicos de la organización y se favorece una comunicación más clara y efectiva entre los equipos técnicos y los expertos del negocio.
 
 Se utilizó el modelo C4 (Contexto, contenedor y componentes), el cual permite visualizar el sistema en diferentes capas.
 
-  #### 4.6.1. Design-Level Event Storming  
-  #### 4.6.2. Software Architecture Context Diagram  
-  
-  <div align="center"><img src="resource/imgs/capitulo-4/GeoPS_System_Context.png"></div>
+#### 4.6.1. Design-Level Event Storming
+
+#### 4.6.2. Software Architecture Context Diagram
+
+  <div align="center"><img src="resources/imgs/capitulo-4/GeoPS_System_Context.png"></div>
   
 El Diagrama de Contexto del sistema de GeoPS muestra una visión de alto nivel de sus componentes y cómo interactúan con usuarios y servicios externos. Este diagrama es útil para comprender la funcionalidad del sistema y sus dependencias.
 
@@ -368,10 +435,10 @@ Para su funcionamiento, GeoPS se apoya en varios servicios externos:
 
 - **Stripe/PayPal** (Procesador de pagos): Maneja los pagos, aportes y suscripciones a planes de la plataforma.
 - **Firebase Cloud Messaging** (Servicio de notificaciones): Permite el envío de notificaciones push para dispositivos móviles y web, habilitando la comunicación en tiempo real.
-  
-  #### 4.6.3. Software Architecture Container Diagrams  
-  
-  <div align="center"><img src="resource/imgs/capitulo-4/GeoPS-Container_Architecture.png"></div>
+
+  #### 4.6.3. Software Architecture Container Diagrams
+
+  <div align="center"><img src="resources/imgs/capitulo-4/GeoPS-Container_Architecture.png"></div>
 
 Los usuarios principales, Consumidor y Propietario de Negocio, acceden al sistema a través de distintas aplicaciones web. Los Consumidores utilizan una Aplicación Web , que les permite explorar ofertas y promociones. Por otro lado, los Propietarios de Negocio acceden a una Aplicación Web, donde gestionan sus campañas publicitarias. Ambas aplicaciones se comunican con el backend a través de un API Gateway.
 
@@ -416,10 +483,11 @@ Para complementar su funcionalidad, GeoPS se integra con diversos servicios exte
 **Firebase Cloud Messaging**: Habilita el envío de notificaciones push a dispositivos móviles y web.
 
 Este diagrama ilustra la arquitectura modular y escalable de GeoPS, mostrando cómo todos sus componentes se comunican para dar soporte a las operaciones principales de la plataforma publicitaria geolocalizada.
-  
-  #### 4.6.4. Software Architecture Components Diagrams
-  - **Servicio de Analytics**
-<div align="center"><img src="resource/imgs/capitulo-4/GeoPS-Analytics_Service_Components.png"></div>
+
+#### 4.6.4. Software Architecture Components Diagrams
+
+- **Servicio de Analytics**
+<div align="center"><img src="resources/imgs/capitulo-4/GeoPS-Analytics_Service_Components.png"></div>
 
 El diagrama muestra la arquitectura de componentes del Servicio de Analítica de GeoPS, detallando cómo se gestionan y procesan los datos para la generación de reportes y métricas. Este servicio es fundamental para que los Propietarios de Negocio puedan medir el rendimiento de sus campañas.
 
@@ -441,10 +509,10 @@ Una vez que los datos o solicitudes ingresan al sistema, son procesados por los 
 **Generador de Reportes**: Se encarga de crear los reportes de rendimiento de las campañas, consultando los datos históricos y las métricas calculadas almacenadas.
 
 **Exportador de Datos**: Permite exportar los datos analíticos en múltiples formatos.
-  
-  - **Servicio de Campañas**
 
-<div align="center"><img src="resource/imgs/capitulo-4/GeoPS-Analytics_Service_Components-Campaign.png"></div>
+- **Servicio de Campañas**
+
+<div align="center"><img src="resources/imgs/capitulo-4/GeoPS-Analytics_Service_Components-Campaign.png"></div>
 
 Este diagrama detalla la arquitectura de los componentes del Servicio de Analítica de GeoPS, mostrando cómo se gestionan, procesan y almacenan los datos de las campañas publicitarias para generar métricas e informes.
 
@@ -467,9 +535,9 @@ Finalmente, el servicio ofrece dos componentes para la salida de la información
 
 **Exportador de Datos**: Permite a los usuarios exportar estos datos en diferentes formatos, como CSV o JSON, para su uso en otras herramientas o análisis externos.
 
-  - **Servicio de Geolocalización**
+- **Servicio de Geolocalización**
 
-<div align="center"><img src="resource/imgs/capitulo-4/GeoPS-Geolocation_Service_Components.png"></div>
+<div align="center"><img src="resources/imgs/capitulo-4/GeoPS-Geolocation_Service_Components.png"></div>
 
 Este diagrama detalla la arquitectura de componentes del Servicio de Geoposicionamiento de GeoPS, mostrando cómo se gestionan las funcionalidades basadas en la ubicación. El servicio permite a la plataforma determinar la proximidad geográfica y filtrar contenido relevante para los usuarios.
 
@@ -491,10 +559,11 @@ El servicio se apoya en los siguientes componentes para procesar la información
 **Base de Datos Principal**: Almacena la información de los negocios, las campañas y las relaciones principales, que el servicio de geolocalización consulta para determinar el contenido relevante.
 
 **Google Maps API**: Es un servicio externo vital que provee las funcionalidades de geolocalización, mapas y cálculo de distancias.
-  
+
 ### 4.7. Software Object-Oriented Design
-  #### 4.7.1. Class Diagrams  
-  
+
+#### 4.7.1. Class Diagrams
+
 El diagrama de clases de GeoPS está organizado siguiendo los principios de Domain-Driven Design (DDD), dividido en diferentes bounded contexts que representan las áreas principales del negocio:
 
 <div align="center"><img src="resources/imgs/capitulo-4/diagrama-de-clases-geops.png" alt="Diagrama de Clases GeoPS"></div>
@@ -507,52 +576,53 @@ El diagrama de clases de GeoPS está organizado siguiendo los principios de Doma
 4. **Interaction BC**: Gestiona las interacciones de los usuarios con las campañas
 5. **Analytics & Tracking BC**: Proporciona métricas y seguimiento de campañas
 
-  #### 4.7.2. Class Dictionary 
+#### 4.7.2. Class Dictionary
 
 **User Management BC**
 
-| **Clase** | **Atributos** | **Descripción** |
-|-----------|---------------|-----------------|
-| **User** | - id: int<br>- email: string<br>- username: string<br>- password: string<br>- profilePicture: string<br>- createdAt: DateTime<br>- lastLoginAt: void | Representa a los usuarios del sistema. Contiene la información básica de autenticación y perfil de cada usuario registrado en la plataforma. |
-| **UserRepository** | - authenticateUser(email: string, password: string): User | Repositorio que maneja la persistencia y recuperación de datos de usuarios. Proporciona métodos para autenticar usuarios en el sistema. |
-| **BusinessOwner** | - businessType: string<br>- businessName: string<br>- businessAddress: string<br>- contactInfo: string | Extiende la clase User para representar específicamente a los propietarios de negocios que publican campañas en la plataforma. |
-| **Consumer** | - preferences: json<br>- location: string | Extiende la clase User para representar a los consumidores que visualizan y interactúan con las campañas publicitarias. |
+| **Clase**          | **Atributos**                                                                                                                                        | **Descripción**                                                                                                                              |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| **User**           | - id: int<br>- email: string<br>- username: string<br>- password: string<br>- profilePicture: string<br>- createdAt: DateTime<br>- lastLoginAt: void | Representa a los usuarios del sistema. Contiene la información básica de autenticación y perfil de cada usuario registrado en la plataforma. |
+| **UserRepository** | - authenticateUser(email: string, password: string): User                                                                                            | Repositorio que maneja la persistencia y recuperación de datos de usuarios. Proporciona métodos para autenticar usuarios en el sistema.      |
+| **BusinessOwner**  | - businessType: string<br>- businessName: string<br>- businessAddress: string<br>- contactInfo: string                                               | Extiende la clase User para representar específicamente a los propietarios de negocios que publican campañas en la plataforma.               |
+| **Consumer**       | - preferences: json<br>- location: string                                                                                                            | Extiende la clase User para representar a los consumidores que visualizan y interactúan con las campañas publicitarias.                      |
 
 **Business & Campaigns BC**
 
-| **Clase** | **Atributos** | **Descripción** |
-|-----------|---------------|-----------------|
-| **Business** | - id: int<br>- businessId: int<br>- name: string<br>- category: string<br>- address: string<br>- longitude: float<br>- latitude: float<br>- description: string<br>- contactInfo: string<br>- status: string | Representa las empresas registradas en la plataforma. Almacena información del negocio incluyendo ubicación geográfica para el targeting de campañas. |
-| **Campaign** | - id: int<br>- businessId: int<br>- title: string<br>- description: string<br>- startDate: Date<br>- endDate: Date<br>- budget: decimal<br>- status: string<br>- targetAudience: string<br>- createdAt: DateTime<br>- updatedAt: void | Representa las campañas publicitarias creadas por las empresas. Contiene toda la información necesaria para la gestión y targeting de las promociones. |
-| **Offer** | - id: int<br>- campaignId: int<br>- title: string<br>- description: string<br>- discountType: string<br>- discountValue: decimal<br>- validFrom: DateTime<br>- validUntil: DateTime<br>- isActive: void | Representa las ofertas específicas dentro de una campaña. Define los descuentos y promociones que se ofrecen a los consumidores. |
-| **BusinessRepository** | - findById(id: int): Campaign | Repositorio para la gestión de datos de empresas, proporcionando métodos para recuperar información de campañas por identificador. |
+| **Clase**              | **Atributos**                                                                                                                                                                                                                         | **Descripción**                                                                                                                                        |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Business**           | - id: int<br>- businessId: int<br>- name: string<br>- category: string<br>- address: string<br>- longitude: float<br>- latitude: float<br>- description: string<br>- contactInfo: string<br>- status: string                          | Representa las empresas registradas en la plataforma. Almacena información del negocio incluyendo ubicación geográfica para el targeting de campañas.  |
+| **Campaign**           | - id: int<br>- businessId: int<br>- title: string<br>- description: string<br>- startDate: Date<br>- endDate: Date<br>- budget: decimal<br>- status: string<br>- targetAudience: string<br>- createdAt: DateTime<br>- updatedAt: void | Representa las campañas publicitarias creadas por las empresas. Contiene toda la información necesaria para la gestión y targeting de las promociones. |
+| **Offer**              | - id: int<br>- campaignId: int<br>- title: string<br>- description: string<br>- discountType: string<br>- discountValue: decimal<br>- validFrom: DateTime<br>- validUntil: DateTime<br>- isActive: void                               | Representa las ofertas específicas dentro de una campaña. Define los descuentos y promociones que se ofrecen a los consumidores.                       |
+| **BusinessRepository** | - findById(id: int): Campaign                                                                                                                                                                                                         | Repositorio para la gestión de datos de empresas, proporcionando métodos para recuperar información de campañas por identificador.                     |
 
 **Domain Events**
 
-| **Clase** | **Atributos** | **Descripción** |
-|-----------|---------------|-----------------|
-| **CampaignLaunched** | - campaignId: int<br>- businessId: int<br>- launchDate: DateTime | Evento del dominio que se dispara cuando una nueva campaña es lanzada. Permite la comunicación entre bounded contexts. |
-| **OfferPublished** | - offerId: int<br>- campaignId: int<br>- publishDate: DateTime | Evento que notifica cuando una oferta ha sido publicada y está disponible para los consumidores. |
-| **NotificationSent** | - notificationId: int<br>- userId: int<br>- campaignId: int<br>- timestamp: DateTime | Evento que registra el envío de notificaciones a usuarios sobre campañas relevantes. |
+| **Clase**            | **Atributos**                                                                        | **Descripción**                                                                                                        |
+| -------------------- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------- |
+| **CampaignLaunched** | - campaignId: int<br>- businessId: int<br>- launchDate: DateTime                     | Evento del dominio que se dispara cuando una nueva campaña es lanzada. Permite la comunicación entre bounded contexts. |
+| **OfferPublished**   | - offerId: int<br>- campaignId: int<br>- publishDate: DateTime                       | Evento que notifica cuando una oferta ha sido publicada y está disponible para los consumidores.                       |
+| **NotificationSent** | - notificationId: int<br>- userId: int<br>- campaignId: int<br>- timestamp: DateTime | Evento que registra el envío de notificaciones a usuarios sobre campañas relevantes.                                   |
 
 **Interaction BC**
 
-| **Clase** | **Atributos** | **Descripción** |
-|-----------|---------------|-----------------|
-| **UserActivity** | - id: int<br>- userId: int<br>- activityType: string<br>- timestamp: DateTime<br>- metadata: json | Registra las actividades de los usuarios en la plataforma, como visualizaciones, clics e interacciones con campañas. |
-| **Notification** | - id: int<br>- userId: int<br>- title: string<br>- message: string<br>- type: string<br>- isRead: bool<br>- createdAt: DateTime<br>- readAt: void | Gestiona las notificaciones enviadas a los usuarios sobre ofertas y campañas relevantes basadas en su ubicación y preferencias. |
-| **NotificationRepository** | - sendNotification(notification: Notification)<br>- markAsRead(notificationId: int): UserActivity() | Repositorio que maneja la persistencia y gestión de notificaciones, incluyendo el envío y marcado como leídas. |
+| **Clase**                  | **Atributos**                                                                                                                                     | **Descripción**                                                                                                                 |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| **UserActivity**           | - id: int<br>- userId: int<br>- activityType: string<br>- timestamp: DateTime<br>- metadata: json                                                 | Registra las actividades de los usuarios en la plataforma, como visualizaciones, clics e interacciones con campañas.            |
+| **Notification**           | - id: int<br>- userId: int<br>- title: string<br>- message: string<br>- type: string<br>- isRead: bool<br>- createdAt: DateTime<br>- readAt: void | Gestiona las notificaciones enviadas a los usuarios sobre ofertas y campañas relevantes basadas en su ubicación y preferencias. |
+| **NotificationRepository** | - sendNotification(notification: Notification)<br>- markAsRead(notificationId: int): UserActivity()                                               | Repositorio que maneja la persistencia y gestión de notificaciones, incluyendo el envío y marcado como leídas.                  |
 
 **Analytics & Tracking BC**
 
-| **Clase** | **Atributos** | **Descripción** |
-|-----------|---------------|-----------------|
+| **Clase**             | **Atributos**                                                                                                              | **Descripción**                                                                                                         |
+| --------------------- | -------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
 | **CampaignAnalytics** | - campaignId: int<br>- impressions: int<br>- clicks: int<br>- conversions: int<br>- reach: int<br>- generatedRevenue: void | Proporciona métricas detalladas sobre el rendimiento de las campañas, incluyendo alcance, interacciones y conversiones. |
-| **AnalyticsService** | - calculateCampaignMetrics(campaignId: int): CampaignAnalytics | Servicio que calcula y genera métricas de rendimiento para las campañas publicitarias. |
+| **AnalyticsService**  | - calculateCampaignMetrics(campaignId: int): CampaignAnalytics                                                             | Servicio que calcula y genera métricas de rendimiento para las campañas publicitarias.                                  |
 
 ### 4.8. Database Design
-  #### 4.8.1. Database Diagram 
-  
+
+#### 4.8.1. Database Diagram
+
 El diseño de la base de datos de GeoPS está estructurado para soportar eficientemente las funcionalidades de geolocalización, gestión de campañas y análisis de datos. La base de datos está optimizada para consultas geoespaciales y seguimiento de interacciones de usuarios.
 
 <div align="center"><img src="resources/imgs/capitulo-4/diagrama-db.png" alt="Diagrama de Base de Datos GeoPS"></div>
@@ -560,39 +630,59 @@ El diseño de la base de datos de GeoPS está estructurado para soportar eficien
 **Descripción de las principales entidades:**
 
 **Gestión de Usuarios:**
+
 - **Campaigns**: Almacena información de las campañas publicitarias con campos para targeting geográfico y temporal
 - **Business**: Contiene datos de las empresas registradas incluyendo coordenadas geográficas
 - **Consumer**: Información de los consumidores con preferencias de ubicación
 - **GUser**: Tabla principal de usuarios del sistema
 
 **Análisis y Seguimiento:**
+
 - **CampaignAnalytics**: Métricas de rendimiento de campañas
 - **BusinessOwner**: Datos específicos de propietarios de negocios
 - **UserActivity**: Registro de actividades de usuarios para análisis
 
 **Comunicación:**
+
 - **Notification**: Sistema de notificaciones push basadas en ubicación
 - **BusinessDomain**: Categorización de dominios de negocio
 
-Las relaciones entre tablas están diseñadas para optimizar consultas de proximidad geográfica y análisis de comportamiento de usuarios, elementos clave para el éxito de la plataforma de publicidad geolocalizada. 
+Las relaciones entre tablas están diseñadas para optimizar consultas de proximidad geográfica y análisis de comportamiento de usuarios, elementos clave para el éxito de la plataforma de publicidad geolocalizada.
 
-  ## Capítulo 5: Product Implementation, Validation & Deployment
+## Capítulo 5: Product Implementation, Validation & Deployment
+
 ### 5.1. Software Configuration Management
-  #### 5.1.1. Software Development Environment Configuration  
-  #### 5.1.2. Source Code Management  
-  #### 5.1.3. Source Code Style Guide & Conventions  
-  #### 5.1.4. Software Deployment Configuration
+
+#### 5.1.1. Software Development Environment Configuration
+
+#### 5.1.2. Source Code Management
+
+#### 5.1.3. Source Code Style Guide & Conventions
+
+#### 5.1.4. Software Deployment Configuration
+
 ### 5.2. Landing Page, Services & Applications Implementation
+
 ### 5.2.1. Sprint 1
-#### 5.2.1.1. Sprint Planning 1  
-#### 5.2.1.2. Aspect Leaders and Collaborators  
-#### 5.2.1.3. Sprint Backlog 1  
-#### 5.2.1.4. Development Evidence for Sprint Review  
-#### 5.2.1.5. Execution Evidence for Sprint Review  
-#### 5.2.1.6. Services Documentation Evidence for Sprint Review  
-#### 5.2.1.7. Software Deployment Evidence for Sprint Review  
+
+#### 5.2.1.1. Sprint Planning 1
+
+#### 5.2.1.2. Aspect Leaders and Collaborators
+
+#### 5.2.1.3. Sprint Backlog 1
+
+#### 5.2.1.4. Development Evidence for Sprint Review
+
+#### 5.2.1.5. Execution Evidence for Sprint Review
+
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
 ## Conclusiones
+
 ## Anexos
+
 ## Bibliografía

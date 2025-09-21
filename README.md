@@ -275,7 +275,7 @@ Están orientadas al equipo de desarrollo y especifican aspectos relacionados co
 El Impact Mapping es una técnica de planificación estratégica que conecta los objetivos del negocio con los entregables del producto. Ayuda a visualizar cómo las funcionalidades contribuyen a alcanzar los resultados esperados, identificando actores, impactos deseados y soluciones clave.
 
 <center>
-  <img src="./assets/chapter-iii/Impact_mapping_GeoPS.png" alt="Impact Mapping GeoPS" width="1000"/>
+  <img src="assets/chapter-iii/Impact_mapping_GeoPS.png" alt="Impact Mapping GeoPS" width="1000"/>
 </center>
 
 ### 3.3. Product Backlog
@@ -292,7 +292,6 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
   <img src="assets/chapter-iii/Product Backlog - Trello.png" alt="Product Backlog - Trello" width="700">
 </p>
 ---
-## User Stories con Story Points
 
 | # Orden | User Story ID | Título | Descripción | Story Points |
 |---------|---------------|--------|-------------|--------------|

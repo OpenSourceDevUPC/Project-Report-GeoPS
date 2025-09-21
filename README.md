@@ -40,8 +40,11 @@
 ### Registro de Versiones
 <div align="justify">
   
-|**Versión**|**Fecha**|**Autor**|**Descripción de modificación**|
-| - | - | - | - |
+
+| Versión | Fecha       | Autor(es)                                                                                                                                  | Descripción de modificación                                                                 |
+|---------|------------|--------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
+| TB1     | 21/09/2025 | Huapaya Galindo, Dyaron<br>Huarcaya Matias, Gilbert Alonso<br>Cotrina Siclla, Sofia Alessandra<br>Goñe Araccata, Esther Abigail<br>Salasar Caballero, Alvaro Fabrizzio | En la primera entrega del informe de nuestro proyecto, se desarrollaron los primeros 5 capítulos del documento y se presentó la primera versión de la landing page de GeoPS. |
+
 </div><br><br>
 
 ---
@@ -153,11 +156,16 @@ URL del Repositoria del Project Report:
 
 # Student Outcome
  <div aligh="justify">
-   
-   |Criterio Específico|Acciones Realizadas|Conclusiones|
-   |-------------------|-------------------|------------|
-   
+
+
+| Criterio específico | Acciones realizadas | Conclusiones |
+|----------------------|----------------------|--------------|
+| **Comunica oralmente con efectividad a diferentes rangos de audiencia.** | **TB1**<br><br>**Huapaya Galindo, Dyaron**: Participé en la coordinación y exposición del diseño inicial de la arquitectura del sistema.<br><br>**Huarcaya Matias, Gilbert Alonso**: Expliqué al equipo los resultados del Impact Mapping, fomentando la claridad de objetivos.<br><br>**Cotrina Siclla, Sofia Alessandra**: Presenté los prototipos iniciales de la Landing Page al equipo, promoviendo retroalimentación activa.<br><br>**Goñe Araccata, Esther Abigail**: Guié la exposición de entrevistas y escenarios, asegurando comprensión de todos los integrantes.<br><br>**Salasar Caballero, Alvaro Fabrizzio**: Expuse los avances del análisis competitivo y la planificación inicial del capítulo I. | **TB1**<br><br>Todos los integrantes lograron comunicar con claridad los avances del proyecto frente al equipo. Se demostró efectividad en la transmisión de ideas técnicas y conceptuales, adaptándose al nivel de conocimiento de los compañeros y asegurando una comprensión compartida de los objetivos iniciales. |
+| **Comunica por escrito con efectividad a diferentes rangos de audiencia.** | **TB1**<br><br>**Huapaya Galindo, Dyaron**: Redacté secciones del informe relacionadas con el diseño de la arquitectura base.<br><br>**Huarcaya Matias, Gilbert Alonso**: Documenté los resultados del Impact Mapping y la arquitectura de software.<br><br>**Cotrina Siclla, Sofia Alessandra**: Elaboré los prototipos documentados en el capítulo I y la descripción de la Landing Page.<br><br>**Goñe Araccata, Esther Abigail**: Registré las entrevistas realizadas y redacté los escenarios planteados.<br><br>**Salasar Caballero, Alvaro Fabrizzio**: Redacté el análisis competitivo y la planificación del capítulo I del informe. | **TB1**<br><br>Se alcanzó una comunicación escrita efectiva en el **informe TB1**, adaptando el lenguaje según el público objetivo: académico y técnico. El equipo logró estructurar la documentación con claridad, coherencia y alineada a los lineamientos establecidos, lo que facilitó la comprensión de los entregables. |
+
  </div>
+
+ ---
 
 ## Capitulo 1: Introducción
 ### 1.1. Startup Profile

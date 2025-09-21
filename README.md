@@ -576,12 +576,14 @@ El usuario accede a la aplicación desde la vista de login, elige su rol (client
 
 #### Cliente
 
+
 **User Goal: Visualizar planes**
 - Usuario: Cliente
 
 El cliente ingresa a la sección de planes desde el home. Allí puede ver las opciones de suscripción disponibles. Cada plan muestra sus características principales y beneficios. El usuario evalúa y elige el que mejor se ajusta a sus necesidades.
 
 <div align="center"><img src="resources/imgs/capitulo-4/cliente_usergoal_visualizarplanes.png" alt="Planes Cliente GeoPs"></div>
+
 
 **User Goal: Permitir acceso a ubicación**
 - Usuario: Cliente
@@ -590,12 +592,14 @@ El sistema solicita al cliente acceso a su ubicación. El usuario recibe una ven
 
 <div align="center"><img src="resources/imgs/capitulo-4/cliente_usergoal_permitiraccesoubicación.png" alt="Acceso Ubicación Cliente GeoPs"></div>
 
+
 **User Goal: Acceso a ayuda, notificaciones y perfil**
 - Usuario: Cliente
 
 El cliente desde el header accede al centro de ayuda, revisa sus notificaciones (con la opción de marcar como leídas o limpiarlas) y puede entrar a su perfil. En el perfil tiene acceso a la información registrada y ajustes personales.
 
 <div align="center"><img src="resources/imgs/capitulo-4/cliente_usergoal_accesoayudanotiperfil.png" alt="Acceso Header Cliente GeoPs"></div>
+
 
 **User Goal: Acceso a links principales (ofertas, categorías, favoritos, cupones)**
 - Usuario: Cliente
@@ -604,12 +608,14 @@ Desde el home, el cliente selecciona alguno de los accesos rápidos (ofertas, ca
 
 <div align="center"><img src="resources/imgs/capitulo-4/cliente_usergoal_accesolinksprincipales.png" alt="Acceso Links Cliente GeoPs"></div>
 
+
 **User Goal: Detalle sección y proceso de pago**
 - Usuario: Cliente
 
 El cliente entra a una sección (ej. cines), selecciona una oferta y accede al detalle. Desde allí puede añadir al carrito o comprar directamente. Posteriormente continúa con el proceso de pago, confirmando el método y finalizando la transacción.
 
 <div align="center"><img src="resources/imgs/capitulo-4/cliente_usergoal_detalleyprocesopago.png" alt="Detalle y proceso de pago GeoPs"></div>
+
 
 **User Goal: Cerrar Sesión**
 - Usuario: Cliente
@@ -627,6 +633,7 @@ El proveedor accede a la sección de planes desde la opción resumen. Allí se l
 
 <div align="center"><img src="resources/imgs/capitulo-4/proveedor_usergoal_visualizarplanes.png" alt="Planes Proveedor GeoPs"></div>
 
+
 **User Goal: Acceder a ayuda, notificaciones, perfil**
 - Usuario: Proveedor
 
@@ -634,12 +641,14 @@ El proveedor accede desde el header a secciones complementarias. En Ayuda, encue
 
 <div align="center"><img src="resources/imgs/capitulo-4/proveedor_usergoal_accesoayudanotiperfil.png" alt="Acceso Header Proveedor GeoPs"></div>
 
+
 **User Goal: Acceder a links principales**
 - Usuario: Proveedor
 
 El proveedor, desde la vista de resumen, puede navegar hacia los enlaces principales de la plataforma: campañas, creación de nuevas promociones, reportes y comentarios de clientes.
 
 <div align="center"><img src="resources/imgs/capitulo-4/proveedor_usergoal_accesolinksprincipales.png" alt="Acceso Links Proveedor GeoPs"></div>
+
 
 **User Goal: Cerrar Sesión**
 - Usuario: Proveedor

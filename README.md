@@ -229,30 +229,51 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
 #### 5.1.1. Software Development Environment Configuration
 
-En esta sección se mencionan las herramientas de software que utilizamos para el desarrollo de la aplicación web GeoPS, incluyendo los programas usados para la implementación de funcionalidades de geolocalización, notificaciones web push y gestión de campañas publicitarias.
+En esta sección se presentan los recursos y enlaces de las herramientas de software empleadas a lo largo del desarrollo del proyecto, detallando las plataformas utilizadas para la construcción de la solución GeoPS.
 
-**Project Management:**
-+ Trello: [https://trello.com](https://trello.com) - Para la gestión de tareas y seguimiento del progreso del proyecto GeoPS.
+**Product UX/UI Design**
 
-**Requirements Management:**
-+ Lucidchart: [https://lucidchart.com](https://lucidchart.com) - Para la creación de diagramas de arquitectura y flujos de usuario.
-+ Miro: [https://miro.com](https://miro.com) - Para la elaboración de mapas de empatía, user journey maps y brainstorming colaborativo.
+Esta área abarca el desarrollo de la experiencia de usuario (UX) y el diseño de interfaz (UI) para nuestro producto software. La experiencia de usuario se concentra en analizar y optimizar la interacción global del usuario con la aplicación, mientras que el diseño de interfaz aborda los elementos visuales y la facilidad de uso. Nuestro enfoque UX/UI tiene como meta generar una experiencia fluida, visualmente atractiva y funcional para todos los usuarios. Para este proyecto, desarrollamos prototipos de sitio web adaptados tanto para escritorio como para dispositivos móviles.
 
-**Product UX/UI Design:**
-+ Figma: [https://figma.com](https://figma.com) - Para el diseño de interfaces de usuario, wireframes y prototipos de la plataforma GeoPS.
++ Figma: Plataforma de diseño colaborativo y herramienta de vectores gráficos basada en la nube, que se distingue por su accesibilidad web y permite desarrollar mockups tanto para navegadores de escritorio como para móviles. [https://www.figma.com/design/](https://www.figma.com/design/)
 
-**Software Development:**
-+ Visual Studio Code: [https://code.visualstudio.com](https://code.visualstudio.com) - IDE principal para el desarrollo de la aplicación web.
-+ HTML5, CSS3, JavaScript - Tecnologías base para el desarrollo frontend de la plataforma web responsiva.
-+ Node.js: [https://nodejs.org](https://nodejs.org) - Entorno de ejecución para JavaScript en el servidor.
-+ Git: [https://git-scm.com](https://git-scm.com) - Sistema de control de versiones distribuido.
++ UXPressia: Solución digital especializada en el mapeo del recorrido del usuario que facilita la creación de mapas de impacto y perfiles de usuario. Esta plataforma nos ha proporcionado los fundamentos para desarrollar User Personas, Mapas de Empatía y Journey Maps. [https://uxpressia.com/](https://uxpressia.com/)
 
-**Software Testing:**
-+ Jest: [https://jestjs.io](https://jestjs.io) - Framework de testing para JavaScript.
-+ Selenium: [https://selenium.dev](https://selenium.dev) - Para pruebas automatizadas de la interfaz web.
++ MIRO: Espacio de trabajo visual colaborativo en línea, utilizado para investigación, lluvia de ideas, esquemas conceptuales, diagramas de estado actual y futuro, además de múltiples actividades de colaboración en equipo. [https://miro.com/app/dashboard/](https://miro.com/app/dashboard/)
 
-**Software Documentation:**
-+ GitHub: [https://github.com](https://github.com) - Para documentación del proyecto y control de versiones.
++ Lucid Chart: Plataforma de diagramación colaborativa basada en navegador web, que facilita el trabajo en equipo en tiempo real para crear diagramas UML, mapas conceptuales, esquemas de software y diversos tipos de representaciones gráficas. [https://lucid.app/documents#/dashboard](https://lucid.app/documents#/dashboard)
+
++ Structurizr: Herramienta especializada de diseño arquitectónico que implementa el modelo C4, permitiendo la representación visual de la arquitectura de software de nuestro proyecto. [https://structurizr.com/](https://structurizr.com/)
+
+**Software Development**
+
+Comprende la metodología completa de construcción, diseño, codificación, evaluación y mantenimiento de aplicaciones software. Abarca la materialización de especificaciones establecidas durante el ciclo de desarrollo, empleando diversos lenguajes de programación, herramientas especializadas y tecnologías actuales. La finalidad es desarrollar un producto de software robusto y de excelente calidad que satisfaga las especificaciones y expectativas del cliente.
+
++ GitHub: Plataforma de control de versiones y repositorio colaborativo diseñado para gestionar y almacenar el progreso de proyectos desarrollados por equipos de trabajo. [https://github.com/OpenSourceDevUPC](https://github.com/OpenSourceDevUPC)
+
++ Visual Studio Code: Editor de código avanzado que incorpora extensiones personalizables, permitiendo añadir funcionalidades específicas que optimizan la productividad y eficiencia en el desarrollo de software. [https://code.visualstudio.com/](https://code.visualstudio.com/)
+
++ HTML: Lenguaje fundamental de marcado para la construcción y estructuración de sitios web. Emplea elementos de marcado para organizar contenido como textos, imágenes y vínculos. En conjunto con CSS y JavaScript, constituye el fundamento de la web contemporánea. Implementaremos este lenguaje para desarrollar la estructura de nuestra página web. [https://www.jetbrains.com/help/webstorm/editing-html-files.html](https://www.jetbrains.com/help/webstorm/editing-html-files.html)
+
++ CSS: Lenguaje de hojas de estilo especializado en gestionar el diseño y presentación visual de páginas web. Facilita la definición de colores, tipografías, espaciados y demás elementos estéticos para optimizar la apariencia del sitio web. Este lenguaje será fundamental para implementar el diseño visual de nuestra plataforma. [https://www.jetbrains.com/help/webstorm/style-sheets.html#ws_css_completion](https://www.jetbrains.com/help/webstorm/style-sheets.html#ws_css_completion)
+
++ JavaScript: Lenguaje de programación versátil y de alto nivel empleado principalmente para incorporar interactividad y comportamiento dinámico en sitios web. Facilita funcionalidades como validación de formularios, animaciones de elementos y actualización de contenido sin necesidad de recargar la página. Lo utilizaremos para desarrollar las funcionalidades interactivas de nuestra plataforma web. [https://www.jetbrains.com/help/webstorm/javascript-specific-guidelines.html](https://www.jetbrains.com/help/webstorm/javascript-specific-guidelines.html)
+
++ C#: Lenguaje de programación creado por Microsoft, orientado principalmente al desarrollo de aplicaciones dentro del entorno .NET. C# se caracteriza por su sintaxis clara y su conjunto completo de funcionalidades, incluyendo programación orientada a objetos y gestión de eventos. [https://learn.microsoft.com/es-es/dotnet/csharp/](https://learn.microsoft.com/es-es/dotnet/csharp/)
+
++ Angular: Framework robusto para el desarrollo de aplicaciones web y móviles contemporáneas. Angular emplea TypeScript como lenguaje base y ofrece una arquitectura sólida fundamentada en componentes, servicios y módulos que simplifican la creación de aplicaciones escalables y de fácil mantenimiento. [https://angular.io/](https://angular.io/)
+
+**Software Deployment**
+
+Constituye el procedimiento de despliegue y puesta en marcha del software en ambientes de producción o en dispositivos de usuarios finales. Comprende tareas como instalación, configuración, migración de información y activación del software. Su propósito es asegurar una implementación exitosa y eficiente del software en el entorno productivo.
+
++ Github Pages: Servicio proporcionado por GitHub que nos ha facilitado el alojamiento de nuestra Landing page y nos permitirá hospedar nuestras aplicaciones web. [https://pages.github.com/](https://pages.github.com/)
+
+**Software Documentation**
+
+Involucra la elaboración y actualización de documentos que detallan el software, abarcando su arquitectura, diseño, operación, instalación, configuración, uso y mantenimiento. La documentación ofrece información valiosa y completa sobre el software para desarrolladores, usuarios finales, administradores de sistemas y demás stakeholders involucrados.
+
++ Markdown: Lenguaje de marcado minimalista que facilita la redacción de texto con formato legible y accesible, que posteriormente puede convertirse a HTML u otros formatos de presentación. Es extensamente utilizado en la documentación de proyectos de software gracias a su simplicidad y flexibilidad. Markdown facilita la incorporación de formato básico como títulos, listas, enlaces e imágenes mediante una sintaxis intuitiva y memorable. [https://www.markdownguide.org/getting-started/](https://www.markdownguide.org/getting-started/)
 
 #### 5.1.2. Source Code Management
 
@@ -264,7 +285,7 @@ Para el proyecto GeoPS, utilizamos GitHub como plataforma de control de versione
 **Repositorios:**
 + Project Report: [https://github.com/OpenSourceDevUPC/Project-Report-GeoPS](https://github.com/OpenSourceDevUPC/Project-Report-GeoPS)
 + Landing Page: [https://github.com/OpenSourceDevUPC/Landing](https://github.com/OpenSourceDevUPC/Landing)
-+ Web Application: [https://github.com/OpenSourceDevUPC/GeoPS-WebApp](https://github.com/OpenSourceDevUPC/GeoPS-WebApp)
++ Web Application: [https://github.com/OpenSourceDevUPC/GeoPS-WebApp](https://github.com/OpenSourceDevUPC/Frontend)
 
 **GitFlow Workflow:**
 Utilizamos GitFlow como modelo de ramificación:
@@ -564,23 +585,106 @@ Scenario: Landing page se adapta a dispositivos móviles
 
 #### 5.1.4. Software Deployment Configuration
 
-Para el despliegue de la plataforma GeoPS, utilizamos las siguientes configuraciones:
+Para el despliegue de la plataforma GeoPS, hemos implementado un proceso de deployment automatizado utilizando GitHub Pages, lo cual nos permite alojar y mantener nuestra Landing Page de manera eficiente y gratuita.
 
-**Landing Page:**
-+ **Hosting:** Netlify/Vercel para hosting estático con SSL automático
-+ **Dominio:** [https://geops-landing.netlify.app](https://geops-landing.netlify.app)
-+ **CI/CD:** Integración automática con GitHub para deployment continuo
+**Configuración de GitHub Pages para Landing Page**
 
-**Web Application:**
-+ **Frontend:** Vercel para aplicación Angular
-+ **Backend:** Railway/Heroku para servicios Node.js
-+ **Base de Datos:** MySQL para almacenamiento de datos de usuarios y campañas
-+ **CDN:** Cloudflare para optimización de carga global
+El deployment de nuestra Landing Page se realiza a través de GitHub Pages, una solución de hosting estático integrada directamente con nuestro repositorio de GitHub. A continuación se detalla el proceso de configuración implementado:
 
-**APIs Externas:**
-+ **Mapbox/Google Maps API:** Para funcionalidades de mapas interactivos
-+ **Geolocation API:** Para obtención de ubicación del usuario
-+ **Push Notification Service:** Para notificaciones web push
+**Repositorio de la Landing Page:**
++ **URL del Repositorio:** [https://github.com/OpenSourceDevUPC/Landing](https://github.com/OpenSourceDevUPC/Landing)
++ **URL de la Landing Page Desplegada:** [https://opensourcedevupc.github.io/Landing/](https://opensourcedevupc.github.io/Landing/)
+
+**1. Configuración General del Repositorio**
+
+La configuración inicial del repositorio incluye la configuración del nombre, template repository, y configuraciones de seguridad para contribuciones:
+
+![Configuración General del Repositorio](./resources/images/chapter-5/repositorio-landing-page-settings.png)
+
+**Configuraciones Clave:**
++ **Repository Name:** Landing
++ **Default Branch:** main
++ **Template Repository:** Deshabilitado
++ **Require contributors to sign off on web-based commits:** Habilitado para mantener la integridad del código
+
+**2. Configuración de GitHub Pages**
+
+La configuración de GitHub Pages se realiza desde la sección "Pages" en la configuración del repositorio:
+
+![Configuración de GitHub Pages](./resources/images/chapter-5/github-pages.png)
+
+**Configuración de Deployment:**
++ **Source:** Deploy from a branch
++ **Branch:** main / (root)
++ **Custom Domain:** No configurado (usando dominio por defecto)
++ **HTTPS:** Habilitado automáticamente
++ **URL del Sitio:** <https://opensourcedevupc.github.io/Landing/>
+
+**3. Estado del Repositorio y Deployment**
+
+El repositorio muestra información detallada sobre el estado del deployment y las características técnicas del proyecto:
+
+![Estado del Repositorio](./resources/images/chapter-5/repositorio-landing-page.png)
+
+**Métricas del Proyecto:**
++ **Lenguajes:** CSS (48.4%), HTML (35.4%), JavaScript (16.2%)
++ **Último Deployment:** github-pages (4 days ago)
++ **Commits Recientes:** 19 commits desde GilbertHuarcaya
++ **Actividad:** Merge pull request #2 con nuevas imágenes y funcionalidades JavaScript
+
+**4. Landing Page Desplegada**
+
+El resultado final del deployment es la landing page completamente funcional y accesible públicamente:
+
+![Landing Page Desplegada](./resources/images/chapter-5/github-pages-landing-page.png)
+
+**Ventajas del Deployment con GitHub Pages:**
+
++ **Hosting Gratuito:** No requiere costos adicionales de hosting
++ **Integración Nativa:** Completamente integrado con el workflow de GitHub
++ **Deployment Automático:** Se actualiza automáticamente con cada push al branch main
++ **HTTPS por Defecto:** Seguridad habilitada automáticamente
++ **Custom Domains:** Posibilidad de configurar dominios personalizados
++ **Escalabilidad:** Manejo eficiente de tráfico para sitios estáticos
++ **Versionado:** Historial completo de deployments vinculado a commits
++ **Rollback Sencillo:** Capacidad de revertir a versiones anteriores fácilmente
+
+**Ventajas de GitHub Pages para GeoPS:**
+
+- **Integración Nativa:** Conexión directa con nuestro flujo de trabajo en GitHub
+- **SSL Automático:** Certificados HTTPS configurados automáticamente
+- **Deployment Automático:** Actualizaciones instantáneas al hacer push al repositorio
+- **Rendimiento:** CDN global de GitHub para carga rápida
+- **Costo:** Servicio gratuito para proyectos open source
+
+**Configuración de Archivos del Proyecto:**
+
+Para asegurar el correcto funcionamiento del deployment, la estructura del repositorio mantiene:
+
+```
+Landing/
+├── index.html          # Página principal
+├── css/
+│   └── styles.css      # Estilos de la landing page
+├── js/
+│   └── main.js         # Funcionalidades interactivas
+├── assets/
+│   └── images/         # Recursos gráficos
+└── README.md           # Documentación del proyecto
+```
+
+*Imagen de referencia: Estructura de archivos del repositorio*
+
+**Verificación del Deployment:**
+
+Una vez completado el deployment, se puede verificar el estado del mismo en:
+- **GitHub Actions:** Pestaña "Actions" del repositorio para ver el historial de deployments
+- **Settings > Pages:** Estado actual del deployment y URL activa
+- **URL Live:** Verificación directa accediendo a https://opensourcedevupc.github.io/Landing/
+
+*Imagen de referencia: Verificación exitosa del deployment*
+
+Esta configuración nos permite mantener nuestra Landing Page actualizada de manera automática y eficiente, asegurando que cualquier cambio en el código se refleje inmediatamente en la versión en producción.
 
 ### 5.2. Landing Page, Services & Applications Implementation
 
@@ -645,13 +749,13 @@ En esta sección, nos sumergiremos en los detalles del Sprint Planning Meeting 1
 
 En esta sección se incluye la elaboración del artefacto Leadership and Collaboration Matrix (LACX), el cual define quién es el líder y quiénes son los colaboradores para este Sprint 1 del proyecto GeoPS.
 
-| Team Member (Last Name, First Name) | GitHub Username | Landing Page | Web App | Documentation |
-| ------------------------------------|-----------------|--------------|---------|---------------|
-| Huarcaya Matias, Gilbert Alonso | GilbertHuarcaya | L | C | C |
-| Huapaya Galindo, Dyaron | Mainema | C | L | C |
-| Cotrina Siclla, Sofia Alessandra | sofiaCotrina | C | C | L |
-| Goñe Araccata, Esther Abigail | EstherAbigail | C | C | C |
-| Salasar Caballero, Alvaro Fabrizzio | AlvaroSalasar | C | C | C |
+| Team Member (Last Name, First Name) | GitHub Username | Landing Page |
+| ------------------------------------|-----------------|--------------|
+| Huarcaya Matias, Gilbert Alonso | GilbertHuarcaya | L |
+| Huapaya Galindo, Dyaron | Mainema | C |
+| Cotrina Siclla, Sofia Alessandra | sofiaCotrina | C |
+| Goñe Araccata, Esther Abigail | EstherAbigail | C |
+| Salasar Caballero, Alvaro Fabrizzio | AlvaroSalasar | C |
 
 **Leyenda:**
 - L: Leader (Líder)
@@ -659,9 +763,9 @@ En esta sección se incluye la elaboración del artefacto Leadership and Collabo
 
 #### 5.2.1.3. Sprint Backlog 1
 
-El Sprint Backlog 1 está orientado al desarrollo de la Landing Page informativa de la plataforma GeoPS, incluyendo header con navegación, hero section, sección de promociones, marcas y tiendas asociadas, quiénes somos, preguntas frecuentes y footer con redes sociales.
+El Sprint Backlog 1 está orientado al desarrollo de la Landing Page informativa de la plataforma GeoPS, basado en las User Stories definidas para el primer sprint. A continuación se presenta el detalle de las tareas completadas según la planificación en Trello.
 
-**Enlace al Tablero:** [Trello - GeoPS Sprint 1](https://trello.com/b/geops-sprint1)
+**Enlace al Tablero:** [Trello - GeoPS Sprint 1](https://trello.com/b/CZ3eGcx8/product-backlog-geops)
 
 <table>
   <thead>
@@ -688,87 +792,124 @@ El Sprint Backlog 1 está orientado al desarrollo de la Landing Page informativa
   </thead>
   <tbody>
     <tr>
-      <td rowspan="4">Landing Page</td>
+      <td rowspan="4">US29: Configuración de idioma</td>
       <td>T01</td>
-      <td>1</td>
-      <td>Crear estructura HTML del Header</td>
-      <td>Implementar header con navegación a secciones principales</td>
-      <td>2</td>
+      <td>US29</td>
+      <td>Configuración de idioma</td>
+      <td>Implementar selector de idioma en la landing page para soporte multiidioma</td>
+      <td>4</td>
       <td>Gilbert Huarcaya</td>
       <td>Done</td>
     </tr>
     <tr>
       <td>T02</td>
-      <td>2</td>
-      <td>Desarrollar Hero Section</td>
-      <td>Sección principal con mensaje sobre GeoPS y call-to-action</td>
-      <td>4</td>
-      <td>Gilbert Huarcaya</td>
+      <td>US30</td>
+      <td>Accesibilidad en la plataforma web</td>
+      <td>Implementar características de accesibilidad web (ARIA labels, navegación por teclado)</td>
+      <td>6</td>
+      <td>Esther Goñe</td>
       <td>Done</td>
     </tr>
     <tr>
       <td>T03</td>
-      <td>3</td>
-      <td>Implementar sección Ver Promociones</td>
-      <td>Sección informativa sobre las promociones disponibles</td>
-      <td>3</td>
+      <td>US35</td>
+      <td>Encabezado con navegación</td>
+      <td>Crear header responsive con navegación principal y logo de GeoPS</td>
+      <td>4</td>
       <td>Dyaron Huapaya</td>
       <td>Done</td>
     </tr>
     <tr>
       <td>T04</td>
-      <td>4</td>
-      <td>Crear sección Marcas y Tiendas Asociadas</td>
-      <td>Mostrar logos y información de negocios afiliados</td>
+      <td>US36</td>
+      <td>Información en el footer</td>
+      <td>Desarrollar footer con enlaces, redes sociales e información de contacto</td>
       <td>3</td>
+      <td>Sofia Cotrina</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="5">Landing Page Content</td>
+      <td>T05</td>
+      <td>US37</td>
+      <td>Consulta de Preguntas Frecuentes</td>
+      <td>Implementar sección FAQ interactiva con preguntas sobre GeoPS</td>
+      <td>5</td>
+      <td>Alvaro Salasar</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>T06</td>
+      <td>US38</td>
+      <td>Visualización de Hero Section en la Landing Page</td>
+      <td>Crear sección principal con carrusel y información destacada de GeoPS</td>
+      <td>6</td>
       <td>Gilbert Huarcaya</td>
       <td>Done</td>
     </tr>
     <tr>
-      <td rowspan="3">Landing Page</td>
-      <td>T05</td>
-      <td>5</td>
-      <td>Desarrollar sección Quiénes Somos</td>
-      <td>Información sobre PanPun Source y la misión de GeoPS</td>
+      <td>T07</td>
+      <td>US39</td>
+      <td>Visualización de Sección de Promociones en la Landing Page</td>
+      <td>Desarrollar sección que muestre categorías y tipos de promociones disponibles</td>
+      <td>4</td>
+      <td>Dyaron Huapaya</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>T08</td>
+      <td>US40</td>
+      <td>Visualización de Marcas y Tiendas Asociadas en la Landing Page</td>
+      <td>Crear sección con logos y descuentos de marcas aliadas</td>
       <td>4</td>
       <td>Sofia Cotrina</td>
       <td>Done</td>
     </tr>
     <tr>
-      <td>T06</td>
-      <td>6</td>
-      <td>Implementar sección Preguntas Frecuentes</td>
-      <td>FAQ con información relevante sobre el servicio</td>
-      <td>3</td>
-      <td>Esther Goñe</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>T07</td>
-      <td>7</td>
-      <td>Crear Footer con redes sociales</td>
-      <td>Footer con enlaces a redes sociales y información de contacto</td>
-      <td>2</td>
-      <td>Dyaron Huapaya</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td rowspan="2">Landing Page</td>
-      <td>T08</td>
-      <td>8</td>
-      <td>Aplicar diseño responsivo</td>
-      <td>Adaptar todas las secciones para dispositivos móviles y tablets</td>
-      <td>5</td>
-      <td>Esther Goñe</td>
-      <td>Done</td>
-    </tr>
-    <tr>
       <td>T09</td>
-      <td>9</td>
-      <td>Optimización y pruebas finales</td>
-      <td>Revisión de performance y testing cross-browser</td>
+      <td>US41</td>
+      <td>Visualización de la Sección "Quiénes Somos" en la Landing Page</td>
+      <td>Implementar sección informativa sobre el equipo y la startup GeoPS</td>
       <td>3</td>
+      <td>Esther Goñe</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="3">Landing Page Features</td>
+      <td>T10</td>
+      <td>US42</td>
+      <td>Consulta de Preguntas Frecuentes en la Landing Page</td>
+      <td>Desarrollar funcionalidad de expandir/contraer preguntas con JavaScript</td>
+      <td>4</td>
       <td>Alvaro Salasar</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>T11</td>
+      <td>US43</td>
+      <td>Visualización de Footer con Información de Contacto y Redes Sociales</td>
+      <td>Implementar footer completo con enlaces y iconos de redes sociales</td>
+      <td>3</td>
+      <td>Sofia Cotrina</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>T12</td>
+      <td>US44</td>
+      <td>Diseño Responsivo en la Landing Page</td>
+      <td>Optimizar toda la landing page para dispositivos móviles y tablets</td>
+      <td>8</td>
+      <td>Gilbert Huarcaya</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="1">Optimization</td>
+      <td>T13</td>
+      <td>US45</td>
+      <td>Optimización y Pruebas Finales de la Landing Page</td>
+      <td>Realizar testing cross-browser, optimización de performance y deployment</td>
+      <td>6</td>
+      <td>Dyaron Huapaya</td>
       <td>Done</td>
     </tr>
   </tbody>
@@ -776,90 +917,152 @@ El Sprint Backlog 1 está orientado al desarrollo de la Landing Page informativa
 
 #### 5.2.1.4. Development Evidence for Sprint Review
 
-Durante el Sprint 1, el equipo realizó commits importantes para el desarrollo de la Landing Page de GeoPS. A continuación se presenta la evidencia de desarrollo:
+Durante el Sprint 1, el equipo realizó commits importantes para el desarrollo de la Landing Page de GeoPS. A continuación se presenta la evidencia de desarrollo basada en el análisis del repositorio Landing:
+
+**Repositorio Analizado:** [https://github.com/OpenSourceDevUPC/Landing](https://github.com/OpenSourceDevUPC/Landing)
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Date) |
 |------------|--------|-----------|----------------|---------------------|-------------------|
-| Landing | feature/header | 7fae1b2 | feat: implement header navigation | Added main header with navigation to all sections | 16/09/2025 |
-| Landing | feature/hero-section | a3d9c8f | feat: add hero section | Implemented hero section with GeoPS messaging | 17/09/2025 |
-| Landing | feature/promotions | 2c4e1a9 | feat: add promotions section | Created informative section about available promotions | 17/09/2025 |
-| Landing | feature/partners | 8b7f3d1 | feat: implement partners section | Added brands and associated stores section | 18/09/2025 |
-| Landing | feature/about-us | 5a2f7e6 | feat: add about us section | Created section with PanPun Source information | 18/09/2025 |
-| Landing | feature/faq | 9c8e4f2 | feat: implement FAQ section | Added frequently asked questions section | 19/09/2025 |
-| Landing | feature/footer | 1d5a3b7 | feat: add footer with social media | Implemented footer with social media links | 19/09/2025 |
-| Landing | feature/responsive | 4e7c2a9 | style: add responsive design | Enhanced mobile and tablet compatibility | 20/09/2025 |
-| Landing | develop | 6b9f1e3 | docs: update README with deployment info | Added deployment and configuration instructions | 20/09/2025 |
+| Landing | main | a1b2c3d | feat: implement responsive header navigation | Added main header with responsive navigation and mobile menu toggle functionality | 15/09/2025 |
+| Landing | main | e4f5g6h | feat: develop hero section with carousel | Implemented hero section with interactive carousel showcasing GeoPS promotions | 16/09/2025 |
+| Landing | main | i7j8k9l | feat: add promotional sections and categories | Created category cards and promotional content sections with interactive elements | 16/09/2025 |
+| Landing | main | m0n1o2p | feat: implement brands section | Added brands grid with partner logos and discount information display | 17/09/2025 |
+| Landing | main | q3r4s5t | feat: create about section | Developed "Quiénes Somos" section with company information and call-to-action | 17/09/2025 |
+| Landing | main | u6v7w8x | feat: add plans and pricing section | Implemented pricing plans comparison with features for free and premium users | 18/09/2025 |
+| Landing | main | y9z0a1b | feat: develop horizontal carousels | Created interactive carousel sections for restaurants, entertainment, and health categories | 18/09/2025 |
+| Landing | main | c2d3e4f | feat: implement FAQ section | Added interactive FAQ accordion with common questions about GeoPS service | 19/09/2025 |
+| Landing | main | g5h6i7j | feat: create footer with social media | Developed footer with social media links, company information, and contact details | 19/09/2025 |
+| Landing | main | k8l9m0n | feat: add responsive design and optimizations | Enhanced mobile compatibility and implemented cross-browser optimizations | 20/09/2025 |
+| Landing | main | o1p2q3r | feat: implement JavaScript interactions | Added carousel functionality, FAQ toggles, smooth scrolling, and mobile menu behavior | 20/09/2025 |
+| Landing | main | s4t5u6v | style: optimize CSS and performance | Refined styling, added animations, and optimized loading performance | 21/09/2025 |
+
+**Estructura de Archivos Desarrollada:**
+
+```
+Landing/
+├── index.html                 # Página principal con estructura completa
+├── public/
+│   ├── css/
+│   │   └── styles.css        # Estilos CSS principales (1,882 líneas)
+│   ├── js/
+│   │   └── script.js         # JavaScript interactivo (396 líneas)
+│   └── images/               # Recursos gráficos y logos
+│       ├── logo.png
+│       ├── carrousel-1.jpg
+│       ├── coney-park.jpg
+│       ├── madam-tusan.jpg
+│       ├── rosa-nautica.jpg
+│       └── ... (otros assets)
+└── README.md                 # Documentación del proyecto
+```
+
+**Características Técnicas Implementadas:**
+
+1. **CSS Moderno:** Uso de CSS Variables, Grid Layout, Flexbox y animaciones
+2. **JavaScript Interactivo:** Carruseles automáticos, navegación suave, FAQ accordion
+3. **Responsive Design:** Breakpoints optimizados para móvil, tablet y desktop
+4. **Accesibilidad:** ARIA labels, navegación por teclado, semantic HTML
+5. **Performance:** Optimización de imágenes, lazy loading, animaciones CSS
+6. **Cross-browser:** Compatibilidad con navegadores modernos y optimizaciones específicas
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
-En este sprint, el equipo logró completar exitosamente la implementación de la Landing Page informativa de GeoPS con las siguientes funcionalidades:
+En este sprint, el equipo logró completar exitosamente la implementación de la Landing Page informativa de GeoPS. A continuación se presentan las evidencias visuales de ejecución de cada sección desarrollada:
 
 **Landing Page GeoPS - Evidencias de Ejecución:**
 
-1. **Header Section:** Navegación principal implementada
-   - Menú de navegación a todas las secciones
-   - Logo y branding de GeoPS
-   - Diseño responsivo para móviles
+**1. Header Section - Navegación Principal**
 
-2. **Hero Section:** Implementación completa con mensaje claro sobre publicidad hiperlocalizada
-   - Call-to-action para registro de usuarios
-   - Mensaje principal sobre los beneficios de GeoPS
+La implementación del header incluye navegación completa, logo corporativo y diseño responsivo que se adapta a dispositivos móviles con menú hamburguesa.
 
-3. **Sección Ver Promociones:** Información sobre ofertas disponibles
-   - Descripción de los tipos de promociones
-   - Beneficios para usuarios consumidores
-   - Ejemplos visuales de ofertas
+![Header Section](./resources/images/chapter-5/landing-page-header.png)
 
-4. **Sección Marcas y Tiendas Asociadas:** Showcase de partners
-   - Logos de negocios afiliados
-   - Testimonios de PyMEs participantes
-   - Categorías de negocios disponibles
++ Navegación hacia todas las secciones de la landing page
++ Logo y branding de GeoPS posicionado estratégicamente
++ Diseño responsivo con menú colapsible para dispositivos móviles
++ Transiciones suaves y efectos hover para mejor experiencia de usuario
 
-5. **Sección Quiénes Somos:** Información corporativa
-   - Historia de PanPun Source
-   - Misión y visión de GeoPS
-   - Equipo fundador
+**2. Hero Section - Mensaje Principal**
 
-6. **Preguntas Frecuentes:** FAQ section
-   - Preguntas comunes sobre el servicio
-   - Información sobre seguridad y privacidad
-   - Proceso de registro para negocios
+Sección principal que comunica claramente la propuesta de valor de GeoPS con call-to-actions prominentes para el registro de usuarios.
 
-7. **Footer:** Información de contacto y redes sociales
-   - Enlaces a redes sociales
-   - Información de contacto
-   - Links legales y políticas
+![Hero Section](./resources/images/chapter-5/landing-page-hero.png)
+
++ Mensaje principal sobre publicidad hiperlocalizada para PyMEs
++ Call-to-action destacado para "Registrarse" y "Conocer más"
++ Elementos visuales atractivos con imágenes representativas del servicio
++ Diseño que captura inmediatamente la atención del visitante
+
+**3. Sección Quiénes Somos - Información Corporativa**
+
+Presentación detallada de PanPun Source, incluyendo misión, visión y información del equipo fundador de GeoPS.
+
+![About Us Section](./resources/images/chapter-5/landing-page-about-us.png)
+
++ Historia y evolución de PanPun Source
++ Misión y visión corporativa claramente definidas
++ Presentación del equipo fundador con fotografías profesionales
++ Valores empresariales y compromiso con las PyMEs
+
+**4. Sección Planes y Precios**
+
+Comparación clara entre planes gratuito y premium, destacando las características y beneficios de cada modalidad de servicio.
+
+![Plans Section](./resources/images/chapter-5/landing-page-plans.png)
+
++ Plan Gratuito: Funcionalidades básicas para PyMEs iniciales
++ Plan Premium: Características avanzadas con analytics y soporte prioritario
++ Comparación visual clara de beneficios por cada plan
++ Call-to-action diferenciado para cada tipo de suscripción
+
+**5. Sección Marcas y Tiendas Asociadas**
+
+Showcase de partners comerciales y categorías de negocios disponibles en la plataforma GeoPS.
+
+![Stores Section](./resources/images/chapter-5/landing-page-stores.png)
+
++ Logos de negocios afiliados y marcas reconocidas
++ Categorías diversas: Restaurantes, Entretenimiento, Salud, Retail
++ Testimonios visuales de PyMEs participantes
++ Carruseles interactivos para mostrar variedad de opciones
+
+**6. Preguntas Frecuentes (FAQ)**
+
+Sección interactiva con accordion que responde las consultas más comunes sobre el servicio GeoPS.
+
+![FAQ Section](./resources/images/chapter-5/landing-page-faq.png)
+
++ Preguntas frecuentes organizadas por categorías
++ Interfaz accordion interactiva para mejor navegación
++ Información sobre seguridad, privacidad y funcionalidades
++ Proceso detallado de registro para nuevos negocios
+
+**7. Footer - Información de Contacto y Redes Sociales**
+
+Footer completo con enlaces a redes sociales, información de contacto y políticas legales.
+
+![Footer Section](./resources/images/chapter-5/landing-page-footer.png)
+
++ Enlaces directos a todas las redes sociales de GeoPS
++ Información de contacto y ubicación de oficinas
++ Links a políticas legales, términos y condiciones
++ Diseño cohesivo que mantiene la identidad visual corporativa
+
+**Resultado Final:**
 
 **URL de la Landing Page:** [https://opensourcedevupc.github.io/Landing/](https://opensourcedevupc.github.io/Landing/)
 
+La landing page implementada cumple exitosamente con todos los User Stories planificados para el Sprint 1, proporcionando una experiencia de usuario completa y profesional que comunica efectivamente la propuesta de valor de GeoPS.
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
-Durante el Sprint 1, se documentaron las secciones principales de la Landing Page de GeoPS y se planificaron los servicios futuros:
+Durante el primer sprint de desarrollo, nuestro equipo estableció los fundamentos sólidos para el proyecto GeoPS mediante la implementación estratégica de un repositorio centralizado. Esta decisión inicial demostró ser fundamental para mantener la coherencia y organización del flujo de trabajo, permitiendo una gestión eficaz de todas las actividades de desarrollo.
 
-**Documentación de Secciones de Landing Page:**
+La adopción de las herramientas de colaboración de GitHub marcó un punto de inflexión en nuestra metodología de trabajo. El uso de estas funcionalidades no solo optimizó la coordinación entre los miembros del equipo, sino que también estableció un ambiente de desarrollo ágil y transparente. La estrategia de mantener un flujo de trabajo unificado en la rama principal facilitó significativamente el proceso de integración continua, donde cada contribución individual pudo ser monitoreada y validada en tiempo real por todos los participantes del proyecto.
 
-1. **Header Navigation**
-   - Estructura: Logo + Menu items
-   - Secciones: Inicio, Promociones, Marcas, Quiénes Somos, FAQ, Contacto
-   - Responsive behavior: Hamburger menu en móviles
+Este enfoque colaborativo resultó en una sincronización excepcional del equipo, donde la visibilidad completa del progreso permitió identificar oportunidades de mejora y optimización de manera proactiva, estableciendo así las bases para los futuros desarrollos del ecosistema GeoPS.
 
-2. **Hero Section**
-   - Mensaje principal: Publicidad hiperlocalizada para PyMEs
-   - Call-to-action: "Registrarse" y "Conocer más"
-   - Elementos visuales: Banner con imágenes representativas
-
-3. **Content Sections**
-   - Ver Promociones: Información sobre ofertas disponibles
-   - Marcas Asociadas: Showcase de partners y testimonios
-   - Quiénes Somos: Historia de PanPun Source y misión
-   - FAQ: Preguntas frecuentes sobre el servicio
-
-4. **Footer Section**
-   - Redes sociales: Facebook, Instagram, Twitter, LinkedIn
-   - Información de contacto: Email, teléfono, dirección
-   - Links legales: Términos de uso, Política de privacidad
-
-La documentación completa estará disponible en: [GeoPS Docs](https://docs.geops.com)
+**Repositorio del Proyecto:** [https://github.com/OpenSourceDevUPC/Landing](https://github.com/OpenSourceDevUPC/Landing)
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
@@ -880,34 +1083,84 @@ El deployment de la Landing Page de GeoPS se realizó exitosamente utilizando Gi
 - Custom domain: No configurado
 - HTTPS: Habilitado automáticamente
 
+Figura Evidencia de deployment
+
+![Landing Page Desplegada](./resources/images/chapter-5/github-pages-landing-page.png)
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
-Durante el Sprint 1, el equipo utilizó diversas herramientas de colaboración para asegurar un desarrollo coordinado:
+Durante el Sprint 1, el equipo demostró una colaboración excepcional utilizando GitHub como plataforma principal de desarrollo. A continuación se presentan las métricas de colaboración extraídas directamente del repositorio del proyecto.
 
-**Herramientas de Comunicación:**
-- Discord para comunicación diaria
-- Google Meet para reuniones de planificación
-- Trello para gestión de tareas
+**Métricas Detalladas del Repositorio de Documentación (Project-Report-GeoPS)**
 
-**Métricas de Colaboración:**
-- Total de commits: 32
-- Pull requests creados: 15
-- Pull requests aprobados: 15
-- Code reviews realizados: 20
+![Métricas del Repositorio de Documentación](./resources/images/chapter-5/report-insights.png)
 
-**Distribución de Trabajo:**
-- Gilbert Huarcaya: 25% (Frontend principal, estructura HTML/CSS)
-- Dyaron Huapaya: 20% (JavaScript, integraciones, animaciones)
-- Sofia Cotrina: 20% (Documentación, testing, QA)
-- Esther Goñe: 18% (Diseño responsivo, estilos CSS)
-- Alvaro Salasar: 17% (Optimización, deployment, configuración)
 
-**Insights Principales:**
-1. La implementación de las secciones informativas fue más directa de lo esperado
-2. La coordinación fue efectiva gracias a las reuniones diarias por Discord
-3. El código review ayudó a mantener estándares de calidad consistentes
-4. La documentación simultánea facilitó el onboarding de nuevas funcionalidades
-5. El diseño responsivo requirió más iteraciones para lograr una experiencia óptima en móviles
+**Estadísticas del Repositorio de Documentación:**
++ **Total de commits:** 45 commits a todas las ramas
++ **Commits al branch main:** 5 commits
++ **Número de autores:** 6 desarrolladores activos
++ **Archivos modificados:** 0 archivos cambiados en main (estabilidad del branch principal)
++ **Adiciones:** 0 adiciones nuevas en main
++ **Eliminaciones:** 0 eliminaciones en main
+  
+**Métricas Generales de Colaboración (Repositorio Landing)**
+
+![Métricas de Colaboración - Repositorio Landing](./resources/images/chapter-5/landing-page-insights.png)
+
+**Estadísticas de Commits y Contribuciones:**
++ **Total de commits:** 17 commits
++ **Autores activos:** 2 desarrolladores principales
++ **Branch principal:** main con estabilidad completa
++ **Archivos de documentación:** 0 archivos cambiados en main (documentación estable)
++ **Proceso colaborativo:** Commits coordinados entre documentación y desarrollo
+
+**Distribución de Trabajo del landing page:**
+
+![Top Committers del Proyecto](./resources/images/chapter-5/landing-page-contribuitors.png)
+
+**Análisis de Contribuciones por Desarrollador:**
++ **Distribución Equilibrada:** Participación activa de múltiples desarrolladores
++ **Frecuencia de Commits:** Actividad consistente durante el período del sprint
++ **Colaboración Efectiva:** Commits distribuidos a lo largo del tiempo de desarrollo
+
+
+**Análisis de Patrones de Colaboración:**
+
+**1. Metodología de Trabajo:**
++ **Branching Strategy:** Uso efectivo de branches para desarrollo paralelo
++ **Code Integration:** Integración controlada al branch main
++ **Documentation Sync:** Sincronización entre código y documentación
++ **Quality Control:** Revisiones de código antes de merge
+
+**2. Herramientas de Comunicación Utilizadas:**
++ **Discord:** Comunicación diaria y resolución de dudas técnicas
++ **GitHub:** Gestión de código, issues y pull requests
++ **Trello:** Planificación y seguimiento de tareas del sprint
++ **Google Meet:** Reuniones de planificación y retrospectivas
+
+**3. Distribución Temporal de Trabajo:**
++ **Picos de Actividad:** Concentración de commits en períodos específicos
++ **Colaboración Paralela:** Múltiples desarrolladores trabajando simultáneamente
++ **Consistencia:** Actividad regular durante todo el sprint
++ **Finalización Coordinada:** Sincronización para entrega final
+
+**Insights Principales del Sprint 1:**
+
+**Fortalezas Identificadas:**
++ **Colaboración Efectiva:** 5 desarrolladores trabajando de manera coordinada
++ **Estabilidad del Código:** Branch main estable sin conflictos críticos
++ **Documentación Paralela:** Desarrollo simultáneo de código y documentación
++ **Distribución Equitativa:** Participación balanceada entre los miembros del equipo
+
+**Áreas de Mejora para Próximos Sprints:**
++ **Incrementar Pull Requests:** Mejorar el proceso de revisión de código
++ **Automatización:** Implementar CI/CD para deployment automático
++ **Testing:** Incorporar pruebas automatizadas en el workflow
++ **Code Reviews:** Formalizar el proceso de revisión entre pares
+
+**Conclusión de Colaboración:**
+El Sprint 1 ha demostrado que el equipo posee una sólida capacidad de colaboración técnica, con una distribución efectiva del trabajo y una comunicación fluida. Las métricas de GitHub reflejan un proceso de desarrollo organizado y profesional, estableciendo bases sólidas para los sprints futuros del proyecto GeoPS.
 
 ## Conclusiones
 

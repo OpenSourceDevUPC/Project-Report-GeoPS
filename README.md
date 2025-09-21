@@ -177,24 +177,26 @@ URL del Repositoria del Project Report:
 
   <h2 align="center">Nuestro Equipo</h2>
 
-<div align="center">
+  <div align="center">
+  
+  <img src="assets/chapter-i/Perfil_Alessandra.jpg" width="150"><br>
+  **Alessandra**
+  
+  <img src="assets/chapter-i/Perfil_Alvaro.jpg" width="150"><br>
+  **Álvaro**
+  
+  <img src="assets/chapter-i/Perfil_Dyron.jpg" width="150"><br>
+  **Dyron**
+  
+  <img src="assets/chapter-i/Perfil_Esther.jpg" width="150"><br>
+  **Esther**
+  
+  <img src="assets/chapter-i/Perfil_Gilbert.jpg" width="150"><br>
+  **Gilbert**
+  
+  </div>
 
-<img src="assets/chapter-i/Perfil_Alessandra.png" width="150"><br>
-**Alessandra**
-
-<img src="assets/chapter-i/Perfil_Alvaro.png" width="150"><br>
-**Álvaro**
-
-<img src="assets/chapter-i/Perfil_Dyron.png" width="150"><br>
-**Dyron**
-
-<img src="assets/chapter-i/Perfil_Esther.png" width="150"><br>
-**Esther**
-
-<img src="assets/chapter-i/Perfil_Gilbert.png" width="150"><br>
-**Gilbert**
-
-</div>
+  ---
 
 ### 1.2. Solution Profile
 

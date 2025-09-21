@@ -267,7 +267,7 @@ Con un **diseño responsive** que se adapta a cualquier dispositivo, **GeoPS Lab
   El impacto económico y social de la problemática es considerable. Para las PyMEs, representa pérdidas al no captar clientes cercanos ni medir el retorno de inversión en publicidad. El BID (2020) estima que la digitalización puede aumentar en más de 30% las ventas de pequeñas empresas que adoptan herramientas tecnológicas. Para los consumidores, implica ahorro de tiempo y dinero al acceder a ofertas relevantes en el momento oportuno. GeoPS Web busca capturar ese valor mediante un modelo accesible y medible desde el navegador.
 
 <div align="center">
-  <img src="./assets/chapter-i/how much.png" alt="How much — KPI Chart" width="700">
+  <img src="assets/chapter-i/how much.png" alt="How much — KPI Chart" width="700">
   <p><em>Figura: How much — KPIs objetivo</em></p>
 </div>
 

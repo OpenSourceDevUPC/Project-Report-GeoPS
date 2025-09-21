@@ -25,7 +25,7 @@
 
 | Integrante                              | Código         |
 |-----------------------------------------|----------------|
-| Huapaya Galindo, Dyaron                 | U202322855     |
+| Huapaya Galindo, Dyron                 | U202322855     |
 | Huarcaya Matias, Gilbert Alonso         | u202322187     |
 |                                         |                |
 |                                         |                |
@@ -343,7 +343,7 @@ Se utilizó el modelo C4 (Contexto, contenedor y componentes), el cual permite v
   #### 4.6.1. Design-Level Event Storming  
   #### 4.6.2. Software Architecture Context Diagram  
   
-  <div align="center"><img src="resource/imgs/capitulo-4/"></div>
+  <div align="center"><img src="resource/imgs/capitulo-4/GeoPS_System_Context.png"></div>
   
 El Diagrama de Contexto del sistema de GeoPS muestra una visión de alto nivel de sus componentes y cómo interactúan con usuarios y servicios externos. Este diagrama es útil para comprender la funcionalidad del sistema y sus dependencias.
 
@@ -371,7 +371,7 @@ Para su funcionamiento, GeoPS se apoya en varios servicios externos:
   
   #### 4.6.3. Software Architecture Container Diagrams  
   
-  <div align="center"><img src="resource/imgs/capitulo-4/"></div>
+  <div align="center"><img src="resource/imgs/capitulo-4/GeoPS-Container_Architecture.png"></div>
 
 Los usuarios principales, Consumidor y Propietario de Negocio, acceden al sistema a través de distintas aplicaciones web. Los Consumidores utilizan una Aplicación Web , que les permite explorar ofertas y promociones. Por otro lado, los Propietarios de Negocio acceden a una Aplicación Web, donde gestionan sus campañas publicitarias. Ambas aplicaciones se comunican con el backend a través de un API Gateway.
 
@@ -419,7 +419,7 @@ Este diagrama ilustra la arquitectura modular y escalable de GeoPS, mostrando c�
   
   #### 4.6.4. Software Architecture Components Diagrams
   - **Servicio de Analytics**
-<div align="center"><img src="resource/imgs/capitulo-4/"></div>
+<div align="center"><img src="resource/imgs/capitulo-4/GeoPS-Analytics_Service_Components.png"></div>
 
 El diagrama muestra la arquitectura de componentes del Servicio de Analítica de GeoPS, detallando cómo se gestionan y procesan los datos para la generación de reportes y métricas. Este servicio es fundamental para que los Propietarios de Negocio puedan medir el rendimiento de sus campañas.
 
@@ -444,7 +444,7 @@ Una vez que los datos o solicitudes ingresan al sistema, son procesados por los 
   
   - **Servicio de Campañas**
 
-<div align="center"><img src="resource/imgs/capitulo-4/"></div>
+<div align="center"><img src="resource/imgs/capitulo-4/GeoPS-Analytics_Service_Components-Campaign.png"></div>
 
 Este diagrama detalla la arquitectura de los componentes del Servicio de Analítica de GeoPS, mostrando cómo se gestionan, procesan y almacenan los datos de las campañas publicitarias para generar métricas e informes.
 
@@ -469,7 +469,7 @@ Finalmente, el servicio ofrece dos componentes para la salida de la información
 
   - **Servicio de Geolocalización**
 
-<div align="center"><img src="resource/imgs/capitulo-4/"></div>
+<div align="center"><img src="resource/imgs/capitulo-4/GeoPS-Geolocation_Service_Components.png"></div>
 
 Este diagrama detalla la arquitectura de componentes del Servicio de Geoposicionamiento de GeoPS, mostrando cómo se gestionan las funcionalidades basadas en la ubicación. El servicio permite a la plataforma determinar la proximidad geográfica y filtrar contenido relevante para los usuarios.
 

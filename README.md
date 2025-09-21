@@ -177,30 +177,24 @@ URL del Repositoria del Project Report:
 
   <h2 align="center">Nuestro Equipo</h2>
 
-<p align="center">
-  <img src="../assets/team/Perfil_Alessandra.png" alt="Alessandra" width="200"/><br>
-  <b>Alessandra</b>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="../assets/team/Perfil_Alvaro.png" alt="Álvaro" width="200"/><br>
-  <b>Álvaro</b>
-</p>
+<img src="assets/chapter-i/Perfil_Alessandra.png" width="150"><br>
+**Alessandra**
 
-<p align="center">
-  <img src="../assets/team/Perfil_Dyron.png" alt="Dyron" width="200"/><br>
-  <b>Dyron</b>
-</p>
+<img src="assets/chapter-i/Perfil_Alvaro.png" width="150"><br>
+**Álvaro**
 
-<p align="center">
-  <img src="../assets/team/Perfil_Esther.png" alt="Esther" width="200"/><br>
-  <b>Esther</b>
-</p>
+<img src="assets/chapter-i/Perfil_Dyron.png" width="150"><br>
+**Dyron**
 
-<p align="center">
-  <img src="../assets/team/Perfil_Gilbert.png" alt="Gilbert" width="200"/><br>
-  <b>Gilbert</b>
-</p>
+<img src="assets/chapter-i/Perfil_Esther.png" width="150"><br>
+**Esther**
+
+<img src="assets/chapter-i/Perfil_Gilbert.png" width="150"><br>
+**Gilbert**
+
+</div>
 
 ### 1.2. Solution Profile
 
@@ -343,6 +337,10 @@ Con un **diseño responsive** que se adapta a cualquier dispositivo, **GeoPS Lab
 ---
   
   ##### 1.2.2.4. Lean UX Canvas
+
+  <div align="center">
+  <img src="assets/chapter-i/Lean_UX_Canvas.png" alt="Lean UX Canvas" width="600">
+</div>
 
 ### 1.3. Segmentos objetivos
 

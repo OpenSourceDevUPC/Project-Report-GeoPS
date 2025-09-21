@@ -288,7 +288,47 @@ En esta sección, se describe la guía de nuestra landing page con sus caracter�
   #### 4.3.1. Landing Page Wireframe  
   #### 4.3.2. Landing Page Mock-up 
 ### 4.4. Web Applications UX/UI Design
-  #### 4.4.1. Web Applications Wireframes  
+
+  #### 4.4.1. Web Applications Wireframes
+**Inicio de Sesión**
+<div align="center"><img src="resources/imgs/capitulo-4/loginandregister-geops-wireframe.png" alt="Inicio de Sesión y Registro GeoPS"></div>
+
+**Perfil**
+<div align="center"><img src="resources/imgs/capitulo-4/profileclient-geops-wireframe.png" alt="Perfil de Cliente GeoPs"></div>
+<div align="center"><img src="resources/imgs/capitulo-4/editprofileclient-geops-wireframe.png" alt="Editar Perfil de Cliente GeoPs"></div>
+
+**Home**
+<div align="center"><img src="resources/imgs/capitulo-4/home-geops-wireframe.png" alt="Página Principal GeoPs"></div>
+
+**Ofertas (Vista de Categorías)**
+<div align="center"><img src="resources/imgs/capitulo-4/home-seemore-geops-wireframe.png" alt="Ofertas por Categoría GeoPs"></div>
+
+**Ofertas**
+<div align="center"><img src="resources/imgs/capitulo-4/offers-geops-wireframe.png" alt="Listado de Ofertas GeoPs"></div>
+
+**Detalle de Oferta**
+<div align="center"><img src="resources/imgs/capitulo-4/seemore-geops-wireframe.png" alt="Detalle de Oferta GeoPs"></div>
+
+**Categorías**
+<div align="center"><img src="resources/imgs/capitulo-4/categories-geops-wireframe.png" alt="Vista de Categorias GeoPs"></div>
+
+**Favoritos**
+<div align="center"><img src="resources/imgs/capitulo-4/favs-geops-wireframe.png" alt="Favoritos GeoPs"></div>
+
+**Mis Cupones**
+<div align="center"><img src="resources/imgs/capitulo-4/coupons-geops-wireframe.png" alt="Mis Cupones GeoPs"></div>
+
+**Notificaciones**
+<div align="center"><img src="resources/imgs/capitulo-4/noticlient-geops-wireframe.png" alt="Notificaciones de Cliente GeoPs"></div>
+<div align="center"><img src="resources/imgs/capitulo-4/clientseennoti-geops-wireframe.png" alt="Preferencia de Notificaciones GeoPs"></div>
+<div align="center"><img src="resources/imgs/capitulo-4/noticlear-geops-wireframe.png" alt="Listado de Notificaciones GeoPs"></div>
+
+**Carrito de Compra**
+<div align="center"><img src="resources/imgs/capitulo-4/cart-geops-wireframe.png" alt="Carrito de Compras GeoPs"></div>
+
+**Proceso de Pago**
+<div align="center"><img src="resources/imgs/capitulo-4/payment-geops-wireframe.png" alt="Proceso de Pago GeoPs"></div>
+
   #### 4.4.2. Web Applications Wireflow Diagrams  
   #### 4.4.3. Web Applications Mock-ups  
   #### 4.4.4. Web Applications User Flow Diagrams  

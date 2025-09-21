@@ -56,97 +56,93 @@ URL del Repositoria del Project Report:
 
 <strong>*Entrega TB1:*</strong>
 
-+ Desarrollo de Actividades:
-+ Evidencias de colaboracion y commits:
+- Desarrollo de Actividades:
+- Evidencias de colaboracion y commits:
 
 ---
 # Contenido
+- [Project Report Collaboration Insights](#project-report-collaboration-insights)
 - [Contenido](#contenido)
 - [Student Outcome](#student-outcome)
-- [Capítulo 1: Introducción](#capitulo-1-introducción)
-  - [1.1. Startup Profile](#11-startup-profile)
-    - [1.1.1. Descripción de la StartUp](#111-descripcion-del-startup)
-    - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
-  - [1.2. Solution Profile](#12-solution-profile)
-    - [1.2.1 Antecedentes y problemática](#121-antecedentes-y-problemática)
-    - [1.2.2 Lean UX Process](#122-lean-ux-process)
-      - [1.2.2.1 Lean UX Problem Statement](#1221-lean-ux-problem-statements)
-      - [1.2.2.2 Lean UX Assumptions](#1222-lean-ux-assumptions)
-      - [1.2.2.3 Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
-      - [1.2.2.4 Lean UX Canvas](#1224-lean-ux-canvas)
-  - [1.3. Segmentos Objetivo](#13-segmentos-objetivos)
-  
-- [Capítulo 2: Requirements Elicitation & Analysis](#capitulo-2-requirements-elicitation--analysis)
-  - [2.1. Competidores](#21-competidores)
-    - [2.1.1. Análisis competitivo](#211-analisis-competitivo)
-    - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
-  - [2.2 Entrevistas](#22-entrevistas)
-    - [2.2.1 Diseño de entrevistas](#221-diseño-de-entrevistas)
-    - [2.2.2 Registro de Entrevistas](#222-registro-de-entrevistas)
-    - [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
-  - [2.3. Needfinding](#23-needfinding)
-    - [2.3.1. User Personas](#231-user-personas)
-    - [2.3.2 User Task Matrix](#232--user-task-matrix)
-    - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
-    - [2.3.4. Empathy Mapping](#234-empathy-mapping)
-    - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
-  - [2.4. Ubiquitous Language](#24-ubiquitous-language)
-    
-- [Capítulo 3: Requirements Specification](#capitulo-3-requirements-specification)
-  - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
-  - [3.2. User Stories](#32-user-stories)
-  - [3.3. Impact Mapping](#33-impact-mapping)
-  - [3.4. Product Backlog](#34-product-backlog)
-
-- [Capítulo 4: Product Design](#capítulo-4-product-design)
-  - [4.1 Style Guidelines](#41-style-guidelines)
-    - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
-    - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
-  - [4.2. Information Architecture](#42-information-architecture)
-    - [4.2.1. Organization Systems](#421-organization-systems)
-    - [4.2.2. Labeling Systems](#422-labeling-systems)
-    - [4.2.3. SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
-    - [4.2.4. Searching Systems](#424-searching-systems)
-    - [4.2.5. Navigation Systems](#425-navigation-systems)
-  - [4.3 Landing Page UI Design](#43-landing-page-ui-design)
-    - [4.3.1. Landing Page Wireframe](#431-landing-page-wireframe)
-    - [4.3.2. Landing Page Mock-up](#432-landing-page-mock-up)
-  - [4.4 Web Applications UX/UI Design](#44-web-applications-uxui-design)
-    - [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)
-    - [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
-    - [4.4.3. Web Applications Mock-ups](#443-web-applications-mock-ups)
-    - [4.4.4. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)
-  - [4.5. Web Applications Prototyping](#45-web-applications-prototyping)
-  - [4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
-    - [4.6.1. Software Architecture Context Diagram](#461-software-architecture-context-diagram)
-    - [4.6.2. Software Architecture Container Diagrams](#462-software-architecture-container-diagrams)
-    - [4.6.3. Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)
-  - [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
-    - [4.7.1. Class Diagrams](#471-class-diagrams)
-    - [4.7.2. Class Dictionary](#472-class-dictionary)
-  - [4.8. Database Design](#48-database-design)
-    - [4.8.1. Database Diagram](#481-database-diagram)
-    
-- [Capítulo 5: Product Implementation, Validation & Deployment](#capítulo-5-product-implementation-validation--deployment)
-  - [5.1. Software Configuration Management](#51-software-configuration-management)
-    - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
-    - [5.1.2. Source Code Management](#512-source-code-management)
-    - [5.1.3. Source Code Style Guide & Conventions](#513-source-code-style-guide--conventions)
-    - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
-  - [5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)
+  - [Capitulo 1: Introducción](#capitulo-1-introducción)
+    - [1.1. Startup Profile](#11-startup-profile)
+      - [1.1.1. Descripcion del Startup](#111-descripcion-del-startup)
+      - [1.1.2. Perfiles de Integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
+    - [1.2. Solution Profile](#12-solution-profile)
+      - [1.2.1. Antecedentes y problemática](#121-antecedentes-y-problemática)
+      - [1.2.2. Lean UX Process](#122-lean-ux-process)
+        - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
+        - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
+        - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
+        - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
+    - [1.3. Segmentos objetivos](#13-segmentos-objetivos)
+  - [Capitulo 2: Requirements Elicitation \& Analysis](#capitulo-2-requirements-elicitation--analysis)
+    - [2.1. Competidores](#21-competidores)
+      - [2.1.1. Analisis competitivo](#211-analisis-competitivo)
+      - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
+    - [2.2. Entrevistas](#22-entrevistas)
+      - [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)
+      - [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)
+      - [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
+    - [2.3. Needfinding](#23-needfinding)
+      - [2.3.1. User Personas](#231-user-personas)
+      - [2.3.2  User Task Matrix](#232--user-task-matrix)
+      - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
+      - [2.3.4. Empathy Mapping](#234-empathy-mapping)
+      - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
+    - [2.4. Ubiquitous Language](#24-ubiquitous-language)
+  - [Capitulo 3: Requirements Specification](#capitulo-3-requirements-specification)
+    - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
+    - [3.2. User Stories](#32-user-stories)
+    - [3.3. Impact Mapping](#33-impact-mapping)
+    - [3.4. Product Backlog](#34-product-backlog)
+  - [Capítulo 4: Product Design](#capítulo-4-product-design)
+    - [4.1. Style Guidelines](#41-style-guidelines)
+      - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
+      - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
+    - [4.2. Information Architecture](#42-information-architecture)
+      - [4.2.1. Organization Systems](#421-organization-systems)
+      - [4.2.2. Labeling Systems](#422-labeling-systems)
+      - [4.2.3. SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
+      - [4.2.4. Searching Systems](#424-searching-systems)
+      - [4.2.5. Navigation Systems](#425-navigation-systems)
+    - [4.3. Landing Page UI Design](#43-landing-page-ui-design)
+      - [4.3.1. Landing Page Wireframe](#431-landing-page-wireframe)
+      - [4.3.2. Landing Page Mock-up](#432-landing-page-mock-up)
+    - [4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)
+      - [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)
+      - [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
+      - [4.4.3. Web Applications Mock-ups](#443-web-applications-mock-ups)
+      - [4.4.4. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)
+    - [4.5. Web Applications Prototyping.](#45-web-applications-prototyping)
+    - [4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
+      - [4.6.1. Software Architecture Context Diagram](#461-software-architecture-context-diagram)
+      - [4.6.2. Software Architecture Container Diagrams](#462-software-architecture-container-diagrams)
+      - [4.6.3. Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)
+    - [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
+      - [4.7.1. Class Diagrams](#471-class-diagrams)
+      - [4.7.2. Class Dictionary](#472-class-dictionary)
+    - [4.8. Database Design](#48-database-design)
+      - [4.8.1. Database Diagram](#481-database-diagram)
+  - [Capítulo 5: Product Implementation, Validation \& Deployment](#capítulo-5-product-implementation-validation--deployment)
+    - [5.1. Software Configuration Management](#51-software-configuration-management)
+      - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
+      - [5.1.2. Source Code Management](#512-source-code-management)
+      - [5.1.3. Source Code Style Guide \& Conventions](#513-source-code-style-guide--conventions)
+      - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
+    - [5.2. Landing Page, Services \& Applications Implementation](#52-landing-page-services--applications-implementation)
     - [5.2.1. Sprint 1](#521-sprint-1)
       - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
       - [5.2.1.2. Aspect Leaders and Collaborators](#5212-aspect-leaders-and-collaborators)
       - [5.2.1.3. Sprint Backlog 1](#5213-sprint-backlog-1)
-      - [5.2.1.4. Development Evidence for Sprint Review ](#5214-development-evidence-for-sprint-review)
+      - [5.2.1.4. Development Evidence for Sprint Review](#5214-development-evidence-for-sprint-review)
       - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
       - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
       - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
       - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
-      
-- [Conclusiones](#conclusiones)
-- [Bibliografía](#bibliografía)
-- [Anexos](#anexos)
+  - [Conclusiones](#conclusiones)
+  - [Anexos](#anexos)
+  - [Bibliografía](#bibliografía)
 
 
 
@@ -303,9 +299,87 @@ En esta sección, se describe la guía de nuestra landing page con sus caracter�
   #### 4.6.3. Software Architecture Components Diagrams
 ### 4.7. Software Object-Oriented Design
   #### 4.7.1. Class Diagrams  
+  
+El diagrama de clases de GeoPS está organizado siguiendo los principios de Domain-Driven Design (DDD), dividido en diferentes bounded contexts que representan las áreas principales del negocio:
+
+<div align="center"><img src="resources/imgs/capitulo-4/diagrama-de-clases-geops.png" alt="Diagrama de Clases GeoPS"></div>
+
+**Bounded Contexts identificados:**
+
+1. **User Management BC**: Gestiona la autenticación y autorización de usuarios
+2. **Business & Campaigns BC**: Maneja las empresas y sus campañas publicitarias
+3. **Domain Events**: Eventos del dominio para comunicación entre contextos
+4. **Interaction BC**: Gestiona las interacciones de los usuarios con las campañas
+5. **Analytics & Tracking BC**: Proporciona métricas y seguimiento de campañas
+
   #### 4.7.2. Class Dictionary 
+
+**User Management BC**
+
+| **Clase** | **Atributos** | **Descripción** |
+|-----------|---------------|-----------------|
+| **User** | - id: int<br>- email: string<br>- username: string<br>- password: string<br>- profilePicture: string<br>- createdAt: DateTime<br>- lastLoginAt: void | Representa a los usuarios del sistema. Contiene la información básica de autenticación y perfil de cada usuario registrado en la plataforma. |
+| **UserRepository** | - authenticateUser(email: string, password: string): User | Repositorio que maneja la persistencia y recuperación de datos de usuarios. Proporciona métodos para autenticar usuarios en el sistema. |
+| **BusinessOwner** | - businessType: string<br>- businessName: string<br>- businessAddress: string<br>- contactInfo: string | Extiende la clase User para representar específicamente a los propietarios de negocios que publican campañas en la plataforma. |
+| **Consumer** | - preferences: json<br>- location: string | Extiende la clase User para representar a los consumidores que visualizan y interactúan con las campañas publicitarias. |
+
+**Business & Campaigns BC**
+
+| **Clase** | **Atributos** | **Descripción** |
+|-----------|---------------|-----------------|
+| **Business** | - id: int<br>- businessId: int<br>- name: string<br>- category: string<br>- address: string<br>- longitude: float<br>- latitude: float<br>- description: string<br>- contactInfo: string<br>- status: string | Representa las empresas registradas en la plataforma. Almacena información del negocio incluyendo ubicación geográfica para el targeting de campañas. |
+| **Campaign** | - id: int<br>- businessId: int<br>- title: string<br>- description: string<br>- startDate: Date<br>- endDate: Date<br>- budget: decimal<br>- status: string<br>- targetAudience: string<br>- createdAt: DateTime<br>- updatedAt: void | Representa las campañas publicitarias creadas por las empresas. Contiene toda la información necesaria para la gestión y targeting de las promociones. |
+| **Offer** | - id: int<br>- campaignId: int<br>- title: string<br>- description: string<br>- discountType: string<br>- discountValue: decimal<br>- validFrom: DateTime<br>- validUntil: DateTime<br>- isActive: void | Representa las ofertas específicas dentro de una campaña. Define los descuentos y promociones que se ofrecen a los consumidores. |
+| **BusinessRepository** | - findById(id: int): Campaign | Repositorio para la gestión de datos de empresas, proporcionando métodos para recuperar información de campañas por identificador. |
+
+**Domain Events**
+
+| **Clase** | **Atributos** | **Descripción** |
+|-----------|---------------|-----------------|
+| **CampaignLaunched** | - campaignId: int<br>- businessId: int<br>- launchDate: DateTime | Evento del dominio que se dispara cuando una nueva campaña es lanzada. Permite la comunicación entre bounded contexts. |
+| **OfferPublished** | - offerId: int<br>- campaignId: int<br>- publishDate: DateTime | Evento que notifica cuando una oferta ha sido publicada y está disponible para los consumidores. |
+| **NotificationSent** | - notificationId: int<br>- userId: int<br>- campaignId: int<br>- timestamp: DateTime | Evento que registra el envío de notificaciones a usuarios sobre campañas relevantes. |
+
+**Interaction BC**
+
+| **Clase** | **Atributos** | **Descripción** |
+|-----------|---------------|-----------------|
+| **UserActivity** | - id: int<br>- userId: int<br>- activityType: string<br>- timestamp: DateTime<br>- metadata: json | Registra las actividades de los usuarios en la plataforma, como visualizaciones, clics e interacciones con campañas. |
+| **Notification** | - id: int<br>- userId: int<br>- title: string<br>- message: string<br>- type: string<br>- isRead: bool<br>- createdAt: DateTime<br>- readAt: void | Gestiona las notificaciones enviadas a los usuarios sobre ofertas y campañas relevantes basadas en su ubicación y preferencias. |
+| **NotificationRepository** | - sendNotification(notification: Notification)<br>- markAsRead(notificationId: int): UserActivity() | Repositorio que maneja la persistencia y gestión de notificaciones, incluyendo el envío y marcado como leídas. |
+
+**Analytics & Tracking BC**
+
+| **Clase** | **Atributos** | **Descripción** |
+|-----------|---------------|-----------------|
+| **CampaignAnalytics** | - campaignId: int<br>- impressions: int<br>- clicks: int<br>- conversions: int<br>- reach: int<br>- generatedRevenue: void | Proporciona métricas detalladas sobre el rendimiento de las campañas, incluyendo alcance, interacciones y conversiones. |
+| **AnalyticsService** | - calculateCampaignMetrics(campaignId: int): CampaignAnalytics | Servicio que calcula y genera métricas de rendimiento para las campañas publicitarias. |
+
 ### 4.8. Database Design
   #### 4.8.1. Database Diagram 
+  
+El diseño de la base de datos de GeoPS está estructurado para soportar eficientemente las funcionalidades de geolocalización, gestión de campañas y análisis de datos. La base de datos está optimizada para consultas geoespaciales y seguimiento de interacciones de usuarios.
+
+<div align="center"><img src="resources/imgs/capitulo-4/diagrama-db.png" alt="Diagrama de Base de Datos GeoPS"></div>
+
+**Descripción de las principales entidades:**
+
+**Gestión de Usuarios:**
+- **Campaigns**: Almacena información de las campañas publicitarias con campos para targeting geográfico y temporal
+- **Business**: Contiene datos de las empresas registradas incluyendo coordenadas geográficas
+- **Consumer**: Información de los consumidores con preferencias de ubicación
+- **GUser**: Tabla principal de usuarios del sistema
+
+**Análisis y Seguimiento:**
+- **CampaignAnalytics**: Métricas de rendimiento de campañas
+- **BusinessOwner**: Datos específicos de propietarios de negocios
+- **UserActivity**: Registro de actividades de usuarios para análisis
+
+**Comunicación:**
+- **Notification**: Sistema de notificaciones push basadas en ubicación
+- **BusinessDomain**: Categorización de dominios de negocio
+
+Las relaciones entre tablas están diseñadas para optimizar consultas de proximidad geográfica y análisis de comportamiento de usuarios, elementos clave para el éxito de la plataforma de publicidad geolocalizada. 
 
   ## Capítulo 5: Product Implementation, Validation & Deployment
 ### 5.1. Software Configuration Management

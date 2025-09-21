@@ -28,7 +28,7 @@
 | Huapaya Galindo, Dyaron                 | U202322855     |
 | Huarcaya Matias, Gilbert Alonso         | u202322187     |
 | Salazar Caballero, Alvaro Fabrizzio     | u202321941     |
-|                                         |                |
+| Cotrina Siclla, Sofia Alessandra        | u20231b120     |
 |                                         |                |
 
 
@@ -89,8 +89,8 @@ URL del Repositoria del Project Report:
     - [2.3.2 User Task Matrix](#232--user-task-matrix)
     - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
     - [2.3.4. Empathy Mapping](#234-empathy-mapping)
-    - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
-  - [2.4. Ubiquitous Language](#24-ubiquitous-language)
+  - [2.4. Big Picture Event Storming](#24-big-picture-event-storming)
+  - [2.5. Ubiquitous Language](#25-ubiquitous-language)
     
 - [Capítulo 3: Requirements Specification](#capitulo-3-requirements-specification)
   - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)

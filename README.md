@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/DevWebUPC/report/blob/main/resources/imgs/UPC_logo_transparente.png" alt="Logo-UPC" width="150">
+<img src="resources/imgs/UPC_logo_transparente.png" alt="Logo-UPC" width="150">
   
 ## Universidad Peruana de Ciencias Aplicadas
 
@@ -90,7 +90,7 @@ URL del Repositoria del Project Report:
       - [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
     - [2.3. Needfinding](#23-needfinding)
       - [2.3.1. User Personas](#231-user-personas)
-      - [2.3.2 User Task Matrix](#232--user-task-matrix)
+      - [2.3.2 User Task Matrix](#232-user-task-matrix)
       - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
       - [2.3.4. Empathy Mapping](#234-empathy-mapping)
       - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
@@ -106,10 +106,14 @@ URL del Repositoria del Project Report:
       - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
     - [4.2. Information Architecture](#42-information-architecture)
       - [4.2.1. Organization Systems](#421-organization-systems)
+        - [Organización Visual del Contenido](#organización-visual-del-contenido)
+        - [Esquemas de Categorización del Contenido](#esquemas-de-categorización-del-contenido)
       - [4.2.2. Labeling Systems](#422-labeling-systems)
       - [4.2.3. SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
       - [4.2.4. Searching Systems](#424-searching-systems)
       - [4.2.5. Navigation Systems](#425-navigation-systems)
+        - [Navegación del Landing Page](#navegación-del-landing-page)
+        - [Navegación de la aplicación web](#navegación-de-la-aplicación-web)
     - [4.3. Landing Page UI Design](#43-landing-page-ui-design)
       - [4.3.1. Landing Page Wireframe](#431-landing-page-wireframe)
       - [4.3.2. Landing Page Mock-up](#432-landing-page-mock-up)
@@ -120,7 +124,7 @@ URL del Repositoria del Project Report:
       - [4.4.4. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)
     - [4.5. Web Applications Prototyping.](#45-web-applications-prototyping)
     - [4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
-      - [4.6.1. Domain-Driver Event Storming](#461-domain-driven-event-storming)
+      - [4.6.1. Design-Level Event Storming](#461-design-level-event-storming)
       - [4.6.2. Software Architecture Context Diagram](#462-software-architecture-context-diagram)
       - [4.6.3. Software Architecture Container Diagrams](#463-software-architecture-container-diagrams)
       - [4.6.4. Software Architecture Components Diagrams](#464-software-architecture-components-diagrams)
@@ -323,13 +327,180 @@ En esta sección, se describe la guía de nuestra landing page con sus caracter�
 
 #### 4.2.1. Organization Systems
 
+Se aplicarán distintos sistemas de organización de contenido tanto visual como estructural, adaptados al flujo operativo de nuestros usuarios (consumidores y negocios locales). Esto permitirá ofrecer una experiencia clara, intuitiva y eficaz durante el uso de la plataforma.
+
+##### Organización Visual del Contenido
+
+**Jerárquica:**
+En las pantallas principales, como el Dashboard de usuario y el panel de negocios, los elementos más importantes (promociones destacadas, métricas de campaña) estarán resaltados con mayor tamaño, color contrastante y posición superior.
+
+**Secuencial:**
+Utilizado en procesos como la creación de campañas publicitarias o el registro de preferencias de usuario. Se presentarán pasos guiados (wizard) que aseguren que tanto consumidores como negocios completen los procesos de manera ordenada y sin omitir información clave.
+
+**Matricial:**
+Aplicada en la visualización de datos cruzados, como patrones de movilidad de consumidores versus resultados de campañas. Los negocios podrán ver las relaciones entre ubicación, horario y efectividad publicitaria.
+
+##### Esquemas de Categorización del Contenido
+
+**Por Tópicos:**
+Será el sistema predominante en los menús de navegación. Las funcionalidades estarán agrupadas en temas específicos:
+
+_Para consumidores:_
+
+- Promociones cercanas
+- Favoritos
+- Historial de ofertas
+- Ajustes de privacidad
+
+_Para negocios:_
+
+- Campañas
+- Segmentación
+- Métricas
+- Configuración
+
+**Cronológico:**
+Usado en los reportes de campañas publicitarias (para negocios) y en el historial de notificaciones recibidas (para consumidores). La información se mostrará ordenada por fecha y hora, permitiendo un seguimiento preciso.
+
+**Alfabético:**
+Utilizado en listados como directorios de comercios o categorías de productos, facilitando la búsqueda rápida por nombre.
+
+**Según audiencia:**
+La experiencia estará personalizada según el segmento objetivo:
+
+- **Consumidores de ofertas locales:** acceso a promociones activas, historial de notificaciones, filtros de búsqueda por categoría, proximidad o momento del día.
+
+- **Dueños de negocios locales:** acceso a herramientas de creación de campañas, segmentación por patrones de movilidad, visualización de métricas en dashboards interactivos y configuración de notificaciones.
+
 #### 4.2.2. Labeling Systems
+
+En GeoPS se ha implementado un sistema de etiquetado claro y funcional, adaptado al entorno de consumo y gestión de campañas locales. El objetivo es reducir la carga cognitiva y facilitar la interacción rápida con la plataforma.
+
+**Principios utilizados:**
+
+**Simplicidad y claridad:**
+Se prioriza el uso de términos breves y familiares para cada segmento. Ejemplo para consumidores: "Ofertas cercanas", "Favoritos", "Historial". Ejemplo para negocios: "Campañas", "Segmentación", "Métricas".
+
+**Evitar ambigüedad:**
+Se evita la jerga técnica. Por ejemplo, se prefiere "Crear campaña" en lugar de "Configurar pauta publicitaria", o "Promoción activa" en lugar de "Anuncio en circulación".
+
+**Consistencia visual:**
+Todas las etiquetas siguen una presentación uniforme en botones, menús y formularios, asegurando que el usuario reconozca patrones de uso fácilmente.
 
 #### 4.2.3. SEO Tags and Meta Tags
 
+Las Meta Tags son esenciales para el posicionamiento de la plataforma en buscadores y para su correcta presentación en navegadores y redes sociales.
+
+**Meta Tags a utilizar en GeoPS:**
+
+**Título:**
+
+```html
+<title>GeoPS | Publicidad Hiperlocal y Contextual para Consumidores y Negocios</title>
+```
+
+**Codificación de caracteres:**
+
+```html
+<meta charset="UTF-8">
+```
+
+**Descripción:**
+
+```html
+<meta name="description" content="GeoPS es una aplicación web que conecta negocios locales con consumidores mediante publicidad hiperlocal y contextual. Ofrece promociones relevantes en el momento y lugar adecuado, cuidando la privacidad y simplicidad de uso.">
+```
+
+**Palabras clave:**
+
+```html
+<meta name="keywords" content="publicidad local, promociones cercanas, geolocalización, campañas digitales, consumidores, negocios locales, ofertas hiperlocales, marketing contextual, GeoPS">
+```
+
+**Autor y Derechos de Autor:**
+
+```html
+<meta name="author" content="GeoPS Team - UPC">
+<meta name="copyright" content="GeoPS © 2025. Todos los derechos reservados.">
+```
+
+**Viewport:**
+
+```html
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+```
+
 #### 4.2.4. Searching Systems
 
+Los sistemas de búsqueda en GeoPS facilitan el acceso rápido a promociones o campañas según el segmento objetivo.
+
+**Opciones de búsqueda en la aplicación:**
+
+**Barra de búsqueda global:**
+
+- Presente en el encabezado superior.
+- Permite búsquedas generales tanto para consumidores como para negocios.
+- Incluye icono de lupa y placeholder "Buscar promociones o campañas".
+
+**Filtros por módulo:**
+
+_Para consumidores:_
+
+- Categoría de producto/servicio
+- Distancia/proximidad
+- Horario de vigencia
+- Negocio emisor de la promoción
+
+_Para negocios:_
+
+- Campañas activas/inactivas
+- Segmentación (ubicación, rango horario, movilidad)
+- Tipo de promoción
+- Resultados por fecha
+
+**Visualización:**
+
+- Resultados organizados por relevancia o cercanía.
+- Paginación de 10 resultados por página.
+- Indicadores visuales de color para destacar promociones activas.
+- Acciones rápidas (Guardar, Editar, Compartir).
+
 #### 4.2.5. Navigation Systems
+
+Los sistemas de navegación guiarán a los usuarios a través del Landing Page y la aplicación web, adaptados a cada segmento objetivo.
+
+##### Navegación del Landing Page
+
+**Menú principal:**
+Logo GeoPS, Productos, Negocios, Nosotros, Planes, Registrarse, Iniciar Sesión.
+
+**Secciones principales:**
+
+- **Hero section:** "Publicidad hiperlocal y contextual al alcance de todos" con botón "Comenzar ahora".
+- **Características:** Tarjetas con los beneficios para consumidores y negocios.
+- **Nosotros:** Información sobre la startup, misión y visión.
+- **Planes:** Opciones diferenciadas para consumidores (gratis) y negocios (básico, premium).
+- **Contacto:** Formulario para consultas o soporte.
+
+##### Navegación de la aplicación web
+
+**Estructura general:**
+
+- **Menú superior:** Logo, búsqueda, notificaciones, perfil.
+- **Dashboard principal:**
+  - Para consumidores: Promociones cercanas y destacadas.
+  - Para negocios: Resumen de campañas y métricas.
+
+**Menú lateral por perfil:**
+
+- **Consumidores:** Promociones, Favoritos, Historial, Ajustes.
+- **Negocios:** Campañas, Segmentación, Métricas, Configuración.
+
+**Elementos auxiliares:**
+
+- Botones de acción rápida (guardar, crear, compartir).
+- Notificaciones en tiempo real.
+- Enlaces entre módulos relacionados.
 
 ### 4.3. Landing Page UI Design
 
@@ -393,6 +564,98 @@ En esta sección, se describe la guía de nuestra landing page con sus caracter�
 <div align="center"><img src="resources/imgs/capitulo-4/payment-geops-wireframe.png" alt="Proceso de Pago GeoPs"></div>
 
 #### 4.4.2. Web Applications Wireflow Diagrams
+
+#### Login
+
+**User Goal: Iniciar Sesión**
+- Usuario: Cliente o Proveedor
+
+El usuario accede a la aplicación desde la vista de login, elige su rol (cliente o proveedor) e ingresa sus credenciales. Si los datos son correctos, el sistema valida la información y redirige al dashboard correspondiente. En caso contrario, se muestra un mensaje de error para reintentar.
+
+<div align="center"><img src="resources/imgs/capitulo-4/usergoal_Iniciarsesion.png" alt="Inicio Sesión de GeoPs"></div>
+
+#### Cliente
+
+
+**User Goal: Visualizar planes**
+- Usuario: Cliente
+
+El cliente ingresa a la sección de planes desde el home. Allí puede ver las opciones de suscripción disponibles. Cada plan muestra sus características principales y beneficios. El usuario evalúa y elige el que mejor se ajusta a sus necesidades.
+
+<div align="center"><img src="resources/imgs/capitulo-4/cliente_usergoal_visualizarplanes.png" alt="Planes Cliente GeoPs"></div>
+
+
+**User Goal: Permitir acceso a ubicación**
+- Usuario: Cliente
+
+El sistema solicita al cliente acceso a su ubicación. El usuario recibe una ventana emergente para aceptar o rechazar. Al aceptar, la aplicación muestra ofertas cercanas personalizadas. Si no lo permite, solo se muestran resultados generales.
+
+<div align="center"><img src="resources/imgs/capitulo-4/cliente_usergoal_permitiraccesoubicación.png" alt="Acceso Ubicación Cliente GeoPs"></div>
+
+
+**User Goal: Acceso a ayuda, notificaciones y perfil**
+- Usuario: Cliente
+
+El cliente desde el header accede al centro de ayuda, revisa sus notificaciones (con la opción de marcar como leídas o limpiarlas) y puede entrar a su perfil. En el perfil tiene acceso a la información registrada y ajustes personales.
+
+<div align="center"><img src="resources/imgs/capitulo-4/cliente_usergoal_accesoayudanotiperfil.png" alt="Acceso Header Cliente GeoPs"></div>
+
+
+**User Goal: Acceso a links principales (ofertas, categorías, favoritos, cupones)**
+- Usuario: Cliente
+
+Desde el home, el cliente selecciona alguno de los accesos rápidos (ofertas, categorías, favoritos, cupones). El sistema lo redirige a la sección correspondiente. En cada sección se muestran los elementos relacionados, organizados para facilitar la navegación.
+
+<div align="center"><img src="resources/imgs/capitulo-4/cliente_usergoal_accesolinksprincipales.png" alt="Acceso Links Cliente GeoPs"></div>
+
+
+**User Goal: Detalle sección y proceso de pago**
+- Usuario: Cliente
+
+El cliente entra a una sección (ej. cines), selecciona una oferta y accede al detalle. Desde allí puede añadir al carrito o comprar directamente. Posteriormente continúa con el proceso de pago, confirmando el método y finalizando la transacción.
+
+<div align="center"><img src="resources/imgs/capitulo-4/cliente_usergoal_detalleyprocesopago.png" alt="Detalle y proceso de pago GeoPs"></div>
+
+
+**User Goal: Cerrar Sesión**
+- Usuario: Cliente
+
+El cliente, desde el perfil, selecciona la opción de cerrar sesión. El sistema valida la acción y cierra la cuenta activa.
+
+<div align="center"><img src="resources/imgs/capitulo-4/cliente_usergoal_cerrarsesion.png" alt="Cerrar Sesion Cliente GeoPs"></div>
+
+#### Proveedor
+
+**User Goal: Visualizar planes**
+- Usuario: Proveedor
+
+El proveedor accede a la sección de planes desde la opción resumen. Allí se le muestran las opciones de suscripción que permiten ampliar beneficios en la plataforma.
+
+<div align="center"><img src="resources/imgs/capitulo-4/proveedor_usergoal_visualizarplanes.png" alt="Planes Proveedor GeoPs"></div>
+
+
+**User Goal: Acceder a ayuda, notificaciones, perfil**
+- Usuario: Proveedor
+
+El proveedor accede desde el header a secciones complementarias. En Ayuda, encuentra respuestas rápidas a dudas frecuentes. En Notificaciones, revisa avisos relevantes y puede marcarlos como leídos o eliminarlos. Finalmente, en Perfil, gestiona la información de su negocio.
+
+<div align="center"><img src="resources/imgs/capitulo-4/proveedor_usergoal_accesoayudanotiperfil.png" alt="Acceso Header Proveedor GeoPs"></div>
+
+
+**User Goal: Acceder a links principales**
+- Usuario: Proveedor
+
+El proveedor, desde la vista de resumen, puede navegar hacia los enlaces principales de la plataforma: campañas, creación de nuevas promociones, reportes y comentarios de clientes.
+
+<div align="center"><img src="resources/imgs/capitulo-4/proveedor_usergoal_accesolinksprincipales.png" alt="Acceso Links Proveedor GeoPs"></div>
+
+
+**User Goal: Cerrar Sesión**
+- Usuario: Proveedor
+
+El proveedor, desde el perfil, selecciona cerrar sesión. El sistema valida la acción y cierra la cuenta activa.
+
+<div align="center"><img src="resources/imgs/capitulo-4/proveedor_usergoal_cerrarsesion.png" alt="Cerrar Sesión Proveedor GeoPs"></div>
 
 #### 4.4.3. Web Applications Mock-ups
 

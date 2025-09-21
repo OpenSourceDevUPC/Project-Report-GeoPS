@@ -27,7 +27,7 @@
 |-----------------------------------------|----------------|
 | Huapaya Galindo, Dyaron                 | U202322855     |
 | Huarcaya Matias, Gilbert Alonso         | u202322187     |
-|                                         |                |
+| Salazar Caballero, Alvaro Fabrizzio     | u202321941     |
 |                                         |                |
 |                                         |                |
 

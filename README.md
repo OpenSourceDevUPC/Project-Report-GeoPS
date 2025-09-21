@@ -116,9 +116,10 @@ URL del Repositoria del Project Report:
       - [4.4.4. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)
     - [4.5. Web Applications Prototyping.](#45-web-applications-prototyping)
     - [4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
-      - [4.6.1. Software Architecture Context Diagram](#461-software-architecture-context-diagram)
-      - [4.6.2. Software Architecture Container Diagrams](#462-software-architecture-container-diagrams)
-      - [4.6.3. Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)
+      - [4.6.1. Domain-Driver Event Storming](#461-domain-driven-event-storming)
+      - [4.6.2. Software Architecture Context Diagram](#462-software-architecture-context-diagram)
+      - [4.6.3. Software Architecture Container Diagrams](#463-software-architecture-container-diagrams)
+      - [4.6.4. Software Architecture Components Diagrams](#464-software-architecture-components-diagrams)
     - [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
       - [4.7.1. Class Diagrams](#471-class-diagrams)
       - [4.7.2. Class Dictionary](#472-class-dictionary)
@@ -334,9 +335,163 @@ En esta sección, se describe la guía de nuestra landing page con sus caracter�
   #### 4.4.4. Web Applications User Flow Diagrams  
 ### 4.5. Web Applications Prototyping.
 ### 4.6. Domain-Driven Software Architecture
-  #### 4.6.1. Software Architecture Context Diagram  
-  #### 4.6.2. Software Architecture Container Diagrams  
-  #### 4.6.3. Software Architecture Components Diagrams
+
+La arquitectura de software basada en Domain-Driven Design (DDD) se centra en el dominio del negocio, buscando que la aplicación represente de forma fiel los procesos, reglas y necesidades de los usuarios. Con este enfoque, el desarrollo se mantiene alineado con los objetivos estratégicos de la organización y se favorece una comunicación más clara y efectiva entre los equipos técnicos y los expertos del negocio.
+
+Se utilizó el modelo C4 (Contexto, contenedor y componentes), el cual permite visualizar el sistema en diferentes capas.
+
+  #### 4.6.1. Design-Level Event Storming  
+  #### 4.6.2. Software Architecture Context Diagram  
+  
+  <div align="center"><img src="resource/imgs/capitulo-4/"></div>
+  
+El Diagrama de Contexto del sistema de GeoPS muestra una visión de alto nivel de sus componentes y cómo interactúan con usuarios y servicios externos. Este diagrama es útil para comprender la funcionalidad del sistema y sus dependencias.
+
+En el centro del diagrama se encuentra GeoPS, la plataforma principal. Su propósito es gestionar la creación de campañas publicitarias geolocalizadas y analizar su audiencia.
+
+**Actores principales**:
+Los principales actores que interactúan con el sistema GeoPS son:
+
+- Consumidor: Este usuario busca ofertas y promociones basadas en su ubicación actual. Interactúa con campañas publicitarias.
+
+- Propietario de Negocio: Este usuario es dueño de una empresa que crea y gestiona campañas publicitarias para promover sus productos y servicios.
+
+**Servicios Externos**:
+
+Para su funcionamiento, GeoPS se apoya en varios servicios externos:
+
+- **Servicio OAuth** (Autenticación): Permite a los usuarios autenticarse a través de proveedores como Google, Facebook y Microsoft, garantizando un acceso seguro.
+
+- **SendGrid** (Servicio de envío): Se encarga de enviar notificaciones por correo electrónico y confirmaciones a los usuarios.
+
+- **Google Maps API** (Proveedor de servicios): Proporciona servicios de geolocalización, mapas y cálculos de distancia, que son esenciales para las campañas geolocalizadas.
+
+- **Stripe/PayPal** (Procesador de pagos): Maneja los pagos, aportes y suscripciones a planes de la plataforma.
+- **Firebase Cloud Messaging** (Servicio de notificaciones): Permite el envío de notificaciones push para dispositivos móviles y web, habilitando la comunicación en tiempo real.
+  
+  #### 4.6.3. Software Architecture Container Diagrams  
+  
+  <div align="center"><img src="resource/imgs/capitulo-4/"></div>
+
+Los usuarios principales, Consumidor y Propietario de Negocio, acceden al sistema a través de distintas aplicaciones web. Los Consumidores utilizan una Aplicación Web , que les permite explorar ofertas y promociones. Por otro lado, los Propietarios de Negocio acceden a una Aplicación Web, donde gestionan sus campañas publicitarias. Ambas aplicaciones se comunican con el backend a través de un API Gateway.
+
+El backend está compuesto por varios microservicios que manejan funcionalidades específicas del sistema:
+
+- **Servicio de Autenticación**: Gestiona el inicio de sesión y la seguridad de los usuarios.
+
+- **Servicio de Campañas**: Permite la creación y gestión de las campañas publicitarias geolocalizadas.
+
+- **Servicio de Negocios**: Se encarga de la información de las empresas y sus productos.
+
+- **Servicio de Geoposicionamiento**: Maneja la lógica relacionada con la ubicación y las distancias.
+
+- **Servicio de Analítica**: Procesa los datos para generar estadísticas sobre las campañas.
+
+- **Servicio de Notificaciones**: Administra las notificaciones internas del sistema.
+
+**Almacenamiento de Datos y Caching**
+
+El sistema utiliza varios contenedores para la persistencia y el manejo de datos:
+
+- **Base de Datos Relacional** (PostgreSQL): Almacena los datos principales del sistema, como información de usuarios, negocios y campañas.
+
+- **Base de Datos Analítica**: Guarda la información utilizada para generar reportes y análisis.
+
+- **Almacenamiento de Archivos** (Cloud Storage): Se utiliza para almacenar activos como imágenes y logotipos.
+
+- **Cache Redis**: Mejora el rendimiento del sistema almacenando datos de acceso frecuente para reducir la carga de la base de datos principal.
+
+**Integración con Servicios Externos**
+
+Para complementar su funcionalidad, GeoPS se integra con diversos servicios externos:
+
+**Servicio de Autenticación** (OAuth): Permite a los usuarios autenticarse a través de terceros.
+
+**Google Maps API**: Proveedor esencial para los servicios de mapas y geolocalización.
+
+**SendGrid**: Encargado del envío de correos electrónicos transaccionales y de notificaciones.
+
+**Stripe/PayPal**: Procesan los pagos y las suscripciones a los planes de la plataforma.
+
+**Firebase Cloud Messaging**: Habilita el envío de notificaciones push a dispositivos móviles y web.
+
+Este diagrama ilustra la arquitectura modular y escalable de GeoPS, mostrando cómo todos sus componentes se comunican para dar soporte a las operaciones principales de la plataforma publicitaria geolocalizada.
+  
+  #### 4.6.4. Software Architecture Components Diagrams
+  - **Servicio de Analytics**
+<div align="center"><img src="resource/imgs/capitulo-4/"></div>
+
+El diagrama muestra la arquitectura de componentes del Servicio de Analítica de GeoPS, detallando cómo se gestionan y procesan los datos para la generación de reportes y métricas. Este servicio es fundamental para que los Propietarios de Negocio puedan medir el rendimiento de sus campañas.
+
+**Componentes principales**
+El flujo de datos comienza con dos puntos de entrada:
+
+**API Gateway**: Sirve como un punto de entrada único y seguro para las solicitudes de reportes provenientes del frontend.
+
+**Cola de Mensajes** (RabbitMQ): Recibe eventos de interacción en tiempo real desde otros servicios del sistema.
+
+Una vez que los datos o solicitudes ingresan al sistema, son procesados por los siguientes componentes:
+
+**Analytics Controller**: Es la API principal del servicio. Recibe las solicitudes de reportes desde el API Gateway y delega la tarea de generar los informes y exportar los datos.
+
+**Procesador de Eventos** (Event Loop): Consume los eventos de la Cola de Mensajes en tiempo real y los procesa para su posterior análisis.
+
+**Agregador de Métricas**: Recibe los eventos procesados y calcula las métricas y los indicadores clave de rendimiento (KPIs) de negocio. Almacena estas métricas calculadas en la base de datos.
+
+**Generador de Reportes**: Se encarga de crear los reportes de rendimiento de las campañas, consultando los datos históricos y las métricas calculadas almacenadas.
+
+**Exportador de Datos**: Permite exportar los datos analíticos en múltiples formatos.
+  
+  - **Servicio de Campañas**
+
+<div align="center"><img src="resource/imgs/capitulo-4/"></div>
+
+Este diagrama detalla la arquitectura de los componentes del Servicio de Analítica de GeoPS, mostrando cómo se gestionan, procesan y almacenan los datos de las campañas publicitarias para generar métricas e informes.
+
+**Flujo de Datos y Componentes**
+El flujo de información en el sistema tiene dos orígenes principales:
+
+**Solicitudes de Reportes**: Provienen de la API Gateway, que actúa como un único punto de entrada para las peticiones de datos de analítica. El Analytics Controller recibe estas solicitudes y coordina la generación de los reportes.
+
+**Eventos en Tiempo Real**: Son consumidos por la Cola de Mensajes (RabbitMQ). El Procesador de Eventos (Event Loop) consume estos eventos y los procesa para su análisis inmediato.
+
+Una vez procesados, los eventos pasan al Agregador de Métricas, que se encarga de calcular los KPIs (Indicadores Clave de Rendimiento) de negocio. Estas métricas calculadas son almacenadas en la Base de Datos Analítica.
+
+**Almacenamiento y Salida de Datos**
+
+Todos los eventos, métricas y datos de análisis se almacenan en una Base de Datos Analítica (MongoDB). Este tipo de base de datos es ideal para manejar grandes volúmenes de datos semiestructurados.
+
+Finalmente, el servicio ofrece dos componentes para la salida de la información:
+
+**Generador de Reportes**: Consulta los datos históricos y las métricas almacenadas para crear reportes de rendimiento de las campañas, los cuales se presentan al usuario.
+
+**Exportador de Datos**: Permite a los usuarios exportar estos datos en diferentes formatos, como CSV o JSON, para su uso en otras herramientas o análisis externos.
+
+  - **Servicio de Geolocalización**
+
+<div align="center"><img src="resource/imgs/capitulo-4/"></div>
+
+Este diagrama detalla la arquitectura de componentes del Servicio de Geoposicionamiento de GeoPS, mostrando cómo se gestionan las funcionalidades basadas en la ubicación. El servicio permite a la plataforma determinar la proximidad geográfica y filtrar contenido relevante para los usuarios.
+
+**Flujo de Datos y Componentes**
+El flujo comienza con el API Gateway, que recibe las solicitudes de geolocalización. Estas solicitudes son dirigidas al Geolocalización Controller, que actúa como la API principal del servicio, gestionando la lógica de ubicación y proximidad.
+
+El servicio se apoya en los siguientes componentes para procesar la información geográfica:
+
+**Validador de Ubicación**: Es el primer punto de validación. Se asegura de que las coordenadas proporcionadas estén dentro de rangos y zonas permitidas. También se comunica con servicios externos, como la Google Maps API, para validar y enriquecer la información de ubicación, así como para realizar cálculos de distancia.
+
+**Filtro Geográfico**: Una vez que la ubicación es validada, este componente filtra el contenido (como campañas o negocios) basándose en la ubicación actual del usuario.
+
+**Calculador de Distancias**: Utiliza los datos del usuario y del contenido para calcular la distancia geográfica. Este componente consulta un Cache Geográfico para optimizar el rendimiento y evitar cálculos repetitivos.
+
+**Cache Geográfico** (Redis): Almacena resultados de cálculos de distancias y ubicaciones frecuentes. También se utiliza un Cache Redis para guardar las sesiones de los usuarios, lo que mejora la velocidad del servicio al recordar la ubicación del usuario y los filtros aplicados.
+
+**Almacenamiento y Servicios Externos**
+
+**Base de Datos Principal**: Almacena la información de los negocios, las campañas y las relaciones principales, que el servicio de geolocalización consulta para determinar el contenido relevante.
+
+**Google Maps API**: Es un servicio externo vital que provee las funcionalidades de geolocalización, mapas y cálculo de distancias.
+  
 ### 4.7. Software Object-Oriented Design
   #### 4.7.1. Class Diagrams  
   

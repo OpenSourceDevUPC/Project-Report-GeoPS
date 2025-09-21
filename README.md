@@ -408,6 +408,64 @@ Se utilizó el modelo C4 (Contexto, contenedor y componentes), el cual permite v
 
 #### 4.6.1. Design-Level Event Storming
 
+El objetivo de esta sección es profundizar en el modelado del dominio de GeoPs, explicando todos los procesos y el flujo de datos a través del sistema, todo con el propósito de identificar los comandos, eventos, agregados y políticas del negocio al mayor nivel posible.
+
+La sesión duró 1 hora, contando con la participación de todos los integrantes del grupo, tomando en cuenta todos los puntos de vista de todos los integrantes para la validación del diseño.
+
+**Sub-dominios identificados**
+
+1. Gestión de perfil y preferencias:
+
+- **Comandos**
+  - Registrar negocio: Emitido por el Dueño de Negocio con sus datos.
+  - Aceptar permisos de geolocalización: Iniciado por el consumidor para acceder a los beneficios de la plataforma.
+- **Agregados**
+  - Dueños de negocios de diferentes rubros: Este agregado es responsable de la lógica de registro, validación y gestión de los datos del dueño de negocio. Garantiza la consistencia de la información de la empresa.
+  - Consumidores de ofertas de diferentes ámbitos: Este agregado gestionará la ubicación del consumidor.
+- **Eventos de dominio**
+  - Cuenta de negocio creada: Señala que el registro del negocio fue exitoso.
+  - Ubicacion de usuario detectada: Evento clave que inicia la interacción del consumidor con las ofertas geolocalizadas.
+
+<div align="center"><img src="resources/imgs/capitulo-4/Gestión de perfil y preferencias.jpg"></div>
+
+2. Monitoreo y Analítica:
+
+- **Eventos de dominio**
+  - Oferta canjeada: Este evento, generado en el flujo del consumidor, es clave para la analítica.
+  - Estadísticas de campaña actualizadas: Representa el resultado de la agregación de métricas.
+- **Comandos**
+  - Monitorear métricas: Este comando sirve para monitorear las métricas de una campaña creada.
+- **Vistas**
+  - Reporte de métricas: Una vista optimizada para consultas de datos históricos y análisis.
+  - Panel de control de campañas: Una vista de lectura que se actualiza con los eventos del sistema, mostrando el estado en tiempo real.
+
+<div align="center"><img src="resources/imgs/capitulo-4/Monitoreo y Analítica.jpg"></div>
+
+3. Servicios al consumidor:
+
+- **Comandos**
+  - Explorar ofertas: El comando principal del consumidor para buscar ofertas relevantes.
+  - Canjear la oferta: El comando que inicia el proceso de canje de oferta.
+- **Agregado**
+  - Oferta relevante encontrada: Un agregado que gestiona el estado de una oferta específica, incluyendo la cantidad disponible, la validez y la lógica de canje.
+- **Proceso de negocio**
+  - Permisos de ubicación: Al recibir una ubicación del consumidor, este proceso se activa si el usuario desea utilizar la ubicación para buscar ofertas cercanas.
+
+<div align="center"><img src="resources/imgs/capitulo-4/Servicios al consumidor.jpg"></div>
+
+4. Gestión de campañas y ofertas:
+
+- **Comandos**
+  - Crear nueva campaña publicitaria: Emitido por el Dueño de Negocio con los detalles de la campaña.
+  - Activar la campaña: Una vez diseñada, el Dueño de Negocio lanza la campaña.
+- **Eventos de dominio**
+  - Campaña publicitaria creada: Este es un agregado crítico que encapsula toda la lógica de una campaña individual.
+  - Campaña publicada: Señala que la campaña está activa y visible para los consumidores.
+- **Procesos de negocio**
+  - Politicas de uso: Las politicas de uso señaladas para las campañas creadas. Las campañas siguen unas normas.
+
+<div align="center"><img src="resources/imgs/capitulo-4/Gestión de campañas y ofertas.jpg"></div>
+
 #### 4.6.2. Software Architecture Context Diagram
 
   <div align="center"><img src="resources/imgs/capitulo-4/GeoPS_System_Context.png"></div>

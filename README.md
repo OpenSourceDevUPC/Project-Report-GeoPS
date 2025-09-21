@@ -396,38 +396,46 @@ Las Meta Tags son esenciales para el posicionamiento de la plataforma en buscado
 **Título:**
 
 ```html
-<title>GeoPS | Publicidad Hiperlocal y Contextual para Consumidores y Negocios</title>
+<title>
+  GeoPS | Publicidad Hiperlocal y Contextual para Consumidores y Negocios
+</title>
 ```
 
 **Codificación de caracteres:**
 
 ```html
-<meta charset="UTF-8">
+<meta charset="UTF-8" />
 ```
 
 **Descripción:**
 
 ```html
-<meta name="description" content="GeoPS es una aplicación web que conecta negocios locales con consumidores mediante publicidad hiperlocal y contextual. Ofrece promociones relevantes en el momento y lugar adecuado, cuidando la privacidad y simplicidad de uso.">
+<meta
+  name="description"
+  content="GeoPS es una aplicación web que conecta negocios locales con consumidores mediante publicidad hiperlocal y contextual. Ofrece promociones relevantes en el momento y lugar adecuado, cuidando la privacidad y simplicidad de uso."
+/>
 ```
 
 **Palabras clave:**
 
 ```html
-<meta name="keywords" content="publicidad local, promociones cercanas, geolocalización, campañas digitales, consumidores, negocios locales, ofertas hiperlocales, marketing contextual, GeoPS">
+<meta
+  name="keywords"
+  content="publicidad local, promociones cercanas, geolocalización, campañas digitales, consumidores, negocios locales, ofertas hiperlocales, marketing contextual, GeoPS"
+/>
 ```
 
 **Autor y Derechos de Autor:**
 
 ```html
-<meta name="author" content="GeoPS Team - UPC">
-<meta name="copyright" content="GeoPS © 2025. Todos los derechos reservados.">
+<meta name="author" content="GeoPS Team - UPC" />
+<meta name="copyright" content="GeoPS © 2025. Todos los derechos reservados." />
 ```
 
 **Viewport:**
 
 ```html
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 ```
 
 #### 4.2.4. Searching Systems
@@ -568,6 +576,7 @@ Logo GeoPS, Productos, Negocios, Nosotros, Planes, Registrarse, Iniciar Sesión.
 #### Login
 
 **User Goal: Iniciar Sesión**
+
 - Usuario: Cliente o Proveedor
 
 El usuario accede a la aplicación desde la vista de login, elige su rol (cliente o proveedor) e ingresa sus credenciales. Si los datos son correctos, el sistema valida la información y redirige al dashboard correspondiente. En caso contrario, se muestra un mensaje de error para reintentar.
@@ -576,48 +585,48 @@ El usuario accede a la aplicación desde la vista de login, elige su rol (client
 
 #### Cliente
 
-
 **User Goal: Visualizar planes**
+
 - Usuario: Cliente
 
 El cliente ingresa a la sección de planes desde el home. Allí puede ver las opciones de suscripción disponibles. Cada plan muestra sus características principales y beneficios. El usuario evalúa y elige el que mejor se ajusta a sus necesidades.
 
 <div align="center"><img src="resources/imgs/capitulo-4/cliente_usergoal_visualizarplanes.png" alt="Planes Cliente GeoPs"></div>
 
-
 **User Goal: Permitir acceso a ubicación**
+
 - Usuario: Cliente
 
 El sistema solicita al cliente acceso a su ubicación. El usuario recibe una ventana emergente para aceptar o rechazar. Al aceptar, la aplicación muestra ofertas cercanas personalizadas. Si no lo permite, solo se muestran resultados generales.
 
 <div align="center"><img src="resources/imgs/capitulo-4/cliente_usergoal_permitiraccesoubicación.png" alt="Acceso Ubicación Cliente GeoPs"></div>
 
-
 **User Goal: Acceso a ayuda, notificaciones y perfil**
+
 - Usuario: Cliente
 
 El cliente desde el header accede al centro de ayuda, revisa sus notificaciones (con la opción de marcar como leídas o limpiarlas) y puede entrar a su perfil. En el perfil tiene acceso a la información registrada y ajustes personales.
 
 <div align="center"><img src="resources/imgs/capitulo-4/cliente_usergoal_accesoayudanotiperfil.png" alt="Acceso Header Cliente GeoPs"></div>
 
-
 **User Goal: Acceso a links principales (ofertas, categorías, favoritos, cupones)**
+
 - Usuario: Cliente
 
 Desde el home, el cliente selecciona alguno de los accesos rápidos (ofertas, categorías, favoritos, cupones). El sistema lo redirige a la sección correspondiente. En cada sección se muestran los elementos relacionados, organizados para facilitar la navegación.
 
 <div align="center"><img src="resources/imgs/capitulo-4/cliente_usergoal_accesolinksprincipales.png" alt="Acceso Links Cliente GeoPs"></div>
 
-
 **User Goal: Detalle sección y proceso de pago**
+
 - Usuario: Cliente
 
 El cliente entra a una sección (ej. cines), selecciona una oferta y accede al detalle. Desde allí puede añadir al carrito o comprar directamente. Posteriormente continúa con el proceso de pago, confirmando el método y finalizando la transacción.
 
 <div align="center"><img src="resources/imgs/capitulo-4/cliente_usergoal_detalleyprocesopago.png" alt="Detalle y proceso de pago GeoPs"></div>
 
-
 **User Goal: Cerrar Sesión**
+
 - Usuario: Cliente
 
 El cliente, desde el perfil, selecciona la opción de cerrar sesión. El sistema valida la acción y cierra la cuenta activa.
@@ -627,30 +636,31 @@ El cliente, desde el perfil, selecciona la opción de cerrar sesión. El sistema
 #### Proveedor
 
 **User Goal: Visualizar planes**
+
 - Usuario: Proveedor
 
 El proveedor accede a la sección de planes desde la opción resumen. Allí se le muestran las opciones de suscripción que permiten ampliar beneficios en la plataforma.
 
 <div align="center"><img src="resources/imgs/capitulo-4/proveedor_usergoal_visualizarplanes.png" alt="Planes Proveedor GeoPs"></div>
 
-
 **User Goal: Acceder a ayuda, notificaciones, perfil**
+
 - Usuario: Proveedor
 
 El proveedor accede desde el header a secciones complementarias. En Ayuda, encuentra respuestas rápidas a dudas frecuentes. En Notificaciones, revisa avisos relevantes y puede marcarlos como leídos o eliminarlos. Finalmente, en Perfil, gestiona la información de su negocio.
 
 <div align="center"><img src="resources/imgs/capitulo-4/proveedor_usergoal_accesoayudanotiperfil.png" alt="Acceso Header Proveedor GeoPs"></div>
 
-
 **User Goal: Acceder a links principales**
+
 - Usuario: Proveedor
 
 El proveedor, desde la vista de resumen, puede navegar hacia los enlaces principales de la plataforma: campañas, creación de nuevas promociones, reportes y comentarios de clientes.
 
 <div align="center"><img src="resources/imgs/capitulo-4/proveedor_usergoal_accesolinksprincipales.png" alt="Acceso Links Proveedor GeoPs"></div>
 
-
 **User Goal: Cerrar Sesión**
+
 - Usuario: Proveedor
 
 El proveedor, desde el perfil, selecciona cerrar sesión. El sistema valida la acción y cierra la cuenta activa.
@@ -807,7 +817,7 @@ Este diagrama ilustra la arquitectura modular y escalable de GeoPS, mostrando c�
 
 #### 4.6.4. Software Architecture Components Diagrams
 
-- **Servicio de Analytics**
+- **Servicio de Analíticas**
 <div align="center"><img src="resources/imgs/capitulo-4/GeoPS-Analytics_Service_Components.png"></div>
 
 El diagrama muestra la arquitectura de componentes del Servicio de Analítica de GeoPS, detallando cómo se gestionan y procesan los datos para la generación de reportes y métricas. Este servicio es fundamental para que los Propietarios de Negocio puedan medir el rendimiento de sus campañas.

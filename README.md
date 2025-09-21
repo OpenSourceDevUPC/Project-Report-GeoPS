@@ -365,7 +365,7 @@ A partir de de las entrevistas a tres jóvenes consumidores de ofertas, podemos 
 
 ### 2.4. Big Picture Event Storming
 
-<p align="center"><img src="images for chapter ii/bigpictureeventstorming.png" alt="PI5" width="1000"></p>
+<p align="center"><img src="images for chapter ii/bigpictureeventstorming.jpg" alt="PI5" width="1000"></p>
 
 ### 2.5. Ubiquitous Language   
 

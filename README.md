@@ -179,19 +179,19 @@ URL del Repositoria del Project Report:
 
   <div align="center">
   
-  <img src="assets/chapter-i/Perfil_Alessandra.jpg" width="300"><br>
+  <img src="assets/chapter-i/Perfil_Alessandra.jpg" width="500"><br>
   **Alessandra**
   
-  <img src="assets/chapter-i/Perfil_Alvaro.jpg" width="300"><br>
+  <img src="assets/chapter-i/Perfil_Alvaro.jpg" width="500"><br>
   **Álvaro**
   
-  <img src="assets/chapter-i/Perfil_Dyron.jpg" width="300"><br>
+  <img src="assets/chapter-i/Perfil_Dyron.jpg" width="500"><br>
   **Dyron**
   
-  <img src="assets/chapter-i/Perfil_Esther.jpg" width="300"><br>
+  <img src="assets/chapter-i/Perfil_Esther.jpg" width="500"><br>
   **Esther**
   
-  <img src="assets/chapter-i/Perfil_Gilbert.jpg" width="300"><br>
+  <img src="assets/chapter-i/Perfil_Gilbert.jpg" width="500"><br>
   **Gilbert**
   
   </div>

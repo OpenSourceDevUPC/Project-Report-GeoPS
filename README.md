@@ -659,6 +659,112 @@ El proveedor, desde el perfil, selecciona cerrar sesión. El sistema valida la a
 
 #### 4.4.3. Web Applications Mock-ups
 
+#### Login
+
+**Inicio de Sesión y registro**
+
+<div align="center"><img src="resources/imgs/capitulo-4/loginandregister-geops-mockup.png" alt="Inicio de Sesión y Registro GeoPS"></div>
+
+#### Cliente
+
+**Home**
+
+<div align="center"><img src="resources/imgs/capitulo-4/home-geops-mockup.png" alt="Home Cliente GeoPS"></div>
+
+**Ofertas**
+
+<div align="center"><img src="resources/imgs/capitulo-4/offers-geops-mockup.png" alt="Ofertas Cliente GeoPS"></div>
+
+**Categorias**
+
+<div align="center"><img src="resources/imgs/capitulo-4/categories-geops-mockup.png" alt="Categorias Cliente GeoPS"></div>
+
+**Favoritos**
+
+<div align="center"><img src="resources/imgs/capitulo-4/favs-geops-mockup.png" alt="Favoritos Cliente GeoPS"></div>
+
+**Cupones**
+
+<div align="center"><img src="resources/imgs/capitulo-4/coupons-geops-mockup.png" alt="Cupones Cliente GeoPS"></div>
+
+**Planes**
+
+<div align="center"><img src="resources/imgs/capitulo-4/plans-geops-mockup.png" alt="Planes Cliente GeoPS"></div>
+
+**Acceso ubicación**
+
+<div align="center"><img src="resources/imgs/capitulo-4/homeubi-geops-mockup.png" alt="Acceso Ubicacion Cliente GeoPS"></div>
+
+**Ubicación permtida**
+
+<div align="center"><img src="resources/imgs/capitulo-4/homeubiconfirm-geops-mockup.png" alt="Acceso Ubicacion Permitida Cliente GeoPS"></div>
+
+**Secciones**
+
+- Cines
+
+<div align="center"><img src="resources/imgs/capitulo-4/cines-geops-mockup.png" alt="Seccion Cines GeoPS"></div>
+
+- Buffets
+
+<div align="center"><img src="resources/imgs/capitulo-4/buffets-geops-mockup.png" alt="Seccion Buffets GeoPS"></div>
+
+- Parques
+
+<div align="center"><img src="resources/imgs/capitulo-4/parques-geops-mockup.png" alt="Seccion Parques GeoPS"></div>
+
+- Juegos
+  
+<div align="center"><img src="resources/imgs/capitulo-4/juegos-geops-mockup.png" alt="Seccion Juegos GeoPS"></div>
+
+- Makis
+
+<div align="center"><img src="resources/imgs/capitulo-4/makis-geops-mockup.png" alt="Seccion Makis GeoPS"></div>
+
+- Belleza
+
+<div align="center"><img src="resources/imgs/capitulo-4/belleza-geops-mockup.png" alt="Seccion Belleza GeoPS"></div>
+
+**Agregar oferta carrito**
+
+<div align="center"><img src="resources/imgs/capitulo-4/vermas-geops-mockup.png" alt="Agregar Articulo Carrito Cliente GeoPS"></div>
+<div align="center"><img src="resources/imgs/capitulo-4/vermas1-geops-mockup.png" alt="Articulo Agregado Carrito Cliente GeoPS"></div>
+
+**Pago**
+
+<div align="center"><img src="resources/imgs/capitulo-4/carrito-geops-mockup.png" alt="Ver Carrito Cliente GeoPS"></div>
+<div align="center"><img src="resources/imgs/capitulo-4/pago-geops-mockup.´png" alt="Pago Carrito Cliente GeoPS"></div>
+
+**Ayuda**
+
+<div align="center"><img src="resources/imgs/capitulo-4/centroayudaclient-geops-mockup.png" alt="Ayuda Cliente GeoPS"></div>
+
+**Notificaciones**
+
+- Notificaciones generales
+  
+<div align="center"><img src="resources/imgs/capitulo-4/noticlient-geops-mockup.png" alt="Notificaciones Cliente GeoPS"></div>
+
+- Notificaciones leídas
+
+<div align="center"><img src="resources/imgs/capitulo-4/noticlientseen-geops-mockup.png" alt="Notificaciones Leídas Cliente GeoPS"></div>
+
+- Sin notificaciones
+
+<div align="center"><img src="resources/imgs/capitulo-4/noticlear-geops-mockup.png" alt="Sin Notificaciones Cliente GeoPS"></div>
+
+**Perfil**
+
+<div align="center"><img src="resources/imgs/capitulo-4/perfilclient-geops-mockup.png" alt="Perfil Cliente GeoPS"></div>
+
+- Editar Perfil
+
+<div align="center"><img src="resources/imgs/capitulo-4/editperfilclient-geops-mockup.png" alt="Editar Perfil Cliente GeoPS"></div>
+
+**Cerrar Sesión**
+
+<div align="center"><img src="resources/imgs/capitulo-4/logout-geops-mockup.png" alt="Cerrar Sesión Cliente GeoPS"></div>
+
 #### 4.4.4. Web Applications User Flow Diagrams
 
 ### 4.5. Web Applications Prototyping.

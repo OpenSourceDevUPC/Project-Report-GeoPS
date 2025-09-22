@@ -71,6 +71,8 @@ Para garantizar una distribución equitativa del trabajo, el equipo implementó 
 Un aspecto fundamental en el proceso fue el aprovechamiento de las horas de clase destinadas a consultas y retroalimentación docente. Estos espacios resultaron invaluables considerando las diferentes disponibilidades horarias de los integrantes, permitiendo al equipo resolver dudas conceptuales, recibir orientación metodológica y validar el progreso del proyecto de manera oportuna.
 
 + Evidencias de colaboracion y commits:
+  <img src="resources/insights.png" width="500"><br>
+  <img src="resources/contribuitors.png" width="500"><br>
 
 ---
 

@@ -571,7 +571,6 @@ Logo GeoPS, Productos, Negocios, Nosotros, Planes, Registrarse, Iniciar Sesión.
 
 <div align="center"><img src="resources/imgs/capitulo-4/payment-geops-wireframe.png" alt="Proceso de Pago GeoPs"></div>
 
-
 #### 4.4.2. Web Applications Wireflow Diagrams
 
 #### Login
@@ -1188,5 +1187,7 @@ Las relaciones entre tablas están diseñadas para optimizar consultas de proxim
 ## Anexos
 
 - <a href="https://www.figma.com/design/mHHx8WStPBr63tLYj42pBX/GeoPs?t=GXTYAnTYkIFHdSN8-0">Enlace del figma de GeoPs</a>
+
+- <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318049_upc_edu_pe/EfpJo35cywBHo2-BEP8S_sEBMuPuIKJ2VCSzvJL7gHK41w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=j3nWJH ">Video Web Applications Prototyping</a>
 
 ## Bibliografía

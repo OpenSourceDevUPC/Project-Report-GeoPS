@@ -955,10 +955,43 @@ Ver Diseño en Figma:
 
 #### 4.4.4. Web Applications User Flow Diagrams
 
+**General**
+
+Iniciar Sesión en cliente o proveedor:
+
+<div align="center"><img src="resources/imgs/capitulo-4/usfd2.jpg"></div>
+
+**Cliente**
+
+Acceder a opciones de empresa (Campañas, crear, reportes y comentarios):
+
+<div align="center"><img src="resources/imgs/capitulo-4/usfd1.jpg"></div>
+
+Acceder a link principales:
+
+<div align="center"><img src="resources/imgs/capitulo-4/usfd5.jpg"></div>
+
+Cerrar Sesión:
+
+<div align="center"><img src="resources/imgs/capitulo-4/usfd4.jpg"></div>
+
+**Proveedor**
+
+Cerrar Sesión:
+
+<div align="center"><img src="resources/imgs/capitulo-4/usfd4.jpg"></div>
+
+Acceder a link principales:
+
+<div align="center"><img src="resources/imgs/capitulo-4/usfd5.jpg"></div>
+
+Acceder a ayuda, notificaciones y perfil:
+
+<div align="center"><img src="resources/imgs/capitulo-4/usfd6.jpg"></div>
+
 ### 4.5. Web Applications Prototyping.
 
 Para el desarrollo del prototype utilizamos la herramienta Figma, en la cual agregamos interacciones a los mock-ups previamente diseñados. Esto permitió simular el flujo de navegación y visualizar la experiencia del usuario de manera más realista.
-
 
 Ver Prototype en Figma:
 [https://www.figma.com/design/mHHx8WStPBr63tLYj42pBX/GeoPs?node-id=313-2872&t=i41W8YjchPvP7Aoe-1](https://www.figma.com/design/mHHx8WStPBr63tLYj42pBX/GeoPs?node-id=313-2872&t=i41W8YjchPvP7Aoe-1)
@@ -966,7 +999,7 @@ Ver Prototype en Figma:
 <div align="center"><img src="resources/imgs/capitulo-4/PrototypeGeoPs.png" alt="Prototype GeoPs"></div>
 
 Video Prototype GeoPs:
-[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318049_upc_edu_pe/EfpJo35cywBHo2-BEP8S_sEBMuPuIKJ2VCSzvJL7gHK41w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=j3nWJH]([https://www.figma.com/design/mHHx8WStPBr63tLYj42pBX/GeoPs?node-id=313-2872&t=i41W8YjchPvP7Aoe-1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318049_upc_edu_pe/EfpJo35cywBHo2-BEP8S_sEBMuPuIKJ2VCSzvJL7gHK41w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=j3nWJH))
+[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318049_upc_edu_pe/EfpJo35cywBHo2-BEP8S_sEBMuPuIKJ2VCSzvJL7gHK41w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=j3nWJH](<[https://www.figma.com/design/mHHx8WStPBr63tLYj42pBX/GeoPs?node-id=313-2872&t=i41W8YjchPvP7Aoe-1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318049_upc_edu_pe/EfpJo35cywBHo2-BEP8S_sEBMuPuIKJ2VCSzvJL7gHK41w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=j3nWJH)>)
 
 ### 4.6. Domain-Driven Software Architecture
 

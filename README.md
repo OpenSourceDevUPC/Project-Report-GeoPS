@@ -571,6 +571,7 @@ Logo GeoPS, Productos, Negocios, Nosotros, Planes, Registrarse, Iniciar Sesión.
 
 <div align="center"><img src="resources/imgs/capitulo-4/payment-geops-wireframe.png" alt="Proceso de Pago GeoPs"></div>
 
+
 #### 4.4.2. Web Applications Wireflow Diagrams
 
 #### Login
@@ -774,6 +775,70 @@ El proveedor, desde el perfil, selecciona cerrar sesión. El sistema valida la a
 **Cerrar Sesión**
 
 <div align="center"><img src="resources/imgs/capitulo-4/logout-geops-mockup.png" alt="Cerrar Sesión Cliente GeoPS"></div>
+
+#### Proveedores
+
+**Resumen**
+
+<div align="center"><img src="resources/imgs/capitulo-4/resume-geops-mockup.png" alt="Resumen Proveedor GeoPS"></div>
+
+**Campañas**
+
+<div align="center"><img src="resources/imgs/capitulo-4/campaigns-geops-mockup.png" alt="Campañas Proveedor GeoPS"></div>
+
+**Crear**
+
+<div align="center"><img src="resources/imgs/capitulo-4/create-geops-mockup.png" alt="Opcion Opción Oferta Proveedor GeoPS"></div>
+
+- Crear campaña
+
+<div align="center"><img src="resources/imgs/capitulo-4/createform-geops-mockup.png" alt="Opcion Crear Oferta Proveedor GeoPS"></div>
+
+- Campaña creada
+
+<div align="center"><img src="resources/imgs/capitulo-4/createformconfirm-geops-mockup.png" alt="Oferta Creada Proveedor GeoPS"></div>
+
+**Reportes**
+
+<div align="center"><img src="resources/imgs/capitulo-4/reports-geops-mockup.png" alt="Reportes Proveedor GeoPS"></div>
+
+**Comentarios**
+
+<div align="center"><img src="resources/imgs/capitulo-4/commentssuppliers-geops-mockup.png" alt="Comentarios Proveedor GeoPS"></div>
+
+**Planes**
+
+<div align="center"><img src="resources/imgs/capitulo-4/plans-suppliers-geops-mockup.png" alt="Planes Proveedor GeoPS"></div>
+
+**Ayuda**
+
+<div align="center"><img src="resources/imgs/capitulo-4/helpsuppliers-geops-mockup.png" alt="Ayuda Proveedor GeoPS"></div>
+
+**Notificaciones**
+
+- Notificaciones generales
+
+<div align="center"><img src="resources/imgs/capitulo-4/notisuppliers-geops-mockup.png" alt="Notificaciones Proveedor GeoPS"></div>
+
+- Notificaciones leídas
+
+<div align="center"><img src="resources/imgs/capitulo-4/notiseensuppliers-geops-mockup.png" alt="Notificaciones Leidas Proveedor GeoPS"></div>
+  
+- Sin Notificaciones
+
+<div align="center"><img src="resources/imgs/capitulo-4/noticlearsuppliers-geops-mockup.png" alt="Sin Notificaciones Proveedor GeoPS"></div>
+
+**Perfil**
+
+<div align="center"><img src="resources/imgs/capitulo-4/suppliersprofile-geops-mockup.png" alt="Perfil Proveedor GeoPS"></div>
+
+- Editar perfil
+
+<div align="center"><img src="resources/imgs/capitulo-4/editsuppliersprofile-geops-mockup.png" alt="Editar Perfil Proveedor GeoPS"></div>
+
+**Cerrar Sesión**
+
+<div align="center"><img src="resources/imgs/capitulo-4/logoutsuppliers-geops-mockup.png" alt="Cerrar Sesión Proveedor GeoPS"></div>
 
 #### 4.4.4. Web Applications User Flow Diagrams
 

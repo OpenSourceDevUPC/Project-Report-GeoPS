@@ -274,19 +274,19 @@ Un aspecto fundamental en el proceso fue el aprovechamiento de las horas de clas
 
   <div align="center">
   
-  <img src="assets/chapter-i/Perfil_Alessandra.jpg" width="500"><br>
+  <img src="resources/imgs/chapter-i/Perfil_Alessandra.jpg" width="500"><br>
   **Alessandra**
   
-  <img src="assets/chapter-i/Perfil_Alvaro.jpg" width="500"><br>
+  <img src="resources/imgs/chapter-i/Perfil_Alvaro.jpg" width="500"><br>
   **Álvaro**
   
-  <img src="assets/chapter-i/Perfil_Dyron.jpg" width="500"><br>
+  <img src="resources/imgs/chapter-i/Perfil_Dyron.jpg" width="500"><br>
   **Dyron**
   
-  <img src="assets/chapter-i/Perfil_Esther.jpg" width="500"><br>
+  <img src="resources/imgs/chapter-i/Perfil_Esther.jpg" width="500"><br>
   **Esther**
   
-  <img src="assets/chapter-i/Perfil_Gilbert.jpg" width="500"><br>
+  <img src="resources/imgs/chapter-i/Perfil_Gilbert.jpg" width="500"><br>
   **Gilbert**
   
   </div>
@@ -363,7 +363,7 @@ Con un **diseño responsive** que se adapta a cualquier dispositivo, **GeoPS Lab
   El impacto económico y social de la problemática es considerable. Para las PyMEs, representa pérdidas al no captar clientes cercanos ni medir el retorno de inversión en publicidad. El BID (2020) estima que la digitalización puede aumentar en más de 30% las ventas de pequeñas empresas que adoptan herramientas tecnológicas. Para los consumidores, implica ahorro de tiempo y dinero al acceder a ofertas relevantes en el momento oportuno. GeoPS Web busca capturar ese valor mediante un modelo accesible y medible desde el navegador.
 
 <div align="center">
-  <img src="assets/chapter-i/How much.png" alt="How much — KPI Chart" width="700">
+  <img src="resources/imgs/chapter-i/How much.png" alt="How much — KPI Chart" width="700">
   <p><em>Figura: How much — KPIs objetivo</em></p>
 </div>
 
@@ -443,7 +443,7 @@ Con un **diseño responsive** que se adapta a cualquier dispositivo, **GeoPS Lab
   ##### 1.2.2.4. Lean UX Canvas
 
   <div align="center">
-  <img src="assets/chapter-i/Lean_UX_Canvas.png" alt="Lean UX Canvas" width="600">
+  <img src="resources/imgs/chapter-i/Lean_UX_Canvas.png" alt="Lean UX Canvas" width="600">
 </div>
 
 ### 1.3. Segmentos objetivos

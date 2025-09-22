@@ -724,7 +724,7 @@ El proveedor, desde el perfil, selecciona cerrar sesión. El sistema valida la a
 <div align="center"><img src="resources/imgs/capitulo-4/parques-geops-mockup.png" alt="Seccion Parques GeoPS"></div>
 
 - Juegos
-  
+
 <div align="center"><img src="resources/imgs/capitulo-4/juegos-geops-mockup.png" alt="Seccion Juegos GeoPS"></div>
 
 - Makis
@@ -752,7 +752,7 @@ El proveedor, desde el perfil, selecciona cerrar sesión. El sistema valida la a
 **Notificaciones**
 
 - Notificaciones generales
-  
+
 <div align="center"><img src="resources/imgs/capitulo-4/noticlient-geops-mockup.png" alt="Notificaciones Cliente GeoPS"></div>
 
 - Notificaciones leídas
@@ -1121,5 +1121,7 @@ Las relaciones entre tablas están diseñadas para optimizar consultas de proxim
 ## Conclusiones
 
 ## Anexos
+
+- <a href="https://www.figma.com/design/mHHx8WStPBr63tLYj42pBX/GeoPs?t=GXTYAnTYkIFHdSN8-0">Enlace del figma de GeoPs</a>
 
 ## Bibliografía

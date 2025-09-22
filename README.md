@@ -168,28 +168,28 @@ Un aspecto fundamental en el proceso fue el aprovechamiento de las horas de clas
     <td>
     	<p><strong>Cotrina Siclla, Sofia Alessandra</strong></p>
       <p><i>TB1</i></p>
-      <p>Participé en las entrevistas con usuarios target, comunicando de manera clara y adaptada tanto a consumidores como a propietarios de PyMEs. Presenté los hallazgos del capítulo 2 al equipo, adaptando el lenguaje técnico para facilitar la comprensión. Colaboré en la redacción del capítulo 2, asegurando que la información fuera accesible para diferentes audiencias.</p>
+      <p>Participé en las entrevistas con usuarios target, comunicando de manera clara y adaptada tanto a consumidores como a propietarios de PyMEs. Presenté los hallazgos del capítulo 2 a los integrantes del equipo, adaptando el lenguaje técnico para facilitar la comprensión entre todos los miembros.</p>
       <p></p>
     	<p><strong>Goñe Aracata, Esther Abigail</strong></p>
       <p><i>TB1</i></p>
-      <p>Desarrollé presentaciones visuales para la landing page y web application, comunicando conceptos de diseño de manera efectiva al equipo técnico y stakeholders. Participé en sesiones de feedback sobre wireframes y prototipos, adaptando mi comunicación según la audiencia (técnica vs. no técnica). Creé diagramas de flujo de trabajo que facilitaron la comunicación entre desarrolladores y diseñadores.</p>
+      <p>Desarrollé presentaciones visuales para la landing page y web application, comunicando conceptos de diseño de manera efectiva a los integrantes del equipo. Participé en sesiones de feedback sobre wireframes y prototipos con los miembros del equipo, adaptando mi comunicación según el nivel técnico de cada integrante.</p>
       <p></p>
       <p><strong>Huapaya Galindo, Dyron</strong></p>
       <p><i>TB1</i></p>
-      <p>Presenté la arquitectura de software del sistema a diferentes audiencias, desde desarrolladores hasta stakeholders de negocio, adaptando el nivel de detalle técnico según corresponda. Lideré sesiones de planificación donde comuniqué efectivamente los requerimientos técnicos y las decisiones de diseño. Facilité la comunicación entre el equipo técnico y los usuarios durante las entrevistas del capítulo 4.</p>
+      <p>Presenté la arquitectura de software del sistema a los integrantes del equipo, adaptando el nivel de detalle técnico según la experiencia de cada miembro. Lideré sesiones de planificación donde comuniqué efectivamente los requerimientos técnicos y las decisiones de diseño a todo el equipo. Facilité la comunicación con el resto de integrantes del equipo durante el desarrollo del capítulo 4.</p>
       <p></p>
     	<p><strong>Huarcaya Matias, Gilbert Alonso</strong></p>
       <p><i>TB1</i></p>
-      <p>Lideré la presentación de la propuesta de valor de GeoPS ante diferentes stakeholders, adaptando el mensaje según la audiencia (inversores, usuarios, equipo técnico). Comuniqué efectivamente los resultados del análisis competitivo y las estrategias de diferenciación. Participé en sesiones de validación con usuarios, demostrando habilidades de comunicación empática y asertiva. Desarrollé la landing page asegurando que la comunicación visual y textual fuera clara para el público objetivo.</p>
+      <p>Lideré el desarrollo del capítulo 5 del proyecto, analizando en detalle el desarrollo de la landing page junto con los integrantes del equipo y comunicando los aspectos técnicos y de diseño de manera clara y comprensible. Coordiné el trabajo colaborativo en el repositorio de GitHub, facilitando la comunicación entre los miembros del equipo para establecer flujos de trabajo eficientes y resolver conflictos de integración. Participé en entrevistas con usuarios, demostrando habilidades de comunicación empática y asertiva durante las sesiones de validación.</p>
       <p></p>
     	<p><strong>Salazar Caballero, Alvaro Fabrizzio</strong></p>
       <p><i>TB1</i></p>
-      <p>Presenté los hallazgos del análisis de mercado y la investigación de usuarios a diferentes audiencias internas y externas. Comuniqué efectivamente los insights del capítulo 1, adaptando la presentación según el conocimiento técnico de la audiencia. Facilité workshops de ideación donde promovió la participación activa de todos los miembros del equipo. Desarrollé documentación técnica clara y accesible para futuros desarrolladores del proyecto.</p>
+      <p>Presenté los hallazgos del análisis de mercado y la investigación de usuarios a los integrantes del equipo. Comuniqué efectivamente los insights del capítulo 1 a los miembros del equipo, adaptando la presentación según el conocimiento de cada integrante.</p>
     </td>
     <td>
       <p><ins><i><strong>TB1:</strong></i></ins></p>
-      <p><strong>Objetivo específico:</strong> Desarrollar habilidades de comunicación oral efectiva adaptada a diferentes audiencias durante las fases iniciales del proyecto, incluyendo entrevistas con usuarios, presentaciones técnicas y sesiones de validación.</p>
-      <p><strong>Conclusión:</strong> El equipo demostró capacidad excepcional para comunicarse oralmente con diferentes tipos de audiencias. Cada miembro adaptó su estilo de comunicación según el contexto: técnico con desarrolladores, empático con usuarios finales, y estratégico con stakeholders. Las entrevistas con usuarios fueron conducidas de manera profesional, obteniendo insights valiosos que enriquecieron el desarrollo del proyecto. Las presentaciones internas facilitaron la alineación del equipo y la toma de decisiones colaborativa.</p>
+      <p><strong>Objetivo específico:</strong> Desarrollar habilidades de comunicación oral efectiva adaptada a diferentes audiencias durante las fases iniciales del proyecto, incluyendo entrevistas con usuarios y presentaciones entre los integrantes del equipo.</p>
+      <p><strong>Conclusión:</strong> El equipo demostró capacidad excepcional para comunicarse oralmente con las personas entrevistadas y entre los integrantes del equipo. Cada miembro adaptó su estilo de comunicación según el contexto: técnico entre los desarrolladores del equipo y empático con las personas entrevistadas. Las entrevistas con usuarios fueron conducidas de manera profesional, obteniendo insights valiosos que enriquecieron el desarrollo del proyecto. Las presentaciones internas facilitaron la alineación del equipo y la toma de decisiones colaborativa.</p>
     </td>
   </tr>
   <tr>
@@ -197,28 +197,28 @@ Un aspecto fundamental en el proceso fue el aprovechamiento de las horas de clas
     <td>
       <p><strong>Cotrina Siclla, Sofia Alessandra</strong></p>
       <p><i>TB1</i></p>
-      <p>Redacté secciones del capítulo 2 enfocadas en el análisis de entrevistas y user personas, utilizando un lenguaje claro y estructurado que permite la comprensión tanto técnica como de negocio. Documenté los hallazgos de las entrevistas de manera sistemática, creando narrativas que conectan los insights con las necesidades del proyecto. Contribuí a la documentación de User Flow diagrams y especificaciones de Canva - PPT con un enfoque didáctico.</p>
+      <p>Redacté secciones del capítulo 2 enfocadas en el análisis de entrevistas y user personas, utilizando un lenguaje claro y estructurado que permite la comprensión de todos los integrantes del equipo. Documenté los hallazgos de las entrevistas de manera sistemática, creando narrativas que conectan los insights con las necesidades del proyecto. Contribuí a la documentación de User Flow diagrams con un enfoque didáctico.</p>
       <p></p>
       <p><strong>Goñe Aracata, Esther Abigail</strong></p>
       <p><i>TB1</i></p>
-      <p>Elaboré documentación técnica de diseño para la landing page y web application, incluyendo especificaciones de wireframes y prototipos que son comprensibles tanto para desarrolladores como para stakeholders de negocio. Redacté guías de estilo y principios de diseño que facilitan la implementación consistente del proyecto. Documenté procesos de workflow y prototyping con un enfoque pedagógico que permite la replicación por parte de otros equipos.</p>
+      <p>Elaboré documentación técnica de diseño para la landing page y web application, incluyendo especificaciones de wireframes y prototipos comprensibles para todos los integrantes del equipo. Redacté guías de estilo y principios de diseño que facilitan la implementación consistente del proyecto. Documenté procesos de workflow y prototyping con un enfoque pedagógico.</p>
       <p></p>
       <p><strong>Huapaya Galindo, Dyron</strong></p>
       <p><i>TB1</i></p>
-      <p>Redacté la documentación de arquitectura de software del capítulo 4, creando diagramas y especificaciones técnicas comprensibles para diferentes niveles de experticia técnica. Elaboré documentación de diagramas de software architecture con un enfoque modular que facilita la comprensión gradual. Contribuí a la documentación de especificaciones técnicas utilizando Canva - PPT, manteniendo claridad conceptual sin sacrificar rigor técnico.</p>
+      <p>Redacté la documentación de arquitectura de software del capítulo 4, creando diagramas y especificaciones técnicas comprensibles para diferentes niveles de experticia técnica dentro del equipo. Elaboré documentación de diagramas de software architecture con un enfoque modular que facilita la comprensión gradual. Contribuí a la documentación de especificaciones técnicas manteniendo claridad conceptual.</p>
       <p></p>
       <p><strong>Huarcaya Matias, Gilbert Alonso</strong></p>
       <p><i>TB1</i></p>
-      <p>Lideré la redacción del capítulo 5 y la documentación de la landing page, asegurando que el contenido fuera accesible para usuarios técnicos y no técnicos. Elaboré especificaciones detalladas de funcionalidades y diagramas de base de datos que sirven como referencia para el desarrollo futuro. Desarrollé documentación de usuario final que explica de manera clara y concisa las funcionalidades de GeoPS. Creé contenido para la landing page que comunica efectivamente la propuesta de valor a diferentes segmentos de usuarios.</p>
+      <p>Lideré la redacción del capítulo 5 y la documentación de la landing page, asegurando que el contenido fuera accesible para todos los integrantes del equipo. Elaboré especificaciones detalladas de funcionalidades y diagramas de base de datos que sirven como referencia para el desarrollo futuro. Desarrollé documentación que explica de manera clara y concisa las funcionalidades de GeoPS. Creé contenido para la landing page dirigido a las personas entrevistadas.</p>
       <p></p>
       <p><strong>Salazar Caballero, Alvaro Fabrizzio</strong></p>
       <p><i>TB1</i></p>
-      <p>Redacté secciones fundamentales del capítulo 1 y 3, incluyendo la descripción del startup y el análisis de la problemática, utilizando un lenguaje persuasivo y estructurado que resulta atractivo tanto para inversores como para usuarios finales. Elaboré documentación de product backlog y especificaciones de Trello, manteniendo claridad en los requerimientos para diferentes stakeholders. Contribuí a la documentación técnica asegurando que los conceptos complejos fueran explicados de manera accesible sin perder precisión.</p>
+      <p>Redacté secciones fundamentales del capítulo 1 y 3, incluyendo la descripción del startup y el análisis de la problemática, utilizando un lenguaje claro y estructurado. Elaboré documentación de product backlog manteniendo claridad en los requerimientos para todos los integrantes del equipo. Contribuí a la documentación técnica asegurando que los conceptos complejos fueran explicados de manera accesible.</p>
     </td>
     <td>
       <p><ins><i><strong>TB1:</strong></i></ins></p>
-      <p><strong>Objetivo específico:</strong> Producir documentación escrita de alta calidad que sea comprensible y útil para diferentes audiencias, desde documentación técnica para desarrolladores hasta contenido de usuario final y materiales de presentación para stakeholders.</p>
-      <p><strong>Conclusión:</strong> El equipo logró crear documentación escrita excepcional que atiende efectivamente a las necesidades de diferentes audiencias. La documentación técnica es precisa y detallada para desarrolladores, mientras que la documentación de usuario es clara y accesible. Los materiales de presentación comunican la propuesta de valor de manera convincente para stakeholders e inversores. La redacción del proyecto demuestra capacidad para adaptar el tono, nivel de detalle y estructura según la audiencia objetivo, estableciendo una base sólida para la comunicación futura del proyecto.</p>
+      <p><strong>Objetivo específico:</strong> Producir documentación escrita de alta calidad que sea comprensible y útil para los integrantes del equipo y las personas entrevistadas, desde documentación técnica hasta contenido dirigido a usuarios finales.</p>
+      <p><strong>Conclusión:</strong> El equipo logró crear documentación escrita excepcional que atiende efectivamente a las necesidades de los integrantes del equipo y las personas entrevistadas. La documentación técnica es precisa y detallada para todos los miembros del equipo, mientras que el contenido dirigido a usuarios es claro y accesible. La redacción del proyecto demuestra capacidad para adaptar el tono, nivel de detalle y estructura según la audiencia objetivo, estableciendo una base sólida para la comunicación futura del proyecto.</p>
     </td>
   </tr>
 </table>

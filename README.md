@@ -790,11 +790,11 @@ El proveedor, desde el perfil, selecciona cerrar sesión. El sistema valida la a
 
 <div align="center"><img src="resources/imgs/capitulo-4/create-geops-mockup.png" alt="Opcion Opción Oferta Proveedor GeoPS"></div>
 
-- Crear oferta
+- Crear campaña
 
 <div align="center"><img src="resources/imgs/capitulo-4/createform-geops-mockup.png" alt="Opcion Crear Oferta Proveedor GeoPS"></div>
 
-- Oferta creada
+- Campaña creada
 
 <div align="center"><img src="resources/imgs/capitulo-4/createformconfirm-geops-mockup.png" alt="Oferta Creada Proveedor GeoPS"></div>
 

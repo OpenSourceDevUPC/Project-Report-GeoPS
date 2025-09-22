@@ -597,7 +597,7 @@ Ver Diseño en Figma:
 
 - Notificaciones leídas
 
-<div align="center"><img src="resources/imgs/capitulo-4/noticlientsseen-geops-wireframe.png" alt="Notificaciones Leídas Cliente Wireframe GeoPS"></div>
+<div align="center"><img src="resources/imgs/capitulo-4/notiseensuppliers-geops-wireframe.png" alt="Notificaciones Leídas Cliente Wireframe GeoPS"></div>
 
 - Sin notificaciones
 

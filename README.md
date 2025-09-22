@@ -514,64 +514,175 @@ Logo GeoPS, Productos, Negocios, Nosotros, Planes, Registrarse, Iniciar Sesión.
 
 #### 4.3.1. Landing Page Wireframe
 
+Ver Diseño en Figma:
+[https://www.figma.com/design/mHHx8WStPBr63tLYj42pBX/GeoPs?node-id=313-2872&t=i41W8YjchPvP7Aoe-1](https://www.figma.com/design/mHHx8WStPBr63tLYj42pBX/GeoPs?node-id=313-2872&t=i41W8YjchPvP7Aoe-1)
+
+<div align="center"><img src="resources/imgs/capitulo-4/landingpage-geops-wireframe.png" alt="Landing Page Wireframe GeoPS"></div>
+
 #### 4.3.2. Landing Page Mock-up
+
+Ver Diseño en Figma:
+[https://www.figma.com/design/mHHx8WStPBr63tLYj42pBX/GeoPs?node-id=313-2872&t=i41W8YjchPvP7Aoe-1](https://www.figma.com/design/mHHx8WStPBr63tLYj42pBX/GeoPs?node-id=313-2872&t=i41W8YjchPvP7Aoe-1)
+
+<div align="center"><img src="resources/imgs/capitulo-4/landingpage-geops-mockup.png" alt="Landing Page Mockup GeoPS"></div>
 
 ### 4.4. Web Applications UX/UI Design
 
 #### 4.4.1. Web Applications Wireframes
 
-**Inicio de Sesión**
+Ver Diseño en Figma:
+[https://www.figma.com/design/mHHx8WStPBr63tLYj42pBX/GeoPs?node-id=313-2872&t=i41W8YjchPvP7Aoe-1](https://www.figma.com/design/mHHx8WStPBr63tLYj42pBX/GeoPs?node-id=313-2872&t=i41W8YjchPvP7Aoe-1)
 
-<div align="center"><img src="resources/imgs/capitulo-4/loginandregister-geops-wireframe.png" alt="Inicio de Sesión y Registro GeoPS"></div>
+#### Login
 
-**Perfil**
+**Inicio de Sesión y registro**
 
-<div align="center"><img src="resources/imgs/capitulo-4/profileclient-geops-wireframe.png" alt="Perfil de Cliente GeoPs"></div>
-<div align="center"><img src="resources/imgs/capitulo-4/editprofileclient-geops-wireframe.png" alt="Editar Perfil de Cliente GeoPs"></div>
+<div align="center"><img src="resources/imgs/capitulo-4/loginandregister-geops-wireframe.png" alt="Inicio de Sesión y Registro Wireframe GeoPS"></div>
+
+#### Cliente
 
 **Home**
 
-<div align="center"><img src="resources/imgs/capitulo-4/home-geops-wireframe.png" alt="Página Principal GeoPs"></div>
-
-**Ofertas (Vista de Categorías)**
-
-<div align="center"><img src="resources/imgs/capitulo-4/home-seemore-geops-wireframe.png" alt="Ofertas por Categoría GeoPs"></div>
+<div align="center"><img src="resources/imgs/capitulo-4/home-geops-wireframe.png" alt="Home Cliente Wireframe GeoPs"></div>
 
 **Ofertas**
 
-<div align="center"><img src="resources/imgs/capitulo-4/offers-geops-wireframe.png" alt="Listado de Ofertas GeoPs"></div>
-
-**Detalle de Oferta**
-
-<div align="center"><img src="resources/imgs/capitulo-4/seemore-geops-wireframe.png" alt="Detalle de Oferta GeoPs"></div>
+<div align="center"><img src="resources/imgs/capitulo-4/offers-geops-wireframe.png" alt="Ofertas Cliente Wireframe GeoPs"></div>
 
 **Categorías**
 
-<div align="center"><img src="resources/imgs/capitulo-4/categories-geops-wireframe.png" alt="Vista de Categorias GeoPs"></div>
+<div align="center"><img src="resources/imgs/capitulo-4/categories-geops-wireframe.png" alt="Categorias Cliente Wireframe GeoPs"></div>
 
 **Favoritos**
 
-<div align="center"><img src="resources/imgs/capitulo-4/favs-geops-wireframe.png" alt="Favoritos GeoPs"></div>
+<div align="center"><img src="resources/imgs/capitulo-4/favs-geops-wireframe.png" alt="Favoritos Cliente Wireframe GeoPs"></div>
 
 **Mis Cupones**
 
-<div align="center"><img src="resources/imgs/capitulo-4/coupons-geops-wireframe.png" alt="Mis Cupones GeoPs"></div>
+<div align="center"><img src="resources/imgs/capitulo-4/coupons-geops-wireframe.png" alt="Mis Cupones Cliente Wireframe GeoPs"></div>
+
+**Planes**
+
+<div align="center"><img src="resources/imgs/capitulo-4/plans-geops-wireframe.png" alt="Planes Cliente Wireframe GeoPS"></div>
+
+**Acceso Ubicación**
+
+<div align="center"><img src="resources/imgs/capitulo-4/homeubi-geops-wireframe.png" alt="Acceso Ubicación Cliente Wireframe GeoPS"></div>
+
+- Ubicación Permitida
+
+<div align="center"><img src="resources/imgs/capitulo-4/homeubiconfirm-geops-wireframe.png" alt="Ubicación Permitida Cliente Wireframe GeoPS"></div>
+
+**Secciones**
+
+<div align="center"><img src="resources/imgs/capitulo-4/home-seemore-geops-wireframe.png" alt="Secciones Clientes Wireframe GeoPs"></div>
+
+**Agregar oferta carrito**
+
+<div align="center"><img src="resources/imgs/capitulo-4/cart-geops-wireframe.png" alt="Agregar Articulo Carrito Cliente Wireframe GeoPs"></div>
+
+**Pago**
+
+<div align="center"><img src="resources/imgs/capitulo-4/payment-geops-wireframe.png" alt="Pago Carrito Cliente Wireframe GeoPs"></div>
+
+**Ayuda**
+
+<div align="center"><img src="resources/imgs/capitulo-4/centroayudaclient-geops-wireframe.png" alt="Ayuda Cliente Wireframe GeoPs"></div>
 
 **Notificaciones**
 
-<div align="center"><img src="resources/imgs/capitulo-4/noticlient-geops-wireframe.png" alt="Notificaciones de Cliente GeoPs"></div>
-<div align="center"><img src="resources/imgs/capitulo-4/clientseennoti-geops-wireframe.png" alt="Preferencia de Notificaciones GeoPs"></div>
-<div align="center"><img src="resources/imgs/capitulo-4/noticlear-geops-wireframe.png" alt="Listado de Notificaciones GeoPs"></div>
+- Notificaciones generales
 
-**Carrito de Compra**
+<div align="center"><img src="resources/imgs/capitulo-4/noticlient-geops-wireframe.png" alt="Notificaciones Cliente Wireframe GeoPS"></div>
 
-<div align="center"><img src="resources/imgs/capitulo-4/cart-geops-wireframe.png" alt="Carrito de Compras GeoPs"></div>
+- Notificaciones leídas
 
-**Proceso de Pago**
+<div align="center"><img src="resources/imgs/capitulo-4/noticlientsseen-geops-wireframe.png" alt="Notificaciones Leídas Cliente Wireframe GeoPS"></div>
 
-<div align="center"><img src="resources/imgs/capitulo-4/payment-geops-wireframe.png" alt="Proceso de Pago GeoPs"></div>
+- Sin notificaciones
+
+<div align="center"><img src="resources/imgs/capitulo-4/noticlear-geops-wireframe.png" alt="Sin Notificaciones Cliente Wireframe GeoPS"></div>
+
+**Perfil**
+
+<div align="center"><img src="resources/imgs/capitulo-4/profileclient-geops-wireframe.png" alt="Perfil Cliente Wireframe GeoPS"></div>
+
+- Editar Perfil
+
+<div align="center"><img src="resources/imgs/capitulo-4/editprofileclient-geops-wireframe.png" alt="Editar Perfil Cliente Wireframe GeoPS"></div>
+
+**Cerrar Sesión**
+
+<div align="center"><img src="resources/imgs/capitulo-4/logout-geops-wireframe.png" alt="Cerrar Sesión Cliente Wireframe GeoPS"></div>
+
+#### Proveedores
+
+**Resumen**
+
+<div align="center"><img src="resources/imgs/capitulo-4/resume-geops-wireframe.png" alt="Resumen Proveedor Wireframe GeoPS"></div>
+
+**Campañas**
+
+<div align="center"><img src="resources/imgs/capitulo-4/campaigns-geops-wireframe.png" alt="Campañas Proveedor Wireframe GeoPS"></div>
+
+**Crear**
+
+<div align="center"><img src="resources/imgs/capitulo-4/create-geops-wireframe.png" alt="Opcion Opción Oferta Proveedor Wireframe GeoPS"></div>
+
+- Crear campaña
+
+<div align="center"><img src="resources/imgs/capitulo-4/createform-geops-wireframe.png" alt="Opcion Crear Oferta Proveedor Wireframe GeoPS"></div>
+
+- Campaña creada
+
+<div align="center"><img src="resources/imgs/capitulo-4/createformconfirm-geops-wireframe.png" alt="Oferta Creada Proveedor Wireframe GeoPS"></div>
+
+**Reportes**
+
+<div align="center"><img src="resources/imgs/capitulo-4/reports-geops-wireframe.png" alt="Reportes Proveedor Wireframe GeoPS"></div>
+
+**Comentarios**
+
+<div align="center"><img src="resources/imgs/capitulo-4/commentssuppliers-geops-wireframe.png" alt="Comentarios Proveedor Wireframe GeoPS"></div>
+
+**Planes**
+
+<div align="center"><img src="resources/imgs/capitulo-4/plans-suppliers-geops-wireframe.png" alt="Planes Proveedor Wireframe GeoPS"></div>
+
+**Ayuda**
+
+<div align="center"><img src="resources/imgs/capitulo-4/helpsuppliers-geops-wireframe.png" alt="Ayuda Proveedor Wireframe GeoPS"></div>
+
+**Notificaciones**
+
+- Notificaciones generales
+
+<div align="center"><img src="resources/imgs/capitulo-4/notisuppliers-geops-wireframe.png" alt="Notificaciones Proveedor Wireframe GeoPS"></div>
+
+- Notificaciones leídas
+
+<div align="center"><img src="resources/imgs/capitulo-4/notiseensuppliers-geops-wireframe.png" alt="Notificaciones Leidas Proveedor Wireframe GeoPS"></div>
+  
+- Sin Notificaciones
+
+<div align="center"><img src="resources/imgs/capitulo-4/noticlearsuppliers-geops-wireframe.png" alt="Sin Notificaciones Proveedor Wireframe GeoPS"></div>
+
+**Perfil**
+
+<div align="center"><img src="resources/imgs/capitulo-4/suppliersprofile-geops-wireframe.png" alt="Perfil Proveedor Wireframe GeoPS"></div>
+
+- Editar perfil
+
+<div align="center"><img src="resources/imgs/capitulo-4/editsuppliersprofile-geops-wireframe.png" alt="Editar Perfil Proveedor Wireframe GeoPS"></div>
+
+**Cerrar Sesión**
+
+<div align="center"><img src="resources/imgs/capitulo-4/logoutsuppliers-geops-wireframe.png" alt="Cerrar Sesión Proveedor Wireframe GeoPS"></div>
 
 #### 4.4.2. Web Applications Wireflow Diagrams
+
+Ver Wireflows Diagrams Overflow:
+[https://overflow.io/s/FAPMCERY](https://overflow.io/s/FAPMCERY)
 
 #### Login
 
@@ -668,6 +779,9 @@ El proveedor, desde el perfil, selecciona cerrar sesión. El sistema valida la a
 <div align="center"><img src="resources/imgs/capitulo-4/proveedor_usergoal_cerrarsesion.png" alt="Cerrar Sesión Proveedor GeoPs"></div>
 
 #### 4.4.3. Web Applications Mock-ups
+
+Ver Diseño en Figma:
+[https://www.figma.com/design/mHHx8WStPBr63tLYj42pBX/GeoPs?node-id=313-2872&t=i41W8YjchPvP7Aoe-1](https://www.figma.com/design/mHHx8WStPBr63tLYj42pBX/GeoPs?node-id=313-2872&t=i41W8YjchPvP7Aoe-1)
 
 #### Login
 

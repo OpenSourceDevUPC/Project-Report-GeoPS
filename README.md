@@ -2925,8 +2925,8 @@ World Bank. (2019). *World Development Report 2019: The Changing Nature of Work*
 
 - <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318049_upc_edu_pe/EfpJo35cywBHo2-BEP8S_sEBMuPuIKJ2VCSzvJL7gHK41w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=j3nWJH ">Video Web Applications Prototyping</a>
 
-- <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318049_upc_edu_pe/EfpJo35cywBHo2-BEP8S_sEBMuPuIKJ2VCSzvJL7gHK41w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=j3nWJH">Video About the team</a>
+- <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318049_upc_edu_pe/EXBG2R5h_I5GkkRMxOrjyasBLn3ql_8zCTRmDfsTzMsh8g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=8wm84J ">Video About the team</a>
 
-- <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318049_upc_edu_pe/EfpJo35cywBHo2-BEP8S_sEBMuPuIKJ2VCSzvJL7gHK41w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=j3nWJH">Video Exposición</a>
+- <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318049_upc_edu_pe/ERgA61ycmStInmwxbUbMi8YBmcogeigzUW_kb0pwMezHyA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ueo7hW ">Video Exposición</a>
 
 

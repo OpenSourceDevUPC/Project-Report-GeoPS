@@ -70,9 +70,11 @@ Para garantizar una distribución equitativa del trabajo, el equipo implementó 
 
 Un aspecto fundamental en el proceso fue el aprovechamiento de las horas de clase destinadas a consultas y retroalimentación docente. Estos espacios resultaron invaluables considerando las diferentes disponibilidades horarias de los integrantes, permitiendo al equipo resolver dudas conceptuales, recibir orientación metodológica y validar el progreso del proyecto de manera oportuna.
 
-+ Evidencias de colaboracion y commits:
-  <img src="resources/insights.png" width="500"><br>
-  <img src="resources/contribuitors.png" width="500"><br>
+<p><strong>Evidencias de colaboración y commits:</strong></p>
+<div style="text-align: center;">
+  <img src="resources/insights.png" width="500"><br><br>
+  <img src="resources/contributors.png" width="500">
+</div>
 
 ---
 
@@ -808,20 +810,21 @@ El Impact Mapping es una técnica de planificación estratégica que conecta los
   <img src="resources/imgs/chapter-iii/Impact_mapping_GeoPS.png" alt="Impact Mapping GeoPS" width="1000"/>
 </center>
 
+---
+
 ### 3.3. Product Backlog
 
 El **Product Backlog** es una lista priorizada de funcionalidades, mejoras y requisitos técnicos que guiarán la evolución del producto.  
 Su propósito es organizar el trabajo en función del valor que aporta al usuario y al negocio, sirviendo como una hoja de ruta flexible y adaptable durante el desarrollo.
 
-🔗 **Enlace al Product Backlog en Trello:**  
-[Product Backlog - Trello](https://trello.com/invite/b/6827b176ac2901fb01dfde7f/ATTI41e099b86c4d473204a21f0e3359cadd5F57D4C1/product-backlog-geops)
+**Enlace al Product Backlog en Trello:** https://trello.com/invite/b/6827b176ac2901fb01dfde7f/ATTI41e099b86c4d473204a21f0e3359cadd5F57D4C1/product-backlog-geops
 
 ### Vista del Product Backlog en Trello
 
 <p align="center">
   <img src="resources/imgs/chapter-iii/Product Backlog - Trello.png" alt="Product Backlog - Trello" width="700">
 </p>
----
+
 
 | # Orden | User Story ID | Título | Descripción | Story Points |
 |---------|---------------|--------|-------------|--------------|
@@ -1639,13 +1642,11 @@ Acceder a ayuda, notificaciones y perfil:
 
 Para el desarrollo del prototype utilizamos la herramienta Figma, en la cual agregamos interacciones a los mock-ups previamente diseñados. Esto permitió simular el flujo de navegación y visualizar la experiencia del usuario de manera más realista.
 
-Ver Prototype en Figma:
-[https://www.figma.com/design/mHHx8WStPBr63tLYj42pBX/GeoPs?node-id=313-2872&t=i41W8YjchPvP7Aoe-1](https://www.figma.com/design/mHHx8WStPBr63tLYj42pBX/GeoPs?node-id=313-2872&t=i41W8YjchPvP7Aoe-1)
+Ver Prototype en Figma: https://www.figma.com/design/mHHx8WStPBr63tLYj42pBX/GeoPs?node-id=313-2872&t=i41W8YjchPvP7Aoe-1
 
 <div align="center"><img src="resources/imgs/capitulo-4/PrototypeGeoPs.png" alt="Prototype GeoPs"></div>
 
-Video Prototype GeoPs:
-[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318049_upc_edu_pe/EfpJo35cywBHo2-BEP8S_sEBMuPuIKJ2VCSzvJL7gHK41w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=j3nWJH](<[https://www.figma.com/design/mHHx8WStPBr63tLYj42pBX/GeoPs?node-id=313-2872&t=i41W8YjchPvP7Aoe-1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318049_upc_edu_pe/EfpJo35cywBHo2-BEP8S_sEBMuPuIKJ2VCSzvJL7gHK41w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=j3nWJH)>)
+Video Prototype GeoPs: https://www.figma.com/design/mHHx8WStPBr63tLYj42pBX/GeoPs?node-id=313-2872&t=i41W8YjchPvP7Aoe-1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318049_upc_edu_pe/EfpJo35cywBHo2-BEP8S_sEBMuPuIKJ2VCSzvJL7gHK41w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=j3nWJH
 
 ### 4.6. Domain-Driven Software Architecture
 
@@ -2496,7 +2497,7 @@ En esta sección se incluye la elaboración del artefacto Leadership and Collabo
 
 El Sprint Backlog 1 está orientado al desarrollo de la Landing Page informativa de la plataforma GeoPS, basado en las User Stories definidas para el primer sprint. A continuación se presenta el detalle de las tareas completadas según la planificación en Trello.
 
-**Enlace al Tablero:** [Trello - GeoPS Sprint 1](https://trello.com/b/CZ3eGcx8/product-backlog-geops)
+**Enlace al Tablero:** https://trello.com/b/CZ3eGcx8/product-backlog-geops
 
 <table>
   <thead>
@@ -2650,7 +2651,7 @@ El Sprint Backlog 1 está orientado al desarrollo de la Landing Page informativa
 
 Durante el Sprint 1, el equipo realizó commits importantes para el desarrollo de la Landing Page de GeoPS. A continuación se presenta la evidencia de desarrollo basada en el análisis del repositorio Landing:
 
-**Repositorio Analizado:** [https://github.com/OpenSourceDevUPC/Landing](https://github.com/OpenSourceDevUPC/Landing)
+**Repositorio Analizado:** https://github.com/OpenSourceDevUPC/Landing
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Date) |
 |------------|--------|-----------|----------------|---------------------|-------------------|
@@ -2921,12 +2922,12 @@ World Bank. (2019). *World Development Report 2019: The Changing Nature of Work*
 
 ## Anexos
 
-- <a href="https://www.figma.com/design/mHHx8WStPBr63tLYj42pBX/GeoPs?t=GXTYAnTYkIFHdSN8-0">Enlace del figma de GeoPs</a>
+- Enlace del figma de GeoPs: https://www.figma.com/design/mHHx8WStPBr63tLYj42pBX/GeoPs?t=GXTYAnTYkIFHdSN8-0
 
-- <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318049_upc_edu_pe/EfpJo35cywBHo2-BEP8S_sEBMuPuIKJ2VCSzvJL7gHK41w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=j3nWJH ">Video Web Applications Prototyping</a>
+- Video Web Applications Prototyping: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318049_upc_edu_pe/EfpJo35cywBHo2-BEP8S_sEBMuPuIKJ2VCSzvJL7gHK41w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=j3nWJH
 
-- <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318049_upc_edu_pe/EXBG2R5h_I5GkkRMxOrjyasBLn3ql_8zCTRmDfsTzMsh8g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=8wm84J ">Video About the team</a>
+- Video About the team: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318049_upc_edu_pe/EXBG2R5h_I5GkkRMxOrjyasBLn3ql_8zCTRmDfsTzMsh8g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=8wm84J
 
-- <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318049_upc_edu_pe/ERgA61ycmStInmwxbUbMi8YBmcogeigzUW_kb0pwMezHyA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ueo7hW ">Video Exposición</a>
+- Video Exposición: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318049_upc_edu_pe/ERgA61ycmStInmwxbUbMi8YBmcogeigzUW_kb0pwMezHyA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ueo7hW
 
 

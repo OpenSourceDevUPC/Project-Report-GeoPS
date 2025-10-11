@@ -142,7 +142,6 @@ Un aspecto fundamental en el proceso fue el aprovechamiento de las horas de clas
     - [3.2. Impact Mapping](#32-impact-mapping)
     - [3.3. Product Backlog](#33-product-backlog)
     - [Vista del Product Backlog en Trello](#vista-del-product-backlog-en-trello)
-  - [](#)
   - [Capítulo 4: Product Design](#capítulo-4-product-design)
     - [4.1. Style Guidelines](#41-style-guidelines)
       - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
@@ -191,6 +190,8 @@ Un aspecto fundamental en el proceso fue el aprovechamiento de las horas de clas
       - [5.1.2. Source Code Management](#512-source-code-management)
       - [5.1.3. Source Code Style Guide \& Conventions](#513-source-code-style-guide--conventions)
       - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
+      - [5.2. Landing Page, Services \& Applications Implementation](#52-landing-page-services--applications-implementation)
+      - [5.2.1. Sprint 1](#521-sprint-1)
       - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
       - [5.2.1.2. Aspect Leaders and Collaborators](#5212-aspect-leaders-and-collaborators)
       - [5.2.1.3. Sprint Backlog 1](#5213-sprint-backlog-1)
@@ -199,6 +200,31 @@ Un aspecto fundamental en el proceso fue el aprovechamiento de las horas de clas
       - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
       - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
       - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+      - [5.2.2. Sprint 2](#522-sprint-2)
+      - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
+      - [5.2.2.2. Aspect Leaders and Collaborators](#5222-aspect-leaders-and-collaborators)
+      - [5.2.2.3. Sprint Backlog 2.](#5223-sprint-backlog-2)
+    - [Sprint Backlog 2 – User Stories and Tasks](#sprint-backlog-2--user-stories-and-tasks)
+      - [5.2.2.4. Development Evidence for Sprint Review.](#5224-development-evidence-for-sprint-review)
+    - [🧾 Sprint Backlog 2 – Commits Overview](#-sprint-backlog-2--commits-overview)
+    - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+      - [Módulos Implementados](#módulos-implementados)
+      - [Evidencias Visuales](#evidencias-visuales)
+      - [Demostración en Video y URL de la Web](#demostración-en-video-y-url-de-la-web)
+    - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+      - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+    - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+      - [Métricas Detalladas del Repositorio de Desarrollo (`geops-frontend`)](#métricas-detalladas-del-repositorio-de-desarrollo-geops-frontend)
+      - [Observaciones de Colaboración](#observaciones-de-colaboración)
+      - [Análisis de Contribuciones por Desarrollador](#análisis-de-contribuciones-por-desarrollador)
+    - [Análisis de Patrones de Colaboración](#análisis-de-patrones-de-colaboración)
+      - [1. Metodología de Trabajo](#1-metodología-de-trabajo)
+      - [2. Herramientas de Comunicación Utilizadas](#2-herramientas-de-comunicación-utilizadas)
+      - [3. Distribución Temporal de Trabajo](#3-distribución-temporal-de-trabajo)
+    - [Insights Principales del Sprint 2](#insights-principales-del-sprint-2)
+      - [Fortalezas Identificadas](#fortalezas-identificadas)
+      - [Áreas de Mejora para Próximos Sprints](#áreas-de-mejora-para-próximos-sprints)
+    - [Conclusión de Colaboración](#conclusión-de-colaboración)
   - [Conclusiones](#conclusiones)
   - [Bibliografía](#bibliografía)
   - [Anexos](#anexos)
@@ -3136,6 +3162,106 @@ En sprints posteriores, estos endpoints serán vinculados al **API real** de Geo
 
 - Enlace del json server: https://json-server-1-p24l.onrender.com/
 
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+En este apartado se documenta el proceso de despliegue de la base de datos JSON (json-server) en Render y el despliegue de la aplicación frontend desarrollada en Angular. Ambos despliegues se realizaron para disponer de una API de prueba pública y una versión accesible del frontend durante las revisiones del sprint.
+
+**1) Despliegue de json-server en Render (API de pruebas)**
+
+**Preparación:**
+- Añadir el archivo db.json en el repositorio (contiene los datos de prueba).
+- Crear un package.json mínimo con el script de arranque:
+  ```json
+  {
+    "scripts": {
+      "start": "json-server --watch db.json --port $PORT --host 0.0.0.0"
+    }
+  }
+  ```
+
+**Proceso en Render:**
+- Crear un nuevo servicio tipo "Web Service" en https://render.com.
+- Conectar el repositorio que contiene db.json.
+- Configurar el build/start command: `npm install && npm start`.
+- Render asigna una URL pública que servirá como endpoint REST para pruebas.
+
+**Configuración del Servicio JSON Server:**
+
+![JSON Server Configuration](./resources/tb1-db/base-config.png)
+
+**Estado del Servicio en Render:**
+
+![JSON Server Service Status](./resources/tb1-db/deploy-running.png)
+
+**Logs de Deployment del JSON Server:**
+
+![JSON Server Deployment Logs](./resources/tb1-db/finish-deploy-json-server.png)
+
+![JSON Server Deployment Logs](./resources/tb1-db/add-custom-domain.png)
+
+**Consideraciones:**
+- Usar la variable de entorno PORT que Render proporciona.
+- Habilitar CORS si es necesario (json-server ya permite uso simple).
+- Mantener db.json actualizado vía commits y deployments automáticos por push.
+
+**2) Despliegue del frontend Angular en Vercel**
+
+**Preparación del proyecto Angular:**
+- Asegurarse que el proyecto contiene los scripts en package.json:
+  ```json
+  {
+    "scripts": {
+      "build": "ng build --configuration production"
+    }
+  }
+  ```
+- Configurar en environment.ts la variable apiUrl apuntando al endpoint json-server desplegado.
+
+**Configuración del Frontend en Vercel:**
+
+![Frontend Configuration Vercel](./resources/tb1-frontend/access-vercel.png)
+
+**Proceso de Deployment en Vercel:**
+- Conectar el repositorio del frontend a Vercel mediante GitHub integration
+- Vercel detecta automáticamente que es un proyecto Angular
+- Build command configurado automáticamente: `ng build`
+- Output directory: `dist/<nombre-proyecto-angular>`
+
+**Build Process del Frontend:**
+
+![Frontend Build Process](./resources/tb1-frontend/select-frontend-repo.png)
+
+**Estado del Deployment Frontend:**
+
+![Frontend Deployment Status](./resources/tb1-frontend/deployed-success.png)
+
+**Configuración de Variables de Entorno:**
+- Establecer variable de entorno en Vercel con la URL del API: `API_URL=https://mi-json-server.onrender.com`
+- Habilitar HTTPS automático (Vercel lo gestiona por defecto)
+
+**Aplicación Frontend Desplegada:**
+
+![Frontend Application Live](./resources/tb1-frontend/vercel-success-page.png)
+
+**Ventajas del Deployment con Vercel:**
+- **Deployment Automático:** Cada push al repositorio dispara un nuevo deployment
+- **Preview Deployments:** Cada pull request genera una preview URL
+- **Global CDN:** Distribución mundial para mejor rendimiento
+- **Rollback Instantáneo:** Capacidad de revertir a versiones anteriores
+- **Analytics Integrados:** Métricas de rendimiento incluidas
+- **Custom Domains:** Soporte completo para dominios personalizados
+
+**Verificación:**
+- Acceder a la URL asignada por Vercel y validar que la aplicación carga correctamente
+- Verificar que el frontend consume exitosamente la API json-server desplegada en Render
+- Comprobar funcionalidad completa en diferentes dispositivos y navegadores
+
+**3) Notas finales sobre integración y pruebas**
+
+**URLs de los Servicios Desplegados:**
+- **JSON Server API:**: https://json-server-1-p24l.onrender.com
+- **Frontend Angular:**: https://geops-frontend.vercel.app/login 
+
 ### 5.2.2.8. Team Collaboration Insights during Sprint
 
 Durante el **Sprint 2**, el equipo mantuvo una colaboración constante y organizada a través del repositorio de **GitHub**, consolidando las prácticas de control de versiones implementadas desde el primer sprint.
@@ -3286,3 +3412,4 @@ World Bank. (2019). *World Development Report 2019: The Changing Nature of Work*
 - Video Exposición: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318049_upc_edu_pe/ERgA61ycmStInmwxbUbMi8YBmcogeigzUW_kb0pwMezHyA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ueo7hW
 
 
+- Link de presentacion FrontEnd https://upcedupe-my.sharepoint.com/:v:/g/personal/u202322855_upc_edu_pe/EWv8Ir2d59hBhJEHqI3s5IwBf2ReMIFw1sbiyrvktZKYqQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Q5oO9D

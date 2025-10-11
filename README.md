@@ -43,6 +43,7 @@
 | Versión | Fecha | Autor | Descripción de modificación |
 | :---- | :---- | :---- | :---- |
 | TB1 | 21/09/2025 | Cotrina Siclla, Sofia Alessandra <br> Goñe Aracata, Esther Abigail <br> Huapaya Galindo, Dyron <br> Huarcaya Matias, Gilbert Alonso <br> Salazar Caballero, Alvaro Fabrizzio | En la primera entrega del informe de nuestro proyecto, hemos realizado los primeros 5 capítulos del informe y también entregamos la primera versión del landing page de GeoPS. |
+| **TP1** | **10/10/2025** | Cotrina Siclla, Sofía Alessandra<br>Goñe Aracata, Esther Abigail<br>Huapaya Galindo, Dyron<br>Huarcaya Matías, Gilbert Alonso<br>Salazar Caballero, Álvaro Fabrizzio | En la entrega correspondiente a la **TP1** del proyecto **GeoPS**, se desarrollaron y documentaron todas las funcionalidades del **front-end orientado al usuario**, incluyendo las vistas principales, el **Centro de Ayuda**, la integración de componentes dinámicos y la mejora de la experiencia de navegación en la plataforma. Asimismo, se actualizó el **Event Storming** con los flujos centrados en el usuario consumidor. |
 
 <hr>
 
@@ -163,65 +164,88 @@ Un aspecto fundamental en el proceso fue el aprovechamiento de las horas de clas
     <th>Acciones realizadas</th>
     <th>Conclusiones</th>
   </tr>
+
   <tr>
     <td><strong>Comunica oralmente con efectividad a diferentes rangos de audiencia.</strong></td>
     <td>
-    	<p><strong>Cotrina Siclla, Sofia Alessandra</strong></p>
+      <p><strong>Cotrina Siclla, Sofia Alessandra</strong></p>
       <p><i>TB1</i></p>
       <p>Participé en las entrevistas con usuarios target, comunicando de manera clara y adaptada tanto a consumidores como a propietarios de PyMEs. Presenté los hallazgos del capítulo 2 a los integrantes del equipo, adaptando el lenguaje técnico para facilitar la comprensión entre todos los miembros.</p>
-      <p></p>
-    	<p><strong>Goñe Aracata, Esther Abigail</strong></p>
+      <p><i>TP1</i></p>
+      <p>Presenté las funcionalidades del front-end y la integración de componentes del <strong>Centro de Ayuda</strong> (<code>feature/toolbar-help</code>), explicando decisiones de diseño y mejoras de usabilidad. Coordiné con el equipo para ajustar la vista según los hallazgos de validación de usuarios.</p>
+
+      <p><strong>Goñe Aracata, Esther Abigail</strong></p>
       <p><i>TB1</i></p>
       <p>Desarrollé presentaciones visuales para la landing page y web application, comunicando conceptos de diseño de manera efectiva a los integrantes del equipo. Participé en sesiones de feedback sobre wireframes y prototipos con los miembros del equipo, adaptando mi comunicación según el nivel técnico de cada integrante.</p>
-      <p></p>
+      <p><i>TP1</i></p>
+      <p>Comuniqué los avances del desarrollo en la vista principal de <strong>Inicio</strong> (<code>feature/home</code>) y <strong>Categorías</strong> (<code>feature/categories</code>), explicando la lógica detrás del diseño responsivo y la interacción visual. Aseguré consistencia en los estilos entre componentes.</p>
+
       <p><strong>Huapaya Galindo, Dyron</strong></p>
       <p><i>TB1</i></p>
-      <p>Presenté la arquitectura de software del sistema a los integrantes del equipo, adaptando el nivel de detalle técnico según la experiencia de cada miembro. Lideré sesiones de planificación donde comuniqué efectivamente los requerimientos técnicos y las decisiones de diseño a todo el equipo. Facilité la comunicación con el resto de integrantes del equipo durante el desarrollo del capítulo 4.</p>
-      <p></p>
-    	<p><strong>Huarcaya Matias, Gilbert Alonso</strong></p>
+      <p>Presenté la arquitectura de software del sistema a los integrantes del equipo, adaptando el nivel de detalle técnico según la experiencia de cada miembro. Lideré sesiones de planificación donde comuniqué efectivamente los requerimientos técnicos y las decisiones de diseño a todo el equipo.</p>
+      <p><i>TP1</i></p>
+      <p>Expliqué al equipo la arquitectura y comunicación entre componentes del módulo de <strong>Configuración base</strong> (<code>feature/base-configuration</code>), así como la integración con las demás vistas. Lideré revisiones de código y resolví conflictos en ramas de desarrollo.</p>
+
+      <p><strong>Huarcaya Matias, Gilbert Alonso</strong></p>
       <p><i>TB1</i></p>
-      <p>Lideré el desarrollo del capítulo 5 del proyecto, analizando en detalle el desarrollo de la landing page junto con los integrantes del equipo y comunicando los aspectos técnicos y de diseño de manera clara y comprensible. Coordiné el trabajo colaborativo en el repositorio de GitHub, facilitando la comunicación entre los miembros del equipo para establecer flujos de trabajo eficientes y resolver conflictos de integración. Participé en entrevistas con usuarios, demostrando habilidades de comunicación empática y asertiva durante las sesiones de validación.</p>
-      <p></p>
-    	<p><strong>Salazar Caballero, Alvaro Fabrizzio</strong></p>
+      <p>Lideré el desarrollo del capítulo 5, analizando el desarrollo de la landing page junto con los integrantes del equipo. Coordiné el trabajo colaborativo en GitHub, facilitando la comunicación para resolver conflictos de integración.</p>
+      <p><i>TP1</i></p>
+      <p>Coordiné la presentación técnica de las vistas de <strong>Cupones</strong> (<code>feature/coupons</code>) y <strong>Suscripciones</strong> (<code>feature/Subscriptions</code>), comunicando los flujos de usuario y su impacto en la experiencia de navegación. Lideré sesiones de integración entre frontend y backend.</p>
+
+      <p><strong>Salazar Caballero, Alvaro Fabrizzio</strong></p>
       <p><i>TB1</i></p>
-      <p>Presenté los hallazgos del análisis de mercado y la investigación de usuarios a los integrantes del equipo. Comuniqué efectivamente los insights del capítulo 1 a los miembros del equipo, adaptando la presentación según el conocimiento de cada integrante.</p>
+      <p>Presenté los hallazgos del análisis de mercado y la investigación de usuarios. Comuniqué efectivamente los insights del capítulo 1, adaptando la presentación según el conocimiento de cada integrante.</p>
+      <p><i>TP1</i></p>
+      <p>Expliqué los avances en los módulos de <strong>Tarjetas</strong> (<code>feature/cards</code>) y <strong>Identity Access</strong> (<code>feature/Identity-Access</code>), detallando cómo se implementaron los mecanismos de validación y acceso de usuario.</p>
     </td>
+
     <td>
-      <p><ins><i><strong>TB1:</strong></i></ins></p>
-      <p><strong>Objetivo específico:</strong> Desarrollar habilidades de comunicación oral efectiva adaptada a diferentes audiencias durante las fases iniciales del proyecto, incluyendo entrevistas con usuarios y presentaciones entre los integrantes del equipo.</p>
-      <p><strong>Conclusión:</strong> El equipo demostró capacidad excepcional para comunicarse oralmente con las personas entrevistadas y entre los integrantes del equipo. Cada miembro adaptó su estilo de comunicación según el contexto: técnico entre los desarrolladores del equipo y empático con las personas entrevistadas. Las entrevistas con usuarios fueron conducidas de manera profesional, obteniendo insights valiosos que enriquecieron el desarrollo del proyecto. Las presentaciones internas facilitaron la alineación del equipo y la toma de decisiones colaborativa.</p>
+      <p><strong>TB1:</strong> El equipo mostró una comunicación oral efectiva al presentar entrevistas y hallazgos iniciales, adaptando el discurso según el público.</p>
+      <p><strong>TP1:</strong> La comunicación oral se enfocó en la explicación técnica de los módulos del front-end. Cada integrante defendió con claridad su rama de desarrollo, facilitando la integración entre vistas, servicios y componentes, manteniendo alineamiento con la experiencia del usuario.</p>
     </td>
   </tr>
+
   <tr>
-    <td><strong>Comunica por escrito con efectividad a diferentes rangos de audiencia</strong></td>
+    <td><strong>Comunica por escrito con efectividad a diferentes rangos de audiencia.</strong></td>
     <td>
       <p><strong>Cotrina Siclla, Sofia Alessandra</strong></p>
       <p><i>TB1</i></p>
-      <p>Redacté secciones del capítulo 2 enfocadas en el análisis de entrevistas y user personas, utilizando un lenguaje claro y estructurado que permite la comprensión de todos los integrantes del equipo. Documenté los hallazgos de las entrevistas de manera sistemática, creando narrativas que conectan los insights con las necesidades del proyecto. Contribuí a la documentación de User Flow diagrams con un enfoque didáctico.</p>
-      <p></p>
+      <p>Redacté secciones del capítulo 2 enfocadas en el análisis de entrevistas y user personas. Documenté los hallazgos de las entrevistas de manera sistemática.</p>
+      <p><i>TP1</i></p>
+      <p>Documenté la implementación del módulo <strong>Centro de Ayuda</strong> (<code>feature/toolbar-help</code>) y las mejoras de accesibilidad. Redacté instrucciones técnicas claras para la integración con otros componentes.</p>
+
       <p><strong>Goñe Aracata, Esther Abigail</strong></p>
       <p><i>TB1</i></p>
-      <p>Elaboré documentación técnica de diseño para la landing page y web application, incluyendo especificaciones de wireframes y prototipos comprensibles para todos los integrantes del equipo. Redacté guías de estilo y principios de diseño que facilitan la implementación consistente del proyecto. Documenté procesos de workflow y prototyping con un enfoque pedagógico.</p>
-      <p></p>
+      <p>Elaboré documentación técnica de diseño para la landing page y web application.</p>
+      <p><i>TP1</i></p>
+      <p>Redacté documentación de los componentes visuales del módulo <strong>Home</strong> y <strong>Categorías</strong>, explicando la jerarquía de elementos y las directrices de estilo CSS.</p>
+
       <p><strong>Huapaya Galindo, Dyron</strong></p>
       <p><i>TB1</i></p>
-      <p>Redacté la documentación de arquitectura de software del capítulo 4, creando diagramas y especificaciones técnicas comprensibles para diferentes niveles de experticia técnica dentro del equipo. Elaboré documentación de diagramas de software architecture con un enfoque modular que facilita la comprensión gradual. Contribuí a la documentación de especificaciones técnicas manteniendo claridad conceptual.</p>
-      <p></p>
+      <p>Redacté la documentación de arquitectura del software, con diagramas y especificaciones técnicas.</p>
+      <p><i>TP1</i></p>
+      <p>Documenté la arquitectura técnica de <strong>Base Configuration</strong> y la gestión de estados compartidos. Incluí explicaciones detalladas sobre los hooks y la comunicación de datos entre componentes.</p>
+
       <p><strong>Huarcaya Matias, Gilbert Alonso</strong></p>
       <p><i>TB1</i></p>
-      <p>Lideré la redacción del capítulo 5 y la documentación de la landing page, asegurando que el contenido fuera accesible para todos los integrantes del equipo. Elaboré especificaciones detalladas de funcionalidades y diagramas de base de datos que sirven como referencia para el desarrollo futuro. Desarrollé documentación que explica de manera clara y concisa las funcionalidades de GeoPS. Creé contenido para la landing page dirigido a las personas entrevistadas.</p>
-      <p></p>
+      <p>Lideré la redacción del capítulo 5 y la documentación de la landing page.</p>
+      <p><i>TP1</i></p>
+      <p>Documenté los flujos de los módulos <strong>Coupons</strong> y <strong>Subscriptions</strong>, incluyendo diagramas de flujo y descripciones funcionales. Redacté pautas para las pruebas de integración del front-end.</p>
+
       <p><strong>Salazar Caballero, Alvaro Fabrizzio</strong></p>
       <p><i>TB1</i></p>
-      <p>Redacté secciones fundamentales del capítulo 1 y 3, incluyendo la descripción del startup y el análisis de la problemática, utilizando un lenguaje claro y estructurado. Elaboré documentación de product backlog manteniendo claridad en los requerimientos para todos los integrantes del equipo. Contribuí a la documentación técnica asegurando que los conceptos complejos fueran explicados de manera accesible.</p>
+      <p>Redacté secciones fundamentales del capítulo 1 y 3, incluyendo el análisis del problema y la propuesta de valor.</p>
+      <p><i>TP1</i></p>
+      <p>Redacté la documentación técnica de los módulos <strong>Cards</strong> e <strong>Identity-Access</strong>, describiendo los endpoints de autenticación y la estructura de los componentes visuales asociados al perfil del usuario.</p>
     </td>
+
     <td>
-      <p><ins><i><strong>TB1:</strong></i></ins></p>
-      <p><strong>Objetivo específico:</strong> Producir documentación escrita de alta calidad que sea comprensible y útil para los integrantes del equipo y las personas entrevistadas, desde documentación técnica hasta contenido dirigido a usuarios finales.</p>
-      <p><strong>Conclusión:</strong> El equipo logró crear documentación escrita excepcional que atiende efectivamente a las necesidades de los integrantes del equipo y las personas entrevistadas. La documentación técnica es precisa y detallada para todos los miembros del equipo, mientras que el contenido dirigido a usuarios es claro y accesible. La redacción del proyecto demuestra capacidad para adaptar el tono, nivel de detalle y estructura según la audiencia objetivo, estableciendo una base sólida para la comunicación futura del proyecto.</p>
+      <p><strong>TB1:</strong> Se redactó documentación clara y coherente que facilitó la comprensión entre integrantes y usuarios entrevistados.</p>
+      <p><strong>TP1:</strong> La documentación escrita en esta etapa consolidó las buenas prácticas del desarrollo front-end. Cada miembro explicó detalladamente su módulo y las decisiones de diseño, creando una base sólida para futuras iteraciones y mantenimiento del sistema.</p>
     </td>
   </tr>
 </table>
+
 
 <hr>
 

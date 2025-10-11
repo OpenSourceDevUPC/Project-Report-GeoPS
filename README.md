@@ -174,32 +174,32 @@ Un aspecto fundamental en el proceso fue el aprovechamiento de las horas de clas
       <p><i>TP1</i></p>
       <p>Presenté las funcionalidades del front-end y la integración de componentes del <strong>Centro de Ayuda</strong> (<code>feature/toolbar-help</code>), explicando decisiones de diseño y mejoras de usabilidad. Coordiné con el equipo para ajustar la vista según los hallazgos de validación de usuarios.</p>
 
-      <p><strong>Goñe Aracata, Esther Abigail</strong></p>
+  <p><strong>Goñe Aracata, Esther Abigail</strong></p>
       <p><i>TB1</i></p>
       <p>Desarrollé presentaciones visuales para la landing page y web application, comunicando conceptos de diseño de manera efectiva a los integrantes del equipo. Participé en sesiones de feedback sobre wireframes y prototipos con los miembros del equipo, adaptando mi comunicación según el nivel técnico de cada integrante.</p>
       <p><i>TP1</i></p>
       <p>Comuniqué los avances del desarrollo en la vista principal de <strong>Inicio</strong> (<code>feature/home</code>) y <strong>Categorías</strong> (<code>feature/categories</code>), explicando la lógica detrás del diseño responsivo y la interacción visual. Aseguré consistencia en los estilos entre componentes.</p>
 
-      <p><strong>Huapaya Galindo, Dyron</strong></p>
+  <p><strong>Huapaya Galindo, Dyron</strong></p>
       <p><i>TB1</i></p>
       <p>Presenté la arquitectura de software del sistema a los integrantes del equipo, adaptando el nivel de detalle técnico según la experiencia de cada miembro. Lideré sesiones de planificación donde comuniqué efectivamente los requerimientos técnicos y las decisiones de diseño a todo el equipo.</p>
       <p><i>TP1</i></p>
       <p>Expliqué al equipo la arquitectura y comunicación entre componentes del módulo de <strong>Configuración base</strong> (<code>feature/base-configuration</code>), así como la integración con las demás vistas. Lideré revisiones de código y resolví conflictos en ramas de desarrollo.</p>
 
-      <p><strong>Huarcaya Matias, Gilbert Alonso</strong></p>
+  <p><strong>Huarcaya Matias, Gilbert Alonso</strong></p>
       <p><i>TB1</i></p>
       <p>Lideré el desarrollo del capítulo 5, analizando el desarrollo de la landing page junto con los integrantes del equipo. Coordiné el trabajo colaborativo en GitHub, facilitando la comunicación para resolver conflictos de integración.</p>
       <p><i>TP1</i></p>
       <p>Coordiné la presentación técnica de las vistas de <strong>Cupones</strong> (<code>feature/coupons</code>) y <strong>Suscripciones</strong> (<code>feature/Subscriptions</code>), comunicando los flujos de usuario y su impacto en la experiencia de navegación. Lideré sesiones de integración entre frontend y backend.</p>
 
-      <p><strong>Salazar Caballero, Alvaro Fabrizzio</strong></p>
+   <p><strong>Salazar Caballero, Alvaro Fabrizzio</strong></p>
       <p><i>TB1</i></p>
       <p>Presenté los hallazgos del análisis de mercado y la investigación de usuarios. Comuniqué efectivamente los insights del capítulo 1, adaptando la presentación según el conocimiento de cada integrante.</p>
       <p><i>TP1</i></p>
       <p>Expliqué los avances en los módulos de <strong>Tarjetas</strong> (<code>feature/cards</code>) y <strong>Identity Access</strong> (<code>feature/Identity-Access</code>), detallando cómo se implementaron los mecanismos de validación y acceso de usuario.</p>
     </td>
 
-    <td>
+   <td>
       <p><strong>TB1:</strong> El equipo mostró una comunicación oral efectiva al presentar entrevistas y hallazgos iniciales, adaptando el discurso según el público.</p>
       <p><strong>TP1:</strong> La comunicación oral se enfocó en la explicación técnica de los módulos del front-end. Cada integrante defendió con claridad su rama de desarrollo, facilitando la integración entre vistas, servicios y componentes, manteniendo alineamiento con la experiencia del usuario.</p>
     </td>
@@ -214,32 +214,32 @@ Un aspecto fundamental en el proceso fue el aprovechamiento de las horas de clas
       <p><i>TP1</i></p>
       <p>Documenté la implementación del módulo <strong>Centro de Ayuda</strong> (<code>feature/toolbar-help</code>) y las mejoras de accesibilidad. Redacté instrucciones técnicas claras para la integración con otros componentes.</p>
 
-      <p><strong>Goñe Aracata, Esther Abigail</strong></p>
+   <p><strong>Goñe Aracata, Esther Abigail</strong></p>
       <p><i>TB1</i></p>
       <p>Elaboré documentación técnica de diseño para la landing page y web application.</p>
       <p><i>TP1</i></p>
       <p>Redacté documentación de los componentes visuales del módulo <strong>Home</strong> y <strong>Categorías</strong>, explicando la jerarquía de elementos y las directrices de estilo CSS.</p>
 
-      <p><strong>Huapaya Galindo, Dyron</strong></p>
+  <p><strong>Huapaya Galindo, Dyron</strong></p>
       <p><i>TB1</i></p>
       <p>Redacté la documentación de arquitectura del software, con diagramas y especificaciones técnicas.</p>
       <p><i>TP1</i></p>
       <p>Documenté la arquitectura técnica de <strong>Base Configuration</strong> y la gestión de estados compartidos. Incluí explicaciones detalladas sobre los hooks y la comunicación de datos entre componentes.</p>
 
-      <p><strong>Huarcaya Matias, Gilbert Alonso</strong></p>
+  <p><strong>Huarcaya Matias, Gilbert Alonso</strong></p>
       <p><i>TB1</i></p>
       <p>Lideré la redacción del capítulo 5 y la documentación de la landing page.</p>
       <p><i>TP1</i></p>
       <p>Documenté los flujos de los módulos <strong>Coupons</strong> y <strong>Subscriptions</strong>, incluyendo diagramas de flujo y descripciones funcionales. Redacté pautas para las pruebas de integración del front-end.</p>
 
-      <p><strong>Salazar Caballero, Alvaro Fabrizzio</strong></p>
+  <p><strong>Salazar Caballero, Alvaro Fabrizzio</strong></p>
       <p><i>TB1</i></p>
       <p>Redacté secciones fundamentales del capítulo 1 y 3, incluyendo el análisis del problema y la propuesta de valor.</p>
       <p><i>TP1</i></p>
       <p>Redacté la documentación técnica de los módulos <strong>Cards</strong> e <strong>Identity-Access</strong>, describiendo los endpoints de autenticación y la estructura de los componentes visuales asociados al perfil del usuario.</p>
     </td>
 
-    <td>
+  <td>
       <p><strong>TB1:</strong> Se redactó documentación clara y coherente que facilitó la comprensión entre integrantes y usuarios entrevistados.</p>
       <p><strong>TP1:</strong> La documentación escrita en esta etapa consolidó las buenas prácticas del desarrollo front-end. Cada miembro explicó detalladamente su módulo y las decisiones de diseño, creando una base sólida para futuras iteraciones y mantenimiento del sistema.</p>
     </td>

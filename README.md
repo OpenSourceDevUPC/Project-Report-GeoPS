@@ -3132,6 +3132,10 @@ En sprints posteriores, estos endpoints serán vinculados al **API real** de Geo
 
 ###5.2.2.7. Software Deployment Evidence for Sprint Review.
 
+- Enlace del proyecto deploy: https://geops-frontend.vercel.app/login
+
+- Enlace del json server: https://json-server-1-p24l.onrender.com/
+
 ### 5.2.2.8. Team Collaboration Insights during Sprint
 
 Durante el **Sprint 2**, el equipo mantuvo una colaboración constante y organizada a través del repositorio de **GitHub**, consolidando las prácticas de control de versiones implementadas desde el primer sprint.
@@ -3268,6 +3272,10 @@ Think with Google. (2019). *How mobile search connects consumers to stores*. Goo
 World Bank. (2019). *World Development Report 2019: The Changing Nature of Work*. World Bank. https://doi.org/10.1596/978-1-4648-1328-3
 
 ## Anexos
+
+- Enlace del proyecto deploy: https://geops-frontend.vercel.app/login
+
+- Enlace del json server: https://json-server-1-p24l.onrender.com/
 
 - Enlace del figma de GeoPs: https://www.figma.com/design/mHHx8WStPBr63tLYj42pBX/GeoPs?t=GXTYAnTYkIFHdSN8-0
 

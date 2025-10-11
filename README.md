@@ -144,7 +144,6 @@ Un aspecto fundamental en el proceso fue el aprovechamiento de las horas de clas
     - [3.2. Impact Mapping](#32-impact-mapping)
     - [3.3. Product Backlog](#33-product-backlog)
     - [Vista del Product Backlog en Trello](#vista-del-product-backlog-en-trello)
-  - [](#)
   - [Capítulo 4: Product Design](#capítulo-4-product-design)
     - [4.1. Style Guidelines](#41-style-guidelines)
       - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
@@ -201,6 +200,7 @@ Un aspecto fundamental en el proceso fue el aprovechamiento de las horas de clas
       - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
       - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
       - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+      - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
   - [Conclusiones](#conclusiones)
   - [Bibliografía](#bibliografía)
   - [Anexos](#anexos)
@@ -2893,6 +2893,107 @@ Durante el Sprint 1, el equipo demostró una colaboración excepcional utilizand
 
 **Conclusión de Colaboración:**
 El Sprint 1 ha demostrado que el equipo posee una sólida capacidad de colaboración técnica, con una distribución efectiva del trabajo y una comunicación fluida. Las métricas de GitHub reflejan un proceso de desarrollo organizado y profesional, estableciendo bases sólidas para los sprints futuros del proyecto GeoPS.
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+En este apartado se documenta el proceso de despliegue de la base de datos JSON (json-server) en Render y el despliegue de la aplicación frontend desarrollada en Angular. Ambos despliegues se realizaron para disponer de una API de prueba pública y una versión accesible del frontend durante las revisiones del sprint.
+
+**1) Despliegue de json-server en Render (API de pruebas)**
+
+**Preparación:**
+- Añadir el archivo db.json en el repositorio (contiene los datos de prueba).
+- Crear un package.json mínimo con el script de arranque:
+  ```json
+  {
+    "scripts": {
+      "start": "json-server --watch db.json --port $PORT --host 0.0.0.0"
+    }
+  }
+  ```
+
+**Proceso en Render:**
+- Crear un nuevo servicio tipo "Web Service" en https://render.com.
+- Conectar el repositorio que contiene db.json.
+- Configurar el build/start command: `npm install && npm start`.
+- Render asigna una URL pública que servirá como endpoint REST para pruebas.
+
+**Configuración del Servicio JSON Server:**
+
+![JSON Server Configuration](./resources/tb1-db/base-config.png)
+
+**Estado del Servicio en Render:**
+
+![JSON Server Service Status](./resources/tb1-db/deploy-running.png)
+
+**Logs de Deployment del JSON Server:**
+
+![JSON Server Deployment Logs](./resources/tb1-db/finish-deploy-json-server.png)
+
+![JSON Server Deployment Logs](./resources/tb1-db/add-custom-domain.png)
+
+**Consideraciones:**
+- Usar la variable de entorno PORT que Render proporciona.
+- Habilitar CORS si es necesario (json-server ya permite uso simple).
+- Mantener db.json actualizado vía commits y deployments automáticos por push.
+
+**2) Despliegue del frontend Angular en Vercel**
+
+**Preparación del proyecto Angular:**
+- Asegurarse que el proyecto contiene los scripts en package.json:
+  ```json
+  {
+    "scripts": {
+      "build": "ng build --configuration production"
+    }
+  }
+  ```
+- Configurar en environment.ts la variable apiUrl apuntando al endpoint json-server desplegado.
+
+**Configuración del Frontend en Vercel:**
+
+![Frontend Configuration Vercel](./resources/tb1-frontend/access-vercel.png)
+
+**Proceso de Deployment en Vercel:**
+- Conectar el repositorio del frontend a Vercel mediante GitHub integration
+- Vercel detecta automáticamente que es un proyecto Angular
+- Build command configurado automáticamente: `ng build`
+- Output directory: `dist/<nombre-proyecto-angular>`
+
+**Build Process del Frontend:**
+
+![Frontend Build Process](./resources/tb1-frontend/select-frontend-repo.png)
+
+**Estado del Deployment Frontend:**
+
+![Frontend Deployment Status](./resources/tb1-frontend/deployed-success.png)
+
+**Configuración de Variables de Entorno:**
+- Establecer variable de entorno en Vercel con la URL del API: `API_URL=https://mi-json-server.onrender.com`
+- Habilitar HTTPS automático (Vercel lo gestiona por defecto)
+
+**Aplicación Frontend Desplegada:**
+
+![Frontend Application Live](./resources/tb1-frontend/vercel-success-page.png)
+
+**Ventajas del Deployment con Vercel:**
+- **Deployment Automático:** Cada push al repositorio dispara un nuevo deployment
+- **Preview Deployments:** Cada pull request genera una preview URL
+- **Global CDN:** Distribución mundial para mejor rendimiento
+- **Rollback Instantáneo:** Capacidad de revertir a versiones anteriores
+- **Analytics Integrados:** Métricas de rendimiento incluidas
+- **Custom Domains:** Soporte completo para dominios personalizados
+
+**Verificación:**
+- Acceder a la URL asignada por Vercel y validar que la aplicación carga correctamente
+- Verificar que el frontend consume exitosamente la API json-server desplegada en Render
+- Comprobar funcionalidad completa en diferentes dispositivos y navegadores
+
+**3) Notas finales sobre integración y pruebas**
+
+**URLs de los Servicios Desplegados:**
+- **JSON Server API:** https://geops-frontend.vercel.app/login
+- **Frontend Angular:** https://json-server-1-p24l.onrender.com
+
 
 ## Conclusiones
 

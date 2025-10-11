@@ -2983,39 +2983,69 @@ Link del trello: https://trello.com/b/CZ3eGcx8/product-backlog-geops
 
 ### 🧾 Sprint Backlog 2 – Commits Overview
 
-| **Repository** | **Branch** | **Commit** | **Commit ID** | **Date** |
-|----------------|------------|-------------|----------------|-----------|
-| **GilbertHuarcaya/OpenSourceDevUPC/geo-ps-frontend** | `feature/Subscriptions` | feat(subscriptions): add subscription plans modal and welcome banner components, including styles and translations | cc61637b4f868b18577f090e2257af7f098987d74 | 10/10/25 |
-|  | `feature/Subscriptions` | Merge remote-tracking branch 'origin/develop' into feature/Subscriptions | eaf263c8efa1c71a67ba07ed85006a4abd7533edc | 10/10/25 |
-|  | `feature/Subscriptions` | feat: update user subscription plans and enhance user management | 59f3e8f5a9832387b79a9eacea8a2f6fb900ef90e | 10/10/25 |
-|  | `feature/cart` | feat(cart): implement cart functionality with API integration; add, update, remove, and clear actions; enhance UI with cart sidebar and responsive design | 4684fe9c2953e76c3fe14a0421e497fea140782a | 10/10/25 |
-|  | `feature/cart` | feat(cart): integrate cart UI service and update cart functionality; add cart badge and open cart sidebar on item addition | e95061900fe56a280c56538ec6d2d9d45ca7960b | 10/10/25 |
-|  | `feature/cart` | feat(cart): enhance payment flow management and reset logic on cart updates | 0939e859ad588afa53551e933f2511b7f7d6b2c7 | 10/10/25 |
-|  | `feature/payment` | feat(payment): implement checkout form and payment confirmation components | 547361e6ec5b91573add23b9bc3704a2495afa0f | 10/10/25 |
-|  | `feature/Subscriptions` | Merge remote-tracking branch 'origin/develop' into feature/Subscriptions | ada3fea3c9c787ef06f49be3600a3022dc38600d | 10/10/25 |
-|  | Various | feat: remove outdated mockup images and update user-related functionalities in various components | fcc065d9dcad53675636c83943ee869615adc8b2 | 10/10/25 |
+<h3>Registro de Commits del Sprint 2 (GeoPS Frontend)</h3>
 
-| **MaineMa/OpenSourceDevUPC/geo-ps-frontend** | `feature/home` | feat: Implements home HTML page | dadd5f35b7b7abb2e5a15aca54ac3e5152e3b260 | 10/10/25 |
-|  | `feature/home` | Merge remote-tracking branch 'origin/develop' into feature/home | c7a706120b60b3b228512eb462ee3c7cb5c156b8 | 10/10/25 |
-|  | `feature/home` | feat: Implements home HTML page | e209dcd9445571d7f19a2f61a7670e019b72ca9 | 10/10/25 |
+<table border="1" cellspacing="0" cellpadding="6" style="width:100%; border-collapse: collapse; text-align: left;">
+  <thead style="background-color:#f2f2f2;">
+    <tr>
+      <th><b>Repository</b></th>
+      <th><b>Branch</b></th>
+      <th><b>Commit Message</b></th>
+      <th><b>Commit ID</b></th>
+      <th><b>Date</b></th>
+    </tr>
+  </thead>
+  <tbody>
 
-| **abigoe02/OpenSourceDevUPC/geo-ps-frontend** | `feature/cards` | feat(cards): integrate ver-oferta component with updated endpoints and UI components | a2099f5f39380e3366be916949027130cea511b | 10/10/25 |
-|  | `feature/cards` | feat(cards): update favoritos, ofertas and ver-oferta components; refresh i18n (en/es) | 708e0ada05539cdcaec02fa7f730d819414364be | 10/10/25 |
-|  | `feature/cards` | feat(cards): update favoritos.component.html and home components | fb87d6b4a087b217526808fd31564d6962a51dd2 | 10/10/25 |
+  <tr>
+      <td rowspan="9"><b>GilbertHuarcaya/OpenSourceDevUPC/geo-ps-frontend</b></td>
+      <td><code>feature/Subscriptions</code></td>
+      <td>feat(subscriptions): add subscription plans modal and welcome banner components, including styles and translations</td>
+      <td><code>cc61637b4f868b18577f090e2257af7f098987d74</code></td>
+      <td>10/10/25</td>
+    </tr>
+    <tr><td><code>feature/Subscriptions</code></td><td>Merge remote-tracking branch 'origin/develop' into feature/Subscriptions</td><td><code>eaf263c8efa1c71a67ba07ed85006a4abd7533edc</code></td><td>10/10/25</td></tr>
+    <tr><td><code>feature/Subscriptions</code></td><td>feat: update user subscription plans and enhance user management</td><td><code>59f3e8f5a9832387b79a9eacea8a2f6fb900ef90e</code></td><td>10/10/25</td></tr>
+    <tr><td><code>feature/cart</code></td><td>feat(cart): implement cart functionality with API integration; add, update, remove, and clear actions; enhance UI with cart sidebar and responsive design</td><td><code>4684fe9c2953e76c3fe14a0421e497fea140782a</code></td><td>10/10/25</td></tr>
+    <tr><td><code>feature/cart</code></td><td>feat(cart): integrate cart UI service and update cart functionality; add cart badge and open cart sidebar on item addition</td><td><code>e95061900fe56a280c56538ec6d2d9d45ca7960b</code></td><td>10/10/25</td></tr>
+    <tr><td><code>feature/cart</code></td><td>feat(cart): enhance payment flow management and reset logic on cart updates</td><td><code>0939e859ad588afa53551e933f2511b7f7d6b2c7</code></td><td>10/10/25</td></tr>
+    <tr><td><code>feature/payment</code></td><td>feat(payment): implement checkout form and payment confirmation components</td><td><code>547361e6ec5b91573add23b9bc3704a2495afa0f</code></td><td>10/10/25</td></tr>
+    <tr><td><code>feature/Subscriptions</code></td><td>Merge remote-tracking branch 'origin/develop' into feature/Subscriptions</td><td><code>ada3fea3c9c787ef06f49be3600a3022dc38600d</code></td><td>10/10/25</td></tr>
+    <tr><td><code>various</code></td><td>feat: remove outdated mockup images and update user-related functionalities in various components</td><td><code>fcc065d9dcad53675636c83943ee869615adc8b2</code></td><td>10/10/25</td></tr>
+    <tr>
+      <td rowspan="3"><b>MaineMa/OpenSourceDevUPC/geo-ps-frontend</b></td>
+      <td><code>feature/home</code></td><td>feat: implement home HTML page</td><td><code>dadd5f35b7b7abb2e5a15aca54ac3e5152e3b260</code></td><td>10/10/25</td>
+    </tr>
+    <tr><td><code>feature/home</code></td><td>Merge remote-tracking branch 'origin/develop' into feature/home</td><td><code>c7a706120b60b3b228512eb462ee3c7cb5c156b8</code></td><td>10/10/25</td></tr>
+    <tr><td><code>feature/home</code></td><td>feat: implement home HTML page</td><td><code>e209dcd9445571d7f19a2f61a7670e019b72ca9</code></td><td>10/10/25</td></tr>
+    <tr>
+      <td rowspan="3"><b>abigoe02/OpenSourceDevUPC/geo-ps-frontend</b></td>
+      <td><code>feature/cards</code></td><td>feat(cards): integrate ver-oferta component with updated endpoints and UI components</td><td><code>a2099f5f39380e3366be916949027130cea511b</code></td><td>10/10/25</td>
+    </tr>
+    <tr><td><code>feature/cards</code></td><td>feat(cards): update favoritos, ofertas and ver-oferta components; refresh i18n (en/es)</td><td><code>708e0ada05539cdcaec02fa7f730d819414364be</code></td><td>10/10/25</td></tr>
+    <tr><td><code>feature/cards</code></td><td>feat(cards): update favoritos.component.html and home components</td><td><code>fb87d6b4a087b217526808fd31564d6962a51dd2</code></td><td>10/10/25</td></tr>
+    <tr>
+      <td rowspan="6"><b>IDymian/OpenSourceDevUPC/geo-ps-frontend</b></td>
+      <td><code>feature/toolbar-help</code></td><td>feat(help-center): add Help Center component and navigation</td><td><code>9d5112df3eb415a7dbba20e270bf28fc63ba2feb2</code></td><td>10/10/25</td>
+    </tr>
+    <tr><td><code>feature/toolbar-help</code></td><td>feat: integrate changes from develop into feature/toolbar-help</td><td><code>7ad7d9e6853e5c3d577ace27344e0a66ab255fe1</code></td><td>10/10/25</td></tr>
+    <tr><td><code>feature/toolbar-help</code></td><td>docs(help): add JSDoc documentation to all help module files</td><td><code>f10b55c48b4d4477421c72e890318d661d9fa070</code></td><td>10/10/25</td></tr>
+    <tr><td><code>feature/categories</code></td><td>feat(categories): display category text correctly on button</td><td><code>9e11520e8c97149d6952100fba95528b01dc8bc</code></td><td>10/10/25</td></tr>
+    <tr><td><code>feature/categories</code></td><td>Merge branch 'develop' into feature/categories</td><td><code>4a0a03dc1ae4fee68732d6af6b6824d7387229f9</code></td><td>10/10/25</td></tr>
+    <tr><td><code>feature/categories</code></td><td>feat(categories): add i18n support to categories navbar</td><td><code>f5a55598444e001a4984f80c9a98af259567b8dc</code></td><td>10/10/25</td></tr>
+    <tr>
+      <td rowspan="6"><b>IamAndreek/OpenSourceDevUPC/geo-ps-frontend</b></td>
+      <td><code>feature/Identity-Access</code></td><td>feat(identity-access): restructure project and update auth, login, favorites, and offers modules</td><td><code>67cbfab3a2ce5ce87292a24a3ca82b2d1abc60731</code></td><td>10/10/25</td>
+    </tr>
+    <tr><td><code>feature/Identity-Access</code></td><td>feat(identity-access): update auth, login, profile, and settings; add i18n</td><td><code>104540d6f051d511144c9e0890f36d151f3b80f5</code></td><td>10/10/25</td></tr>
+    <tr><td><code>feature/Identity-Access</code></td><td>feat(identity-access): update i18n</td><td><code>1ef88b6ac2521588851260a48d3a843523a305dd</code></td><td>10/10/25</td></tr>
+    <tr><td><code>feature/Identity-Access</code></td><td>feat(identity-access): reorganize project structure</td><td><code>b27124daa860e3d572c09d1d91dbaea63a337c15f</code></td><td>10/10/25</td></tr>
+    <tr><td><code>feature/Identity-Access</code></td><td>feat(identity-access): add JSON documentation</td><td><code>abd6f9b192a93501f1cefebb6e8270db8ebdacbe50</code></td><td>10/10/25</td></tr>
+    <tr><td><code>feature/Identity-Access</code></td><td>feat(identity-access): fixed update password</td><td><code>26a65fc16d2af8ca0b3765c94d77100d38c49c00</code></td><td>10/10/25</td></tr>
 
-| **IDymian/OpenSourceDevUPC/geo-ps-frontend** | `feature/toolbar-help` | feat(help-center): add Help Center component and navigation | 9d5112df3eb415a7dbba20e270bf28fc63ba2feb2 | 10/10/25 |
-|  | `feature/toolbar-help` | feat: integrate changes from develop into feature/toolbar-help | 7ad7d9e6853e5c3d577ace27344e0a66ab255fe1 | 10/10/25 |
-|  | `feature/toolbar-help` | docs(help): add JSDoc documentation to all help module files | f10b55c48b4d4477421c72e890318d661d9fa070 | 10/10/25 |
-|  | `feature/categories` | feat(categories): display category text correctly on button | 9e11520e8c97149d6952100fba95528b01dc8bc | 10/10/25 |
-|  | `feature/categories` | Merge branch 'develop' into feature/categories | 4a0a03dc1ae4fee68732d6af6b6824d7387229f9 | 10/10/25 |
-|  | `feature/categories` | feat(categories): add i18n support to categories navbar | f5a55598444e001a4984f80c9a98af259567b8dc | 10/10/25 |
+  </tbody>
+</table>
 
-| **IamAndreek/OpenSourceDevUPC/geo-ps-frontend** | `feature/Identity-Access` | feat(identity-access): restructure project and update auth, login, favorites, and offers modules | 67cbfab3a2ce5ce87292a24a3ca82b2d1abc60731 | 10/10/25 |
-|  | `feature/Identity-Access` | feat(identity-access): update auth, login, profile, and settings. add i18n | 104540d6f051d511144c9e0890f36d151f3b80f5 | 10/10/25 |
-|  | `feature/Identity-Access` | feat(identity-access): update i18n | 1ef88b6ac2521588851260a48d3a843523a305dd | 10/10/25 |
-|  | `feature/Identity-Access` | feat(identity-access): reorganize project structure | b27124daa860e3d572c09d1d91dbaea63a337c15f | 10/10/25 |
-|  | `feature/Identity-Access` | feat(identity-access): add JSON documentation | abd6f9b192a93501f1cefebb6e8270db8ebdacbe50 | 10/10/25 |
-|  | `feature/Identity-Access` | feat(identity-access): fixed update password | 26a65fc16d2af8ca0b3765c94d77100d38c49c00 | 10/10/25 |
 
 ### 5.2.2.5. Execution Evidence for Sprint Review
 

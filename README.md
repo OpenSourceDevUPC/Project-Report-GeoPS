@@ -3039,9 +3039,10 @@ Este avance representa el **primer paso visual y funcional de GeoPS**, estableci
 *(Trello, interfaz de usuario y componentes implementados)*  
 
 <figure style="text-align: center;">
-  <img src="Trello_ProductBacklog2.png" alt="Trello Product Backlog 2 - GeoPS" width="750">
+  <img src="resources/images/Trello_ProductBacklog2.png" alt="Trello Product Backlog 2 - GeoPS" width="750">
   <figcaption><strong>Figura:</strong> Trello Product Backlog 2 del proyecto GeoPS.</figcaption>
 </figure>
+
 
 ---
 
@@ -3119,14 +3120,15 @@ Se evidenció una mejora notable en la **frecuencia de commits**, el **uso de ra
  *En este sprint, el equipo demostró madurez técnica y coordinación efectiva en el uso de herramientas de control de versiones, sentando las bases para una colaboración aún más eficiente en las siguientes fases del desarrollo.*
 
 <figure style="text-align: center;">
-  <img src="team_collaboration1.png" alt="Team Collaboration Evidence - Part 1" width="700">
+  <img src="resources/images/team_collaboration1.png" alt="Team Collaboration Evidence - Part 1" width="700">
   <figcaption><strong>Figura 1:</strong> Actividad y colaboración del equipo durante el Sprint 2 (Parte 1).</figcaption>
 </figure>
 
-<figure style="text-align: center; margin-top: 20px;">
-  <img src="team_collaboration2.png" alt="Team Collaboration Evidence - Part 2" width="700">
+<figure style="text-align: center;">
+  <img src="resources/images/team_collaboration2.png" alt="Team Collaboration Evidence - Part 2" width="700">
   <figcaption><strong>Figura 2:</strong> Contribuciones y flujo de commits en ramas del Sprint 2 (Parte 2).</figcaption>
 </figure>
+
  
  ####  Análisis de Contribuciones por Desarrollador
 

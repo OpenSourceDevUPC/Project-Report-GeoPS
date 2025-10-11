@@ -46,10 +46,6 @@
 | TB1 | 21/09/2025 | Cotrina Siclla, Sofia Alessandra <br> Goñe Aracata, Esther Abigail <br> Huapaya Galindo, Dyron <br> Huarcaya Matias, Gilbert Alonso <br> Salazar Caballero, Alvaro Fabrizzio | En la primera entrega del informe de nuestro proyecto, hemos realizado los primeros 5 capítulos del informe y también entregamos la primera versión del landing page de GeoPS. |
 | **TP1** | **10/10/2025** | Cotrina Siclla, Sofía Alessandra<br>Goñe Aracata, Esther Abigail<br>Huapaya Galindo, Dyron<br>Huarcaya Matías, Gilbert Alonso<br>Salazar Caballero, Álvaro Fabrizzio | En la entrega correspondiente a la **TP1** del proyecto **GeoPS**, se desarrollaron y documentaron todas las funcionalidades del **front-end orientado al usuario**, incluyendo las vistas principales, el **Centro de Ayuda**, la integración de componentes dinámicos y la mejora de la experiencia de navegación en la plataforma. Asimismo, se actualizó el **Event Storming** con los flujos centrados en el usuario consumidor. |
 
-| Versión | Fecha       | Autor(es)                                                                                                                                  | Descripción de modificación                                                                 |
-|---------|------------|--------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
-| TB1     | 21/09/2025 | Huapaya Galindo, Dyaron<br>Huarcaya Matias, Gilbert Alonso<br>Cotrina Siclla, Sofia Alessandra<br>Goñe Araccata, Esther Abigail<br>Salasar Caballero, Alvaro Fabrizzio | En la primera entrega del informe de nuestro proyecto, se desarrollaron los primeros 5 capítulos del documento y se presentó la primera versión de la landing page de GeoPS. |
-
 </div><br><br>
 
 ---

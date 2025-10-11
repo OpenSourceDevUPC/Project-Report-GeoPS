@@ -55,10 +55,10 @@
 # Project Report Collaboration Insights
 
 URL de Organización de GitHub de GeoPsLabs: 
-[https://github.com/OpenSourceDevUPC](https://github.com/OpenSourceDevUPC)
+https://github.com/OpenSourceDevUPC
 
 URL del Repositorio del Project Report:
-[https://github.com/OpenSourceDevUPC/Project-Report-GeoPS](https://github.com/OpenSourceDevUPC/Project-Report-GeoPS)
+https://github.com/OpenSourceDevUPC/Project-Report-GeoPS
 
 <strong>_Entrega TB1:_</strong>
 
@@ -607,17 +607,17 @@ Frente a la preferencia por las apps nativas: Aunque GeoPS es web, puede ofrecer
 
 | Número de registro | Datos del entrevistado | Captura |
 |--------------------|-------------------------|---------|
-| **1** | **Nombre:** Mirta <br> **Edad:** 57 años <br> **Distrito:** Jesús María <br> **Duración de la entrevista:** 5 minutos y 54 segundos <br> **Link:** [https://youtu.be/fC130lduBCM](https://youtu.be/fC130lduBCM) <br> **Resumen:** En esta entrevista, Mirta, una comerciante de 57 años, dueña de una piñatería, habla sobre los desafíos de su negocio, especialmente la promoción y la competencia. Menciona que utiliza redes sociales como Instagram y Facebook, pero que la clave para ella es el trato personalizado al cliente y las recomendaciones de boca en boca. Prefiere usar WhatsApp para comunicarse con sus clientes y valora la interacción directa. También expresa su interés en una herramienta digital que la conecte con clientes locales. | <p align="center"><img src="resources/imgs/images for chapter ii/entrevista1_segmento1.png" alt="PI5" width="1000"></p> |
-| **2** | **Nombre:** Kelly <br> **Edad:** 21 años <br> **Distrito:** Jesús María <br> **Duración de la entrevista:** 3 minutos y 8 segundos <br> **Link:** [https://youtu.be/k7YhV_pqApc](https://youtu.be/k7YhV_pqApc) <br> **Resumen:** En esta entrevista, Kelly, la dueña de una tienda de mascotas, de 21 años, comparte sus ideas sobre el marketing digital. Destaca que el mayor desafío es el uso de las redes sociales para atraer clientes, y que las ofertas como "compra uno y lleva uno gratis" han sido muy efectivas. También menciona que se están enfocando en TikTok para transmisiones en vivo, lo cual ha aumentado sus ventas y seguidores. Explica que miden el éxito de su publicidad directamente a través de las ventas y que buscan clientes recurrentes. Finalmente, describe una aplicación ideal que le gustaría para su negocio, con funciones para ver productos, ofertas y realizar compras desde casa. | <p align="center"><img src="resources/imgs/images for chapter ii/entrevista2_segmento1.png" alt="PI5" width="1000"></p> |
-| **3** | **Nombre:** Cesar <br> **Edad:** 50 años <br> **Distrito:** Miraflores <br> **Duración de la entrevista:** 3 minutos y 34 segundos <br> **Link:** [https://youtu.be/VHkTCRW2Igc](https://youtu.be/VHkTCRW2Igc) <br> **Resumen:** En este video, se entrevista al dueño de un negocio de comida. Habla sobre la efectividad del "boca a boca" y el uso de WhatsApp para las ventas. Mide el éxito de su promoción directamente a través de las ventas generadas por WhatsApp. Expresa interés en una plataforma digital para negocios locales que le permita mostrar sus platos con fotos y videos, y que le ayude a atraer clientes, especialmente turistas, ya que considera que tienen mayor poder adquisitivo. Además, está dispuesto a pagar por una aplicación si esta le garantiza la captación de clientes locales de manera efectiva. | <p align="center"><img src="resources/imgs/images for chapter ii/entrevista3_segmento1.png" alt="PI5" width="1000"></p> |
+| **1** | **Nombre:** Mirta <br> **Edad:** 57 años <br> **Distrito:** Jesús María <br> **Duración de la entrevista:** 5 minutos y 54 segundos <br> **Link:** https://youtu.be/fC130lduBCM <br> **Resumen:** En esta entrevista, Mirta, una comerciante de 57 años, dueña de una piñatería, habla sobre los desafíos de su negocio, especialmente la promoción y la competencia. Menciona que utiliza redes sociales como Instagram y Facebook, pero que la clave para ella es el trato personalizado al cliente y las recomendaciones de boca en boca. Prefiere usar WhatsApp para comunicarse con sus clientes y valora la interacción directa. También expresa su interés en una herramienta digital que la conecte con clientes locales. | <p align="center"><img src="resources/imgs/images for chapter ii/entrevista1_segmento1.png" alt="PI5" width="1000"></p> |
+| **2** | **Nombre:** Kelly <br> **Edad:** 21 años <br> **Distrito:** Jesús María <br> **Duración de la entrevista:** 3 minutos y 8 segundos <br> **Link:** https://youtu.be/k7YhV_pqApc <br> **Resumen:** En esta entrevista, Kelly, la dueña de una tienda de mascotas, de 21 años, comparte sus ideas sobre el marketing digital. Destaca que el mayor desafío es el uso de las redes sociales para atraer clientes, y que las ofertas como "compra uno y lleva uno gratis" han sido muy efectivas. También menciona que se están enfocando en TikTok para transmisiones en vivo, lo cual ha aumentado sus ventas y seguidores. Explica que miden el éxito de su publicidad directamente a través de las ventas y que buscan clientes recurrentes. Finalmente, describe una aplicación ideal que le gustaría para su negocio, con funciones para ver productos, ofertas y realizar compras desde casa. | <p align="center"><img src="resources/imgs/images for chapter ii/entrevista2_segmento1.png" alt="PI5" width="1000"></p> |
+| **3** | **Nombre:** Cesar <br> **Edad:** 50 años <br> **Distrito:** Miraflores <br> **Duración de la entrevista:** 3 minutos y 34 segundos <br> **Link:** https://youtu.be/VHkTCRW2Igc <br> **Resumen:** En este video, se entrevista al dueño de un negocio de comida. Habla sobre la efectividad del "boca a boca" y el uso de WhatsApp para las ventas. Mide el éxito de su promoción directamente a través de las ventas generadas por WhatsApp. Expresa interés en una plataforma digital para negocios locales que le permita mostrar sus platos con fotos y videos, y que le ayude a atraer clientes, especialmente turistas, ya que considera que tienen mayor poder adquisitivo. Además, está dispuesto a pagar por una aplicación si esta le garantiza la captación de clientes locales de manera efectiva. | <p align="center"><img src="resources/imgs/images for chapter ii/entrevista3_segmento1.png" alt="PI5" width="1000"></p> |
 
   ## Segmento 2: Consumidores de ofertas de diferentes ámbitos
 
 | Número de registro | Datos del entrevistado | Captura |
 |--------------------|-------------------------|---------|
-| **1** | **Nombre:** Andrés Torres <br> **Edad:** 19 años <br> **Distrito:** San Miguel <br> **Duración de la entrevista:** 3 minutos y 29 segundos <br> **Link:** [https://youtu.be/lss8fRI5_3g](https://youtu.be/lss8fRI5_3g) <br> **Resumen:** En este video, se entrevista a Andrés Torres, un joven de 19 años del distrito de San Miguel. Habla sobre cómo busca ofertas para el cine usando aplicaciones como Yape. Le molesta la publicidad intrusiva en la calle y en aplicaciones que no le interesa. Su confianza en las promociones depende de la reputación de la empresa, aunque también consideraría ofertas de empresas menos conocidas si tienen buena presentación. Andrés sugiere que las promociones deberían adaptarse a los intereses de los usuarios y que las aplicaciones deberían solicitar datos básicos a los creadores de los proyectos para generar mayor seguridad. | <p align="center"><img src="resources/imgs/images for chapter ii/entrevista1_segmento2.png" alt="PI5" width="1000"></p> |
-| **2** | **Nombre:** Ángel José <br> **Edad:** 22 años <br> **Distrito:** Cercado de Lima <br> **Duración de la entrevista:** 4 minutos y 47 segundos <br> **Link:** [https://youtu.be/s_zL-OGBqJE](https://youtu.be/s_zL-OGBqJE) <br> **Resumen:** En este video, Ángel José, de 22 años, del Cercado de Lima, comparte su experiencia buscando ofertas. Explica que usa plataformas como Yape, Instagram y Facebook. Le molesta tener que buscar manualmente y a menudo pide recomendaciones a conocidos. Desconfía de los descuentos muy altos que podrían ser estafas o productos falsos. Su experiencia ideal sería recibir notificaciones de ofertas que le interesen, que sean de locales conocidos y fáciles de canjear. Además, se sentiría seguro compartiendo sus datos si la empresa es profesional y cifra la información. | <p align="center"><img src="resources/imgs/images for chapter ii/entrevista2_segmento2.png" alt="PI5" width="1000"></p> |
-| **3** | **Nombre:** Elian <br> **Edad:** 25 años <br> **Distrito:** San Martín de Porres <br> **Duración de la entrevista:** 5 minutos y 10 segundos <br> **Link:** [https://youtu.be/h1kiEyQ9aIY](https://youtu.be/h1kiEyQ9aIY) <br> **Resumen:** En esta entrevista, Elian, de 25 años, del distrito de San Martín de Porres, habla sobre su experiencia con la búsqueda de ofertas en línea. Menciona que las páginas web no son fáciles de usar y le molesta la publicidad de ofertas que ya no están vigentes. Su principal interés es encontrar ofertas de manera rápida y fácil. Desconfía de las promociones "demasiado buenas para ser verdad" y sugiere que las plataformas deberían personalizar las ofertas según su historial de compras. No le preocupa compartir sus datos o ubicación, ya que es algo común en aplicaciones de entrega. Su experiencia ideal sería encontrar ofertas buenas y cercanas a su ubicación. | <p align="center"><img src="resources/imgs/images for chapter ii/entrevista3_segmento2.png" alt="PI5" width="1000"></p> |
+| **1** | **Nombre:** Andrés Torres <br> **Edad:** 19 años <br> **Distrito:** San Miguel <br> **Duración de la entrevista:** 3 minutos y 29 segundos <br> **Link:** https://youtu.be/lss8fRI5_3g <br> **Resumen:** En este video, se entrevista a Andrés Torres, un joven de 19 años del distrito de San Miguel. Habla sobre cómo busca ofertas para el cine usando aplicaciones como Yape. Le molesta la publicidad intrusiva en la calle y en aplicaciones que no le interesa. Su confianza en las promociones depende de la reputación de la empresa, aunque también consideraría ofertas de empresas menos conocidas si tienen buena presentación. Andrés sugiere que las promociones deberían adaptarse a los intereses de los usuarios y que las aplicaciones deberían solicitar datos básicos a los creadores de los proyectos para generar mayor seguridad. | <p align="center"><img src="resources/imgs/images for chapter ii/entrevista1_segmento2.png" alt="PI5" width="1000"></p> |
+| **2** | **Nombre:** Ángel José <br> **Edad:** 22 años <br> **Distrito:** Cercado de Lima <br> **Duración de la entrevista:** 4 minutos y 47 segundos <br> **Link:** https://youtu.be/s_zL-OGBqJE <br> **Resumen:** En este video, Ángel José, de 22 años, del Cercado de Lima, comparte su experiencia buscando ofertas. Explica que usa plataformas como Yape, Instagram y Facebook. Le molesta tener que buscar manualmente y a menudo pide recomendaciones a conocidos. Desconfía de los descuentos muy altos que podrían ser estafas o productos falsos. Su experiencia ideal sería recibir notificaciones de ofertas que le interesen, que sean de locales conocidos y fáciles de canjear. Además, se sentiría seguro compartiendo sus datos si la empresa es profesional y cifra la información. | <p align="center"><img src="resources/imgs/images for chapter ii/entrevista2_segmento2.png" alt="PI5" width="1000"></p> |
+| **3** | **Nombre:** Elian <br> **Edad:** 25 años <br> **Distrito:** San Martín de Porres <br> **Duración de la entrevista:** 5 minutos y 10 segundos <br> **Link:** https://youtu.be/h1kiEyQ9aIY <br> **Resumen:** En esta entrevista, Elian, de 25 años, del distrito de San Martín de Porres, habla sobre su experiencia con la búsqueda de ofertas en línea. Menciona que las páginas web no son fáciles de usar y le molesta la publicidad de ofertas que ya no están vigentes. Su principal interés es encontrar ofertas de manera rápida y fácil. Desconfía de las promociones "demasiado buenas para ser verdad" y sugiere que las plataformas deberían personalizar las ofertas según su historial de compras. No le preocupa compartir sus datos o ubicación, ya que es algo común en aplicaciones de entrega. Su experiencia ideal sería encontrar ofertas buenas y cercanas a su ubicación. | <p align="center"><img src="resources/imgs/images for chapter ii/entrevista3_segmento2.png" alt="PI5" width="1000"></p> |
 
   #### 2.2.3. Análisis de entrevistas
 
@@ -1164,14 +1164,14 @@ Logo GeoPS, Productos, Negocios, Nosotros, Planes, Registrarse, Iniciar Sesión.
 #### 4.3.1. Landing Page Wireframe
 
 Ver Diseño en Figma:
-[https://www.figma.com/design/mHHx8WStPBr63tLYj42pBX/GeoPs?node-id=313-2872&t=i41W8YjchPvP7Aoe-1](https://www.figma.com/design/mHHx8WStPBr63tLYj42pBX/GeoPs?node-id=313-2872&t=i41W8YjchPvP7Aoe-1)
+https://www.figma.com/design/mHHx8WStPBr63tLYj42pBX/GeoPs?node-id=313-2872&t=i41W8YjchPvP7Aoe-1
 
 <div align="center"><img src="resources/imgs/capitulo-4/landingpage-geops-wireframe.png" alt="Landing Page Wireframe GeoPS"></div>
 
 #### 4.3.2. Landing Page Mock-up
 
 Ver Diseño en Figma:
-[https://www.figma.com/design/mHHx8WStPBr63tLYj42pBX/GeoPs?node-id=313-2872&t=i41W8YjchPvP7Aoe-1](https://www.figma.com/design/mHHx8WStPBr63tLYj42pBX/GeoPs?node-id=313-2872&t=i41W8YjchPvP7Aoe-1)
+https://www.figma.com/design/mHHx8WStPBr63tLYj42pBX/GeoPs?node-id=313-2872&t=i41W8YjchPvP7Aoe-1
 
 <div align="center"><img src="resources/imgs/capitulo-4/landingpage-geops-mockup.png" alt="Landing Page Mockup GeoPS"></div>
 
@@ -1180,7 +1180,7 @@ Ver Diseño en Figma:
 #### 4.4.1. Web Applications Wireframes
 
 Ver Diseño en Figma:
-[https://www.figma.com/design/mHHx8WStPBr63tLYj42pBX/GeoPs?node-id=313-2872&t=i41W8YjchPvP7Aoe-1](https://www.figma.com/design/mHHx8WStPBr63tLYj42pBX/GeoPs?node-id=313-2872&t=i41W8YjchPvP7Aoe-1)
+https://www.figma.com/design/mHHx8WStPBr63tLYj42pBX/GeoPs?node-id=313-2872&t=i41W8YjchPvP7Aoe-1
 
 #### Login
 
@@ -1331,7 +1331,7 @@ Ver Diseño en Figma:
 #### 4.4.2. Web Applications Wireflow Diagrams
 
 Ver Wireflows Diagrams Overflow:
-[https://overflow.io/s/FAPMCERY](https://overflow.io/s/FAPMCERY)
+https://overflow.io/s/FAPMCERY
 
 #### Login
 
@@ -1430,7 +1430,7 @@ El proveedor, desde el perfil, selecciona cerrar sesión. El sistema valida la a
 #### 4.4.3. Web Applications Mock-ups
 
 Ver Diseño en Figma:
-[https://www.figma.com/design/mHHx8WStPBr63tLYj42pBX/GeoPs?node-id=313-2872&t=i41W8YjchPvP7Aoe-1](https://www.figma.com/design/mHHx8WStPBr63tLYj42pBX/GeoPs?node-id=313-2872&t=i41W8YjchPvP7Aoe-1)
+https://www.figma.com/design/mHHx8WStPBr63tLYj42pBX/GeoPs?node-id=313-2872&t=i41W8YjchPvP7Aoe-1
 
 #### Login
 
@@ -1646,7 +1646,7 @@ Ver Prototype en Figma: https://www.figma.com/design/mHHx8WStPBr63tLYj42pBX/GeoP
 
 <div align="center"><img src="resources/imgs/capitulo-4/PrototypeGeoPs.png" alt="Prototype GeoPs"></div>
 
-Video Prototype GeoPs: https://www.figma.com/design/mHHx8WStPBr63tLYj42pBX/GeoPs?node-id=313-2872&t=i41W8YjchPvP7Aoe-1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318049_upc_edu_pe/EfpJo35cywBHo2-BEP8S_sEBMuPuIKJ2VCSzvJL7gHK41w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=j3nWJH
+Video Prototype GeoPs: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318049_upc_edu_pe/EfpJo35cywBHo2-BEP8S_sEBMuPuIKJ2VCSzvJL7gHK41w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=j3nWJH
 
 ### 4.6. Domain-Driven Software Architecture
 
@@ -1971,58 +1971,58 @@ En esta sección se presentan los recursos y enlaces de las herramientas de soft
 
 Esta área abarca el desarrollo de la experiencia de usuario (UX) y el diseño de interfaz (UI) para nuestro producto software. La experiencia de usuario se concentra en analizar y optimizar la interacción global del usuario con la aplicación, mientras que el diseño de interfaz aborda los elementos visuales y la facilidad de uso. Nuestro enfoque UX/UI tiene como meta generar una experiencia fluida, visualmente atractiva y funcional para todos los usuarios. Para este proyecto, desarrollamos prototipos de sitio web adaptados tanto para escritorio como para dispositivos móviles.
 
-+ Figma: Plataforma de diseño colaborativo y herramienta de vectores gráficos basada en la nube, que se distingue por su accesibilidad web y permite desarrollar mockups tanto para navegadores de escritorio como para móviles. [https://www.figma.com/design/](https://www.figma.com/design/)
++ Figma: Plataforma de diseño colaborativo y herramienta de vectores gráficos basada en la nube, que se distingue por su accesibilidad web y permite desarrollar mockups tanto para navegadores de escritorio como para móviles. https://www.figma.com/design/
 
-+ UXPressia: Solución digital especializada en el mapeo del recorrido del usuario que facilita la creación de mapas de impacto y perfiles de usuario. Esta plataforma nos ha proporcionado los fundamentos para desarrollar User Personas, Mapas de Empatía y Journey Maps. [https://uxpressia.com/](https://uxpressia.com/)
++ UXPressia: Solución digital especializada en el mapeo del recorrido del usuario que facilita la creación de mapas de impacto y perfiles de usuario. Esta plataforma nos ha proporcionado los fundamentos para desarrollar User Personas, Mapas de Empatía y Journey Maps. https://uxpressia.com/
 
-+ MIRO: Espacio de trabajo visual colaborativo en línea, utilizado para investigación, lluvia de ideas, esquemas conceptuales, diagramas de estado actual y futuro, además de múltiples actividades de colaboración en equipo. [https://miro.com/app/dashboard/](https://miro.com/app/dashboard/)
++ MIRO: Espacio de trabajo visual colaborativo en línea, utilizado para investigación, lluvia de ideas, esquemas conceptuales, diagramas de estado actual y futuro, además de múltiples actividades de colaboración en equipo. https://miro.com/app/dashboard/
 
-+ Lucid Chart: Plataforma de diagramación colaborativa basada en navegador web, que facilita el trabajo en equipo en tiempo real para crear diagramas UML, mapas conceptuales, esquemas de software y diversos tipos de representaciones gráficas. [https://lucid.app/documents#/dashboard](https://lucid.app/documents#/dashboard)
++ Lucid Chart: Plataforma de diagramación colaborativa basada en navegador web, que facilita el trabajo en equipo en tiempo real para crear diagramas UML, mapas conceptuales, esquemas de software y diversos tipos de representaciones gráficas. https://lucid.app/documents#/dashboard
 
-+ Structurizr: Herramienta especializada de diseño arquitectónico que implementa el modelo C4, permitiendo la representación visual de la arquitectura de software de nuestro proyecto. [https://structurizr.com/](https://structurizr.com/)
++ Structurizr: Herramienta especializada de diseño arquitectónico que implementa el modelo C4, permitiendo la representación visual de la arquitectura de software de nuestro proyecto. https://structurizr.com/
 
 **Software Development**
 
 Comprende la metodología completa de construcción, diseño, codificación, evaluación y mantenimiento de aplicaciones software. Abarca la materialización de especificaciones establecidas durante el ciclo de desarrollo, empleando diversos lenguajes de programación, herramientas especializadas y tecnologías actuales. La finalidad es desarrollar un producto de software robusto y de excelente calidad que satisfaga las especificaciones y expectativas del cliente.
 
-+ GitHub: Plataforma de control de versiones y repositorio colaborativo diseñado para gestionar y almacenar el progreso de proyectos desarrollados por equipos de trabajo. [https://github.com/OpenSourceDevUPC](https://github.com/OpenSourceDevUPC)
++ GitHub: Plataforma de control de versiones y repositorio colaborativo diseñado para gestionar y almacenar el progreso de proyectos desarrollados por equipos de trabajo. https://github.com/OpenSourceDevUPC
 
-+ Visual Studio Code: Editor de código avanzado que incorpora extensiones personalizables, permitiendo añadir funcionalidades específicas que optimizan la productividad y eficiencia en el desarrollo de software. [https://code.visualstudio.com/](https://code.visualstudio.com/)
++ Visual Studio Code: Editor de código avanzado que incorpora extensiones personalizables, permitiendo añadir funcionalidades específicas que optimizan la productividad y eficiencia en el desarrollo de software. https://code.visualstudio.com/
 
-+ HTML: Lenguaje fundamental de marcado para la construcción y estructuración de sitios web. Emplea elementos de marcado para organizar contenido como textos, imágenes y vínculos. En conjunto con CSS y JavaScript, constituye el fundamento de la web contemporánea. Implementaremos este lenguaje para desarrollar la estructura de nuestra página web. [https://www.jetbrains.com/help/webstorm/editing-html-files.html](https://www.jetbrains.com/help/webstorm/editing-html-files.html)
++ HTML: Lenguaje fundamental de marcado para la construcción y estructuración de sitios web. Emplea elementos de marcado para organizar contenido como textos, imágenes y vínculos. En conjunto con CSS y TypeScript, constituye el fundamento de la web contemporánea. Implementaremos este lenguaje para desarrollar la estructura de nuestra página web. https://www.jetbrains.com/help/webstorm/editing-html-files.html
 
-+ CSS: Lenguaje de hojas de estilo especializado en gestionar el diseño y presentación visual de páginas web. Facilita la definición de colores, tipografías, espaciados y demás elementos estéticos para optimizar la apariencia del sitio web. Este lenguaje será fundamental para implementar el diseño visual de nuestra plataforma. [https://www.jetbrains.com/help/webstorm/style-sheets.html#ws_css_completion](https://www.jetbrains.com/help/webstorm/style-sheets.html#ws_css_completion)
++ CSS: Lenguaje de hojas de estilo especializado en gestionar el diseño y presentación visual de páginas web. Facilita la definición de colores, tipografías, espaciados y demás elementos estéticos para optimizar la apariencia del sitio web. Este lenguaje será fundamental para implementar el diseño visual de nuestra plataforma. https://www.jetbrains.com/help/webstorm/style-sheets.html#ws_css_completion
 
-+ JavaScript: Lenguaje de programación versátil y de alto nivel empleado principalmente para incorporar interactividad y comportamiento dinámico en sitios web. Facilita funcionalidades como validación de formularios, animaciones de elementos y actualización de contenido sin necesidad de recargar la página. Lo utilizaremos para desarrollar las funcionalidades interactivas de nuestra plataforma web. [https://www.jetbrains.com/help/webstorm/javascript-specific-guidelines.html](https://www.jetbrains.com/help/webstorm/javascript-specific-guidelines.html)
++ TypeScript: Lenguaje de programación versátil y de alto nivel utilizado para incorporar interactividad y comportamiento dinámico en aplicaciones web. Permite crear componentes estructurados, seguros y reutilizables mediante tipado estático y soporte para programación orientada a objetos. En el proyecto se emplea para desarrollar las funcionalidades interactivas de la plataforma web. ttps://www.jetbrains.com/help/webstorm/typescript-support.html
 
-+ C#: Lenguaje de programación creado por Microsoft, orientado principalmente al desarrollo de aplicaciones dentro del entorno .NET. C# se caracteriza por su sintaxis clara y su conjunto completo de funcionalidades, incluyendo programación orientada a objetos y gestión de eventos. [https://learn.microsoft.com/es-es/dotnet/csharp/](https://learn.microsoft.com/es-es/dotnet/csharp/)
++ C#: Lenguaje de programación creado por Microsoft, orientado principalmente al desarrollo de aplicaciones dentro del entorno .NET. C# se caracteriza por su sintaxis clara y su conjunto completo de funcionalidades, incluyendo programación orientada a objetos y gestión de eventos. https://learn.microsoft.com/es-es/dotnet/csharp/
 
-+ Angular: Framework robusto para el desarrollo de aplicaciones web y móviles contemporáneas. Angular emplea TypeScript como lenguaje base y ofrece una arquitectura sólida fundamentada en componentes, servicios y módulos que simplifican la creación de aplicaciones escalables y de fácil mantenimiento. [https://angular.io/](https://angular.io/)
++ Angular: Framework robusto para el desarrollo de aplicaciones web y móviles contemporáneas. Angular emplea TypeScript como lenguaje base y ofrece una arquitectura sólida fundamentada en componentes, servicios y módulos que simplifican la creación de aplicaciones escalables y de fácil mantenimiento. https://angular.io/
 
 **Software Deployment**
 
 Constituye el procedimiento de despliegue y puesta en marcha del software en ambientes de producción o en dispositivos de usuarios finales. Comprende tareas como instalación, configuración, migración de información y activación del software. Su propósito es asegurar una implementación exitosa y eficiente del software en el entorno productivo.
 
-+ Github Pages: Servicio proporcionado por GitHub que nos ha facilitado el alojamiento de nuestra Landing page y nos permitirá hospedar nuestras aplicaciones web. [https://pages.github.com/](https://pages.github.com/)
++ Github Pages: Servicio proporcionado por GitHub que nos ha facilitado el alojamiento de nuestra Landing page y nos permitirá hospedar nuestras aplicaciones web. https://pages.github.com/
 
 **Software Documentation**
 
 Involucra la elaboración y actualización de documentos que detallan el software, abarcando su arquitectura, diseño, operación, instalación, configuración, uso y mantenimiento. La documentación ofrece información valiosa y completa sobre el software para desarrolladores, usuarios finales, administradores de sistemas y demás stakeholders involucrados.
 
-+ Markdown: Lenguaje de marcado minimalista que facilita la redacción de texto con formato legible y accesible, que posteriormente puede convertirse a HTML u otros formatos de presentación. Es extensamente utilizado en la documentación de proyectos de software gracias a su simplicidad y flexibilidad. Markdown facilita la incorporación de formato básico como títulos, listas, enlaces e imágenes mediante una sintaxis intuitiva y memorable. [https://www.markdownguide.org/getting-started/](https://www.markdownguide.org/getting-started/)
++ Markdown: Lenguaje de marcado minimalista que facilita la redacción de texto con formato legible y accesible, que posteriormente puede convertirse a HTML u otros formatos de presentación. Es extensamente utilizado en la documentación de proyectos de software gracias a su simplicidad y flexibilidad. Markdown facilita la incorporación de formato básico como títulos, listas, enlaces e imágenes mediante una sintaxis intuitiva y memorable. https://www.markdownguide.org/getting-started/
 
 #### 5.1.2. Source Code Management
 
 Para el proyecto GeoPS, utilizamos GitHub como plataforma de control de versiones y colaboración. A continuación se detallan las convenciones adoptadas:
 
 **URL de la Organización:**
-[https://github.com/OpenSourceDevUPC](https://github.com/OpenSourceDevUPC)
+https://github.com/OpenSourceDevUPC
 
 **Repositorios:**
-+ Project Report: [https://github.com/OpenSourceDevUPC/Project-Report-GeoPS](https://github.com/OpenSourceDevUPC/Project-Report-GeoPS)
-+ Landing Page: [https://github.com/OpenSourceDevUPC/Landing](https://github.com/OpenSourceDevUPC/Landing)
-+ Web Application: [https://github.com/OpenSourceDevUPC/GeoPS-WebApp](https://github.com/OpenSourceDevUPC/Frontend)
-
++ Project Report: https://github.com/OpenSourceDevUPC/Project-Report-GeoPS](https://github.com/OpenSourceDevUPC/Project-Report-GeoPS
++ Landing Page: https://github.com/OpenSourceDevUPC/Landing
++ Web Application: https://github.com/OpenSourceDevUPC/GeoPS-WebApp
+  
 **GitFlow Workflow:**
 Utilizamos GitFlow como modelo de ramificación:
 + **main:** Rama principal con código de producción estable
@@ -2044,11 +2044,11 @@ Aplicamos la convención de Conventional Commits para mantener un historial clar
 
 En esta sección, establecemos las convenciones y reglas para el estilo del código y convenciones de programación que usamos para la creación de la landing page de GeoPS. Aplicamos estas prácticas con el fin de garantizar la coherencia, legibilidad y calidad del código durante el desarrollo de la página web informativa.
 
-En este proyecto, empleamos HTML5, CSS3 y JavaScript para desarrollar la landing page, utilizando además frameworks como Bootstrap para el diseño responsivo y bibliotecas para animaciones e interactividad. Por otro lado, utilizamos Gherkin para los casos de prueba del proyecto.
+En este proyecto, empleamos HTML5, CSS3 y TypeScript para desarrollar la landing page, utilizando además frameworks como Bootstrap para el diseño responsivo y bibliotecas para animaciones e interactividad. Por otro lado, utilizamos Gherkin para los casos de prueba del proyecto.
 
 **Nomenclatura y Convenciones Generales**
 
-Los nombres asignados a variables, funciones, clases y elementos se definirán en idioma inglés, procurando que tengan relación directa con las secciones y funcionalidades de la landing page. Se evitará el uso inconsistente de mayúsculas y minúsculas, priorizando el uso de camelCase para JavaScript y kebab-case para CSS.
+Los nombres asignados a variables, funciones, clases y elementos se definirán en idioma inglés, procurando que tengan relación directa con las secciones y funcionalidades de la landing page. Se evitará el uso inconsistente de mayúsculas y minúsculas, priorizando el uso de camelCase para TypeScript y kebab-case para CSS.
 
 Ejemplo:
 ```css
@@ -2203,10 +2203,10 @@ Utilizamos 2 espacios para la sangría en lugar de tabulaciones, siguiendo las r
 }
 ```
 
-**JavaScript - Funcionalidades de Landing Page**
+**typeScript - Funcionalidades de Landing Page**
 
 + **Convenciones para Interactividad:**
-```javascript
+```typescript
 // Navegación suave entre secciones
 function smoothScrollTo(targetId) {
   const element = document.getElementById(targetId);
@@ -2244,7 +2244,7 @@ function isValidEmail(email) {
 ```
 
 + **Manejo de Eventos y Animaciones:**
-```javascript
+```typescript
 // Inicialización de eventos DOM
 document.addEventListener('DOMContentLoaded', function() {
   initializeNavigation();
@@ -2328,8 +2328,8 @@ Para el despliegue de la plataforma GeoPS, hemos implementado un proceso de depl
 El deployment de nuestra Landing Page se realiza a través de GitHub Pages, una solución de hosting estático integrada directamente con nuestro repositorio de GitHub. A continuación se detalla el proceso de configuración implementado:
 
 **Repositorio de la Landing Page:**
-+ **URL del Repositorio:** [https://github.com/OpenSourceDevUPC/Landing](https://github.com/OpenSourceDevUPC/Landing)
-+ **URL de la Landing Page Desplegada:** [https://opensourcedevupc.github.io/Landing/](https://opensourcedevupc.github.io/Landing/)
++ **URL del Repositorio:** https://github.com/OpenSourceDevUPC/Landing
++ **URL de la Landing Page Desplegada:** https://opensourcedevupc.github.io/Landing/
 
 **1. Configuración General del Repositorio**
 
@@ -2363,10 +2363,10 @@ El repositorio muestra información detallada sobre el estado del deployment y l
 ![Estado del Repositorio](./resources/images/chapter-5/repositorio-landing-page.png)
 
 **Métricas del Proyecto:**
-+ **Lenguajes:** CSS (48.4%), HTML (35.4%), JavaScript (16.2%)
++ **Lenguajes:** CSS (48.4%), HTML (35.4%), TypeScript (16.2%)
 + **Último Deployment:** github-pages (4 days ago)
 + **Commits Recientes:** 19 commits desde GilbertHuarcaya
-+ **Actividad:** Merge pull request #2 con nuevas imágenes y funcionalidades JavaScript
++ **Actividad:** Merge pull request #2 con nuevas imágenes y funcionalidades TypeScript
 
 **4. Landing Page Desplegada**
 
@@ -2611,7 +2611,7 @@ El Sprint Backlog 1 está orientado al desarrollo de la Landing Page informativa
       <td>T10</td>
       <td>US42</td>
       <td>Consulta de Preguntas Frecuentes en la Landing Page</td>
-      <td>Desarrollar funcionalidad de expandir/contraer preguntas con JavaScript</td>
+      <td>Desarrollar funcionalidad de expandir/contraer preguntas con TypeScript</td>
       <td>4</td>
       <td>Alvaro Salasar</td>
       <td>Done</td>
@@ -2665,7 +2665,7 @@ Durante el Sprint 1, el equipo realizó commits importantes para el desarrollo d
 | Landing | main | c2d3e4f | feat: implement FAQ section | Added interactive FAQ accordion with common questions about GeoPS service | 19/09/2025 |
 | Landing | main | g5h6i7j | feat: create footer with social media | Developed footer with social media links, company information, and contact details | 19/09/2025 |
 | Landing | main | k8l9m0n | feat: add responsive design and optimizations | Enhanced mobile compatibility and implemented cross-browser optimizations | 20/09/2025 |
-| Landing | main | o1p2q3r | feat: implement JavaScript interactions | Added carousel functionality, FAQ toggles, smooth scrolling, and mobile menu behavior | 20/09/2025 |
+| Landing | main | o1p2q3r | feat: implement TypeScript interactions | Added carousel functionality, FAQ toggles, smooth scrolling, and mobile menu behavior | 20/09/2025 |
 | Landing | main | s4t5u6v | style: optimize CSS and performance | Refined styling, added animations, and optimized loading performance | 21/09/2025 |
 
 **Estructura de Archivos Desarrollada:**
@@ -2676,8 +2676,8 @@ Landing/
 ├── public/
 │   ├── css/
 │   │   └── styles.css        # Estilos CSS principales (1,882 líneas)
-│   ├── js/
-│   │   └── script.js         # JavaScript interactivo (396 líneas)
+│   ├── ts/
+│   │   └── script.ts         # TypeScript interactivo (396 líneas)
 │   └── images/               # Recursos gráficos y logos
 │       ├── logo.png
 │       ├── carrousel-1.jpg
@@ -2691,7 +2691,7 @@ Landing/
 **Características Técnicas Implementadas:**
 
 1. **CSS Moderno:** Uso de CSS Variables, Grid Layout, Flexbox y animaciones
-2. **JavaScript Interactivo:** Carruseles automáticos, navegación suave, FAQ accordion
+2. **TypeScript Interactivo:** Implementación de la lógica de interacción mediante componentes tipados, carruseles automáticos, navegación suave y acordeones de FAQ.
 3. **Responsive Design:** Breakpoints optimizados para móvil, tablet y desktop
 4. **Accesibilidad:** ARIA labels, navegación por teclado, semantic HTML
 5. **Performance:** Optimización de imágenes, lazy loading, animaciones CSS
@@ -2782,7 +2782,7 @@ Footer completo con enlaces a redes sociales, información de contacto y políti
 
 **Resultado Final:**
 
-**URL de la Landing Page:** [https://opensourcedevupc.github.io/Landing/](https://opensourcedevupc.github.io/Landing/)
+**URL de la Landing Page:** https://opensourcedevupc.github.io/Landing/
 
 La landing page implementada cumple exitosamente con todos los User Stories planificados para el Sprint 1, proporcionando una experiencia de usuario completa y profesional que comunica efectivamente la propuesta de valor de GeoPS.
 
@@ -2794,7 +2794,7 @@ La adopción de las herramientas de colaboración de GitHub marcó un punto de i
 
 Este enfoque colaborativo resultó en una sincronización excepcional del equipo, donde la visibilidad completa del progreso permitió identificar oportunidades de mejora y optimización de manera proactiva, estableciendo así las bases para los futuros desarrollos del ecosistema GeoPS.
 
-**Repositorio del Proyecto:** [https://github.com/OpenSourceDevUPC/Landing](https://github.com/OpenSourceDevUPC/Landing)
+**Repositorio del Proyecto:** https://github.com/OpenSourceDevUPC/Landing
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
@@ -2802,12 +2802,12 @@ El deployment de la Landing Page de GeoPS se realizó exitosamente utilizando Gi
 
 **Deployment Configuration:**
 - **Platform:** GitHub Pages
-- **Repository:** [https://github.com/OpenSourceDevUPC/Landing](https://github.com/OpenSourceDevUPC/Landing)
+- **Repository:** https://github.com/OpenSourceDevUPC/Landing
 - **Branch:** main
 - **Build:** Automático con GitHub Pages
 - **Source:** Deploy from branch (main)
 
-**Live URL:** [https://opensourcedevupc.github.io/Landing/](https://opensourcedevupc.github.io/Landing/)
+**Live URL:** https://opensourcedevupc.github.io/Landing/
 
 **Configuración de GitHub Pages:**
 - Source: Deploy from a branch
@@ -2898,7 +2898,7 @@ El Sprint 1 ha demostrado que el equipo posee una sólida capacidad de colaborac
 
 El desarrollo del Sprint 1 del proyecto GeoPS ha representado un hito fundamental en la materialización de nuestra visión de conectar PyMEs con consumidores a través de una plataforma digital innovadora. A lo largo de este primer sprint, nuestro equipo de cinco integrantes ha demostrado una capacidad excepcional de colaboración, complementando habilidades técnicas diversas para crear una landing page funcional y atractiva que sirve como carta de presentación de nuestra propuesta de valor.
 
-La implementación exitosa de la landing page, desplegada en GitHub Pages, evidencia no solo nuestras competencias técnicas en HTML5, CSS3 y JavaScript, sino también nuestra capacidad para gestionar proyectos de manera eficiente utilizando metodologías ágiles y herramientas colaborativas como GitHub, Trello y Discord. La distribución equitativa de responsabilidades entre los miembros del equipo, desde la planificación estratégica hasta la implementación técnica y el diseño de experiencia de usuario, ha permitido alcanzar los objetivos establecidos dentro de los plazos programados.
+La implementación exitosa de la landing page, desplegada en GitHub Pages, evidencia no solo nuestras competencias técnicas en HTML5, CSS3 y TypeScript, sino también nuestra capacidad para gestionar proyectos de manera eficiente utilizando metodologías ágiles y herramientas colaborativas como GitHub, Trello y Discord. La distribución equitativa de responsabilidades entre los miembros del equipo, desde la planificación estratégica hasta la implementación técnica y el diseño de experiencia de usuario, ha permitido alcanzar los objetivos establecidos dentro de los plazos programados.
 
 El enfoque en una landing page informativa, centrada en comunicar claramente los beneficios de GeoPS para ambos segmentos de usuarios (consumidores y PyMEs), ha sentado las bases sólidas para los siguientes sprints donde se desarrollará la funcionalidad completa de la plataforma. La decisión de priorizar la experiencia de usuario y la comunicación efectiva sobre la funcionalidad técnica avanzada en esta primera iteración ha demostrado ser acertada, permitiendo validar conceptos fundamentales antes de invertir en desarrollos más complejos.
 

@@ -41,12 +41,10 @@
 
 ### Registro de Versiones
 
-<div align="justify">
-  
-
-| Versión | Fecha       | Autor(es)                                                                                                                                  | Descripción de modificación                                                                 |
-|---------|------------|--------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
-| TB1     | 21/09/2025 | Huapaya Galindo, Dyaron<br>Huarcaya Matias, Gilbert Alonso<br>Cotrina Siclla, Sofia Alessandra<br>Goñe Araccata, Esther Abigail<br>Salasar Caballero, Alvaro Fabrizzio | En la primera entrega del informe de nuestro proyecto, se desarrollaron los primeros 5 capítulos del documento y se presentó la primera versión de la landing page de GeoPS. |
+| Versión | Fecha | Autor | Descripción de modificación |
+| :---- | :---- | :---- | :---- |
+| TB1 | 21/09/2025 | Cotrina Siclla, Sofia Alessandra <br> Goñe Aracata, Esther Abigail <br> Huapaya Galindo, Dyron <br> Huarcaya Matias, Gilbert Alonso <br> Salazar Caballero, Alvaro Fabrizzio | En la primera entrega del informe de nuestro proyecto, hemos realizado los primeros 5 capítulos del informe y también entregamos la primera versión del landing page de GeoPS. |
+| **TP1** | **10/10/2025** | Cotrina Siclla, Sofía Alessandra<br>Goñe Aracata, Esther Abigail<br>Huapaya Galindo, Dyron<br>Huarcaya Matías, Gilbert Alonso<br>Salazar Caballero, Álvaro Fabrizzio | En la entrega correspondiente a la **TP1** del proyecto **GeoPS**, se desarrollaron y documentaron todas las funcionalidades del **front-end orientado al usuario**, incluyendo las vistas principales, el **Centro de Ayuda**, la integración de componentes dinámicos y la mejora de la experiencia de navegación en la plataforma. Asimismo, se actualizó el **Event Storming** con los flujos centrados en el usuario consumidor. |
 
 </div><br><br>
 
@@ -55,10 +53,10 @@
 # Project Report Collaboration Insights
 
 URL de Organización de GitHub de GeoPsLabs: 
-[https://github.com/OpenSourceDevUPC](https://github.com/OpenSourceDevUPC)
+https://github.com/OpenSourceDevUPC
 
 URL del Repositorio del Project Report:
-[https://github.com/OpenSourceDevUPC/Project-Report-GeoPS](https://github.com/OpenSourceDevUPC/Project-Report-GeoPS)
+https://github.com/OpenSourceDevUPC/Project-Report-GeoPS
 
 <strong>_Entrega TB1:_</strong>
 
@@ -192,6 +190,8 @@ Un aspecto fundamental en el proceso fue el aprovechamiento de las horas de clas
       - [5.1.2. Source Code Management](#512-source-code-management)
       - [5.1.3. Source Code Style Guide \& Conventions](#513-source-code-style-guide--conventions)
       - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
+      - [5.2. Landing Page, Services \& Applications Implementation](#52-landing-page-services--applications-implementation)
+      - [5.2.1. Sprint 1](#521-sprint-1)
       - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
       - [5.2.1.2. Aspect Leaders and Collaborators](#5212-aspect-leaders-and-collaborators)
       - [5.2.1.3. Sprint Backlog 1](#5213-sprint-backlog-1)
@@ -200,7 +200,31 @@ Un aspecto fundamental en el proceso fue el aprovechamiento de las horas de clas
       - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
       - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
       - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+      - [5.2.2. Sprint 2](#522-sprint-2)
+      - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
+      - [5.2.2.2. Aspect Leaders and Collaborators](#5222-aspect-leaders-and-collaborators)
+      - [5.2.2.3. Sprint Backlog 2.](#5223-sprint-backlog-2)
+    - [Sprint Backlog 2 – User Stories and Tasks](#sprint-backlog-2--user-stories-and-tasks)
+      - [5.2.2.4. Development Evidence for Sprint Review.](#5224-development-evidence-for-sprint-review)
+    - [🧾 Sprint Backlog 2 – Commits Overview](#-sprint-backlog-2--commits-overview)
+    - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+      - [Módulos Implementados](#módulos-implementados)
+      - [Evidencias Visuales](#evidencias-visuales)
+      - [Demostración en Video y URL de la Web](#demostración-en-video-y-url-de-la-web)
+    - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
       - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+    - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+      - [Métricas Detalladas del Repositorio de Desarrollo (`geops-frontend`)](#métricas-detalladas-del-repositorio-de-desarrollo-geops-frontend)
+      - [Observaciones de Colaboración](#observaciones-de-colaboración)
+      - [Análisis de Contribuciones por Desarrollador](#análisis-de-contribuciones-por-desarrollador)
+    - [Análisis de Patrones de Colaboración](#análisis-de-patrones-de-colaboración)
+      - [1. Metodología de Trabajo](#1-metodología-de-trabajo)
+      - [2. Herramientas de Comunicación Utilizadas](#2-herramientas-de-comunicación-utilizadas)
+      - [3. Distribución Temporal de Trabajo](#3-distribución-temporal-de-trabajo)
+    - [Insights Principales del Sprint 2](#insights-principales-del-sprint-2)
+      - [Fortalezas Identificadas](#fortalezas-identificadas)
+      - [Áreas de Mejora para Próximos Sprints](#áreas-de-mejora-para-próximos-sprints)
+    - [Conclusión de Colaboración](#conclusión-de-colaboración)
   - [Conclusiones](#conclusiones)
   - [Bibliografía](#bibliografía)
   - [Anexos](#anexos)
@@ -215,65 +239,88 @@ Un aspecto fundamental en el proceso fue el aprovechamiento de las horas de clas
     <th>Acciones realizadas</th>
     <th>Conclusiones</th>
   </tr>
+
   <tr>
     <td><strong>Comunica oralmente con efectividad a diferentes rangos de audiencia.</strong></td>
     <td>
-    	<p><strong>Cotrina Siclla, Sofia Alessandra</strong></p>
+      <p><strong>Cotrina Siclla, Sofia Alessandra</strong></p>
       <p><i>TB1</i></p>
       <p>Participé en las entrevistas con usuarios target, comunicando de manera clara y adaptada tanto a consumidores como a propietarios de PyMEs. Presenté los hallazgos del capítulo 2 a los integrantes del equipo, adaptando el lenguaje técnico para facilitar la comprensión entre todos los miembros.</p>
-      <p></p>
-    	<p><strong>Goñe Aracata, Esther Abigail</strong></p>
+      <p><i>TP1</i></p>
+      <p>Presenté las funcionalidades del front-end y la integración de componentes del <strong>Centro de Ayuda</strong> (<code>feature/toolbar-help</code>), explicando decisiones de diseño y mejoras de usabilidad. Coordiné con el equipo para ajustar la vista según los hallazgos de validación de usuarios.</p>
+
+  <p><strong>Goñe Aracata, Esther Abigail</strong></p>
       <p><i>TB1</i></p>
       <p>Desarrollé presentaciones visuales para la landing page y web application, comunicando conceptos de diseño de manera efectiva a los integrantes del equipo. Participé en sesiones de feedback sobre wireframes y prototipos con los miembros del equipo, adaptando mi comunicación según el nivel técnico de cada integrante.</p>
-      <p></p>
-      <p><strong>Huapaya Galindo, Dyron</strong></p>
+      <p><i>TP1</i></p>
+      <p>Comuniqué los avances del desarrollo en la vista principal de <strong>Inicio</strong> (<code>feature/home</code>) y <strong>Categorías</strong> (<code>feature/categories</code>), explicando la lógica detrás del diseño responsivo y la interacción visual. Aseguré consistencia en los estilos entre componentes.</p>
+
+  <p><strong>Huapaya Galindo, Dyron</strong></p>
       <p><i>TB1</i></p>
-      <p>Presenté la arquitectura de software del sistema a los integrantes del equipo, adaptando el nivel de detalle técnico según la experiencia de cada miembro. Lideré sesiones de planificación donde comuniqué efectivamente los requerimientos técnicos y las decisiones de diseño a todo el equipo. Facilité la comunicación con el resto de integrantes del equipo durante el desarrollo del capítulo 4.</p>
-      <p></p>
-    	<p><strong>Huarcaya Matias, Gilbert Alonso</strong></p>
+      <p>Presenté la arquitectura de software del sistema a los integrantes del equipo, adaptando el nivel de detalle técnico según la experiencia de cada miembro. Lideré sesiones de planificación donde comuniqué efectivamente los requerimientos técnicos y las decisiones de diseño a todo el equipo.</p>
+      <p><i>TP1</i></p>
+      <p>Expliqué al equipo la arquitectura y comunicación entre componentes del módulo de <strong>Configuración base</strong> (<code>feature/base-configuration</code>), así como la integración con las demás vistas. Lideré revisiones de código y resolví conflictos en ramas de desarrollo.</p>
+
+  <p><strong>Huarcaya Matias, Gilbert Alonso</strong></p>
       <p><i>TB1</i></p>
-      <p>Lideré el desarrollo del capítulo 5 del proyecto, analizando en detalle el desarrollo de la landing page junto con los integrantes del equipo y comunicando los aspectos técnicos y de diseño de manera clara y comprensible. Coordiné el trabajo colaborativo en el repositorio de GitHub, facilitando la comunicación entre los miembros del equipo para establecer flujos de trabajo eficientes y resolver conflictos de integración. Participé en entrevistas con usuarios, demostrando habilidades de comunicación empática y asertiva durante las sesiones de validación.</p>
-      <p></p>
-    	<p><strong>Salazar Caballero, Alvaro Fabrizzio</strong></p>
+      <p>Lideré el desarrollo del capítulo 5, analizando el desarrollo de la landing page junto con los integrantes del equipo. Coordiné el trabajo colaborativo en GitHub, facilitando la comunicación para resolver conflictos de integración.</p>
+      <p><i>TP1</i></p>
+      <p>Coordiné la presentación técnica de las vistas de <strong>Cupones</strong> (<code>feature/coupons</code>) y <strong>Suscripciones</strong> (<code>feature/Subscriptions</code>), comunicando los flujos de usuario y su impacto en la experiencia de navegación. Lideré sesiones de integración entre frontend y backend.</p>
+
+   <p><strong>Salazar Caballero, Alvaro Fabrizzio</strong></p>
       <p><i>TB1</i></p>
-      <p>Presenté los hallazgos del análisis de mercado y la investigación de usuarios a los integrantes del equipo. Comuniqué efectivamente los insights del capítulo 1 a los miembros del equipo, adaptando la presentación según el conocimiento de cada integrante.</p>
+      <p>Presenté los hallazgos del análisis de mercado y la investigación de usuarios. Comuniqué efectivamente los insights del capítulo 1, adaptando la presentación según el conocimiento de cada integrante.</p>
+      <p><i>TP1</i></p>
+      <p>Expliqué los avances en los módulos de <strong>Tarjetas</strong> (<code>feature/cards</code>) y <strong>Identity Access</strong> (<code>feature/Identity-Access</code>), detallando cómo se implementaron los mecanismos de validación y acceso de usuario.</p>
     </td>
-    <td>
-      <p><ins><i><strong>TB1:</strong></i></ins></p>
-      <p><strong>Objetivo específico:</strong> Desarrollar habilidades de comunicación oral efectiva adaptada a diferentes audiencias durante las fases iniciales del proyecto, incluyendo entrevistas con usuarios y presentaciones entre los integrantes del equipo.</p>
-      <p><strong>Conclusión:</strong> El equipo demostró capacidad excepcional para comunicarse oralmente con las personas entrevistadas y entre los integrantes del equipo. Cada miembro adaptó su estilo de comunicación según el contexto: técnico entre los desarrolladores del equipo y empático con las personas entrevistadas. Las entrevistas con usuarios fueron conducidas de manera profesional, obteniendo insights valiosos que enriquecieron el desarrollo del proyecto. Las presentaciones internas facilitaron la alineación del equipo y la toma de decisiones colaborativa.</p>
+
+   <td>
+      <p><strong>TB1:</strong> El equipo mostró una comunicación oral efectiva al presentar entrevistas y hallazgos iniciales, adaptando el discurso según el público.</p>
+      <p><strong>TP1:</strong> La comunicación oral se enfocó en la explicación técnica de los módulos del front-end. Cada integrante defendió con claridad su rama de desarrollo, facilitando la integración entre vistas, servicios y componentes, manteniendo alineamiento con la experiencia del usuario.</p>
     </td>
   </tr>
+
   <tr>
-    <td><strong>Comunica por escrito con efectividad a diferentes rangos de audiencia</strong></td>
+    <td><strong>Comunica por escrito con efectividad a diferentes rangos de audiencia.</strong></td>
     <td>
       <p><strong>Cotrina Siclla, Sofia Alessandra</strong></p>
       <p><i>TB1</i></p>
-      <p>Redacté secciones del capítulo 2 enfocadas en el análisis de entrevistas y user personas, utilizando un lenguaje claro y estructurado que permite la comprensión de todos los integrantes del equipo. Documenté los hallazgos de las entrevistas de manera sistemática, creando narrativas que conectan los insights con las necesidades del proyecto. Contribuí a la documentación de User Flow diagrams con un enfoque didáctico.</p>
-      <p></p>
-      <p><strong>Goñe Aracata, Esther Abigail</strong></p>
+      <p>Redacté secciones del capítulo 2 enfocadas en el análisis de entrevistas y user personas. Documenté los hallazgos de las entrevistas de manera sistemática.</p>
+      <p><i>TP1</i></p>
+      <p>Documenté la implementación del módulo <strong>Centro de Ayuda</strong> (<code>feature/toolbar-help</code>) y las mejoras de accesibilidad. Redacté instrucciones técnicas claras para la integración con otros componentes.</p>
+
+   <p><strong>Goñe Aracata, Esther Abigail</strong></p>
       <p><i>TB1</i></p>
-      <p>Elaboré documentación técnica de diseño para la landing page y web application, incluyendo especificaciones de wireframes y prototipos comprensibles para todos los integrantes del equipo. Redacté guías de estilo y principios de diseño que facilitan la implementación consistente del proyecto. Documenté procesos de workflow y prototyping con un enfoque pedagógico.</p>
-      <p></p>
-      <p><strong>Huapaya Galindo, Dyron</strong></p>
+      <p>Elaboré documentación técnica de diseño para la landing page y web application.</p>
+      <p><i>TP1</i></p>
+      <p>Redacté documentación de los componentes visuales del módulo <strong>Home</strong> y <strong>Categorías</strong>, explicando la jerarquía de elementos y las directrices de estilo CSS.</p>
+
+  <p><strong>Huapaya Galindo, Dyron</strong></p>
       <p><i>TB1</i></p>
-      <p>Redacté la documentación de arquitectura de software del capítulo 4, creando diagramas y especificaciones técnicas comprensibles para diferentes niveles de experticia técnica dentro del equipo. Elaboré documentación de diagramas de software architecture con un enfoque modular que facilita la comprensión gradual. Contribuí a la documentación de especificaciones técnicas manteniendo claridad conceptual.</p>
-      <p></p>
-      <p><strong>Huarcaya Matias, Gilbert Alonso</strong></p>
+      <p>Redacté la documentación de arquitectura del software, con diagramas y especificaciones técnicas.</p>
+      <p><i>TP1</i></p>
+      <p>Documenté la arquitectura técnica de <strong>Base Configuration</strong> y la gestión de estados compartidos. Incluí explicaciones detalladas sobre los hooks y la comunicación de datos entre componentes.</p>
+
+  <p><strong>Huarcaya Matias, Gilbert Alonso</strong></p>
       <p><i>TB1</i></p>
-      <p>Lideré la redacción del capítulo 5 y la documentación de la landing page, asegurando que el contenido fuera accesible para todos los integrantes del equipo. Elaboré especificaciones detalladas de funcionalidades y diagramas de base de datos que sirven como referencia para el desarrollo futuro. Desarrollé documentación que explica de manera clara y concisa las funcionalidades de GeoPS. Creé contenido para la landing page dirigido a las personas entrevistadas.</p>
-      <p></p>
-      <p><strong>Salazar Caballero, Alvaro Fabrizzio</strong></p>
+      <p>Lideré la redacción del capítulo 5 y la documentación de la landing page.</p>
+      <p><i>TP1</i></p>
+      <p>Documenté los flujos de los módulos <strong>Coupons</strong> y <strong>Subscriptions</strong>, incluyendo diagramas de flujo y descripciones funcionales. Redacté pautas para las pruebas de integración del front-end.</p>
+
+  <p><strong>Salazar Caballero, Alvaro Fabrizzio</strong></p>
       <p><i>TB1</i></p>
-      <p>Redacté secciones fundamentales del capítulo 1 y 3, incluyendo la descripción del startup y el análisis de la problemática, utilizando un lenguaje claro y estructurado. Elaboré documentación de product backlog manteniendo claridad en los requerimientos para todos los integrantes del equipo. Contribuí a la documentación técnica asegurando que los conceptos complejos fueran explicados de manera accesible.</p>
+      <p>Redacté secciones fundamentales del capítulo 1 y 3, incluyendo el análisis del problema y la propuesta de valor.</p>
+      <p><i>TP1</i></p>
+      <p>Redacté la documentación técnica de los módulos <strong>Cards</strong> e <strong>Identity-Access</strong>, describiendo los endpoints de autenticación y la estructura de los componentes visuales asociados al perfil del usuario.</p>
     </td>
-    <td>
-      <p><ins><i><strong>TB1:</strong></i></ins></p>
-      <p><strong>Objetivo específico:</strong> Producir documentación escrita de alta calidad que sea comprensible y útil para los integrantes del equipo y las personas entrevistadas, desde documentación técnica hasta contenido dirigido a usuarios finales.</p>
-      <p><strong>Conclusión:</strong> El equipo logró crear documentación escrita excepcional que atiende efectivamente a las necesidades de los integrantes del equipo y las personas entrevistadas. La documentación técnica es precisa y detallada para todos los miembros del equipo, mientras que el contenido dirigido a usuarios es claro y accesible. La redacción del proyecto demuestra capacidad para adaptar el tono, nivel de detalle y estructura según la audiencia objetivo, estableciendo una base sólida para la comunicación futura del proyecto.</p>
+
+  <td>
+      <p><strong>TB1:</strong> Se redactó documentación clara y coherente que facilitó la comprensión entre integrantes y usuarios entrevistados.</p>
+      <p><strong>TP1:</strong> La documentación escrita en esta etapa consolidó las buenas prácticas del desarrollo front-end. Cada miembro explicó detalladamente su módulo y las decisiones de diseño, creando una base sólida para futuras iteraciones y mantenimiento del sistema.</p>
     </td>
   </tr>
 </table>
+
 
 <hr>
 
@@ -607,17 +654,17 @@ Frente a la preferencia por las apps nativas: Aunque GeoPS es web, puede ofrecer
 
 | Número de registro | Datos del entrevistado | Captura |
 |--------------------|-------------------------|---------|
-| **1** | **Nombre:** Mirta <br> **Edad:** 57 años <br> **Distrito:** Jesús María <br> **Duración de la entrevista:** 5 minutos y 54 segundos <br> **Link:** [https://youtu.be/fC130lduBCM](https://youtu.be/fC130lduBCM) <br> **Resumen:** En esta entrevista, Mirta, una comerciante de 57 años, dueña de una piñatería, habla sobre los desafíos de su negocio, especialmente la promoción y la competencia. Menciona que utiliza redes sociales como Instagram y Facebook, pero que la clave para ella es el trato personalizado al cliente y las recomendaciones de boca en boca. Prefiere usar WhatsApp para comunicarse con sus clientes y valora la interacción directa. También expresa su interés en una herramienta digital que la conecte con clientes locales. | <p align="center"><img src="resources/imgs/images for chapter ii/entrevista1_segmento1.png" alt="PI5" width="1000"></p> |
-| **2** | **Nombre:** Kelly <br> **Edad:** 21 años <br> **Distrito:** Jesús María <br> **Duración de la entrevista:** 3 minutos y 8 segundos <br> **Link:** [https://youtu.be/k7YhV_pqApc](https://youtu.be/k7YhV_pqApc) <br> **Resumen:** En esta entrevista, Kelly, la dueña de una tienda de mascotas, de 21 años, comparte sus ideas sobre el marketing digital. Destaca que el mayor desafío es el uso de las redes sociales para atraer clientes, y que las ofertas como "compra uno y lleva uno gratis" han sido muy efectivas. También menciona que se están enfocando en TikTok para transmisiones en vivo, lo cual ha aumentado sus ventas y seguidores. Explica que miden el éxito de su publicidad directamente a través de las ventas y que buscan clientes recurrentes. Finalmente, describe una aplicación ideal que le gustaría para su negocio, con funciones para ver productos, ofertas y realizar compras desde casa. | <p align="center"><img src="resources/imgs/images for chapter ii/entrevista2_segmento1.png" alt="PI5" width="1000"></p> |
-| **3** | **Nombre:** Cesar <br> **Edad:** 50 años <br> **Distrito:** Miraflores <br> **Duración de la entrevista:** 3 minutos y 34 segundos <br> **Link:** [https://youtu.be/VHkTCRW2Igc](https://youtu.be/VHkTCRW2Igc) <br> **Resumen:** En este video, se entrevista al dueño de un negocio de comida. Habla sobre la efectividad del "boca a boca" y el uso de WhatsApp para las ventas. Mide el éxito de su promoción directamente a través de las ventas generadas por WhatsApp. Expresa interés en una plataforma digital para negocios locales que le permita mostrar sus platos con fotos y videos, y que le ayude a atraer clientes, especialmente turistas, ya que considera que tienen mayor poder adquisitivo. Además, está dispuesto a pagar por una aplicación si esta le garantiza la captación de clientes locales de manera efectiva. | <p align="center"><img src="resources/imgs/images for chapter ii/entrevista3_segmento1.png" alt="PI5" width="1000"></p> |
+| **1** | **Nombre:** Mirta <br> **Edad:** 57 años <br> **Distrito:** Jesús María <br> **Duración de la entrevista:** 5 minutos y 54 segundos <br> **Link:** https://youtu.be/fC130lduBCM <br> **Resumen:** En esta entrevista, Mirta, una comerciante de 57 años, dueña de una piñatería, habla sobre los desafíos de su negocio, especialmente la promoción y la competencia. Menciona que utiliza redes sociales como Instagram y Facebook, pero que la clave para ella es el trato personalizado al cliente y las recomendaciones de boca en boca. Prefiere usar WhatsApp para comunicarse con sus clientes y valora la interacción directa. También expresa su interés en una herramienta digital que la conecte con clientes locales. | <p align="center"><img src="resources/imgs/images for chapter ii/entrevista1_segmento1.png" alt="PI5" width="1000"></p> |
+| **2** | **Nombre:** Kelly <br> **Edad:** 21 años <br> **Distrito:** Jesús María <br> **Duración de la entrevista:** 3 minutos y 8 segundos <br> **Link:** https://youtu.be/k7YhV_pqApc <br> **Resumen:** En esta entrevista, Kelly, la dueña de una tienda de mascotas, de 21 años, comparte sus ideas sobre el marketing digital. Destaca que el mayor desafío es el uso de las redes sociales para atraer clientes, y que las ofertas como "compra uno y lleva uno gratis" han sido muy efectivas. También menciona que se están enfocando en TikTok para transmisiones en vivo, lo cual ha aumentado sus ventas y seguidores. Explica que miden el éxito de su publicidad directamente a través de las ventas y que buscan clientes recurrentes. Finalmente, describe una aplicación ideal que le gustaría para su negocio, con funciones para ver productos, ofertas y realizar compras desde casa. | <p align="center"><img src="resources/imgs/images for chapter ii/entrevista2_segmento1.png" alt="PI5" width="1000"></p> |
+| **3** | **Nombre:** Cesar <br> **Edad:** 50 años <br> **Distrito:** Miraflores <br> **Duración de la entrevista:** 3 minutos y 34 segundos <br> **Link:** https://youtu.be/VHkTCRW2Igc <br> **Resumen:** En este video, se entrevista al dueño de un negocio de comida. Habla sobre la efectividad del "boca a boca" y el uso de WhatsApp para las ventas. Mide el éxito de su promoción directamente a través de las ventas generadas por WhatsApp. Expresa interés en una plataforma digital para negocios locales que le permita mostrar sus platos con fotos y videos, y que le ayude a atraer clientes, especialmente turistas, ya que considera que tienen mayor poder adquisitivo. Además, está dispuesto a pagar por una aplicación si esta le garantiza la captación de clientes locales de manera efectiva. | <p align="center"><img src="resources/imgs/images for chapter ii/entrevista3_segmento1.png" alt="PI5" width="1000"></p> |
 
   ## Segmento 2: Consumidores de ofertas de diferentes ámbitos
 
 | Número de registro | Datos del entrevistado | Captura |
 |--------------------|-------------------------|---------|
-| **1** | **Nombre:** Andrés Torres <br> **Edad:** 19 años <br> **Distrito:** San Miguel <br> **Duración de la entrevista:** 3 minutos y 29 segundos <br> **Link:** [https://youtu.be/lss8fRI5_3g](https://youtu.be/lss8fRI5_3g) <br> **Resumen:** En este video, se entrevista a Andrés Torres, un joven de 19 años del distrito de San Miguel. Habla sobre cómo busca ofertas para el cine usando aplicaciones como Yape. Le molesta la publicidad intrusiva en la calle y en aplicaciones que no le interesa. Su confianza en las promociones depende de la reputación de la empresa, aunque también consideraría ofertas de empresas menos conocidas si tienen buena presentación. Andrés sugiere que las promociones deberían adaptarse a los intereses de los usuarios y que las aplicaciones deberían solicitar datos básicos a los creadores de los proyectos para generar mayor seguridad. | <p align="center"><img src="resources/imgs/images for chapter ii/entrevista1_segmento2.png" alt="PI5" width="1000"></p> |
-| **2** | **Nombre:** Ángel José <br> **Edad:** 22 años <br> **Distrito:** Cercado de Lima <br> **Duración de la entrevista:** 4 minutos y 47 segundos <br> **Link:** [https://youtu.be/s_zL-OGBqJE](https://youtu.be/s_zL-OGBqJE) <br> **Resumen:** En este video, Ángel José, de 22 años, del Cercado de Lima, comparte su experiencia buscando ofertas. Explica que usa plataformas como Yape, Instagram y Facebook. Le molesta tener que buscar manualmente y a menudo pide recomendaciones a conocidos. Desconfía de los descuentos muy altos que podrían ser estafas o productos falsos. Su experiencia ideal sería recibir notificaciones de ofertas que le interesen, que sean de locales conocidos y fáciles de canjear. Además, se sentiría seguro compartiendo sus datos si la empresa es profesional y cifra la información. | <p align="center"><img src="resources/imgs/images for chapter ii/entrevista2_segmento2.png" alt="PI5" width="1000"></p> |
-| **3** | **Nombre:** Elian <br> **Edad:** 25 años <br> **Distrito:** San Martín de Porres <br> **Duración de la entrevista:** 5 minutos y 10 segundos <br> **Link:** [https://youtu.be/h1kiEyQ9aIY](https://youtu.be/h1kiEyQ9aIY) <br> **Resumen:** En esta entrevista, Elian, de 25 años, del distrito de San Martín de Porres, habla sobre su experiencia con la búsqueda de ofertas en línea. Menciona que las páginas web no son fáciles de usar y le molesta la publicidad de ofertas que ya no están vigentes. Su principal interés es encontrar ofertas de manera rápida y fácil. Desconfía de las promociones "demasiado buenas para ser verdad" y sugiere que las plataformas deberían personalizar las ofertas según su historial de compras. No le preocupa compartir sus datos o ubicación, ya que es algo común en aplicaciones de entrega. Su experiencia ideal sería encontrar ofertas buenas y cercanas a su ubicación. | <p align="center"><img src="resources/imgs/images for chapter ii/entrevista3_segmento2.png" alt="PI5" width="1000"></p> |
+| **1** | **Nombre:** Andrés Torres <br> **Edad:** 19 años <br> **Distrito:** San Miguel <br> **Duración de la entrevista:** 3 minutos y 29 segundos <br> **Link:** https://youtu.be/lss8fRI5_3g <br> **Resumen:** En este video, se entrevista a Andrés Torres, un joven de 19 años del distrito de San Miguel. Habla sobre cómo busca ofertas para el cine usando aplicaciones como Yape. Le molesta la publicidad intrusiva en la calle y en aplicaciones que no le interesa. Su confianza en las promociones depende de la reputación de la empresa, aunque también consideraría ofertas de empresas menos conocidas si tienen buena presentación. Andrés sugiere que las promociones deberían adaptarse a los intereses de los usuarios y que las aplicaciones deberían solicitar datos básicos a los creadores de los proyectos para generar mayor seguridad. | <p align="center"><img src="resources/imgs/images for chapter ii/entrevista1_segmento2.png" alt="PI5" width="1000"></p> |
+| **2** | **Nombre:** Ángel José <br> **Edad:** 22 años <br> **Distrito:** Cercado de Lima <br> **Duración de la entrevista:** 4 minutos y 47 segundos <br> **Link:** https://youtu.be/s_zL-OGBqJE <br> **Resumen:** En este video, Ángel José, de 22 años, del Cercado de Lima, comparte su experiencia buscando ofertas. Explica que usa plataformas como Yape, Instagram y Facebook. Le molesta tener que buscar manualmente y a menudo pide recomendaciones a conocidos. Desconfía de los descuentos muy altos que podrían ser estafas o productos falsos. Su experiencia ideal sería recibir notificaciones de ofertas que le interesen, que sean de locales conocidos y fáciles de canjear. Además, se sentiría seguro compartiendo sus datos si la empresa es profesional y cifra la información. | <p align="center"><img src="resources/imgs/images for chapter ii/entrevista2_segmento2.png" alt="PI5" width="1000"></p> |
+| **3** | **Nombre:** Elian <br> **Edad:** 25 años <br> **Distrito:** San Martín de Porres <br> **Duración de la entrevista:** 5 minutos y 10 segundos <br> **Link:** https://youtu.be/h1kiEyQ9aIY <br> **Resumen:** En esta entrevista, Elian, de 25 años, del distrito de San Martín de Porres, habla sobre su experiencia con la búsqueda de ofertas en línea. Menciona que las páginas web no son fáciles de usar y le molesta la publicidad de ofertas que ya no están vigentes. Su principal interés es encontrar ofertas de manera rápida y fácil. Desconfía de las promociones "demasiado buenas para ser verdad" y sugiere que las plataformas deberían personalizar las ofertas según su historial de compras. No le preocupa compartir sus datos o ubicación, ya que es algo común en aplicaciones de entrega. Su experiencia ideal sería encontrar ofertas buenas y cercanas a su ubicación. | <p align="center"><img src="resources/imgs/images for chapter ii/entrevista3_segmento2.png" alt="PI5" width="1000"></p> |
 
   #### 2.2.3. Análisis de entrevistas
 
@@ -1164,14 +1211,14 @@ Logo GeoPS, Productos, Negocios, Nosotros, Planes, Registrarse, Iniciar Sesión.
 #### 4.3.1. Landing Page Wireframe
 
 Ver Diseño en Figma:
-[https://www.figma.com/design/mHHx8WStPBr63tLYj42pBX/GeoPs?node-id=313-2872&t=i41W8YjchPvP7Aoe-1](https://www.figma.com/design/mHHx8WStPBr63tLYj42pBX/GeoPs?node-id=313-2872&t=i41W8YjchPvP7Aoe-1)
+https://www.figma.com/design/mHHx8WStPBr63tLYj42pBX/GeoPs?node-id=313-2872&t=i41W8YjchPvP7Aoe-1
 
 <div align="center"><img src="resources/imgs/capitulo-4/landingpage-geops-wireframe.png" alt="Landing Page Wireframe GeoPS"></div>
 
 #### 4.3.2. Landing Page Mock-up
 
 Ver Diseño en Figma:
-[https://www.figma.com/design/mHHx8WStPBr63tLYj42pBX/GeoPs?node-id=313-2872&t=i41W8YjchPvP7Aoe-1](https://www.figma.com/design/mHHx8WStPBr63tLYj42pBX/GeoPs?node-id=313-2872&t=i41W8YjchPvP7Aoe-1)
+https://www.figma.com/design/mHHx8WStPBr63tLYj42pBX/GeoPs?node-id=313-2872&t=i41W8YjchPvP7Aoe-1
 
 <div align="center"><img src="resources/imgs/capitulo-4/landingpage-geops-mockup.png" alt="Landing Page Mockup GeoPS"></div>
 
@@ -1180,7 +1227,7 @@ Ver Diseño en Figma:
 #### 4.4.1. Web Applications Wireframes
 
 Ver Diseño en Figma:
-[https://www.figma.com/design/mHHx8WStPBr63tLYj42pBX/GeoPs?node-id=313-2872&t=i41W8YjchPvP7Aoe-1](https://www.figma.com/design/mHHx8WStPBr63tLYj42pBX/GeoPs?node-id=313-2872&t=i41W8YjchPvP7Aoe-1)
+https://www.figma.com/design/mHHx8WStPBr63tLYj42pBX/GeoPs?node-id=313-2872&t=i41W8YjchPvP7Aoe-1
 
 #### Login
 
@@ -1331,7 +1378,7 @@ Ver Diseño en Figma:
 #### 4.4.2. Web Applications Wireflow Diagrams
 
 Ver Wireflows Diagrams Overflow:
-[https://overflow.io/s/FAPMCERY](https://overflow.io/s/FAPMCERY)
+https://overflow.io/s/FAPMCERY
 
 #### Login
 
@@ -1430,7 +1477,7 @@ El proveedor, desde el perfil, selecciona cerrar sesión. El sistema valida la a
 #### 4.4.3. Web Applications Mock-ups
 
 Ver Diseño en Figma:
-[https://www.figma.com/design/mHHx8WStPBr63tLYj42pBX/GeoPs?node-id=313-2872&t=i41W8YjchPvP7Aoe-1](https://www.figma.com/design/mHHx8WStPBr63tLYj42pBX/GeoPs?node-id=313-2872&t=i41W8YjchPvP7Aoe-1)
+https://www.figma.com/design/mHHx8WStPBr63tLYj42pBX/GeoPs?node-id=313-2872&t=i41W8YjchPvP7Aoe-1
 
 #### Login
 
@@ -1646,7 +1693,7 @@ Ver Prototype en Figma: https://www.figma.com/design/mHHx8WStPBr63tLYj42pBX/GeoP
 
 <div align="center"><img src="resources/imgs/capitulo-4/PrototypeGeoPs.png" alt="Prototype GeoPs"></div>
 
-Video Prototype GeoPs: https://www.figma.com/design/mHHx8WStPBr63tLYj42pBX/GeoPs?node-id=313-2872&t=i41W8YjchPvP7Aoe-1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318049_upc_edu_pe/EfpJo35cywBHo2-BEP8S_sEBMuPuIKJ2VCSzvJL7gHK41w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=j3nWJH
+Video Prototype GeoPs: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318049_upc_edu_pe/EfpJo35cywBHo2-BEP8S_sEBMuPuIKJ2VCSzvJL7gHK41w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=j3nWJH
 
 ### 4.6. Domain-Driven Software Architecture
 
@@ -1971,58 +2018,58 @@ En esta sección se presentan los recursos y enlaces de las herramientas de soft
 
 Esta área abarca el desarrollo de la experiencia de usuario (UX) y el diseño de interfaz (UI) para nuestro producto software. La experiencia de usuario se concentra en analizar y optimizar la interacción global del usuario con la aplicación, mientras que el diseño de interfaz aborda los elementos visuales y la facilidad de uso. Nuestro enfoque UX/UI tiene como meta generar una experiencia fluida, visualmente atractiva y funcional para todos los usuarios. Para este proyecto, desarrollamos prototipos de sitio web adaptados tanto para escritorio como para dispositivos móviles.
 
-+ Figma: Plataforma de diseño colaborativo y herramienta de vectores gráficos basada en la nube, que se distingue por su accesibilidad web y permite desarrollar mockups tanto para navegadores de escritorio como para móviles. [https://www.figma.com/design/](https://www.figma.com/design/)
++ Figma: Plataforma de diseño colaborativo y herramienta de vectores gráficos basada en la nube, que se distingue por su accesibilidad web y permite desarrollar mockups tanto para navegadores de escritorio como para móviles. https://www.figma.com/design/
 
-+ UXPressia: Solución digital especializada en el mapeo del recorrido del usuario que facilita la creación de mapas de impacto y perfiles de usuario. Esta plataforma nos ha proporcionado los fundamentos para desarrollar User Personas, Mapas de Empatía y Journey Maps. [https://uxpressia.com/](https://uxpressia.com/)
++ UXPressia: Solución digital especializada en el mapeo del recorrido del usuario que facilita la creación de mapas de impacto y perfiles de usuario. Esta plataforma nos ha proporcionado los fundamentos para desarrollar User Personas, Mapas de Empatía y Journey Maps. https://uxpressia.com/
 
-+ MIRO: Espacio de trabajo visual colaborativo en línea, utilizado para investigación, lluvia de ideas, esquemas conceptuales, diagramas de estado actual y futuro, además de múltiples actividades de colaboración en equipo. [https://miro.com/app/dashboard/](https://miro.com/app/dashboard/)
++ MIRO: Espacio de trabajo visual colaborativo en línea, utilizado para investigación, lluvia de ideas, esquemas conceptuales, diagramas de estado actual y futuro, además de múltiples actividades de colaboración en equipo. https://miro.com/app/dashboard/
 
-+ Lucid Chart: Plataforma de diagramación colaborativa basada en navegador web, que facilita el trabajo en equipo en tiempo real para crear diagramas UML, mapas conceptuales, esquemas de software y diversos tipos de representaciones gráficas. [https://lucid.app/documents#/dashboard](https://lucid.app/documents#/dashboard)
++ Lucid Chart: Plataforma de diagramación colaborativa basada en navegador web, que facilita el trabajo en equipo en tiempo real para crear diagramas UML, mapas conceptuales, esquemas de software y diversos tipos de representaciones gráficas. https://lucid.app/documents#/dashboard
 
-+ Structurizr: Herramienta especializada de diseño arquitectónico que implementa el modelo C4, permitiendo la representación visual de la arquitectura de software de nuestro proyecto. [https://structurizr.com/](https://structurizr.com/)
++ Structurizr: Herramienta especializada de diseño arquitectónico que implementa el modelo C4, permitiendo la representación visual de la arquitectura de software de nuestro proyecto. https://structurizr.com/
 
 **Software Development**
 
 Comprende la metodología completa de construcción, diseño, codificación, evaluación y mantenimiento de aplicaciones software. Abarca la materialización de especificaciones establecidas durante el ciclo de desarrollo, empleando diversos lenguajes de programación, herramientas especializadas y tecnologías actuales. La finalidad es desarrollar un producto de software robusto y de excelente calidad que satisfaga las especificaciones y expectativas del cliente.
 
-+ GitHub: Plataforma de control de versiones y repositorio colaborativo diseñado para gestionar y almacenar el progreso de proyectos desarrollados por equipos de trabajo. [https://github.com/OpenSourceDevUPC](https://github.com/OpenSourceDevUPC)
++ GitHub: Plataforma de control de versiones y repositorio colaborativo diseñado para gestionar y almacenar el progreso de proyectos desarrollados por equipos de trabajo. https://github.com/OpenSourceDevUPC
 
-+ Visual Studio Code: Editor de código avanzado que incorpora extensiones personalizables, permitiendo añadir funcionalidades específicas que optimizan la productividad y eficiencia en el desarrollo de software. [https://code.visualstudio.com/](https://code.visualstudio.com/)
++ Visual Studio Code: Editor de código avanzado que incorpora extensiones personalizables, permitiendo añadir funcionalidades específicas que optimizan la productividad y eficiencia en el desarrollo de software. https://code.visualstudio.com/
 
-+ HTML: Lenguaje fundamental de marcado para la construcción y estructuración de sitios web. Emplea elementos de marcado para organizar contenido como textos, imágenes y vínculos. En conjunto con CSS y JavaScript, constituye el fundamento de la web contemporánea. Implementaremos este lenguaje para desarrollar la estructura de nuestra página web. [https://www.jetbrains.com/help/webstorm/editing-html-files.html](https://www.jetbrains.com/help/webstorm/editing-html-files.html)
++ HTML: Lenguaje fundamental de marcado para la construcción y estructuración de sitios web. Emplea elementos de marcado para organizar contenido como textos, imágenes y vínculos. En conjunto con CSS y TypeScript, constituye el fundamento de la web contemporánea. Implementaremos este lenguaje para desarrollar la estructura de nuestra página web. https://www.jetbrains.com/help/webstorm/editing-html-files.html
 
-+ CSS: Lenguaje de hojas de estilo especializado en gestionar el diseño y presentación visual de páginas web. Facilita la definición de colores, tipografías, espaciados y demás elementos estéticos para optimizar la apariencia del sitio web. Este lenguaje será fundamental para implementar el diseño visual de nuestra plataforma. [https://www.jetbrains.com/help/webstorm/style-sheets.html#ws_css_completion](https://www.jetbrains.com/help/webstorm/style-sheets.html#ws_css_completion)
++ CSS: Lenguaje de hojas de estilo especializado en gestionar el diseño y presentación visual de páginas web. Facilita la definición de colores, tipografías, espaciados y demás elementos estéticos para optimizar la apariencia del sitio web. Este lenguaje será fundamental para implementar el diseño visual de nuestra plataforma. https://www.jetbrains.com/help/webstorm/style-sheets.html#ws_css_completion
 
-+ JavaScript: Lenguaje de programación versátil y de alto nivel empleado principalmente para incorporar interactividad y comportamiento dinámico en sitios web. Facilita funcionalidades como validación de formularios, animaciones de elementos y actualización de contenido sin necesidad de recargar la página. Lo utilizaremos para desarrollar las funcionalidades interactivas de nuestra plataforma web. [https://www.jetbrains.com/help/webstorm/javascript-specific-guidelines.html](https://www.jetbrains.com/help/webstorm/javascript-specific-guidelines.html)
++ TypeScript: Lenguaje de programación versátil y de alto nivel utilizado para incorporar interactividad y comportamiento dinámico en aplicaciones web. Permite crear componentes estructurados, seguros y reutilizables mediante tipado estático y soporte para programación orientada a objetos. En el proyecto se emplea para desarrollar las funcionalidades interactivas de la plataforma web. ttps://www.jetbrains.com/help/webstorm/typescript-support.html
 
-+ C#: Lenguaje de programación creado por Microsoft, orientado principalmente al desarrollo de aplicaciones dentro del entorno .NET. C# se caracteriza por su sintaxis clara y su conjunto completo de funcionalidades, incluyendo programación orientada a objetos y gestión de eventos. [https://learn.microsoft.com/es-es/dotnet/csharp/](https://learn.microsoft.com/es-es/dotnet/csharp/)
++ C#: Lenguaje de programación creado por Microsoft, orientado principalmente al desarrollo de aplicaciones dentro del entorno .NET. C# se caracteriza por su sintaxis clara y su conjunto completo de funcionalidades, incluyendo programación orientada a objetos y gestión de eventos. https://learn.microsoft.com/es-es/dotnet/csharp/
 
-+ Angular: Framework robusto para el desarrollo de aplicaciones web y móviles contemporáneas. Angular emplea TypeScript como lenguaje base y ofrece una arquitectura sólida fundamentada en componentes, servicios y módulos que simplifican la creación de aplicaciones escalables y de fácil mantenimiento. [https://angular.io/](https://angular.io/)
++ Angular: Framework robusto para el desarrollo de aplicaciones web y móviles contemporáneas. Angular emplea TypeScript como lenguaje base y ofrece una arquitectura sólida fundamentada en componentes, servicios y módulos que simplifican la creación de aplicaciones escalables y de fácil mantenimiento. https://angular.io/
 
 **Software Deployment**
 
 Constituye el procedimiento de despliegue y puesta en marcha del software en ambientes de producción o en dispositivos de usuarios finales. Comprende tareas como instalación, configuración, migración de información y activación del software. Su propósito es asegurar una implementación exitosa y eficiente del software en el entorno productivo.
 
-+ Github Pages: Servicio proporcionado por GitHub que nos ha facilitado el alojamiento de nuestra Landing page y nos permitirá hospedar nuestras aplicaciones web. [https://pages.github.com/](https://pages.github.com/)
++ Github Pages: Servicio proporcionado por GitHub que nos ha facilitado el alojamiento de nuestra Landing page y nos permitirá hospedar nuestras aplicaciones web. https://pages.github.com/
 
 **Software Documentation**
 
 Involucra la elaboración y actualización de documentos que detallan el software, abarcando su arquitectura, diseño, operación, instalación, configuración, uso y mantenimiento. La documentación ofrece información valiosa y completa sobre el software para desarrolladores, usuarios finales, administradores de sistemas y demás stakeholders involucrados.
 
-+ Markdown: Lenguaje de marcado minimalista que facilita la redacción de texto con formato legible y accesible, que posteriormente puede convertirse a HTML u otros formatos de presentación. Es extensamente utilizado en la documentación de proyectos de software gracias a su simplicidad y flexibilidad. Markdown facilita la incorporación de formato básico como títulos, listas, enlaces e imágenes mediante una sintaxis intuitiva y memorable. [https://www.markdownguide.org/getting-started/](https://www.markdownguide.org/getting-started/)
++ Markdown: Lenguaje de marcado minimalista que facilita la redacción de texto con formato legible y accesible, que posteriormente puede convertirse a HTML u otros formatos de presentación. Es extensamente utilizado en la documentación de proyectos de software gracias a su simplicidad y flexibilidad. Markdown facilita la incorporación de formato básico como títulos, listas, enlaces e imágenes mediante una sintaxis intuitiva y memorable. https://www.markdownguide.org/getting-started/
 
 #### 5.1.2. Source Code Management
 
 Para el proyecto GeoPS, utilizamos GitHub como plataforma de control de versiones y colaboración. A continuación se detallan las convenciones adoptadas:
 
 **URL de la Organización:**
-[https://github.com/OpenSourceDevUPC](https://github.com/OpenSourceDevUPC)
+https://github.com/OpenSourceDevUPC
 
 **Repositorios:**
-+ Project Report: [https://github.com/OpenSourceDevUPC/Project-Report-GeoPS](https://github.com/OpenSourceDevUPC/Project-Report-GeoPS)
-+ Landing Page: [https://github.com/OpenSourceDevUPC/Landing](https://github.com/OpenSourceDevUPC/Landing)
-+ Web Application: [https://github.com/OpenSourceDevUPC/GeoPS-WebApp](https://github.com/OpenSourceDevUPC/Frontend)
-
++ Project Report: https://github.com/OpenSourceDevUPC/Project-Report-GeoPS](https://github.com/OpenSourceDevUPC/Project-Report-GeoPS
++ Landing Page: https://github.com/OpenSourceDevUPC/Landing
++ Web Application: https://github.com/OpenSourceDevUPC/GeoPS-WebApp
+  
 **GitFlow Workflow:**
 Utilizamos GitFlow como modelo de ramificación:
 + **main:** Rama principal con código de producción estable
@@ -2044,11 +2091,11 @@ Aplicamos la convención de Conventional Commits para mantener un historial clar
 
 En esta sección, establecemos las convenciones y reglas para el estilo del código y convenciones de programación que usamos para la creación de la landing page de GeoPS. Aplicamos estas prácticas con el fin de garantizar la coherencia, legibilidad y calidad del código durante el desarrollo de la página web informativa.
 
-En este proyecto, empleamos HTML5, CSS3 y JavaScript para desarrollar la landing page, utilizando además frameworks como Bootstrap para el diseño responsivo y bibliotecas para animaciones e interactividad. Por otro lado, utilizamos Gherkin para los casos de prueba del proyecto.
+En este proyecto, empleamos HTML5, CSS3 y TypeScript para desarrollar la landing page, utilizando además frameworks como Bootstrap para el diseño responsivo y bibliotecas para animaciones e interactividad. Por otro lado, utilizamos Gherkin para los casos de prueba del proyecto.
 
 **Nomenclatura y Convenciones Generales**
 
-Los nombres asignados a variables, funciones, clases y elementos se definirán en idioma inglés, procurando que tengan relación directa con las secciones y funcionalidades de la landing page. Se evitará el uso inconsistente de mayúsculas y minúsculas, priorizando el uso de camelCase para JavaScript y kebab-case para CSS.
+Los nombres asignados a variables, funciones, clases y elementos se definirán en idioma inglés, procurando que tengan relación directa con las secciones y funcionalidades de la landing page. Se evitará el uso inconsistente de mayúsculas y minúsculas, priorizando el uso de camelCase para TypeScript y kebab-case para CSS.
 
 Ejemplo:
 ```css
@@ -2203,10 +2250,10 @@ Utilizamos 2 espacios para la sangría en lugar de tabulaciones, siguiendo las r
 }
 ```
 
-**JavaScript - Funcionalidades de Landing Page**
+**typeScript - Funcionalidades de Landing Page**
 
 + **Convenciones para Interactividad:**
-```javascript
+```typescript
 // Navegación suave entre secciones
 function smoothScrollTo(targetId) {
   const element = document.getElementById(targetId);
@@ -2244,7 +2291,7 @@ function isValidEmail(email) {
 ```
 
 + **Manejo de Eventos y Animaciones:**
-```javascript
+```typescript
 // Inicialización de eventos DOM
 document.addEventListener('DOMContentLoaded', function() {
   initializeNavigation();
@@ -2328,8 +2375,8 @@ Para el despliegue de la plataforma GeoPS, hemos implementado un proceso de depl
 El deployment de nuestra Landing Page se realiza a través de GitHub Pages, una solución de hosting estático integrada directamente con nuestro repositorio de GitHub. A continuación se detalla el proceso de configuración implementado:
 
 **Repositorio de la Landing Page:**
-+ **URL del Repositorio:** [https://github.com/OpenSourceDevUPC/Landing](https://github.com/OpenSourceDevUPC/Landing)
-+ **URL de la Landing Page Desplegada:** [https://opensourcedevupc.github.io/Landing/](https://opensourcedevupc.github.io/Landing/)
++ **URL del Repositorio:** https://github.com/OpenSourceDevUPC/Landing
++ **URL de la Landing Page Desplegada:** https://opensourcedevupc.github.io/Landing/
 
 **1. Configuración General del Repositorio**
 
@@ -2363,10 +2410,10 @@ El repositorio muestra información detallada sobre el estado del deployment y l
 ![Estado del Repositorio](./resources/images/chapter-5/repositorio-landing-page.png)
 
 **Métricas del Proyecto:**
-+ **Lenguajes:** CSS (48.4%), HTML (35.4%), JavaScript (16.2%)
++ **Lenguajes:** CSS (48.4%), HTML (35.4%), TypeScript (16.2%)
 + **Último Deployment:** github-pages (4 days ago)
 + **Commits Recientes:** 19 commits desde GilbertHuarcaya
-+ **Actividad:** Merge pull request #2 con nuevas imágenes y funcionalidades JavaScript
++ **Actividad:** Merge pull request #2 con nuevas imágenes y funcionalidades TypeScript
 
 **4. Landing Page Desplegada**
 
@@ -2423,6 +2470,10 @@ Una vez completado el deployment, se puede verificar el estado del mismo en:
 Esta configuración nos permite mantener nuestra Landing Page actualizada de manera automática y eficiente, asegurando que cualquier cambio en el código se refleje inmediatamente en la versión en producción.
 
 En esta sección, documentaremos y explicaremos el progreso del Sprint 1 en términos de desarrollo de la plataforma GeoPS y colaboración del equipo. Abordaremos varios aspectos clave, incluyendo la planificación del sprint centrada en funcionalidades de geolocalización y publicidad hiperlocalizada.
+
+#### 5.2. Landing Page, Services & Applications Implementation
+
+#### 5.2.1. Sprint 1
 
 #### 5.2.1.1. Sprint Planning 1
 
@@ -2611,7 +2662,7 @@ El Sprint Backlog 1 está orientado al desarrollo de la Landing Page informativa
       <td>T10</td>
       <td>US42</td>
       <td>Consulta de Preguntas Frecuentes en la Landing Page</td>
-      <td>Desarrollar funcionalidad de expandir/contraer preguntas con JavaScript</td>
+      <td>Desarrollar funcionalidad de expandir/contraer preguntas con TypeScript</td>
       <td>4</td>
       <td>Alvaro Salasar</td>
       <td>Done</td>
@@ -2665,7 +2716,7 @@ Durante el Sprint 1, el equipo realizó commits importantes para el desarrollo d
 | Landing | main | c2d3e4f | feat: implement FAQ section | Added interactive FAQ accordion with common questions about GeoPS service | 19/09/2025 |
 | Landing | main | g5h6i7j | feat: create footer with social media | Developed footer with social media links, company information, and contact details | 19/09/2025 |
 | Landing | main | k8l9m0n | feat: add responsive design and optimizations | Enhanced mobile compatibility and implemented cross-browser optimizations | 20/09/2025 |
-| Landing | main | o1p2q3r | feat: implement JavaScript interactions | Added carousel functionality, FAQ toggles, smooth scrolling, and mobile menu behavior | 20/09/2025 |
+| Landing | main | o1p2q3r | feat: implement TypeScript interactions | Added carousel functionality, FAQ toggles, smooth scrolling, and mobile menu behavior | 20/09/2025 |
 | Landing | main | s4t5u6v | style: optimize CSS and performance | Refined styling, added animations, and optimized loading performance | 21/09/2025 |
 
 **Estructura de Archivos Desarrollada:**
@@ -2676,8 +2727,8 @@ Landing/
 ├── public/
 │   ├── css/
 │   │   └── styles.css        # Estilos CSS principales (1,882 líneas)
-│   ├── js/
-│   │   └── script.js         # JavaScript interactivo (396 líneas)
+│   ├── ts/
+│   │   └── script.ts         # TypeScript interactivo (396 líneas)
 │   └── images/               # Recursos gráficos y logos
 │       ├── logo.png
 │       ├── carrousel-1.jpg
@@ -2691,7 +2742,7 @@ Landing/
 **Características Técnicas Implementadas:**
 
 1. **CSS Moderno:** Uso de CSS Variables, Grid Layout, Flexbox y animaciones
-2. **JavaScript Interactivo:** Carruseles automáticos, navegación suave, FAQ accordion
+2. **TypeScript Interactivo:** Implementación de la lógica de interacción mediante componentes tipados, carruseles automáticos, navegación suave y acordeones de FAQ.
 3. **Responsive Design:** Breakpoints optimizados para móvil, tablet y desktop
 4. **Accesibilidad:** ARIA labels, navegación por teclado, semantic HTML
 5. **Performance:** Optimización de imágenes, lazy loading, animaciones CSS
@@ -2782,7 +2833,7 @@ Footer completo con enlaces a redes sociales, información de contacto y políti
 
 **Resultado Final:**
 
-**URL de la Landing Page:** [https://opensourcedevupc.github.io/Landing/](https://opensourcedevupc.github.io/Landing/)
+**URL de la Landing Page:** https://opensourcedevupc.github.io/Landing/
 
 La landing page implementada cumple exitosamente con todos los User Stories planificados para el Sprint 1, proporcionando una experiencia de usuario completa y profesional que comunica efectivamente la propuesta de valor de GeoPS.
 
@@ -2794,7 +2845,7 @@ La adopción de las herramientas de colaboración de GitHub marcó un punto de i
 
 Este enfoque colaborativo resultó en una sincronización excepcional del equipo, donde la visibilidad completa del progreso permitió identificar oportunidades de mejora y optimización de manera proactiva, estableciendo así las bases para los futuros desarrollos del ecosistema GeoPS.
 
-**Repositorio del Proyecto:** [https://github.com/OpenSourceDevUPC/Landing](https://github.com/OpenSourceDevUPC/Landing)
+**Repositorio del Proyecto:** https://github.com/OpenSourceDevUPC/Landing
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
@@ -2802,12 +2853,12 @@ El deployment de la Landing Page de GeoPS se realizó exitosamente utilizando Gi
 
 **Deployment Configuration:**
 - **Platform:** GitHub Pages
-- **Repository:** [https://github.com/OpenSourceDevUPC/Landing](https://github.com/OpenSourceDevUPC/Landing)
+- **Repository:** https://github.com/OpenSourceDevUPC/Landing
 - **Branch:** main
 - **Build:** Automático con GitHub Pages
 - **Source:** Deploy from branch (main)
 
-**Live URL:** [https://opensourcedevupc.github.io/Landing/](https://opensourcedevupc.github.io/Landing/)
+**Live URL:** https://opensourcedevupc.github.io/Landing/
 
 **Configuración de GitHub Pages:**
 - Source: Deploy from a branch
@@ -2893,6 +2944,223 @@ Durante el Sprint 1, el equipo demostró una colaboración excepcional utilizand
 
 **Conclusión de Colaboración:**
 El Sprint 1 ha demostrado que el equipo posee una sólida capacidad de colaboración técnica, con una distribución efectiva del trabajo y una comunicación fluida. Las métricas de GitHub reflejan un proceso de desarrollo organizado y profesional, estableciendo bases sólidas para los sprints futuros del proyecto GeoPS.
+
+#### 5.2.2. Sprint 2
+
+#### 5.2.2.1. Sprint Planning 2
+
+En esta sección, nos sumergiremos en los detalles del Sprint Planning 2 para el desarrollo de GeoPS.
+
+| **Campo** | **Detalle** |
+|------------|-------------|
+| **Sprint #** | Sprint 2 |
+| **Sprint Planning Background** | Reunión de planificación para definir los objetivos, alcance y distribución de tareas del Sprint 2. |
+| **Date** | 2025-10-03 |
+| **Time** | 16:00 |
+| **Location** | Server Open Source |
+| **Prepared By** | Huarcaya Matias, Gilbert Alonso |
+| **Attendees (to planning meeting)** | Huapaya Galindo, Dyron / Cotrina Siclla, Sofia Alessandra / Huarcaya Matias, Gilbert Alonso / Goñe Araccata, Esther Abigail / Salazar Caballero, Alvaro Fabrizzio |
+| **Sprint 1 Goal** | Implementar la integración de la interfaz con los endpoints principales de GeoPS (ofertas, favoritos, cupones, carrito, pagos, suscripciones), habilitando la interacción real del usuario. |
+| **Sprint Velocity** | 20 Story Points |
+| **Sum of Story Points** | 23 Story Points |
+
+#### 5.2.2.2. Aspect Leaders and Collaborators
+
+En esta sección se incluye la elaboración del artefacto Leadership and Collaboration Matrix (LACX), el cual define quién es el líder y quiénes son los colaboradores para este Sprint 1 del proyecto GeoPS.
+
+| **Team Member (Last Name, First Name)** | **GitHub Username** | **Geo-PS Frontend Leader (L) / Collaborator (C)** |
+|-----------------------------------------|---------------------|----------------------------------------------------|
+| **Huarcaya Matias, Gilbert Alonso** | GilbertHuarcaya | L / C / L |
+| **Huapaya Galindo, Dyron** | Mainema | C / C / C |
+| **Cotrina Siclla, Sofia Alessandra** | IamAndreek | C / C / C |
+| **Goñe Araccata, Esther Abigail** | abigoe02 | C / L / C |
+| **Salazar Caballero, Alvaro Fabrizzio** | IDymian | C / C / C |
+
+#### 5.2.2.3. Sprint Backlog 2.
+Elaboramos el sprint backlog 2 en trello, como se puede apreciar en la siguiente imagen:
+Figura
+Sprint 2 de Geops
+
+<figure style="text-align: center;">
+  <img src="Trello_ProductBacklog2.png" alt="Trello Product Backlog 2 - GeoPS" width="750">
+  <figcaption><strong>Figura:</strong> Trello Product Backlog 2 del proyecto GeoPS.</figcaption>
+</figure>
+
+Link del trello: https://trello.com/b/CZ3eGcx8/product-backlog-geops
+
+###  Sprint Backlog 2 – User Stories and Tasks
+
+| **User Story** | **Work Item/Task** | **ID** | **Title** | **Description** | **Estimation (Hours)** | **Assigned To** | **Status** |
+|----------------|--------------------|---------|------------|------------------|-------------------------|-----------------|------------|
+| **US01** Registro de usuario en la plataforma | Maquetar formulario de registro | T1 | Crear layout visual y campos requeridos del formulario de registro | 2 | Sofía Cotrina | Done |
+|  | Validaciones y reactividad | T2 | Añadir validaciones (email, password) y mostrar feedback en tiempo real | 1 | Álvaro Salazar | Done |
+|  | Conectar con FakeApi | T3 | Integrar endpoint de registro de usuario | 1 | Sofía Cotrina | Done |
+|  | Pruebas de registro | T4 | Validar registro en escenarios correctos e incorrectos | 1 | Sofía Cotrina | Done |
+| **US02** Inicio de sesión de usuario | Componente de login | T1 | Maquetar e implementar campos de usuario y contraseña | 1 | Sofía Cotrina | Done |
+|  | Validaciones y feedback | T2 | Añadir validación de datos y mostrar errores | 1 | Álvaro Salazar | Done |
+|  | Autenticación con backend | T3 | Conectar API de login y gestionar tokens | 1 | Álvaro Salazar | Done |
+|  | Pruebas de flujo de login | T4 | Testear login válido/incorrecto, mensajes de error | 1 | Sofía Cotrina | Done |
+| **US06** Búsqueda de ofertas por ubicación | Filtro de ubicación | T1 | Implementar campo o uso de mapa para captar ubicación del usuario | 1 | Dyron Huapaya | Done |
+|  | Consulta de ofertas cercanas | T1 | Conectar con backend para traer ofertas filtradas por ubicación | 1 | Abigail Goñe | Done |
+|  | Mostrar resultados de búsqueda | T2 | Renderizar ofertas recibidas de forma clara y responsiva | 1 | Abigail Goñe | Done |
+|  | Pruebas de funcionalidad | T3 | Validar búsquedas y resultados en distintos escenarios | 1 | Abigail Goñe | Done |
+| **US08** Visualización de detalles de oferta | Diseño de componente de detalles | T1 | Crear layout para mostrar detalles (descripción, vigencia, tienda, etc.) | 1 | Abigail Goñe | Done |
+|  | Integrar datos dinámicos | T2 | Conectar oferta seleccionada a la vista de detalle | 1 | Abigail Goñe | Done |
+|  | Agregar call-to-action | T3 | Implementar botones de compartir/guardar/oferta | 1 | Abigail Goñe | Done |
+|  | Pruebas de detalle de oferta | T4 | Validar visualización correcta y enlaces funcionales | 1 | Álvaro Salazar | Done |
+| **US07** Búsqueda de ofertas por categoría | Menú/filtro por categoría | T1 | Implementar dropdown/botones para filtrar por categoría | 1 | Abigail Goñe | Done |
+|  | Consulta de backend | T2 | Traer y renderizar ofertas de la categoría seleccionada | 1 | Abigail Goñe | Done |
+|  | Mostrar resultados en UI | T3 | Visualizar resultados ordenados y con paginación si aplica | 1 | Abigail Goñe | Done |
+|  | Pruebas de filtro | T4 | Testear diferentes búsquedas por categorías | 1 | Álvaro Salazar | Done |
+| **US10** Guardar ofertas | Botón guardar | T1 | Agregar botón para guardar/quitar ofertas | 1 | Abigail Goñe | Done |
+|  | Persistir favoritos | T2 | Guardar ofertas seleccionadas en base de datos/localStorage | 1 | Abigail Goñe | Done |
+|  | Visualizar ofertas guardadas | T3 | Listar y acceder a las ofertas guardadas | 1 | Dyron Huapaya | Done |
+|  | Pruebas de guardado | T4 | Validar que el guardado persistente funcione correctamente | 1 | Dyron Huapaya | Done |
+| **US32** Suscripción a plan Premium (Cliente) | Formularios de suscripción | T1 | Crear layouts para plan Premium y pago | 1 | Dyron Huapaya | Done |
+|  | Métodos de pago | T2 | Integrar métodos de pago (Stripe, PayPal, simulado) | 1 | Dyron Huapaya | Done |
+|  | Confirmación y validación | T3 | Mostrar confirmación de pago/suscripción exitosa o fallida | 1 | Dyron Huapaya | Done |
+|  | Pruebas del flujo | T4 | Verificar pagos y accesos habilitados tras suscripción | 1 | Dyron Huapaya | Done |
+| **US35** Gestión de suscripción | Interfaz de gestión | T1 | Crear formulario/interfaz de cambiar, renovar, cancelar suscripción | 1 | Gilbert Huarcaya | Done |
+|  | Funcionalidad FakeApi | T2 | Integrar endpoints para alterar estado de suscripción | 1 | Gilbert Huarcaya | Done |
+|  | Mensajes y validación | T3 | Mostrar mensajes claros de éxito/error tras operación | 1 | Gilbert Huarcaya | Done |
+|  | Pruebas de cambios | T4 | Validar todos los caminos: renovar, cancelar, cambiar plan | 1 | Gilbert Huarcaya | Done |
+
+
+#### 5.2.2.4. Development Evidence for Sprint Review.
+
+### 🧾 Sprint Backlog 2 – Commits Overview
+
+<h3>Registro de Commits del Sprint 2 (GeoPS Frontend)</h3>
+
+<table border="1" cellspacing="0" cellpadding="6" style="width:100%; border-collapse: collapse; text-align: left;">
+  <thead style="background-color:#f2f2f2;">
+    <tr>
+      <th><b>Repository</b></th>
+      <th><b>Branch</b></th>
+      <th><b>Commit Message</b></th>
+      <th><b>Commit ID</b></th>
+      <th><b>Date</b></th>
+    </tr>
+  </thead>
+  <tbody>
+
+  <tr>
+      <td rowspan="9"><b>GilbertHuarcaya/OpenSourceDevUPC/geo-ps-frontend</b></td>
+      <td><code>feature/Subscriptions</code></td>
+      <td>feat(subscriptions): add subscription plans modal and welcome banner components, including styles and translations</td>
+      <td><code>cc61637b4f868b18577f090e2257af7f098987d74</code></td>
+      <td>10/10/25</td>
+    </tr>
+    <tr><td><code>feature/Subscriptions</code></td><td>Merge remote-tracking branch 'origin/develop' into feature/Subscriptions</td><td><code>eaf263c8efa1c71a67ba07ed85006a4abd7533edc</code></td><td>10/10/25</td></tr>
+    <tr><td><code>feature/Subscriptions</code></td><td>feat: update user subscription plans and enhance user management</td><td><code>59f3e8f5a9832387b79a9eacea8a2f6fb900ef90e</code></td><td>10/10/25</td></tr>
+    <tr><td><code>feature/cart</code></td><td>feat(cart): implement cart functionality with API integration; add, update, remove, and clear actions; enhance UI with cart sidebar and responsive design</td><td><code>4684fe9c2953e76c3fe14a0421e497fea140782a</code></td><td>10/10/25</td></tr>
+    <tr><td><code>feature/cart</code></td><td>feat(cart): integrate cart UI service and update cart functionality; add cart badge and open cart sidebar on item addition</td><td><code>e95061900fe56a280c56538ec6d2d9d45ca7960b</code></td><td>10/10/25</td></tr>
+    <tr><td><code>feature/cart</code></td><td>feat(cart): enhance payment flow management and reset logic on cart updates</td><td><code>0939e859ad588afa53551e933f2511b7f7d6b2c7</code></td><td>10/10/25</td></tr>
+    <tr><td><code>feature/payment</code></td><td>feat(payment): implement checkout form and payment confirmation components</td><td><code>547361e6ec5b91573add23b9bc3704a2495afa0f</code></td><td>10/10/25</td></tr>
+    <tr><td><code>feature/Subscriptions</code></td><td>Merge remote-tracking branch 'origin/develop' into feature/Subscriptions</td><td><code>ada3fea3c9c787ef06f49be3600a3022dc38600d</code></td><td>10/10/25</td></tr>
+    <tr><td><code>various</code></td><td>feat: remove outdated mockup images and update user-related functionalities in various components</td><td><code>fcc065d9dcad53675636c83943ee869615adc8b2</code></td><td>10/10/25</td></tr>
+    <tr>
+      <td rowspan="3"><b>MaineMa/OpenSourceDevUPC/geo-ps-frontend</b></td>
+      <td><code>feature/home</code></td><td>feat: implement home HTML page</td><td><code>dadd5f35b7b7abb2e5a15aca54ac3e5152e3b260</code></td><td>10/10/25</td>
+    </tr>
+    <tr><td><code>feature/home</code></td><td>Merge remote-tracking branch 'origin/develop' into feature/home</td><td><code>c7a706120b60b3b228512eb462ee3c7cb5c156b8</code></td><td>10/10/25</td></tr>
+    <tr><td><code>feature/home</code></td><td>feat: implement home HTML page</td><td><code>e209dcd9445571d7f19a2f61a7670e019b72ca9</code></td><td>10/10/25</td></tr>
+    <tr>
+      <td rowspan="3"><b>abigoe02/OpenSourceDevUPC/geo-ps-frontend</b></td>
+      <td><code>feature/cards</code></td><td>feat(cards): integrate ver-oferta component with updated endpoints and UI components</td><td><code>a2099f5f39380e3366be916949027130cea511b</code></td><td>10/10/25</td>
+    </tr>
+    <tr><td><code>feature/cards</code></td><td>feat(cards): update favoritos, ofertas and ver-oferta components; refresh i18n (en/es)</td><td><code>708e0ada05539cdcaec02fa7f730d819414364be</code></td><td>10/10/25</td></tr>
+    <tr><td><code>feature/cards</code></td><td>feat(cards): update favoritos.component.html and home components</td><td><code>fb87d6b4a087b217526808fd31564d6962a51dd2</code></td><td>10/10/25</td></tr>
+    <tr>
+      <td rowspan="6"><b>IDymian/OpenSourceDevUPC/geo-ps-frontend</b></td>
+      <td><code>feature/toolbar-help</code></td><td>feat(help-center): add Help Center component and navigation</td><td><code>9d5112df3eb415a7dbba20e270bf28fc63ba2feb2</code></td><td>10/10/25</td>
+    </tr>
+    <tr><td><code>feature/toolbar-help</code></td><td>feat: integrate changes from develop into feature/toolbar-help</td><td><code>7ad7d9e6853e5c3d577ace27344e0a66ab255fe1</code></td><td>10/10/25</td></tr>
+    <tr><td><code>feature/toolbar-help</code></td><td>docs(help): add JSDoc documentation to all help module files</td><td><code>f10b55c48b4d4477421c72e890318d661d9fa070</code></td><td>10/10/25</td></tr>
+    <tr><td><code>feature/categories</code></td><td>feat(categories): display category text correctly on button</td><td><code>9e11520e8c97149d6952100fba95528b01dc8bc</code></td><td>10/10/25</td></tr>
+    <tr><td><code>feature/categories</code></td><td>Merge branch 'develop' into feature/categories</td><td><code>4a0a03dc1ae4fee68732d6af6b6824d7387229f9</code></td><td>10/10/25</td></tr>
+    <tr><td><code>feature/categories</code></td><td>feat(categories): add i18n support to categories navbar</td><td><code>f5a55598444e001a4984f80c9a98af259567b8dc</code></td><td>10/10/25</td></tr>
+    <tr>
+      <td rowspan="6"><b>IamAndreek/OpenSourceDevUPC/geo-ps-frontend</b></td>
+      <td><code>feature/Identity-Access</code></td><td>feat(identity-access): restructure project and update auth, login, favorites, and offers modules</td><td><code>67cbfab3a2ce5ce87292a24a3ca82b2d1abc60731</code></td><td>10/10/25</td>
+    </tr>
+    <tr><td><code>feature/Identity-Access</code></td><td>feat(identity-access): update auth, login, profile, and settings; add i18n</td><td><code>104540d6f051d511144c9e0890f36d151f3b80f5</code></td><td>10/10/25</td></tr>
+    <tr><td><code>feature/Identity-Access</code></td><td>feat(identity-access): update i18n</td><td><code>1ef88b6ac2521588851260a48d3a843523a305dd</code></td><td>10/10/25</td></tr>
+    <tr><td><code>feature/Identity-Access</code></td><td>feat(identity-access): reorganize project structure</td><td><code>b27124daa860e3d572c09d1d91dbaea63a337c15f</code></td><td>10/10/25</td></tr>
+    <tr><td><code>feature/Identity-Access</code></td><td>feat(identity-access): add JSON documentation</td><td><code>abd6f9b192a93501f1cefebb6e8270db8ebdacbe50</code></td><td>10/10/25</td></tr>
+    <tr><td><code>feature/Identity-Access</code></td><td>feat(identity-access): fixed update password</td><td><code>26a65fc16d2af8ca0b3765c94d77100d38c49c00</code></td><td>10/10/25</td></tr>
+
+  </tbody>
+</table>
+
+
+### 5.2.2.5. Execution Evidence for Sprint Review
+
+Durante este sprint, se desarrolló exclusivamente el **frontend de GeoPS**, estableciendo los componentes y flujos principales para la **navegación** y la **gestión de la experiencia del usuario**.
+
+####  Módulos Implementados
+
+- **Home:** Pantalla de bienvenida con acceso directo a las secciones principales, diseño responsivo y preparación para futuras integraciones.  
+- **Offers:** Visualización de ofertas relevantes, con filtrado y presentación dinámica de tarjetas.  
+- **Favourites:** Funcionalidad para marcar y consultar elementos favoritos, almacenando las selecciones localmente.  
+- **Suscripciones y pagos:** Flujo de suscripción y simulación de pagos, con formularios y estados claros de confirmación o error.  
+- **Personalización de usuario:** Interfaz para editar datos básicos, preferencias y visualización de avatar, asegurando reactividad.
+
+Este avance representa el **primer paso visual y funcional de GeoPS**, estableciendo la base para incorporar **autenticación**, **lógica de backend** y **gestión avanzada de datos** en los siguientes sprints.
+
+---
+
+####  Evidencias Visuales
+
+**Figura:** Capturas del desarrollo del Frontend en Sprint 2  
+*(Trello, interfaz de usuario y componentes implementados)*  
+
+<figure style="text-align: center;">
+  <img src="resources/images/Trello_ProductBacklog2.png" alt="Trello Product Backlog 2 - GeoPS" width="750">
+  <figcaption><strong>Figura:</strong> Trello Product Backlog 2 del proyecto GeoPS.</figcaption>
+</figure>
+
+
+---
+
+####  Demostración en Video y URL de la Web
+
+- **Video:**  
+- **Sitio web:** 
+
+---
+
+*Este sprint consolida la experiencia inicial del usuario final, asegurando una base sólida para la integración futura del backend, autenticación y servicios en tiempo real.*
+### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+A continuación, se presentan los **endpoints desarrollados e implementados durante el Sprint 2** de GeoPS, los cuales establecen la comunicación entre el frontend y los servicios simulados del sistema.
+
+| **Endpoint** | **Path** | **Descripción** |
+|---------------|-----------|------------------|
+| **Users Endpoint** | `/users` | Registro, login y perfil del usuario autenticado. |
+| **Offers Endpoint** | `/offers` | Listado de ofertas por ubicación, categoría y filtros de búsqueda. |
+| **Favorites Endpoint** | `/favorites` | Marcar y consultar las ofertas favoritas del usuario. |
+| **Coupons Endpoint** | `/coupons` | Mostrar el código y título de la oferta comprada; sincronización de cupones de compra. |
+| **Reviews Endpoint** | `/reviews` | Opiniones y comentarios que publica el usuario sobre ofertas o partners. |
+| **Subscriptions Endpoint** | `/subscriptions` | Gestión de suscripción: cancelar o bajar de plan. |
+| **Cart Endpoint** | `/cart` | Agregar o quitar ítems del carrito. |
+| **Payments Endpoint** | `/payments` | Confirmación de pago y consulta de estado. |
+
+---
+
+ **Nota técnica:**  
+Estos endpoints fueron utilizados para la simulación del flujo de datos dentro del entorno **frontend-only** durante el Sprint 2, permitiendo validar la navegación y consistencia visual sin conexión real al backend.
+
+---
+
+ **Próximos pasos:**  
+En sprints posteriores, estos endpoints serán vinculados al **API real** de GeoPS con persistencia de datos, autenticación JWT y gestión de estados compartidos (NgRx).
+
+###5.2.2.7. Software Deployment Evidence for Sprint Review.
+
+- Enlace del proyecto deploy: https://geops-frontend.vercel.app/login
+
+- Enlace del json server: https://json-server-1-p24l.onrender.com/
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
@@ -2991,15 +3259,123 @@ En este apartado se documenta el proceso de despliegue de la base de datos JSON 
 **3) Notas finales sobre integración y pruebas**
 
 **URLs de los Servicios Desplegados:**
-- **JSON Server API:** https://geops-frontend.vercel.app/login
-- **Frontend Angular:** https://json-server-1-p24l.onrender.com
+- **JSON Server API:**: https://json-server-1-p24l.onrender.com
+- **Frontend Angular:**: https://geops-frontend.vercel.app/login 
 
+### 5.2.2.8. Team Collaboration Insights during Sprint
+
+Durante el **Sprint 2**, el equipo mantuvo una colaboración constante y organizada a través del repositorio de **GitHub**, consolidando las prácticas de control de versiones implementadas desde el primer sprint.
+
+Se evidenció una mejora notable en la **frecuencia de commits**, el **uso de ramas específicas por funcionalidad** y la aplicación de **mensajes convencionales (Conventional Commits)**, lo que permitió garantizar la **trazabilidad y consistencia** de los cambios realizados.
+
+---
+
+####  Métricas Detalladas del Repositorio de Desarrollo (`geops-frontend`)
+
+| **Métrica** | **Valor / Descripción** |
+|--------------|--------------------------|
+| **Total de commits** | 32 commits en todas las ramas |
+| **Commits en branch `develop`** | 29 commits |
+| **Número de autores** | 5 desarrolladores activos |
+| **Archivos modificados** | 143 archivos cambiados en `develop` |
+| **Líneas agregadas** | 13,538 líneas nuevas |
+| **Líneas eliminadas** | 136 líneas eliminadas |
+| **Pull Requests fusionados** | 7 pull requests integrados exitosamente |
+| **Pull Requests activos** | 7 pull requests en progreso al cierre del sprint |
+| **Issues activos** | 0 issues abiertos |
+| **Principales contribuidores** | Todos los miembros del equipo participaron en commits y revisiones |
+| **Ramas destacadas** | `feature/identity-access`, `feature/cards`, `feature/home`, `feature/subscriptions`, `feature/toolbar-help` |
+
+---
+
+####  Observaciones de Colaboración
+
+- El equipo mantuvo una comunicación fluida a través de **GitHub Projects** y **Pull Requests**, garantizando revisiones continuas de código.  
+- Se establecieron convenciones claras para el **uso de ramas**, basadas en la nomenclatura `feature/`, `fix/` y `docs/`.  
+- Cada commit fue registrado utilizando la **convención de Conventional Commits**, facilitando el análisis automatizado del historial.  
+- La integración de código en el branch principal `develop` se realizó mediante **pull requests revisados en conjunto**, fomentando buenas prácticas de revisión por pares.  
+- Se consolidó una base sólida para la **automatización de despliegues futuros (CI/CD)** en próximas iteraciones.
+
+---
+
+ *En este sprint, el equipo demostró madurez técnica y coordinación efectiva en el uso de herramientas de control de versiones, sentando las bases para una colaboración aún más eficiente en las siguientes fases del desarrollo.*
+
+<figure style="text-align: center;">
+  <img src="resources/images/team_collaboration1.png" alt="Team Collaboration Evidence - Part 1" width="700">
+  <figcaption><strong>Figura 1:</strong> Actividad y colaboración del equipo durante el Sprint 2 (Parte 1).</figcaption>
+</figure>
+
+<figure style="text-align: center;">
+  <img src="resources/images/team_collaboration2.png" alt="Team Collaboration Evidence - Part 2" width="700">
+  <figcaption><strong>Figura 2:</strong> Contribuciones y flujo de commits en ramas del Sprint 2 (Parte 2).</figcaption>
+</figure>
+
+ 
+ ####  Análisis de Contribuciones por Desarrollador
+
+**Distribución Equilibrada:**  
+Se observó una participación activa y constante de los desarrolladores en las distintas ramas del proyecto, con commits distribuidos equitativamente entre las funcionalidades desarrolladas.
+
+**Frecuencia de Commits:**  
+La actividad fue continua a lo largo del sprint, reflejando avances progresivos en el desarrollo del frontend, integración de endpoints y componentes dinámicos.
+
+**Colaboración Efectiva:**  
+Los cambios fueron integrados mediante *pull requests* revisados en equipo, fortaleciendo la comunicación, la calidad del código y la trazabilidad del proyecto.
+
+---
+
+###  Análisis de Patrones de Colaboración
+
+#### 1. Metodología de Trabajo
+
+- **Branching Strategy:** Uso eficiente de ramas `feature/` para el desarrollo paralelo de módulos independientes.  
+- **Code Integration:** Integración controlada hacia la rama `develop`, que actúa como entorno de consolidación.  
+- **Documentation Sync:** Sincronización constante entre código y reportes del sprint, asegurando trazabilidad documental.  
+- **Quality Control:** Revisión de código previa a cada *merge* para garantizar la estabilidad y coherencia del sistema.
+
+#### 2. Herramientas de Comunicación Utilizadas
+
+- **Discord:** Comunicación diaria y coordinación técnica del equipo.  
+- **GitHub:** Gestión de ramas, *issues*, commits y *pull requests*.  
+- **Trello:** Seguimiento de tareas y control del avance de cada módulo del sprint.  
+- **Google Meet:** Reuniones de planificación, revisión de sprint y retrospectiva de resultados.
+
+#### 3. Distribución Temporal de Trabajo
+
+- **Picos de Actividad:** Mayor número de commits durante la segunda mitad del sprint, coincidiendo con la integración de endpoints.  
+- **Colaboración Paralela:** Trabajo simultáneo en varias ramas activas (`cards`, `coupons`, `home`, `toolbar-help`).  
+- **Consistencia:** Actividad sostenida en `develop` con commits diarios.  
+- **Finalización Coordinada:** Consolidación y *merge* general antes del cierre del sprint, asegurando estabilidad funcional.
+
+---
+
+###  Insights Principales del Sprint 2
+
+#### Fortalezas Identificadas
+
+- Integración exitosa del frontend con los endpoints principales del sistema.  
+- Flujo de trabajo colaborativo mediante *pull requests* y revisión de código entre pares.  
+- Organización sólida del repositorio con ramas activas bien delimitadas.  
+- Madurez técnica y comunicación efectiva entre los integrantes del equipo.
+
+#### Áreas de Mejora para Próximos Sprints
+
+- Consolidar **pruebas automatizadas** para validar los endpoints y flujos principales.  
+- Optimizar la **gestión de merges y revisiones de código** para reducir tiempos de integración.  
+- Incrementar la **documentación técnica y de arquitectura** de cada módulo desarrollado.
+
+---
+
+###  Conclusión de Colaboración
+
+El **Sprint 2** evidenció una evolución clara en la coordinación del equipo y en la integración técnica del sistema **GeoPS**.  
+El uso disciplinado de ramas, la constancia en los commits y la comunicación efectiva reflejan un **equipo consolidado y comprometido**, preparado para avanzar hacia las etapas de refinamiento, pruebas automatizadas y despliegue del producto.
 
 ## Conclusiones
 
 El desarrollo del Sprint 1 del proyecto GeoPS ha representado un hito fundamental en la materialización de nuestra visión de conectar PyMEs con consumidores a través de una plataforma digital innovadora. A lo largo de este primer sprint, nuestro equipo de cinco integrantes ha demostrado una capacidad excepcional de colaboración, complementando habilidades técnicas diversas para crear una landing page funcional y atractiva que sirve como carta de presentación de nuestra propuesta de valor.
 
-La implementación exitosa de la landing page, desplegada en GitHub Pages, evidencia no solo nuestras competencias técnicas en HTML5, CSS3 y JavaScript, sino también nuestra capacidad para gestionar proyectos de manera eficiente utilizando metodologías ágiles y herramientas colaborativas como GitHub, Trello y Discord. La distribución equitativa de responsabilidades entre los miembros del equipo, desde la planificación estratégica hasta la implementación técnica y el diseño de experiencia de usuario, ha permitido alcanzar los objetivos establecidos dentro de los plazos programados.
+La implementación exitosa de la landing page, desplegada en GitHub Pages, evidencia no solo nuestras competencias técnicas en HTML5, CSS3 y TypeScript, sino también nuestra capacidad para gestionar proyectos de manera eficiente utilizando metodologías ágiles y herramientas colaborativas como GitHub, Trello y Discord. La distribución equitativa de responsabilidades entre los miembros del equipo, desde la planificación estratégica hasta la implementación técnica y el diseño de experiencia de usuario, ha permitido alcanzar los objetivos establecidos dentro de los plazos programados.
 
 El enfoque en una landing page informativa, centrada en comunicar claramente los beneficios de GeoPS para ambos segmentos de usuarios (consumidores y PyMEs), ha sentado las bases sólidas para los siguientes sprints donde se desarrollará la funcionalidad completa de la plataforma. La decisión de priorizar la experiencia de usuario y la comunicación efectiva sobre la funcionalidad técnica avanzada en esta primera iteración ha demostrado ser acertada, permitiendo validar conceptos fundamentales antes de invertir en desarrollos más complejos.
 
@@ -3023,6 +3399,10 @@ World Bank. (2019). *World Development Report 2019: The Changing Nature of Work*
 
 ## Anexos
 
+- Enlace del proyecto deploy: https://geops-frontend.vercel.app/login
+
+- Enlace del json server: https://json-server-1-p24l.onrender.com/
+
 - Enlace del figma de GeoPs: https://www.figma.com/design/mHHx8WStPBr63tLYj42pBX/GeoPs?t=GXTYAnTYkIFHdSN8-0
 
 - Video Web Applications Prototyping: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318049_upc_edu_pe/EfpJo35cywBHo2-BEP8S_sEBMuPuIKJ2VCSzvJL7gHK41w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=j3nWJH
@@ -3032,3 +3412,4 @@ World Bank. (2019). *World Development Report 2019: The Changing Nature of Work*
 - Video Exposición: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318049_upc_edu_pe/ERgA61ycmStInmwxbUbMi8YBmcogeigzUW_kb0pwMezHyA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ueo7hW
 
 
+- Link de presentacion FrontEnd https://upcedupe-my.sharepoint.com/:v:/g/personal/u202322855_upc_edu_pe/EWv8Ir2d59hBhJEHqI3s5IwBf2ReMIFw1sbiyrvktZKYqQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Q5oO9D

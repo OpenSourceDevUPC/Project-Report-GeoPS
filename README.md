@@ -2424,6 +2424,10 @@ Esta configuración nos permite mantener nuestra Landing Page actualizada de man
 
 En esta sección, documentaremos y explicaremos el progreso del Sprint 1 en términos de desarrollo de la plataforma GeoPS y colaboración del equipo. Abordaremos varios aspectos clave, incluyendo la planificación del sprint centrada en funcionalidades de geolocalización y publicidad hiperlocalizada.
 
+#### 5.2. Landing Page, Services & Applications Implementation
+
+#### 5.2.1. Sprint 1
+
 #### 5.2.1.1. Sprint Planning 1
 
 En esta sección, nos sumergiremos en los detalles del Sprint Planning Meeting 1 para el desarrollo de GeoPS.
@@ -2893,6 +2897,37 @@ Durante el Sprint 1, el equipo demostró una colaboración excepcional utilizand
 
 **Conclusión de Colaboración:**
 El Sprint 1 ha demostrado que el equipo posee una sólida capacidad de colaboración técnica, con una distribución efectiva del trabajo y una comunicación fluida. Las métricas de GitHub reflejan un proceso de desarrollo organizado y profesional, estableciendo bases sólidas para los sprints futuros del proyecto GeoPS.
+
+#### 5.2.2. Sprint 2
+
+#### 5.2.2.1. Sprint Planning 2
+
+En esta sección, nos sumergiremos en los detalles del Sprint Planning 2 para el desarrollo de GeoPS.
+
+| **Campo** | **Detalle** |
+|------------|-------------|
+| **Sprint #** | Sprint 2 |
+| **Sprint Planning Background** | Reunión de planificación para definir los objetivos, alcance y distribución de tareas del Sprint 2. |
+| **Date** | 2025-10-03 |
+| **Time** | 16:00 |
+| **Location** | Server Open Source |
+| **Prepared By** | Huarcaya Matias, Gilbert Alonso |
+| **Attendees (to planning meeting)** | Huapaya Galindo, Dyron / Cotrina Siclla, Sofia Alessandra / Huarcaya Matias, Gilbert Alonso / Goñe Araccata, Esther Abigail / Salazar Caballero, Alvaro Fabrizzio |
+| **Sprint 1 Goal** | Implementar la integración de la interfaz con los endpoints principales de GeoPS (ofertas, favoritos, cupones, carrito, pagos, suscripciones), habilitando la interacción real del usuario. |
+| **Sprint Velocity** | 20 Story Points |
+| **Sum of Story Points** | 23 Story Points |
+
+#### 5.2.2.2. Aspect Leaders and Collaborators
+
+En esta sección se incluye la elaboración del artefacto Leadership and Collaboration Matrix (LACX), el cual define quién es el líder y quiénes son los colaboradores para este Sprint 1 del proyecto GeoPS.
+
+| **Team Member (Last Name, First Name)** | **GitHub Username** | **Geo-PS Frontend Leader (L) / Collaborator (C)** |
+|-----------------------------------------|---------------------|----------------------------------------------------|
+| **Huarcaya Matias, Gilbert Alonso** | GilbertHuarcaya | L / C / L |
+| **Huapaya Galindo, Dyron** | Mainema | C / C / C |
+| **Cotrina Siclla, Sofia Alessandra** | IamAndreek | C / C / C |
+| **Goñe Araccata, Esther Abigail** | abigoe02 | C / L / C |
+| **Salazar Caballero, Alvaro Fabrizzio** | IDymian | C / C / C |
 
 ## Conclusiones
 

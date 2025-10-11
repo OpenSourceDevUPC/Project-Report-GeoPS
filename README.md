@@ -2929,6 +2929,265 @@ En esta sección se incluye la elaboración del artefacto Leadership and Collabo
 | **Goñe Araccata, Esther Abigail** | abigoe02 | C / L / C |
 | **Salazar Caballero, Alvaro Fabrizzio** | IDymian | C / C / C |
 
+#### 5.2.2.3. Sprint Backlog 2.
+Elaboramos el sprint backlog 2 en trello, como se puede apreciar en la siguiente imagen:
+Figura
+Sprint 2 de Geops
+
+<figure style="text-align: center;">
+  <img src="Trello_ProductBacklog2.png" alt="Trello Product Backlog 2 - GeoPS" width="750">
+  <figcaption><strong>Figura:</strong> Trello Product Backlog 2 del proyecto GeoPS.</figcaption>
+</figure>
+
+Link del trello: https://trello.com/b/CZ3eGcx8/product-backlog-geops
+
+###  Sprint Backlog 2 – User Stories and Tasks
+
+| **User Story** | **Work Item/Task** | **ID** | **Title** | **Description** | **Estimation (Hours)** | **Assigned To** | **Status** |
+|----------------|--------------------|---------|------------|------------------|-------------------------|-----------------|------------|
+| **US01** Registro de usuario en la plataforma | Maquetar formulario de registro | T1 | Crear layout visual y campos requeridos del formulario de registro | 2 | Sofía Cotrina | Done |
+|  | Validaciones y reactividad | T2 | Añadir validaciones (email, password) y mostrar feedback en tiempo real | 1 | Álvaro Salazar | Done |
+|  | Conectar con FakeApi | T3 | Integrar endpoint de registro de usuario | 1 | Sofía Cotrina | Done |
+|  | Pruebas de registro | T4 | Validar registro en escenarios correctos e incorrectos | 1 | Sofía Cotrina | Done |
+| **US02** Inicio de sesión de usuario | Componente de login | T1 | Maquetar e implementar campos de usuario y contraseña | 1 | Sofía Cotrina | Done |
+|  | Validaciones y feedback | T2 | Añadir validación de datos y mostrar errores | 1 | Álvaro Salazar | Done |
+|  | Autenticación con backend | T3 | Conectar API de login y gestionar tokens | 1 | Álvaro Salazar | Done |
+|  | Pruebas de flujo de login | T4 | Testear login válido/incorrecto, mensajes de error | 1 | Sofía Cotrina | Done |
+| **US06** Búsqueda de ofertas por ubicación | Filtro de ubicación | T1 | Implementar campo o uso de mapa para captar ubicación del usuario | 1 | Dyron Huapaya | Done |
+|  | Consulta de ofertas cercanas | T1 | Conectar con backend para traer ofertas filtradas por ubicación | 1 | Abigail Goñe | Done |
+|  | Mostrar resultados de búsqueda | T2 | Renderizar ofertas recibidas de forma clara y responsiva | 1 | Abigail Goñe | Done |
+|  | Pruebas de funcionalidad | T3 | Validar búsquedas y resultados en distintos escenarios | 1 | Abigail Goñe | Done |
+| **US08** Visualización de detalles de oferta | Diseño de componente de detalles | T1 | Crear layout para mostrar detalles (descripción, vigencia, tienda, etc.) | 1 | Abigail Goñe | Done |
+|  | Integrar datos dinámicos | T2 | Conectar oferta seleccionada a la vista de detalle | 1 | Abigail Goñe | Done |
+|  | Agregar call-to-action | T3 | Implementar botones de compartir/guardar/oferta | 1 | Abigail Goñe | Done |
+|  | Pruebas de detalle de oferta | T4 | Validar visualización correcta y enlaces funcionales | 1 | Álvaro Salazar | Done |
+| **US07** Búsqueda de ofertas por categoría | Menú/filtro por categoría | T1 | Implementar dropdown/botones para filtrar por categoría | 1 | Abigail Goñe | Done |
+|  | Consulta de backend | T2 | Traer y renderizar ofertas de la categoría seleccionada | 1 | Abigail Goñe | Done |
+|  | Mostrar resultados en UI | T3 | Visualizar resultados ordenados y con paginación si aplica | 1 | Abigail Goñe | Done |
+|  | Pruebas de filtro | T4 | Testear diferentes búsquedas por categorías | 1 | Álvaro Salazar | Done |
+| **US10** Guardar ofertas | Botón guardar | T1 | Agregar botón para guardar/quitar ofertas | 1 | Abigail Goñe | Done |
+|  | Persistir favoritos | T2 | Guardar ofertas seleccionadas en base de datos/localStorage | 1 | Abigail Goñe | Done |
+|  | Visualizar ofertas guardadas | T3 | Listar y acceder a las ofertas guardadas | 1 | Dyron Huapaya | Done |
+|  | Pruebas de guardado | T4 | Validar que el guardado persistente funcione correctamente | 1 | Dyron Huapaya | Done |
+| **US32** Suscripción a plan Premium (Cliente) | Formularios de suscripción | T1 | Crear layouts para plan Premium y pago | 1 | Dyron Huapaya | Done |
+|  | Métodos de pago | T2 | Integrar métodos de pago (Stripe, PayPal, simulado) | 1 | Dyron Huapaya | Done |
+|  | Confirmación y validación | T3 | Mostrar confirmación de pago/suscripción exitosa o fallida | 1 | Dyron Huapaya | Done |
+|  | Pruebas del flujo | T4 | Verificar pagos y accesos habilitados tras suscripción | 1 | Dyron Huapaya | Done |
+| **US35** Gestión de suscripción | Interfaz de gestión | T1 | Crear formulario/interfaz de cambiar, renovar, cancelar suscripción | 1 | Gilbert Huarcaya | Done |
+|  | Funcionalidad FakeApi | T2 | Integrar endpoints para alterar estado de suscripción | 1 | Gilbert Huarcaya | Done |
+|  | Mensajes y validación | T3 | Mostrar mensajes claros de éxito/error tras operación | 1 | Gilbert Huarcaya | Done |
+|  | Pruebas de cambios | T4 | Validar todos los caminos: renovar, cancelar, cambiar plan | 1 | Gilbert Huarcaya | Done |
+
+
+#### 5.2.2.4. Development Evidence for Sprint Review.
+
+### 🧾 Sprint Backlog 2 – Commits Overview
+
+| **Repository** | **Branch** | **Commit** | **Commit ID** | **Date** |
+|----------------|------------|-------------|----------------|-----------|
+| **GilbertHuarcaya/OpenSourceDevUPC/geo-ps-frontend** | `feature/Subscriptions` | feat(subscriptions): add subscription plans modal and welcome banner components, including styles and translations | cc61637b4f868b18577f090e2257af7f098987d74 | 10/10/25 |
+|  | `feature/Subscriptions` | Merge remote-tracking branch 'origin/develop' into feature/Subscriptions | eaf263c8efa1c71a67ba07ed85006a4abd7533edc | 10/10/25 |
+|  | `feature/Subscriptions` | feat: update user subscription plans and enhance user management | 59f3e8f5a9832387b79a9eacea8a2f6fb900ef90e | 10/10/25 |
+|  | `feature/cart` | feat(cart): implement cart functionality with API integration; add, update, remove, and clear actions; enhance UI with cart sidebar and responsive design | 4684fe9c2953e76c3fe14a0421e497fea140782a | 10/10/25 |
+|  | `feature/cart` | feat(cart): integrate cart UI service and update cart functionality; add cart badge and open cart sidebar on item addition | e95061900fe56a280c56538ec6d2d9d45ca7960b | 10/10/25 |
+|  | `feature/cart` | feat(cart): enhance payment flow management and reset logic on cart updates | 0939e859ad588afa53551e933f2511b7f7d6b2c7 | 10/10/25 |
+|  | `feature/payment` | feat(payment): implement checkout form and payment confirmation components | 547361e6ec5b91573add23b9bc3704a2495afa0f | 10/10/25 |
+|  | `feature/Subscriptions` | Merge remote-tracking branch 'origin/develop' into feature/Subscriptions | ada3fea3c9c787ef06f49be3600a3022dc38600d | 10/10/25 |
+|  | Various | feat: remove outdated mockup images and update user-related functionalities in various components | fcc065d9dcad53675636c83943ee869615adc8b2 | 10/10/25 |
+
+| **MaineMa/OpenSourceDevUPC/geo-ps-frontend** | `feature/home` | feat: Implements home HTML page | dadd5f35b7b7abb2e5a15aca54ac3e5152e3b260 | 10/10/25 |
+|  | `feature/home` | Merge remote-tracking branch 'origin/develop' into feature/home | c7a706120b60b3b228512eb462ee3c7cb5c156b8 | 10/10/25 |
+|  | `feature/home` | feat: Implements home HTML page | e209dcd9445571d7f19a2f61a7670e019b72ca9 | 10/10/25 |
+
+| **abigoe02/OpenSourceDevUPC/geo-ps-frontend** | `feature/cards` | feat(cards): integrate ver-oferta component with updated endpoints and UI components | a2099f5f39380e3366be916949027130cea511b | 10/10/25 |
+|  | `feature/cards` | feat(cards): update favoritos, ofertas and ver-oferta components; refresh i18n (en/es) | 708e0ada05539cdcaec02fa7f730d819414364be | 10/10/25 |
+|  | `feature/cards` | feat(cards): update favoritos.component.html and home components | fb87d6b4a087b217526808fd31564d6962a51dd2 | 10/10/25 |
+
+| **IDymian/OpenSourceDevUPC/geo-ps-frontend** | `feature/toolbar-help` | feat(help-center): add Help Center component and navigation | 9d5112df3eb415a7dbba20e270bf28fc63ba2feb2 | 10/10/25 |
+|  | `feature/toolbar-help` | feat: integrate changes from develop into feature/toolbar-help | 7ad7d9e6853e5c3d577ace27344e0a66ab255fe1 | 10/10/25 |
+|  | `feature/toolbar-help` | docs(help): add JSDoc documentation to all help module files | f10b55c48b4d4477421c72e890318d661d9fa070 | 10/10/25 |
+|  | `feature/categories` | feat(categories): display category text correctly on button | 9e11520e8c97149d6952100fba95528b01dc8bc | 10/10/25 |
+|  | `feature/categories` | Merge branch 'develop' into feature/categories | 4a0a03dc1ae4fee68732d6af6b6824d7387229f9 | 10/10/25 |
+|  | `feature/categories` | feat(categories): add i18n support to categories navbar | f5a55598444e001a4984f80c9a98af259567b8dc | 10/10/25 |
+
+| **IamAndreek/OpenSourceDevUPC/geo-ps-frontend** | `feature/Identity-Access` | feat(identity-access): restructure project and update auth, login, favorites, and offers modules | 67cbfab3a2ce5ce87292a24a3ca82b2d1abc60731 | 10/10/25 |
+|  | `feature/Identity-Access` | feat(identity-access): update auth, login, profile, and settings. add i18n | 104540d6f051d511144c9e0890f36d151f3b80f5 | 10/10/25 |
+|  | `feature/Identity-Access` | feat(identity-access): update i18n | 1ef88b6ac2521588851260a48d3a843523a305dd | 10/10/25 |
+|  | `feature/Identity-Access` | feat(identity-access): reorganize project structure | b27124daa860e3d572c09d1d91dbaea63a337c15f | 10/10/25 |
+|  | `feature/Identity-Access` | feat(identity-access): add JSON documentation | abd6f9b192a93501f1cefebb6e8270db8ebdacbe50 | 10/10/25 |
+|  | `feature/Identity-Access` | feat(identity-access): fixed update password | 26a65fc16d2af8ca0b3765c94d77100d38c49c00 | 10/10/25 |
+
+### 5.2.2.5. Execution Evidence for Sprint Review
+
+Durante este sprint, se desarrolló exclusivamente el **frontend de GeoPS**, estableciendo los componentes y flujos principales para la **navegación** y la **gestión de la experiencia del usuario**.
+
+####  Módulos Implementados
+
+- **Home:** Pantalla de bienvenida con acceso directo a las secciones principales, diseño responsivo y preparación para futuras integraciones.  
+- **Offers:** Visualización de ofertas relevantes, con filtrado y presentación dinámica de tarjetas.  
+- **Favourites:** Funcionalidad para marcar y consultar elementos favoritos, almacenando las selecciones localmente.  
+- **Suscripciones y pagos:** Flujo de suscripción y simulación de pagos, con formularios y estados claros de confirmación o error.  
+- **Personalización de usuario:** Interfaz para editar datos básicos, preferencias y visualización de avatar, asegurando reactividad.
+
+Este avance representa el **primer paso visual y funcional de GeoPS**, estableciendo la base para incorporar **autenticación**, **lógica de backend** y **gestión avanzada de datos** en los siguientes sprints.
+
+---
+
+####  Evidencias Visuales
+
+**Figura:** Capturas del desarrollo del Frontend en Sprint 2  
+*(Trello, interfaz de usuario y componentes implementados)*  
+
+<figure style="text-align: center;">
+  <img src="Trello_ProductBacklog2.png" alt="Trello Product Backlog 2 - GeoPS" width="750">
+  <figcaption><strong>Figura:</strong> Trello Product Backlog 2 del proyecto GeoPS.</figcaption>
+</figure>
+
+---
+
+####  Demostración en Video y URL de la Web
+
+- **Video:**  
+- **Sitio web:** 
+
+---
+
+*Este sprint consolida la experiencia inicial del usuario final, asegurando una base sólida para la integración futura del backend, autenticación y servicios en tiempo real.*
+### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+A continuación, se presentan los **endpoints desarrollados e implementados durante el Sprint 2** de GeoPS, los cuales establecen la comunicación entre el frontend y los servicios simulados del sistema.
+
+| **Endpoint** | **Path** | **Descripción** |
+|---------------|-----------|------------------|
+| **Users Endpoint** | `/users` | Registro, login y perfil del usuario autenticado. |
+| **Offers Endpoint** | `/offers` | Listado de ofertas por ubicación, categoría y filtros de búsqueda. |
+| **Favorites Endpoint** | `/favorites` | Marcar y consultar las ofertas favoritas del usuario. |
+| **Coupons Endpoint** | `/coupons` | Mostrar el código y título de la oferta comprada; sincronización de cupones de compra. |
+| **Reviews Endpoint** | `/reviews` | Opiniones y comentarios que publica el usuario sobre ofertas o partners. |
+| **Subscriptions Endpoint** | `/subscriptions` | Gestión de suscripción: cancelar o bajar de plan. |
+| **Cart Endpoint** | `/cart` | Agregar o quitar ítems del carrito. |
+| **Payments Endpoint** | `/payments` | Confirmación de pago y consulta de estado. |
+
+---
+
+ **Nota técnica:**  
+Estos endpoints fueron utilizados para la simulación del flujo de datos dentro del entorno **frontend-only** durante el Sprint 2, permitiendo validar la navegación y consistencia visual sin conexión real al backend.
+
+---
+
+ **Próximos pasos:**  
+En sprints posteriores, estos endpoints serán vinculados al **API real** de GeoPS con persistencia de datos, autenticación JWT y gestión de estados compartidos (NgRx).
+
+###5.2.2.7. Software Deployment Evidence for Sprint Review.
+
+### 5.2.2.8. Team Collaboration Insights during Sprint
+
+Durante el **Sprint 2**, el equipo mantuvo una colaboración constante y organizada a través del repositorio de **GitHub**, consolidando las prácticas de control de versiones implementadas desde el primer sprint.
+
+Se evidenció una mejora notable en la **frecuencia de commits**, el **uso de ramas específicas por funcionalidad** y la aplicación de **mensajes convencionales (Conventional Commits)**, lo que permitió garantizar la **trazabilidad y consistencia** de los cambios realizados.
+
+---
+
+####  Métricas Detalladas del Repositorio de Desarrollo (`geops-frontend`)
+
+| **Métrica** | **Valor / Descripción** |
+|--------------|--------------------------|
+| **Total de commits** | 32 commits en todas las ramas |
+| **Commits en branch `develop`** | 29 commits |
+| **Número de autores** | 5 desarrolladores activos |
+| **Archivos modificados** | 143 archivos cambiados en `develop` |
+| **Líneas agregadas** | 13,538 líneas nuevas |
+| **Líneas eliminadas** | 136 líneas eliminadas |
+| **Pull Requests fusionados** | 7 pull requests integrados exitosamente |
+| **Pull Requests activos** | 7 pull requests en progreso al cierre del sprint |
+| **Issues activos** | 0 issues abiertos |
+| **Principales contribuidores** | Todos los miembros del equipo participaron en commits y revisiones |
+| **Ramas destacadas** | `feature/identity-access`, `feature/cards`, `feature/home`, `feature/subscriptions`, `feature/toolbar-help` |
+
+---
+
+####  Observaciones de Colaboración
+
+- El equipo mantuvo una comunicación fluida a través de **GitHub Projects** y **Pull Requests**, garantizando revisiones continuas de código.  
+- Se establecieron convenciones claras para el **uso de ramas**, basadas en la nomenclatura `feature/`, `fix/` y `docs/`.  
+- Cada commit fue registrado utilizando la **convención de Conventional Commits**, facilitando el análisis automatizado del historial.  
+- La integración de código en el branch principal `develop` se realizó mediante **pull requests revisados en conjunto**, fomentando buenas prácticas de revisión por pares.  
+- Se consolidó una base sólida para la **automatización de despliegues futuros (CI/CD)** en próximas iteraciones.
+
+---
+
+ *En este sprint, el equipo demostró madurez técnica y coordinación efectiva en el uso de herramientas de control de versiones, sentando las bases para una colaboración aún más eficiente en las siguientes fases del desarrollo.*
+
+<figure style="text-align: center;">
+  <img src="team_collaboration1.png" alt="Team Collaboration Evidence - Part 1" width="700">
+  <figcaption><strong>Figura 1:</strong> Actividad y colaboración del equipo durante el Sprint 2 (Parte 1).</figcaption>
+</figure>
+
+<figure style="text-align: center; margin-top: 20px;">
+  <img src="team_collaboration2.png" alt="Team Collaboration Evidence - Part 2" width="700">
+  <figcaption><strong>Figura 2:</strong> Contribuciones y flujo de commits en ramas del Sprint 2 (Parte 2).</figcaption>
+</figure>
+ 
+ ####  Análisis de Contribuciones por Desarrollador
+
+**Distribución Equilibrada:**  
+Se observó una participación activa y constante de los desarrolladores en las distintas ramas del proyecto, con commits distribuidos equitativamente entre las funcionalidades desarrolladas.
+
+**Frecuencia de Commits:**  
+La actividad fue continua a lo largo del sprint, reflejando avances progresivos en el desarrollo del frontend, integración de endpoints y componentes dinámicos.
+
+**Colaboración Efectiva:**  
+Los cambios fueron integrados mediante *pull requests* revisados en equipo, fortaleciendo la comunicación, la calidad del código y la trazabilidad del proyecto.
+
+---
+
+###  Análisis de Patrones de Colaboración
+
+#### 1. Metodología de Trabajo
+
+- **Branching Strategy:** Uso eficiente de ramas `feature/` para el desarrollo paralelo de módulos independientes.  
+- **Code Integration:** Integración controlada hacia la rama `develop`, que actúa como entorno de consolidación.  
+- **Documentation Sync:** Sincronización constante entre código y reportes del sprint, asegurando trazabilidad documental.  
+- **Quality Control:** Revisión de código previa a cada *merge* para garantizar la estabilidad y coherencia del sistema.
+
+#### 2. Herramientas de Comunicación Utilizadas
+
+- **Discord:** Comunicación diaria y coordinación técnica del equipo.  
+- **GitHub:** Gestión de ramas, *issues*, commits y *pull requests*.  
+- **Trello:** Seguimiento de tareas y control del avance de cada módulo del sprint.  
+- **Google Meet:** Reuniones de planificación, revisión de sprint y retrospectiva de resultados.
+
+#### 3. Distribución Temporal de Trabajo
+
+- **Picos de Actividad:** Mayor número de commits durante la segunda mitad del sprint, coincidiendo con la integración de endpoints.  
+- **Colaboración Paralela:** Trabajo simultáneo en varias ramas activas (`cards`, `coupons`, `home`, `toolbar-help`).  
+- **Consistencia:** Actividad sostenida en `develop` con commits diarios.  
+- **Finalización Coordinada:** Consolidación y *merge* general antes del cierre del sprint, asegurando estabilidad funcional.
+
+---
+
+###  Insights Principales del Sprint 2
+
+#### Fortalezas Identificadas
+
+- Integración exitosa del frontend con los endpoints principales del sistema.  
+- Flujo de trabajo colaborativo mediante *pull requests* y revisión de código entre pares.  
+- Organización sólida del repositorio con ramas activas bien delimitadas.  
+- Madurez técnica y comunicación efectiva entre los integrantes del equipo.
+
+#### Áreas de Mejora para Próximos Sprints
+
+- Consolidar **pruebas automatizadas** para validar los endpoints y flujos principales.  
+- Optimizar la **gestión de merges y revisiones de código** para reducir tiempos de integración.  
+- Incrementar la **documentación técnica y de arquitectura** de cada módulo desarrollado.
+
+---
+
+###  Conclusión de Colaboración
+
+El **Sprint 2** evidenció una evolución clara en la coordinación del equipo y en la integración técnica del sistema **GeoPS**.  
+El uso disciplinado de ramas, la constancia en los commits y la comunicación efectiva reflejan un **equipo consolidado y comprometido**, preparado para avanzar hacia las etapas de refinamiento, pruebas automatizadas y despliegue del producto.
+
 ## Conclusiones
 
 El desarrollo del Sprint 1 del proyecto GeoPS ha representado un hito fundamental en la materialización de nuestra visión de conectar PyMEs con consumidores a través de una plataforma digital innovadora. A lo largo de este primer sprint, nuestro equipo de cinco integrantes ha demostrado una capacidad excepcional de colaboración, complementando habilidades técnicas diversas para crear una landing page funcional y atractiva que sirve como carta de presentación de nuestra propuesta de valor.

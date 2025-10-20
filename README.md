@@ -44,7 +44,7 @@
 | Versión | Fecha | Autor | Descripción de modificación |
 | :---- | :---- | :---- | :---- |
 | TB1 | 21/09/2025 | Cotrina Siclla, Sofia Alessandra <br> Goñe Aracata, Esther Abigail <br> Huapaya Galindo, Dyron <br> Huarcaya Matias, Gilbert Alonso <br> Salazar Caballero, Alvaro Fabrizzio | En la primera entrega del informe de nuestro proyecto, hemos realizado los primeros 5 capítulos del informe y también entregamos la primera versión del landing page de GeoPS. |
-| **TP1** | **10/10/2025** | Cotrina Siclla, Sofía Alessandra<br>Goñe Aracata, Esther Abigail<br>Huapaya Galindo, Dyron<br>Huarcaya Matías, Gilbert Alonso<br>Salazar Caballero, Álvaro Fabrizzio | En la entrega correspondiente a la **TP1** del proyecto **GeoPS**, se desarrollaron y documentaron todas las funcionalidades del **front-end orientado al usuario**, incluyendo las vistas principales, el **Centro de Ayuda**, la integración de componentes dinámicos y la mejora de la experiencia de navegación en la plataforma. Asimismo, se actualizó el **Event Storming** con los flujos centrados en el usuario consumidor. |
+| TP1 | 10/10/2025 | Cotrina Siclla, Sofía Alessandra<br>Goñe Aracata, Esther Abigail<br>Huapaya Galindo, Dyron<br>Huarcaya Matías, Gilbert Alonso<br>Salazar Caballero, Álvaro Fabrizzio | En la entrega correspondiente a la TP1 del proyecto GeoPS, se desarrollaron y documentaron todas las funcionalidades del front-end orientado al usuario, incluyendo las vistas principales, el Centro de Ayuda, la integración de componentes dinámicos y la mejora de la experiencia de navegación en la plataforma. Asimismo, se actualizó el Event Storming con los flujos centrados en el usuario consumidor. |
 
 </div><br><br>
 
@@ -71,7 +71,21 @@ Un aspecto fundamental en el proceso fue el aprovechamiento de las horas de clas
 <p><strong>Evidencias de colaboración y commits:</strong></p>
 <div style="text-align: center;">
   <img src="resources/insights.png" width="500"><br><br>
-  <img src="resources/contributors.png" width="500">
+  <img src="resources/contribuitors.png" width="500">
+</div>
+
+<strong>_Entrega TP:_</strong>
+
++ Desarrollo de Actividades:
+
+Durante el desarrollo del entregable TP1, el equipo mantuvo el enfoque colaborativo adoptado en la entrega anterior, haciendo uso de herramientas compartidas que facilitaron la coordinación y la gestión del trabajo. Para la elaboración del informe, se empleó un documento en Google Docs que permitió registrar los avances del Sprint 2, coordinar las redacciones y realizar revisiones conjuntas en tiempo real.
+
+Gracias a esta metodología, el equipo logró cumplir con los objetivos establecidos para el sprint, consolidando un entregable completo y coherente. A continuación, se presentan las analíticas de participación, que evidencian la distribución equitativa de tareas y la colaboración efectiva de todos los miembros del grupo.
+
+<p><strong>Evidencias de colaboración y commits:</strong></p>
+<div style="text-align: center;">
+  <img src="resources/insightstp.png" width="500"><br><br>
+  <img src="resources/contributorstp.png" width="500">
 </div>
 
 ---

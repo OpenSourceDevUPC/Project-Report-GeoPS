@@ -2963,21 +2963,19 @@ En esta sección, nos sumergiremos en los detalles del Sprint Planning 2 para el
 
 En esta sección se incluye la elaboración del artefacto Leadership and Collaboration Matrix (LACX), el cual define quién es el líder y quiénes son los colaboradores para este Sprint 1 del proyecto GeoPS.
 
-| **Team Member (Last Name, First Name)** | **GitHub Username** | **Geo-PS Frontend Leader (L) / Collaborator (C)** |
-|-----------------------------------------|---------------------|----------------------------------------------------|
-| **Huarcaya Matias, Gilbert Alonso** | GilbertHuarcaya | L / C / L |
-| **Huapaya Galindo, Dyron** | Mainema | C / C / C |
-| **Cotrina Siclla, Sofia Alessandra** | IamAndreek | C / C / C |
-| **Goñe Araccata, Esther Abigail** | abigoe02 | C / L / C |
-| **Salazar Caballero, Alvaro Fabrizzio** | IDymian | C / C / C |
+| **Team Member (Last Name, First Name)** | **GitHub Username** | **Geo-PS Frontend Leader (L) / Collaborator (C)** | **Geo-PS Frontend Leader (L) / Collaborator (C)** | **Geo-PS Frontend Leader (L) / Collaborator (C)** |
+|-----------------------------------------|---------------------|----------------------------------------------------|----------------------------------------------------|----------------------------------------------------|
+| **Huarcaya Matias, Gilbert Alonso**     | GilbertHuarcaya     | L | C | L |
+| **Huapaya Galindo, Dyron**              | Mainema             | C | C | C |
+| **Cotrina Siclla, Sofia Alessandra**    | IamAndreek          | C | C | C |
+| **Goñe Araccata, Esther Abigail**       | abigoe02            | C | L | C |
+| **Salazar Caballero, Alvaro Fabrizzio** | IDymian             | C | C | C |
 
-#### 5.2.2.3. Sprint Backlog 2.
+#### 5.2.2.3. Sprint Backlog 2
 Elaboramos el sprint backlog 2 en trello, como se puede apreciar en la siguiente imagen:
-Figura
-Sprint 2 de Geops
 
 <figure style="text-align: center;">
-  <img src="Trello_ProductBacklog2.png" alt="Trello Product Backlog 2 - GeoPS" width="750">
+  <img src="resources/images/Trello_ProductBacklog2.png" alt="Trello Product Backlog 2 - GeoPS" width="750">
   <figcaption><strong>Figura:</strong> Trello Product Backlog 2 del proyecto GeoPS.</figcaption>
 </figure>
 
@@ -3023,7 +3021,7 @@ Link del trello: https://trello.com/b/CZ3eGcx8/product-backlog-geops
 
 #### 5.2.2.4. Development Evidence for Sprint Review.
 
-### 🧾 Sprint Backlog 2 – Commits Overview
+###  Sprint Backlog 2 – Commits Overview
 
 <h3>Registro de Commits del Sprint 2 (GeoPS Frontend)</h3>
 
@@ -3120,8 +3118,8 @@ Este avance representa el **primer paso visual y funcional de GeoPS**, estableci
 
 ####  Demostración en Video y URL de la Web
 
-- **Video:**  
-- **Sitio web:** 
+- **Video:**  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202322855_upc_edu_pe/EWv8Ir2d59hBhJEHqI3s5IwBf2ReMIFw1sbiyrvktZKYqQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Q5oO9D
+- **Sitio web:** https://geops-frontend.vercel.app/login
 
 ---
 

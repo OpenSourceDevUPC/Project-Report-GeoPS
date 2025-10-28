@@ -220,6 +220,20 @@ Gracias a esta metodología, el equipo logró cumplir con los objetivos establec
         - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
         - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
         - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+      - [5.2.3. Sprint 3](#523-sprint-3)
+        - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
+        - [5.2.3.2. Aspect Leaders and Collaborators](#5232-aspect-leaders-and-collaborators)
+        - [5.2.3.3. Sprint Backlog 3.](#5233-sprint-backlog-3)
+        - [5.2.3.4. Development Evidence for Sprint Review.](#5234-development-evidence-for-sprint-review)
+        - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+        - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+        - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+        - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+    - [5.3 Validation Interviews.](#53-validation-interviews)
+      - [5.3.1 Diseño de entrevistas](#531-diseño-de-entrevistas)
+      - [5.3.2 Registro de Entrevistas](#532-registro-de-entrevistas)
+      - [5.3.3 Evaluaciones Según Heurísticas](#533-evaluaciones-según-heurísticas)
+    - [5.4 Video About-the-Product](#54-video-about-the-product)
   - [Conclusiones](#conclusiones)
   - [Bibliografía](#bibliografía)
   - [Anexos](#anexos)
@@ -2955,7 +2969,7 @@ En esta sección, nos sumergiremos en los detalles del Sprint Planning 2 para el
 | **Location** | Server Open Source |
 | **Prepared By** | Huarcaya Matias, Gilbert Alonso |
 | **Attendees (to planning meeting)** | Huapaya Galindo, Dyron / Cotrina Siclla, Sofia Alessandra / Huarcaya Matias, Gilbert Alonso / Goñe Araccata, Esther Abigail / Salazar Caballero, Alvaro Fabrizzio |
-| **Sprint 1 Goal** | Implementar la integración de la interfaz con los endpoints principales de GeoPS (ofertas, favoritos, cupones, carrito, pagos, suscripciones), habilitando la interacción real del usuario. |
+| **Sprint 2 Goal** | Implementar la integración de la interfaz con los endpoints principales de GeoPS (ofertas, favoritos, cupones, carrito, pagos, suscripciones), habilitando la interacción real del usuario. |
 | **Sprint Velocity** | 20 Story Points |
 | **Sum of Story Points** | 23 Story Points |
 
@@ -3363,6 +3377,140 @@ Los cambios fueron integrados mediante *pull requests* revisados en equipo, fort
 
 El **Sprint 2** evidenció una evolución clara en la coordinación del equipo y en la integración técnica del sistema **GeoPS**.  
 El uso disciplinado de ramas, la constancia en los commits y la comunicación efectiva reflejan un **equipo consolidado y comprometido**, preparado para avanzar hacia las etapas de refinamiento, pruebas automatizadas y despliegue del producto.
+
+#### 5.2.3. Sprint 3
+
+#### 5.2.3.1. Sprint Planning 3
+
+En esta sección, nos sumergiremos en los detalles del Sprint Planning 2 para el desarrollo de GeoPS.
+
+| **Campo** | **Detalle** |
+|------------|-------------|
+| **Sprint #** | Sprint 3 |
+| **Sprint Planning Background** | Reunión de planificación para definir los objetivos, alcance y distribución de tareas del Sprint 3. |
+| **Date** | ... |
+| **Time** | ... |
+| **Location** | Server Open Source |
+| **Prepared By** | Huarcaya Matias, Gilbert Alonso |
+| **Attendees (to planning meeting)** | Huapaya Galindo, Dyron / Cotrina Siclla, Sofia Alessandra / Huarcaya Matias, Gilbert Alonso / Goñe Araccata, Esther Abigail / Salazar Caballero, Alvaro Fabrizzio |
+| **Sprint 3 Goal** |  |
+| **Sprint Velocity** | XX Story Points |
+| **Sum of Story Points** | XX Story Points |
+
+#### 5.2.3.2. Aspect Leaders and Collaborators
+
+En esta sección se incluye la elaboración del artefacto Leadership and Collaboration Matrix (LACX), el cual define quién es el líder y quiénes son los colaboradores para este Sprint 1 del proyecto GeoPS.
+
+| **Team Member (Last Name, First Name)** | **GitHub Username** | **Geo-PS Backend Leader (L) / Collaborator (C)** | **Geo-PS Backend Leader (L) / Collaborator (C)** | **Geo-PS Backend Leader (L) / Collaborator (C)** |
+|-----------------------------------------|---------------------|----------------------------------------------------|----------------------------------------------------|----------------------------------------------------|
+| **Huarcaya Matias, Gilbert Alonso**     | GilbertHuarcaya     | L | C | L |
+| **Huapaya Galindo, Dyron**              | Mainema             | C | C | C |
+| **Cotrina Siclla, Sofia Alessandra**    | IamAndreek          | C | C | C |
+| **Goñe Araccata, Esther Abigail**       | abigoe02            | C | L | C |
+| **Salazar Caballero, Alvaro Fabrizzio** | IDymian             | C | C | C |
+
+#### 5.2.3.3. Sprint Backlog 3
+
+
+
+#### 5.2.3.4. Development Evidence for Sprint Review.
+
+###  Sprint Backlog 3 – Commits Overview
+
+
+
+### 5.2.3.5. Execution Evidence for Sprint Review
+
+
+
+### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+
+
+### 5.2.3.8. Team Collaboration Insights during Sprint
+
+
+
+## 5.3 Validation Interviews
+### 5.3.1 Diseño de Entrevistas
+
+**Preguntas generales**
+
+
+
+**Preguntas para el Segmento 1 - Dueños de negocios de diferentes rubros:**
+
+
+
+**Preguntas para el Segmento 2 - Consumidores de ofertas de diferentes ámbitos:**
+
+
+
+**Cierre — Opinión Final**
+
+
+
+### 5.3.2 Registro de Entrevistas
+
+**Segmento 1:**
+
+
+
+**Segmento 2:**
+
+
+
+### 5.3.3 Evaluaciones Según Heurísticas
+
+### UX Heuristics & Principles Evaluation
+### Usability - Inclusive Design - Information Architecture
+
+### Carrera: 
+Ingenieria de Software
+### Curso:
+Desarrollo de aplicaciones Open Source
+### Sección:
+7391
+### Profesores:
+Todos
+### Auditor:
+GeoPs Labs
+### Cliente:
+GeoPs Labs
+### Site o App a evaluar:
+GeoPs
+
+### Tareas a evaluar:
+
+
+
+### Escala de severidad:
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
+
+| Nivel | Descripción |
+|:------:|--------------|
+| **1** | **Problema superficial:** puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| **2** | **Problema menor:** puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja para resolverlo de cara al siguiente release. |
+| **3** | **Problema mayor:** ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
+| **4** | **Problema muy grave:** un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+## Tabla de resumen
+
+| # | Problema | Escala de severidad | Heurística/Principio violada(o) |
+|:--:|-----------|:-------------------:|---------------------------------|
+| 1 | |  |  |
+
+## Descripción de problemas:
+
+
+
+## 5.4 Video About-the-Product
+
+
 
 ## Conclusiones
 

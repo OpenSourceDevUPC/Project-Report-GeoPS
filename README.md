@@ -89,6 +89,22 @@ Gracias a esta metodología, el equipo logró cumplir con los objetivos establec
   <img src="resources/contributorstp.png" width="500">
 </div>
 
+<strong>_Entrega TB2:_</strong>
+
++ Desarrollo de Actividades:
+
+Durante el desarrollo del entregable TB2, el equipo mantuvo el mismo enfoque colaborativo de la entrega anterior coordinando avances, redactando el informe y revisando los aportes de backend y frontend.
+
+En esta fase se lograron avances importantes. En el backend, se implementaron nuevas funcionalidades, se optimizaron endpoints y se configuró el despliegue, garantizando la correcta conexión con el frontend. En el frontend, se integró el mapa de Google Maps con un map ID personalizado y se añadieron funcionalidades esenciales como la visualización de marcadores y el manejo de eventos dentro del mapa.
+
+Gracias a esta organización y al trabajo equilibrado del equipo, el entregable TB2 se completó de manera coherente y cumpliendo los objetivos del sprint. A continuación, se muestran las analíticas de participación.
+
+<p><strong>Evidencias de colaboración y commits:</strong></p>
+<div style="text-align: center;">
+  <img src="resources/imgs/insightstb2.png" width="500"><br><br>
+  <img src="resources/imgs/contributorstb2.png" width="500">
+</div>
+
 ---
 
 # Contenido

@@ -97,37 +97,38 @@ Gracias a esta metodología, el equipo logró cumplir con los objetivos establec
   - [Capitulo 1: Introducción](#capitulo-1-introducción)
     - [1.1. Startup Profile](#11-startup-profile)
       - [1.1.1. Descripcion del Startup](#111-descripcion-del-startup)
-        - [Misión](#misión)
-        - [Visión](#visión)
+      - [Misión](#misión)
+      - [Visión](#visión)
       - [1.1.2. Perfiles de Integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
     - [1.2. Solution Profile](#12-solution-profile)
       - [1.2.1 Antecedentes y problemática](#121-antecedentes-y-problemática)
         - [1.2.1.1. What](#1211-what)
-          - [1.2.1.1.1. ¿Cuál es el problema?](#12111-cuál-es-el-problema)
-          - [1.2.1.1.2. ¿Cuál es la relación con la persona en cuestión?](#12112-cuál-es-la-relación-con-la-persona-en-cuestión)
+        - [1.2.1.1.1. ¿Cuál es el problema?](#12111-cuál-es-el-problema)
+        - [1.2.1.1.2. ¿Cuál es la relación con la persona en cuestión?](#12112-cuál-es-la-relación-con-la-persona-en-cuestión)
         - [1.2.1.2. When](#1212-when)
-          - [1.2.1.2.1. ¿Cuándo sucede el problema?](#12121-cuándo-sucede-el-problema)
-          - [1.2.1.2.2. ¿Cuándo utiliza el cliente el producto?](#12122-cuándo-utiliza-el-cliente-el-producto)
+        - [1.2.1.2.1. ¿Cuándo sucede el problema?](#12121-cuándo-sucede-el-problema)
+      - [1.2.1.2.2. ¿Cuándo utiliza el cliente el producto?](#12122-cuándo-utiliza-el-cliente-el-producto)
         - [1.2.1.3. Where](#1213-where)
-          - [1.2.1.3.1. ¿Dónde está el cliente cuando usa el producto?](#12131-dónde-está-el-cliente-cuando-usa-el-producto)
-          - [1.2.1.3.2. ¿A dónde se dirige?](#12132-a-dónde-se-dirige)
-          - [1.2.1.3.3. ¿Dónde surge el problema?](#12133-dónde-surge-el-problema)
+        - [1.2.1.3.1. ¿Dónde está el cliente cuando usa el producto?](#12131-dónde-está-el-cliente-cuando-usa-el-producto)
+        - [1.2.1.3.2. ¿A dónde se dirige?](#12132-a-dónde-se-dirige)
+        - [1.2.1.3.3. ¿Dónde surge el problema?](#12133-dónde-surge-el-problema)
         - [1.2.1.4. Who](#1214-who)
-          - [1.2.1.4.1. ¿Quiénes están involucrados?](#12141-quiénes-están-involucrados)
-          - [1.2.1.4.2. ¿A quiénes les sucede el problema?](#12142-a-quiénes-les-sucede-el-problema)
-          - [1.2.1.4.3. ¿Quién lo utilizará?](#12143-quién-lo-utilizará)
+        - [1.2.1.4.1. ¿Quiénes están involucrados?](#12141-quiénes-están-involucrados)
+        - [1.2.1.4.2. ¿A quiénes les sucede el problema?](#12142-a-quiénes-les-sucede-el-problema)
+        - [1.2.1.4.3. ¿Quién lo utilizará?](#12143-quién-lo-utilizará)
         - [1.2.1.5. Why](#1215-why)
-          - [1.2.1.5.1. ¿Cuál es la causa del problema?](#12151-cuál-es-la-causa-del-problema)
+        - [1.2.1.5.1. ¿Cuál es la causa del problema?](#12151-cuál-es-la-causa-del-problema)
         - [1.2.1.6. How](#1216-how)
-          - [1.2.1.6.1. ¿En qué condiciones los clientes usan nuestro producto?](#12161-en-qué-condiciones-los-clientes-usan-nuestro-producto)
-          - [1.2.1.6.2. ¿Cómo nos conocieron los compradores?](#12162-cómo-nos-conocieron-los-compradores)
-          - [1.2.1.6.3. ¿Cómo prefieren los usuarios acceder a nuestro contenido?](#12163-cómo-prefieren-los-usuarios-acceder-a-nuestro-contenido)
-          - [1.2.1.6.4. ¿Qué llevó a la persona a llegar a esta situación?](#12164-qué-llevó-a-la-persona-a-llegar-a-esta-situación)
+        - [1.2.1.6.1. ¿En qué condiciones los clientes usan nuestro producto?](#12161-en-qué-condiciones-los-clientes-usan-nuestro-producto)
+        - [1.2.1.6.2. ¿Cómo nos conocieron los compradores?](#12162-cómo-nos-conocieron-los-compradores)
+        - [1.2.1.6.3. ¿Cómo prefieren los usuarios acceder a nuestro contenido?](#12163-cómo-prefieren-los-usuarios-acceder-a-nuestro-contenido)
+        - [1.2.1.6.4. ¿Qué llevó a la persona a llegar a esta situación?](#12164-qué-llevó-a-la-persona-a-llegar-a-esta-situación)
         - [1.2.1.7. How much](#1217-how-much)
       - [1.2.2. Lean UX Process](#122-lean-ux-process)
         - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
         - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
         - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
+  - [**mediremos** el número de búsquedas realizadas en el mapa, clics en rutas sugeridas y visitas a negocios asociados.](#mediremos-el-número-de-búsquedas-realizadas-en-el-mapa-clics-en-rutas-sugeridas-y-visitas-a-negocios-asociados)
         - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
     - [1.3. Segmentos objetivos](#13-segmentos-objetivos)
       - [Segmento Objetivo #1: Consumidores de ofertas locales](#segmento-objetivo-1-consumidores-de-ofertas-locales)
@@ -139,8 +140,8 @@ Gracias a esta metodología, el equipo logró cumplir con los objetivos establec
     - [2.2. Entrevistas](#22-entrevistas)
       - [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)
       - [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)
-        - [Segmento 1: Dueños de negocios de diferentes rubros](#segmento-1-dueños-de-negocios-de-diferentes-rubros)
-        - [Segmento 2: Consumidores de ofertas de diferentes ámbitos](#segmento-2-consumidores-de-ofertas-de-diferentes-ámbitos)
+  - [Segmento 1: Dueños de negocios de diferentes rubros](#segmento-1-dueños-de-negocios-de-diferentes-rubros)
+  - [Segmento 2: Consumidores de ofertas de diferentes ámbitos](#segmento-2-consumidores-de-ofertas-de-diferentes-ámbitos)
       - [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
     - [2.3. Needfinding](#23-needfinding)
       - [2.3.1. User Personas](#231-user-personas)
@@ -151,8 +152,10 @@ Gracias a esta metodología, el equipo logró cumplir con los objetivos establec
     - [2.5. Ubiquitous Language](#25-ubiquitous-language)
   - [Capitulo 3: Requirements Specification](#capitulo-3-requirements-specification)
     - [3.1. User Stories](#31-user-stories)
+  - [Technical Stories](#technical-stories)
     - [3.2. Impact Mapping](#32-impact-mapping)
     - [3.3. Product Backlog](#33-product-backlog)
+    - [Vista del Product Backlog en Trello](#vista-del-product-backlog-en-trello)
   - [Capítulo 4: Product Design](#capítulo-4-product-design)
     - [4.1. Style Guidelines](#41-style-guidelines)
       - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
@@ -172,17 +175,17 @@ Gracias a esta metodología, el equipo logró cumplir con los objetivos establec
       - [4.3.2. Landing Page Mock-up](#432-landing-page-mock-up)
     - [4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)
       - [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)
-        - [Login](#login)
-        - [Cliente](#cliente)
-        - [Proveedores](#proveedores)
+      - [Login](#login)
+      - [Cliente](#cliente)
+      - [Proveedores](#proveedores)
       - [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
-        - [Login](#login-1)
-        - [Cliente](#cliente-1)
-        - [Proveedor](#proveedor)
+      - [Login](#login-1)
+      - [Cliente](#cliente-1)
+      - [Proveedor](#proveedor)
       - [4.4.3. Web Applications Mock-ups](#443-web-applications-mock-ups)
-        - [Login](#login-2)
-        - [Cliente](#cliente-2)
-        - [Proveedores](#proveedores-1)
+      - [Login](#login-2)
+      - [Cliente](#cliente-2)
+      - [Proveedores](#proveedores-1)
       - [4.4.4. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)
     - [4.5. Web Applications Prototyping.](#45-web-applications-prototyping)
     - [4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
@@ -201,39 +204,69 @@ Gracias a esta metodología, el equipo logró cumplir con los objetivos establec
       - [5.1.2. Source Code Management](#512-source-code-management)
       - [5.1.3. Source Code Style Guide \& Conventions](#513-source-code-style-guide--conventions)
       - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
-    - [5.2. Landing Page, Services \& Applications Implementation](#52-landing-page-services--applications-implementation)
+      - [5.2. Landing Page, Services \& Applications Implementation](#52-landing-page-services--applications-implementation)
       - [5.2.1. Sprint 1](#521-sprint-1)
-        - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
-        - [5.2.1.2. Aspect Leaders and Collaborators](#5212-aspect-leaders-and-collaborators)
-        - [5.2.1.3. Sprint Backlog 1](#5213-sprint-backlog-1)
-        - [5.2.1.4. Development Evidence for Sprint Review](#5214-development-evidence-for-sprint-review)
-        - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
-        - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
-        - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
-        - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+      - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
+      - [5.2.1.2. Aspect Leaders and Collaborators](#5212-aspect-leaders-and-collaborators)
+      - [5.2.1.3. Sprint Backlog 1](#5213-sprint-backlog-1)
+      - [5.2.1.4. Development Evidence for Sprint Review](#5214-development-evidence-for-sprint-review)
+      - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
+      - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
+      - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
+      - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
       - [5.2.2. Sprint 2](#522-sprint-2)
-        - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
-        - [5.2.2.2. Aspect Leaders and Collaborators](#5222-aspect-leaders-and-collaborators)
-        - [5.2.2.3. Sprint Backlog 2.](#5223-sprint-backlog-2)
-        - [5.2.2.4. Development Evidence for Sprint Review.](#5224-development-evidence-for-sprint-review)
-        - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
-        - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
-        - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
-        - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+      - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
+      - [5.2.2.2. Aspect Leaders and Collaborators](#5222-aspect-leaders-and-collaborators)
+      - [5.2.2.3. Sprint Backlog 2](#5223-sprint-backlog-2)
+    - [Sprint Backlog 2 – User Stories and Tasks](#sprint-backlog-2--user-stories-and-tasks)
+      - [5.2.2.4. Development Evidence for Sprint Review.](#5224-development-evidence-for-sprint-review)
+    - [Sprint Backlog 2 – Commits Overview](#sprint-backlog-2--commits-overview)
+    - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+      - [Módulos Implementados](#módulos-implementados)
+      - [Evidencias Visuales](#evidencias-visuales)
+      - [Demostración en Video y URL de la Web](#demostración-en-video-y-url-de-la-web)
+    - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+      - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+    - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+      - [Métricas Detalladas del Repositorio de Desarrollo (`geops-frontend`)](#métricas-detalladas-del-repositorio-de-desarrollo-geops-frontend)
+      - [Observaciones de Colaboración](#observaciones-de-colaboración)
+      - [Análisis de Contribuciones por Desarrollador](#análisis-de-contribuciones-por-desarrollador)
+    - [Análisis de Patrones de Colaboración](#análisis-de-patrones-de-colaboración)
+      - [1. Metodología de Trabajo](#1-metodología-de-trabajo)
+      - [2. Herramientas de Comunicación Utilizadas](#2-herramientas-de-comunicación-utilizadas)
+      - [3. Distribución Temporal de Trabajo](#3-distribución-temporal-de-trabajo)
+    - [Insights Principales del Sprint 2](#insights-principales-del-sprint-2)
+      - [Fortalezas Identificadas](#fortalezas-identificadas)
+      - [Áreas de Mejora para Próximos Sprints](#áreas-de-mejora-para-próximos-sprints)
+    - [Conclusión de Colaboración](#conclusión-de-colaboración)
       - [5.2.3. Sprint 3](#523-sprint-3)
-        - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
-        - [5.2.3.2. Aspect Leaders and Collaborators](#5232-aspect-leaders-and-collaborators)
-        - [5.2.3.3. Sprint Backlog 3.](#5233-sprint-backlog-3)
-        - [5.2.3.4. Development Evidence for Sprint Review.](#5234-development-evidence-for-sprint-review)
-        - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
-        - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
-        - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
-        - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
-    - [5.3 Validation Interviews.](#53-validation-interviews)
-      - [5.3.1 Diseño de entrevistas](#531-diseño-de-entrevistas)
-      - [5.3.2 Registro de Entrevistas](#532-registro-de-entrevistas)
-      - [5.3.3 Evaluaciones Según Heurísticas](#533-evaluaciones-según-heurísticas)
-    - [5.4 Video About-the-Product](#54-video-about-the-product)
+      - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
+      - [5.2.3.2. Aspect Leaders and Collaborators](#5232-aspect-leaders-and-collaborators)
+      - [5.2.3.3. Sprint Backlog 3](#5233-sprint-backlog-3)
+      - [5.2.3.4. Development Evidence for Sprint Review.](#5234-development-evidence-for-sprint-review)
+    - [Sprint Backlog 3 – Commits Overview](#sprint-backlog-3--commits-overview)
+    - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+    - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+      - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+    - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+  - [5.3 Validation Interviews](#53-validation-interviews)
+    - [5.3.1 Diseño de Entrevistas](#531-diseño-de-entrevistas)
+    - [5.3.2 Registro de Entrevistas](#532-registro-de-entrevistas)
+    - [5.3.3 Evaluaciones Según Heurísticas](#533-evaluaciones-según-heurísticas)
+    - [UX Heuristics \& Principles Evaluation](#ux-heuristics--principles-evaluation)
+    - [Usability - Inclusive Design - Information Architecture](#usability---inclusive-design---information-architecture)
+    - [Carrera:](#carrera)
+    - [Curso:](#curso)
+    - [Sección:](#sección)
+    - [Profesores:](#profesores)
+    - [Auditor:](#auditor)
+    - [Cliente:](#cliente-3)
+    - [Site o App a evaluar:](#site-o-app-a-evaluar)
+    - [Tareas a evaluar:](#tareas-a-evaluar)
+    - [Escala de severidad:](#escala-de-severidad)
+  - [Tabla de resumen](#tabla-de-resumen)
+  - [Descripción de problemas:](#descripción-de-problemas)
+  - [5.4 Video About-the-Product](#54-video-about-the-product)
   - [Conclusiones](#conclusiones)
   - [Bibliografía](#bibliografía)
   - [Anexos](#anexos)
@@ -3429,7 +3462,112 @@ En esta sección se incluye la elaboración del artefacto Leadership and Collabo
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
+En esta sección se documenta el proceso de despliegue del backend de GeoPS desarrollado en Spring Boot hacia la plataforma Railway. El proyecto se encuentra alojado en el repositorio https://github.com/DevWebUPC/collabus-backend y está disponible públicamente en https://geops-backend-production.up.railway.app/swagger-ui/index.html.
 
+**Proceso de Despliegue del Backend GeoPS en Railway:**
+
+**1) Acceso a Railway**
+
+Se accede a la plataforma Railway donde se gestionará tanto el backend como los servicios de base de datos necesarios para GeoPS.
+
+<div align="center">
+<img src="resources/images/chapter-5/deployment-backend/1-railway.png" alt="Plataforma Railway" width="600">  
+</div>
+
+**2) Creación de Nuevo Proyecto**
+
+Se inicia el proceso creando un nuevo proyecto en Railway para hospedar el backend de GeoPS.
+
+<div align="center">
+<img src="resources/images/chapter-5/deployment-backend/2-nuevo-proyecto.png" alt="Crear nuevo proyecto" width="600">  
+</div>
+
+**3) Configuración de la Base de Datos MySQL**
+
+Se selecciona MySQL como motor de base de datos para almacenar la información de usuarios, ofertas, favoritos y demás entidades del sistema GeoPS.
+
+<div align="center">
+<img src="resources/images/chapter-5/deployment-backend/3-mysql.png" alt="Seleccionar MySQL" width="600">  
+</div>
+
+**4) Base de Datos Creada**
+
+Railway confirma la creación exitosa del servicio MySQL, mostrando el estado activo y listo para recibir conexiones del backend.
+
+<div align="center">
+<img src="resources/images/chapter-5/deployment-backend/4-created-database.png" alt="Base de datos creada" width="600">  
+</div>
+
+**5) Configuración de Conexión**
+
+Se obtienen las credenciales y configuración de conexión necesarias para que el backend Spring Boot pueda conectarse a la base de datos MySQL desplegada.
+
+<div align="center">
+<img src="resources/images/chapter-5/deployment-backend/5-connect.png" alt="Configurar conexión" width="600">  
+</div>
+
+**6) Conectar Repositorio GitHub**
+
+Se conecta el repositorio del backend GeoPS desde GitHub, habilitando despliegues automáticos cada vez que se actualice la rama principal.
+
+<div align="center">
+<img src="resources/images/chapter-5/deployment-backend/6-conectar-github-repo.png" alt="Conectar repositorio GitHub" width="600">  
+</div>
+
+**7) Seleccionar GitHub**
+
+Se selecciona GitHub como la fuente del repositorio para realizar el despliegue del backend.
+
+<div align="center">
+<img src="resources/images/chapter-5/deployment-backend/7-seleccionar-github.png" alt="Seleccionar GitHub" width="600">  
+</div>
+
+**8) Deployment en Proceso**
+
+Railway inicia el proceso de construcción y despliegue del backend, instalando las dependencias y configurando el entorno de ejecución.
+
+<div align="center">
+<img src="resources/images/chapter-5/deployment-backend/8-corriendo-deployment.png" alt="Deployment ejecutándose" width="600">  
+</div>
+
+**9) Deployment Completado**
+
+El proceso de despliegue se completa exitosamente, mostrando que el backend está activo y funcionando correctamente.
+
+<div align="center">
+<img src="resources/images/chapter-5/deployment-backend/9-deployment-completo.png" alt="Deployment completado" width="600">  
+</div>
+
+**10) Configuración de Red Pública**
+
+Se configura el acceso público para habilitar la conexión externa al backend desplegado.
+
+<div align="center">
+<img src="resources/images/chapter-5/deployment-backend/10-configurar-public-network.png" alt="Configurar red pública" width="600">  
+</div>
+
+**11) Red Pública Generada**
+
+Railway genera automáticamente el dominio público `geops-backend-production.up.railway.app`, permitiendo acceso HTTP/HTTPS a la API REST del backend GeoPS.
+
+<div align="center">
+<img src="resources/images/chapter-5/deployment-backend/11-public-network-generado.png" alt="Red pública generada" width="600">  
+</div>
+
+**12) Verificación Final del Despliegue**
+
+Se valida el despliegue exitoso confirmando que el backend está completamente operativo y accesible públicamente.
+
+<div align="center">
+<img src="resources/images/chapter-5/deployment-backend/12-deployed.png" alt="Backend desplegado" width="600">  
+</div>
+
+**URLs del Servicio Desplegado:**
+- **API Backend:** https://geops-backend-production.up.railway.app
+- **Documentación Swagger:** https://geops-backend-production.up.railway.app/swagger-ui/index.html
+- **Repositorio:** https://github.com/DevWebUPC/collabus-backend
+
+El despliegue del backend GeoPS en Railway ha sido exitoso, proporcionando una API REST completamente funcional y accesible públicamente para soportar las operaciones del frontend y futuras integraciones del sistema.
 
 ### 5.2.3.8. Team Collaboration Insights during Sprint
 

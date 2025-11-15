@@ -71,8 +71,8 @@ Un aspecto fundamental en el proceso fue el aprovechamiento de las horas de clas
 
 <p><strong>Evidencias de colaboración y commits:</strong></p>
 <div style="text-align: center;">
-  <img src="resources/insights.png" width="500"><br><br>
-  <img src="resources/contribuitors.png" width="500">
+  <img src="resources/imgs/insights.png" width="500"><br><br>
+  <img src="resources/imgs/contribuitors.png" width="500">
 </div>
 
 <strong>_Entrega TP:_</strong>
@@ -85,8 +85,8 @@ Gracias a esta metodología, el equipo logró cumplir con los objetivos establec
 
 <p><strong>Evidencias de colaboración y commits:</strong></p>
 <div style="text-align: center;">
-  <img src="resources/insightstp.png" width="500"><br><br>
-  <img src="resources/contributorstp.png" width="500">
+  <img src="resources/imgs/insightstp.png" width="500"><br><br>
+  <img src="resources/imgs/contributorstp.png" width="500">
 </div>
 
 <strong>_Entrega TB2:_</strong>
@@ -101,8 +101,10 @@ Gracias a esta organización y al trabajo equilibrado del equipo, el entregable 
 
 <p><strong>Evidencias de colaboración y commits:</strong></p>
 <div style="text-align: center;">
-  <img src="resources/imgs/insightstb2.png" width="500"><br><br>
+  <img src="resources/imgs/insightstb2.png" width="500">
+  <img src="resources/imgs/insightstb2-2.png" width="500"><br><br>
   <img src="resources/imgs/contributorstb2.png" width="500">
+  <img src="resources/imgs/contributorstb2-2.png" width="500">
 </div>
 
 ---

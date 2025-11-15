@@ -32,7 +32,7 @@
 | Salazar Caballero, Alvaro Fabrizzio     | u202321941     |
 
 
-<br><div align="center"><h3>Agosto 2025</h3></div><br>
+<br><div align="center"><h3>Noviembre 2025</h3></div><br>
 
 </div>
 <br><br>
@@ -45,6 +45,7 @@
 | :---- | :---- | :---- | :---- |
 | TB1 | 21/09/2025 | Cotrina Siclla, Sofia Alessandra <br> Goñe Aracata, Esther Abigail <br> Huapaya Galindo, Dyron <br> Huarcaya Matias, Gilbert Alonso <br> Salazar Caballero, Alvaro Fabrizzio | En la primera entrega del informe de nuestro proyecto, hemos realizado los primeros 5 capítulos del informe y también entregamos la primera versión del landing page de GeoPS. |
 | TP1 | 10/10/2025 | Cotrina Siclla, Sofía Alessandra<br>Goñe Aracata, Esther Abigail<br>Huapaya Galindo, Dyron<br>Huarcaya Matías, Gilbert Alonso<br>Salazar Caballero, Álvaro Fabrizzio | En la entrega correspondiente a la TP1 del proyecto GeoPS, se desarrollaron y documentaron todas las funcionalidades del front-end orientado al usuario, incluyendo las vistas principales, el Centro de Ayuda, la integración de componentes dinámicos y la mejora de la experiencia de navegación en la plataforma. Asimismo, se actualizó el Event Storming con los flujos centrados en el usuario consumidor. |
+| TB2 | 16/11/2025 | Cotrina Siclla, Sofía Alessandra<br>Goñe Aracata, Esther Abigail<br>Huapaya Galindo, Dyron<br>Huarcaya Matías, Gilbert Alonso<br>Salazar Caballero, Álvaro Fabrizzio | En la entrega correspondiente a la TB2 del proyecto GeoPS, se desarrollaron todas las funcionalidades del back-end orientado al desarrollo de la base de datos, despliegue del backend y conexión con el frontend, además de correcciones e implementación de funcionalidades del frontend orientado a los mapas y geolocalización del usuario consumidor.|
 
 </div><br><br>
 

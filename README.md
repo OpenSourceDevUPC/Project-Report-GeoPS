@@ -3429,6 +3429,112 @@ En esta sección se incluye la elaboración del artefacto Leadership and Collabo
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
+En esta sección se documenta el proceso de despliegue del backend de GeoPS desarrollado en Spring Boot hacia la plataforma Railway. El proyecto se encuentra alojado en el repositorio https://github.com/DevWebUPC/collabus-backend y está disponible públicamente en https://geops-backend-production.up.railway.app/swagger-ui/index.html.
+
+**Proceso de Despliegue del Backend GeoPS en Railway:**
+
+**1) Acceso a Railway**
+
+Se accede a la plataforma Railway donde se gestionará tanto el backend como los servicios de base de datos necesarios para GeoPS.
+
+<div align="center">
+<img src="resources/images/chapter-5/deployment-backend/1-railway.png" alt="Plataforma Railway" width="600">  
+</div>
+
+**2) Creación de Nuevo Proyecto**
+
+Se inicia el proceso creando un nuevo proyecto en Railway para hospedar el backend de GeoPS.
+
+<div align="center">
+<img src="resources/images/chapter-5/deployment-backend/2-nuevo-proyecto.png" alt="Crear nuevo proyecto" width="600">  
+</div>
+
+**3) Configuración de la Base de Datos MySQL**
+
+Se selecciona MySQL como motor de base de datos para almacenar la información de usuarios, ofertas, favoritos y demás entidades del sistema GeoPS.
+
+<div align="center">
+<img src="resources/images/chapter-5/deployment-backend/3-mysql.png" alt="Seleccionar MySQL" width="600">  
+</div>
+
+**4) Base de Datos Creada**
+
+Railway confirma la creación exitosa del servicio MySQL, mostrando el estado activo y listo para recibir conexiones del backend.
+
+<div align="center">
+<img src="resources/images/chapter-5/deployment-backend/4-created-database.png" alt="Base de datos creada" width="600">  
+</div>
+
+**5) Configuración de Conexión**
+
+Se obtienen las credenciales y configuración de conexión necesarias para que el backend Spring Boot pueda conectarse a la base de datos MySQL desplegada.
+
+<div align="center">
+<img src="resources/images/chapter-5/deployment-backend/5-connect.png" alt="Configurar conexión" width="600">  
+</div>
+
+**6) Conectar Repositorio GitHub**
+
+Se conecta el repositorio del backend GeoPS desde GitHub, habilitando despliegues automáticos cada vez que se actualice la rama principal.
+
+<div align="center">
+<img src="resources/images/chapter-5/deployment-backend/6-conectar-github-repo.png" alt="Conectar repositorio GitHub" width="600">  
+</div>
+
+**7) Seleccionar GitHub**
+
+Se selecciona GitHub como la fuente del repositorio para realizar el despliegue del backend.
+
+<div align="center">
+<img src="resources/images/chapter-5/deployment-backend/7-seleccionar-github.png" alt="Seleccionar GitHub" width="600">  
+</div>
+
+**8) Deployment en Proceso**
+
+Railway inicia el proceso de construcción y despliegue del backend, instalando las dependencias y configurando el entorno de ejecución.
+
+<div align="center">
+<img src="resources/images/chapter-5/deployment-backend/8-corriendo-deployment.png" alt="Deployment ejecutándose" width="600">  
+</div>
+
+**9) Deployment Completado**
+
+El proceso de despliegue se completa exitosamente, mostrando que el backend está activo y funcionando correctamente.
+
+<div align="center">
+<img src="resources/images/chapter-5/deployment-backend/9-deployment-completo.png" alt="Deployment completado" width="600">  
+</div>
+
+**10) Configuración de Red Pública**
+
+Se configura el acceso público para habilitar la conexión externa al backend desplegado.
+
+<div align="center">
+<img src="resources/images/chapter-5/deployment-backend/10-configurar-public-network.png" alt="Configurar red pública" width="600">  
+</div>
+
+**11) Red Pública Generada**
+
+Railway genera automáticamente el dominio público `geops-backend-production.up.railway.app`, permitiendo acceso HTTP/HTTPS a la API REST del backend GeoPS.
+
+<div align="center">
+<img src="resources/images/chapter-5/deployment-backend/11-public-network-generado.png" alt="Red pública generada" width="600">  
+</div>
+
+**12) Verificación Final del Despliegue**
+
+Se valida el despliegue exitoso confirmando que el backend está completamente operativo y accesible públicamente.
+
+<div align="center">
+<img src="resources/images/chapter-5/deployment-backend/12-deployed.png" alt="Backend desplegado" width="600">  
+</div>
+
+**URLs del Servicio Desplegado:**
+- **API Backend:** https://geops-backend-production.up.railway.app
+- **Documentación Swagger:** https://geops-backend-production.up.railway.app/swagger-ui/index.html
+- **Repositorio:** https://github.com/DevWebUPC/collabus-backend
+
+El despliegue del backend GeoPS en Railway ha sido exitoso, proporcionando una API REST completamente funcional y accesible públicamente para soportar las operaciones del frontend y futuras integraciones del sistema.
 
 
 ### 5.2.3.8. Team Collaboration Insights during Sprint

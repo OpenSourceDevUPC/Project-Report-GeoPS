@@ -3879,6 +3879,11 @@ Se evidenció una mejora notable en la **frecuencia de commits**, el **uso de ra
   <figcaption><strong>Figura 2:</strong> Contribuciones y flujo de commits en ramas del Sprint 3 (Parte 2).</figcaption>
 </figure>
 
+<figure style="text-align: center;">
+  <img src="resources/images/team_collaboration3_sprint3.png" alt="Team Collaboration Evidence - Part 3" width="700">
+  <figcaption><strong>Figura 2:</strong> Contribuciones y flujo de commits en ramas del Sprint 3 (Parte 3).</figcaption>
+</figure>
+
  ####  Análisis de Contribuciones por Desarrollador
 
 **Distribución Equilibrada:**  

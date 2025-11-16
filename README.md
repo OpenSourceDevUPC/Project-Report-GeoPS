@@ -3450,6 +3450,14 @@ En esta sección se incluye la elaboración del artefacto Leadership and Collabo
 
 ##### 5.2.3.3. Sprint Backlog 3
 
+Link del trello: https://trello.com/invite/b/6827b176ac2901fb01dfde7f/ATTI0105abbd10d1b5b427276382160e35a5421ECC7E/product-backlog-geops
+
+<figure style="text-align: center;">
+  <img src="resources/images/chapter-5/Product_Backlog_3.jpg" 
+       alt="Vista del Product Backlog (Parte 3)" width="700">
+  <figcaption><strong>Figura X:</strong> Product Backlog – Parte 3.</figcaption>
+</figure>
+
 ###  Sprint Backlog 3 – Commits Overview
 
 ##### 5.2.3.4. Development Evidence for Sprint Review.

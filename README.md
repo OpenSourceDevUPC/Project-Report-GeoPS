@@ -4008,11 +4008,15 @@ World Bank. (2019). *World Development Report 2019: The Changing Nature of Work*
 
 ## Anexos
 
-- Enlace del proyecto deploy: https://geops-frontend.vercel.app/login
+- Enlace de Documentación Swagger: https://geops-backend-production.up.railway.app/swagger-ui/index.html
+  
+- Enlace del proyecto (BackEnd) API deploy: https://geops-backend-production.up.railway.app
+  
+- Enlace del proyecto (FrontEnd) deploy: https://geops-frontend.vercel.app/login
 
-- Enlace del json server: https://json-server-1-p24l.onrender.com/
+- Enlace del servicio JSON server: https://json-server-1-p24l.onrender.com/
 
-- Enlace del figma de GeoPs: https://www.figma.com/design/mHHx8WStPBr63tLYj42pBX/GeoPs?t=GXTYAnTYkIFHdSN8-0
+- Enlace Figma de GeoPs: https://www.figma.com/design/mHHx8WStPBr63tLYj42pBX/GeoPs?t=GXTYAnTYkIFHdSN8-0
 
 - Validación Entrevista - Segmento 2 - Andrés Torres: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318049_upc_edu_pe/IQDeTTS1ELqxQrNgI2B4yLLdAeBlKOwE-F6A5O9hKt1QFok?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=9c90f3
 

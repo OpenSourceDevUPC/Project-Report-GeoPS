@@ -3793,23 +3793,113 @@ El despliegue del backend GeoPS en Railway ha sido exitoso, proporcionando una A
 
 
 ##### 5.2.3.8. Team Collaboration Insights during Sprint
-Gracias a la sección de Insights en Github, mostraremos la siguiente gráfica de colaboración del repositorio "geops-backend", donde se presenta una visualización de la contribución de cada miembro del equipo en el desarrollo del Sprint 3.
 
-Analíticos de GitHUb
-<div align="center">
-<img src="resources/imgs/evidence-sprint-3/sprint3-frontend-collab.png">  
-</div>
-<div align="center">
-<img src="resources/imgs/evidence-sprint-3/sprint3-frontend-contrib.png">  
-</div>
-<div align="center">
-<img src="resources/imgs/evidence-sprint-3/sprint3-backend-collab.png">  
-</div>
-<div align="center">
-<img src="resources/imgs/evidence-sprint-3/sprint3-backend-contrib.png">  
-</div>
-En estas imagenes, se evidencia los integrantes que han contribuido en el desarrollo del la aplicación web tanto frontend como backend. Se evidencia que todo el equipo ha participado.
+Durante el **Sprint 3**, el equipo mantuvo una colaboración constante y organizada a través del repositorio de **GitHub**, consolidando las prácticas de control de versiones implementadas desde el primer sprint.
+Se evidenció una mejora notable en la **frecuencia de commits**, el **uso de ramas específicas por funcionalidad** y la aplicación de **mensajes convencionales (Conventional Commits)**, lo que permitió garantizar la **trazabilidad y consistencia** de todos los cambios y mejoras realizadas.
 
+---
+
+####  Métricas Detalladas del Repositorio de Desarrollo (`geops-backend`)
+
+| **Métrica** | **Valor / Descripción** |
+|--------------|--------------------------|
+| **Total de commits** | 20 commits en todas las ramas |
+| **Commits en branch `main`** | 18 commits |
+| **Número de autores** | 5 desarrolladores activos |
+| **Archivos modificados** | 71 archivos modificados |
+| **Líneas agregadas** | 3,982 líneas nuevas |
+| **Líneas eliminadas** | 22 líneas eliminadas |
+| **Pull Requests fusionados** | 13 pull requests integrados exitosamente |
+| **Pull Requests activos** | 0 pull requests en progreso al cierre del sprint |
+| **Issues activos** | 0 issues abiertos |
+| **Principales contribuidores** | Todos los miembros del equipo participaron en commits y revisiones |
+| **Ramas destacadas** | `feature/update-subscription`, `feature/update-plan`, `feature/favorites`, `feature/offers` |
+
+---
+
+####  Observaciones de Colaboración
+
+- El equipo mantuvo una comunicación constante y organizada mediante **Pull Requests** y revisiones colaborativas, lo que permitió integrar múltiples módulos del backend sin generar conflictos críticos.
+- Se consolidó un uso disciplinado del branching model, destacando ramas como `develop`, `feature/favorites`, `feature/offers`, `feature/update-plan` y `feature/update-subscription`.
+- Los desarrolladores continuaron empleando **Conventional Commits**, permitiendo un historial claro, consistente y fácil de analizar para auditorías y seguimiento de cambios.
+- La integración hacia la rama principal (`main`) se realizó únicamente a través de **pull requests validados**, fortaleciendo las buenas prácticas de revisión por pares y asegurando la estabilidad del código antes del despliegue. 
+- Se reforzó la capacidad del equipo para trabajar en un flujo DevOps básico, especialmente con el despliegue del backend en Railway, lo que abre paso a futuras automatizaciones de prueba y CI/CD.
+
+---
+
+ *En este sprint, el equipo demostró un alto nivel de madurez en el trabajo colaborativo dentro del entorno backend, gestionando eficientemente ramas, revisiones y despliegues. Esta coordinación permitió que el servicio alcanzara un estado estable y listo para integrarse con el frontend y las etapas finales del proyecto GeoPS.*
+
+<figure style="text-align: center;">
+  <img src="resources/images/team_collaboration1_sprint3.png" alt="Team Collaboration Evidence - Part 1" width="700">
+  <figcaption><strong>Figura 1:</strong> Actividad y colaboración del equipo durante el Sprint 3 (Parte 1).</figcaption>
+</figure>
+
+<figure style="text-align: center;">
+  <img src="resources/images/team_collaboration2_sprint3.png" alt="Team Collaboration Evidence - Part 2" width="700">
+  <figcaption><strong>Figura 2:</strong> Contribuciones y flujo de commits en ramas del Sprint 3 (Parte 2).</figcaption>
+</figure>
+
+ ####  Análisis de Contribuciones por Desarrollador
+
+**Distribución Equilibrada:**  
+Se evidenció una contribución sólida por parte de los desarrolladores involucrados en el backend, con 5 autores realizando commits directos y colaborando en la creación e integración de funcionalidades clave.
+
+**Frecuencia de Commits:**  
+El ritmo de commits se mantuvo constante, las actualizaciones constantes en ramas activas durante los últimos días del sprint destacan un esfuerzo sincronizado para consolidar el backend previo al despliegue.
+
+**Colaboración Efectiva:**  
+El equipo trabajó mediante *pull requests* revisados internamente, asegurando que los cambios fusionados mantuvieran coherencia técnica y estándares comunes.
+
+---
+
+###  Análisis de Patrones de Colaboración
+
+#### 1. Metodología de Trabajo
+
+- **Branching Strategy:** Se aplicó de forma consistente el uso de ramas feature/ para organizar el trabajo del backend.
+- **Code Integration:** La rama `develop` funcionó como punto de integración central, donde se consolidaron los cambios mediante *pull requests* antes de ser promovidos a `main`.
+- **Documentation Sync:** La documentación técnica y el API en Swagger se mantuvieron alineados con los avances del sprint, asegurando claridad en la estructura de servicios y endpoints. 
+- **Quality Control:** Cada *merge* fue precedido por una revisión interna, garantizando que las funcionalidades añadidas fueran estables y compatibles con la arquitectura general del backend.
+
+#### 2. Herramientas de Comunicación Utilizadas
+
+- **Discord:** Comunicación diaria y coordinación técnica del equipo.  
+- **GitHub:** Gestión de ramas, *issues*, commits y *pull requests*.  
+- **Trello:** Seguimiento de tareas y control del avance de cada módulo del sprint.  
+- **Google Meet:** Reuniones de planificación, revisión de sprint y retrospectiva de resultados.
+
+#### 3. Distribución Temporal de Trabajo
+
+- **Picos de Actividad:** El mayor volumen de commits se concentró en los últimos días del sprint, coincidiendo con la integración de los módulos de CRUD, pruebas en Swagger y preparación del despliegue en Railway.  
+- **Colaboración Paralela:** Trabajo simultáneo en varias ramas activas (`favorites`, `update-plan`, `update-subscription`, `cart`).  
+- **Consistencia:** Se mantuvo una actividad constante en `develop` y en las ramas de features.
+- **Finalización Coordinada:** Antes del cierre del sprint, se completaron 13 pull requests fusionados, consolidando todas las funcionalidades en las ramas principales y garantizando un backend estable y listo para despliegue.
+
+---
+
+###  Insights Principales del Sprint 3
+
+#### Fortalezas Identificadas
+
+- Despliegue exitoso del backend en Railway, consolidando una API funcional y accesible públicamente.  
+- Implementación completa de módulos clave como autenticación, ofertas, favoritos, cupones, pagos, reseñas, suscripciones y carritos, fortaleciendo la arquitectura general del sistema. 
+- Flujo de integración basado en *pull requests* bien gestionados, garantizando estabilidad antes de fusionar en `main`. 
+- Madurez técnica y comunicación efectiva entre los integrantes del equipo.
+
+
+#### Áreas de Mejora para Próximos Sprints
+
+
+- Incorporar **pruebas automatizadas** para validar los endpoints y reducir riesgos durante despliegues futuros.  
+- Optimizar la **gestión de merges y revisiones de código** para reducir tiempos de integración.  
+- Documentar en mayor detalle la **arquitectura interna y flujos de datos** para facilitar mantenibilidad y nuevas integraciones.
+
+---
+
+###  Conclusión de Colaboración
+
+El **Sprint 3** demostró un alto nivel de cohesión y madurez en el trabajo en equipo, logrando integrar y desplegar un backend robusto que consolida la base tecnológica del sistema **GeoPS**. 
+La gestión ordenada de ramas, la revisión continua mediante *pull requests* y la coordinación durante la preparación del release reflejan un equipo comprometido y técnicamente sólido.
 
 ### 5.3 Validation Interviews
 #### 5.3.1 Diseño de Entrevistas
@@ -3892,13 +3982,13 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 
 **Conclusiones y Recomendaciones**
 
-El Sprint 3 del proyecto GeoPS representó un avance fundamental en la evolución técnica de la plataforma, centrado en la implementación del backend utilizando Java. Durante esta etapa, se construyó la estructura necesaria para gestionar datos, procesar solicitudes y brindar soporte a las funcionalidades principales del sistema, sentando bases sólidas para las siguientes fases del desarrollo.
+El desarrollo del proyecto GeoPS permitió transformar una idea inicial en una solución tecnológica completa, integrando landing page, frontend interactivo y backend desplegado en la nube. A lo largo de los tres sprints se evidenció un progreso consistente en la capacidad técnica del equipo, tanto en términos de diseño de interfaces como en arquitectura de software, integración de servicios y despliegue continuo.
 
-Un hito importante de este sprint fue la integración completa entre el backend en Java y el frontend mediante API REST, lo que permitió que ambos entornos comenzaran a operar de manera coordinada y eficiente. Asimismo, se incorporó exitosamente la funcionalidad de Google Maps en el frontend, agregando una capa esencial de geolocalización para la visualización de negocios dentro de la plataforma.
+A lo largo del proyecto se evidenció una mejora progresiva en la organización del trabajo y en la coordinación del equipo. El uso de metodologías ágiles, control de versiones mediante GitHub, gestión visual en Trello y comunicación por Discord permitió mantener un flujo de trabajo ordenado y eficiente. Cada sprint aportó valor incremental, fortaleciendo la arquitectura y asegurando la cohesión entre las distintas funcionalidades desarrolladas.
 
-La colaboración del equipo fue excelente, caracterizada por una comunicación constante y por el cumplimiento puntual de todas las tareas asignadas. Gracias a esta coordinación, el Sprint 3 consolidó una infraestructura técnica robusta que fortalece el camino hacia la versión completa de GeoPS como una solución digital capaz de conectar de manera efectiva a PyMEs y consumidores.
+Desde el punto de vista técnico, se construyó una plataforma sólida que integra módulos esenciales como autenticación, usuarios, favoritos, ofertas, reseñas, cupones, carritos, pagos y suscripciones. El despliegue del backend en Railway y del frontend en Vercel confirma la capacidad del equipo para trabajar con servicios en la nube, manejando entornos reales de producción. La documentación del API con Swagger añade claridad y facilita la futura expansión del sistema.
 
-En cuanto a los siguientes pasos, se recomienda continuar con un roadmap claro que priorice la ampliación de módulos del backend, la implementación de funcionalidades avanzadas en el frontend y la integración de nuevos servicios digitales que formen parte del modelo de negocio. Entre estos, destacan el desarrollo del sistema de registro de usuarios, la administración de perfiles de PyMEs, la gestión de ofertas basadas en geolocalización y la creación de paneles de análisis. Seguir una hoja de ruta definida permitirá asegurar la evolución coherente del producto y maximizar el valor que GeoPS brindará en su ecosistema digital.
+En su conjunto, el proyecto GeoPS se consolidó como una base tecnológica robusta y escalable, preparada para continuar creciendo en funcionalidades, pruebas automatizadas, mejoras de rendimiento y validaciones de experiencia de usuario. Los resultados obtenidos reflejan un equipo técnicamente competente, organizado y capaz de ejecutar un ciclo completo de desarrollo de software moderno.
 
 ## Bibliografía
 

@@ -3442,42 +3442,42 @@ A continuación, se presentan las evidencias de ejecución correspondientes al S
 **Capturas de pantalla de las principales vistas**
 
 <figure style="text-align: center;">
-  <img src="resources/images/chapter-5/swagger_auth_favorites.png" alt="Sección Authentication y Favorites del Swagger UI" width="700">
+  <img src="resources/images/chapter-5/swagger_auth_favorites.jpg" alt="Sección Authentication y Favorites del Swagger UI" width="700">
   <figcaption><strong>Figura 1:</strong> Endpoints de Authentication y Favorites en Swagger UI (Parte 1).</figcaption>
 </figure>
 
 <figure style="text-align: center;">
-  <img src="resources/images/chapter-5/swagger_reviews_carts.png" alt="Sección Reviews y Carts del Swagger UI" width="700">
+  <img src="resources/images/chapter-5/swagger_reviews_carts.jpg" alt="Sección Reviews y Carts del Swagger UI" width="700">
   <figcaption><strong>Figura 2:</strong> Endpoints de Reviews y Carts en Swagger UI (Parte 2).</figcaption>
 </figure>
 
 <figure style="text-align: center;">
-  <img src="resources/images/chapter-5/swagger_subscriptions_offers.png" alt="Sección Subscriptions y Offers del Swagger UI" width="700">
+  <img src="resources/images/chapter-5/swagger_subscriptions_offers.jpg" alt="Sección Subscriptions y Offers del Swagger UI" width="700">
   <figcaption><strong>Figura 3:</strong> Endpoints de Subscriptions y Offers en Swagger UI (Parte 3).</figcaption>
 </figure>
 
 <figure style="text-align: center;">
-  <img src="resources/images/chapter-5/swagger_coupons.png" alt="Sección Coupons del Swagger UI" width="700">
+  <img src="resources/images/chapter-5/swagger_coupons.jpg" alt="Sección Coupons del Swagger UI" width="700">
   <figcaption><strong>Figura 4:</strong> Endpoints de Coupons en Swagger UI (Parte 4).</figcaption>
 </figure>
 
 <figure style="text-align: center;">
-  <img src="resources/images/chapter-5/swagger_user_payments.png" alt="Sección Users y Payments del Swagger UI" width="700">
+  <img src="resources/images/chapter-5/swagger_user_payments.jpg" alt="Sección Users y Payments del Swagger UI" width="700">
   <figcaption><strong>Figura 5:</strong> Endpoints de Users y Payments en Swagger UI (Parte 5).</figcaption>
 </figure>
 
 <figure style="text-align: center;">
-  <img src="resources/images/chapter-5/swagger_payments.png" alt="Sección Payments del Swagger UI" width="700">
+  <img src="resources/images/chapter-5/swagger_payments.jpg" alt="Sección Payments del Swagger UI" width="700">
   <figcaption><strong>Figura 6:</strong> Endpoints de Payments en Swagger UI (Parte 6).</figcaption>
 </figure>
 
 <figure style="text-align: center;">
-  <img src="resources/images/chapter-5/swagger_schemas_1.png" alt="Vista de los modelos y recursos del API - Parte 1" width="700">
+  <img src="resources/images/chapter-5/swagger_schemas_1.jpg" alt="Vista de los modelos y recursos del API - Parte 1" width="700">
   <figcaption><strong>Figura 7:</strong> Vista de los Schemas del API GeoPS en Swagger UI (Parte 1).</figcaption>
 </figure>
 
 <figure style="text-align: center;">
-  <img src="resources/images/chapter-5/swagger_schemas_2.png" alt="Vista de los modelos y recursos del API - Parte 2" width="700">
+  <img src="resources/images/chapter-5/swagger_schemas_2.jpg" alt="Vista de los modelos y recursos del API - Parte 2" width="700">
   <figcaption><strong>Figura 8:</strong> Continuación de los Schemas del API GeoPS en Swagger UI (Parte 2).</figcaption>
 </figure>
 

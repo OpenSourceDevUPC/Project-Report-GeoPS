@@ -3676,7 +3676,7 @@ A continuación, se presentan las evidencias de ejecución correspondientes al S
 
 ##### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
-En esta sección se documenta el proceso de despliegue del backend de GeoPS desarrollado en Spring Boot hacia la plataforma Railway. El proyecto se encuentra alojado en el repositorio [https://github.com/DevWebUPC/collabus-backend](https://github.com/OpenSourceDevUPC/geops-backend) y está disponible públicamente en [https://geops-backend-production.up.railway.app/swagger-ui/index.html](https://geops-backend-production.up.railway.app/swagger-ui/index.html).
+En esta sección se documenta el proceso de despliegue del backend de GeoPS desarrollado en Spring Boot hacia la plataforma Railway. El proyecto se encuentra alojado en el repositorio [https://github.com/OpenSourceDevUPC/geops-backend](https://github.com/OpenSourceDevUPC/geops-backend) y está disponible públicamente en [https://geops-backend-production.up.railway.app/swagger-ui/index.html](https://geops-backend-production.up.railway.app/swagger-ui/index.html).
 
 **Proceso de Despliegue del Backend GeoPS en Railway:**
 

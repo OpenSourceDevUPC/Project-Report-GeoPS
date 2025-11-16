@@ -3932,7 +3932,7 @@ World Bank. (2019). *World Development Report 2019: The Changing Nature of Work*
 
 - Video About the Team - Sprint 1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318049_upc_edu_pe/IQBwRtkeYfyORpJETMTq48mrAZgOmB0zZHdXozfut2y4dBs?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=MPgLaG
   
-- Video About the Team - Sprint 3: 
+- Video About the Team - Sprint 3: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318049_upc_edu_pe/IQBqo_9vc3znQbV_enC_4_D5AbCZe0Z2sjbrgtjbAQLq3gg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=E0OWpy
 
 - Video de presentación BackEnd: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202322855_upc_edu_pe/IQBaDGRLY_lmR7SNyWP_vuefATEzT6ELZx1QbGjP-Rp5wqg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=9HgNYp
 
@@ -3940,6 +3940,6 @@ World Bank. (2019). *World Development Report 2019: The Changing Nature of Work*
 
 - Video Exposición TB1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318049_upc_edu_pe/IQAYAOtcnJkrSJ5sMW1GzIvGAXt4Ff89DrfcOtG7Mzwu_LM?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=H9YV0Q
 
-- Video Exposición TB2: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318049_upc_edu_pe/ERgA61ycmStInmwxbUbMi8YBmcogeigzUW_kb0pwMezHyA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ueo7hW
+- Video Exposición TB2: 
 
 - Video Web Application Prototyping: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318049_upc_edu_pe/IQD6SaN-XMsAR6NvgRD_Ev7BAf-nnmSLy5uYleYv0lLnt0Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=qlRmGJ

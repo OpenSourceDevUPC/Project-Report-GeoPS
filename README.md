@@ -3779,7 +3779,7 @@ Se valida el despliegue exitoso confirmando que el backend está completamente o
 **URLs del Servicio Desplegado:**
 - **API Backend:** https://geops-backend-production.up.railway.app
 - **Documentación Swagger:** https://geops-backend-production.up.railway.app/swagger-ui/index.html
-- **Repositorio:** https://github.com/DevWebUPC/collabus-backend
+- **Repositorio:** https://github.com/OpenSourceDevUPC/geops-backend
 
 El despliegue del backend GeoPS en Railway ha sido exitoso, proporcionando una API REST completamente funcional y accesible públicamente para soportar las operaciones del frontend y futuras integraciones del sistema.
 

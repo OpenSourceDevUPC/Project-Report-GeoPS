@@ -3426,15 +3426,15 @@ En esta sección, nos sumergiremos en los detalles del Sprint Planning 3 para el
 | **Campo** | **Detalle** |
 |------------|-------------|
 | **Sprint #** | Sprint 3 |
-| **Sprint Planning Background** | Reunión de planificación para definir los objetivos, alcance y distribución de tareas del Sprint 3. |
+| **Sprint Planning Background** | Reunión orientada a planificar las tareas técnicas del backend, priorizando refactorización, optimización de módulos, mejoras de estabilidad y finalización de endpoints clave para la integración del sistema GeoPS. |
 | **Date** | 2025-11-07 |
 | **Time** | 20:00 |
 | **Location** | Server Open Source |
 | **Prepared By** | Huarcaya Matias, Gilbert Alonso |
 | **Attendees (to planning meeting)** | Huapaya Galindo, Dyron / Cotrina Siclla, Sofia Alessandra / Huarcaya Matias, Gilbert Alonso / Goñe Araccata, Esther Abigail / Salazar Caballero, Alvaro Fabrizzio |
-| **Sprint 3 Goal** |  |
-| **Sprint Velocity** | XX Story Points |
-| **Sum of Story Points** | XX Story Points |
+| **Sprint 3 Goal** | Completar las mejoras esenciales del backend para asegurar estabilidad, consistencia de datos y funcionamiento correcto de las funcionalidades principales de GeoPS. |
+| **Sprint Velocity** | 26 Story Points |
+| **Sum of Story Points** | 41 Story Points |
 
 ##### 5.2.3.2. Aspect Leaders and Collaborators
 
@@ -3454,7 +3454,7 @@ Link del trello: https://trello.com/invite/b/6827b176ac2901fb01dfde7f/ATTI0105ab
 
 <figure style="text-align: center;">
   <img src="resources/images/chapter-5/Product_Backlog_3.jpg" 
-       alt="Vista del Product Backlog (Parte 3)" width="700">
+       alt="Vista del Product Backlog (Parte 3)" width="1000">
   <figcaption><strong>Figura X:</strong> Product Backlog – Parte 3.</figcaption>
 </figure>
 

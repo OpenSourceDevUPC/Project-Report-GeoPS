@@ -3684,6 +3684,44 @@ Durante el Sprint 3 se completó la documentación de los Web Services del backe
 * Descripción:  
   - Permite registrar nuevas transacciones, actualizar el estado de un pago (incluyendo marcarlo como fallido o completado), consultar pagos por filtros como usuario, estado o carrito, y validar si un carrito ya cuenta con una transacción activa.
 
+**Capturas de Endpoints**
+
+**1. Autenticación (Authentication)**
+
+  <img src="resources/imgs/ss_authentication.png" alt="Autenticacion SS" width="700">
+
+**2. Usuarios (Users)**  
+
+  <img src="resources/imgs/ss_users.png" alt="Usuarios SS" width="700">
+
+**3. Favoritos (Favorites)**  
+
+  <img src="resources/imgs/ss_favorites.png" alt="Favoritos SS" width="700">
+
+**4. Reseñas de Ofertas (Reviews)**
+
+  <img src="resources/imgs/ss_reviews.png" alt="Reviews SS" width="700">
+
+**5. Carrito de Compra (Carts)**
+
+  <img src="resources/imgs/ss_cart.png" alt="Carts SS" width="700">
+
+**6. Planes de Suscripción (Subscriptions)**
+
+  <img src="resources/imgs/ss_subscriptions.png" alt="Suscripciones SS" width="700">
+
+**7. Ofertas (Offers)** 
+
+  <img src="resources/imgs/ss_offers.png" alt="Ofertas SS" width="700">
+
+**8. Cupones (Coupons)**
+
+  <img src="resources/imgs/ss_coupons.png" alt="Cupones SS" width="700">
+
+**9. Pagos (Payments)**
+
+  <img src="resources/imgs/ss_payments.png" alt="Pagos SS" width="700">
+
 ##### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
 En esta sección se documenta el proceso de despliegue del backend de GeoPS desarrollado en Spring Boot hacia la plataforma Railway. El proyecto se encuentra alojado en el repositorio [https://github.com/OpenSourceDevUPC/geops-backend](https://github.com/OpenSourceDevUPC/geops-backend) y está disponible públicamente en [https://geops-backend-production.up.railway.app/swagger-ui/index.html](https://geops-backend-production.up.railway.app/swagger-ui/index.html).

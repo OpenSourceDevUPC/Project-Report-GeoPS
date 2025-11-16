@@ -3514,6 +3514,8 @@ A continuación, se presentan las evidencias de ejecución correspondientes al S
 
 ##### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
+Durante el Sprint 3 se completó la documentación de los Web Services del backend de GeoPS, desarrollado en Java e integrado con Swagger UI, permitiendo exponer de manera clara y estructurada todos los endpoints de la API. Se registraron las operaciones y descripciones de los módulos de Authentication, Users, Favorites, Reviews, Carts, Subscriptions, Offers, Coupons y Payments, abarcando procesos esenciales como autenticación con JWT, gestión de usuarios, manejo de favoritos, reseñas, carritos de compra, planes de suscripción, ofertas, cupones y transacciones de pago. Este avance proporcionó una base documental sólida que facilita la integración con el frontend, mejora la mantenibilidad del sistema y asegura un desarrollo alineado con el roadmap del producto digital.
+
 | Método | Path | Descripción |
 | ----- | ----- | ----- |
 | POST | /api/v1/authentication/sign-up | Registra a un nuevo usuario. |

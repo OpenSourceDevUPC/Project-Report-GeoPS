@@ -2499,11 +2499,11 @@ Esta configuración nos permite mantener nuestra Landing Page actualizada de man
 
 En esta sección, documentaremos y explicaremos el progreso del Sprint 1 en términos de desarrollo de la plataforma GeoPS y colaboración del equipo. Abordaremos varios aspectos clave, incluyendo la planificación del sprint centrada en funcionalidades de geolocalización y publicidad hiperlocalizada.
 
-#### 5.2. Landing Page, Services & Applications Implementation
+### 5.2. Landing Page, Services & Applications Implementation
 
 #### 5.2.1. Sprint 1
 
-#### 5.2.1.1. Sprint Planning 1
+##### 5.2.1.1. Sprint Planning 1
 
 En esta sección, nos sumergiremos en los detalles del Sprint Planning Meeting 1 para el desarrollo de GeoPS.
 
@@ -2556,7 +2556,7 @@ En esta sección, nos sumergiremos en los detalles del Sprint Planning Meeting 1
   </tr>
 </table>
 
-#### 5.2.1.2. Aspect Leaders and Collaborators
+##### 5.2.1.2. Aspect Leaders and Collaborators
 
 En esta sección se incluye la elaboración del artefacto Leadership and Collaboration Matrix (LACX), el cual define quién es el líder y quiénes son los colaboradores para este Sprint 1 del proyecto GeoPS.
 
@@ -2572,7 +2572,7 @@ En esta sección se incluye la elaboración del artefacto Leadership and Collabo
 - L: Leader (Líder)
 - C: Collaborator (Colaborador)
 
-#### 5.2.1.3. Sprint Backlog 1
+##### 5.2.1.3. Sprint Backlog 1
 
 El Sprint Backlog 1 está orientado al desarrollo de la Landing Page informativa de la plataforma GeoPS, basado en las User Stories definidas para el primer sprint. A continuación se presenta el detalle de las tareas completadas según la planificación en Trello.
 
@@ -2726,7 +2726,7 @@ El Sprint Backlog 1 está orientado al desarrollo de la Landing Page informativa
   </tbody>
 </table>
 
-#### 5.2.1.4. Development Evidence for Sprint Review
+##### 5.2.1.4. Development Evidence for Sprint Review
 
 Durante el Sprint 1, el equipo realizó commits importantes para el desarrollo de la Landing Page de GeoPS. A continuación se presenta la evidencia de desarrollo basada en el análisis del repositorio Landing:
 
@@ -2776,7 +2776,7 @@ Landing/
 5. **Performance:** Optimización de imágenes, lazy loading, animaciones CSS
 6. **Cross-browser:** Compatibilidad con navegadores modernos y optimizaciones específicas
 
-#### 5.2.1.5. Execution Evidence for Sprint Review
+##### 5.2.1.5. Execution Evidence for Sprint Review
 
 En este sprint, el equipo logró completar exitosamente la implementación de la Landing Page informativa de GeoPS. A continuación se presentan las evidencias visuales de ejecución de cada sección desarrollada:
 
@@ -2865,7 +2865,7 @@ Footer completo con enlaces a redes sociales, información de contacto y políti
 
 La landing page implementada cumple exitosamente con todos los User Stories planificados para el Sprint 1, proporcionando una experiencia de usuario completa y profesional que comunica efectivamente la propuesta de valor de GeoPS.
 
-#### 5.2.1.6. Services Documentation Evidence for Sprint Review
+##### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
 Durante el primer sprint de desarrollo, nuestro equipo estableció los fundamentos sólidos para el proyecto GeoPS mediante la implementación estratégica de un repositorio centralizado. Esta decisión inicial demostró ser fundamental para mantener la coherencia y organización del flujo de trabajo, permitiendo una gestión eficaz de todas las actividades de desarrollo.
 
@@ -2875,7 +2875,7 @@ Este enfoque colaborativo resultó en una sincronización excepcional del equipo
 
 **Repositorio del Proyecto:** https://github.com/OpenSourceDevUPC/Landing
 
-#### 5.2.1.7. Software Deployment Evidence for Sprint Review
+##### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
 El deployment de la Landing Page de GeoPS se realizó exitosamente utilizando GitHub Pages:
 
@@ -2898,7 +2898,7 @@ Figura Evidencia de deployment
 
 ![Landing Page Desplegada](./resources/images/chapter-5/github-pages-landing-page.png)
 
-#### 5.2.1.8. Team Collaboration Insights during Sprint
+##### 5.2.1.8. Team Collaboration Insights during Sprint
 
 Durante el Sprint 1, el equipo demostró una colaboración excepcional utilizando GitHub como plataforma principal de desarrollo. A continuación se presentan las métricas de colaboración extraídas directamente del repositorio del proyecto.
 
@@ -2975,7 +2975,7 @@ El Sprint 1 ha demostrado que el equipo posee una sólida capacidad de colaborac
 
 #### 5.2.2. Sprint 2
 
-#### 5.2.2.1. Sprint Planning 2
+##### 5.2.2.1. Sprint Planning 2
 
 En esta sección, nos sumergiremos en los detalles del Sprint Planning 2 para el desarrollo de GeoPS.
 
@@ -2992,9 +2992,9 @@ En esta sección, nos sumergiremos en los detalles del Sprint Planning 2 para el
 | **Sprint Velocity** | 20 Story Points |
 | **Sum of Story Points** | 23 Story Points |
 
-#### 5.2.2.2. Aspect Leaders and Collaborators
+##### 5.2.2.2. Aspect Leaders and Collaborators
 
-En esta sección se incluye la elaboración del artefacto Leadership and Collaboration Matrix (LACX), el cual define quién es el líder y quiénes son los colaboradores para este Sprint 1 del proyecto GeoPS.
+En esta sección se incluye la elaboración del artefacto Leadership and Collaboration Matrix (LACX), el cual define quién es el líder y quiénes son los colaboradores para este Sprint 2 del proyecto GeoPS.
 
 | **Team Member (Last Name, First Name)** | **GitHub Username** | **Geo-PS Frontend Leader (L) / Collaborator (C)** | **Geo-PS Frontend Leader (L) / Collaborator (C)** | **Geo-PS Frontend Leader (L) / Collaborator (C)** |
 |-----------------------------------------|---------------------|----------------------------------------------------|----------------------------------------------------|----------------------------------------------------|
@@ -3004,7 +3004,7 @@ En esta sección se incluye la elaboración del artefacto Leadership and Collabo
 | **Goñe Araccata, Esther Abigail**       | abigoe02            | C | L | C |
 | **Salazar Caballero, Alvaro Fabrizzio** | IDymian             | C | C | C |
 
-#### 5.2.2.3. Sprint Backlog 2
+##### 5.2.2.3. Sprint Backlog 2
 Elaboramos el sprint backlog 2 en trello, como se puede apreciar en la siguiente imagen:
 
 <figure style="text-align: center;">
@@ -3052,7 +3052,7 @@ Link del trello: https://trello.com/b/CZ3eGcx8/product-backlog-geops
 |  | Pruebas de cambios | T4 | Validar todos los caminos: renovar, cancelar, cambiar plan | 1 | Gilbert Huarcaya | Done |
 
 
-#### 5.2.2.4. Development Evidence for Sprint Review.
+##### 5.2.2.4. Development Evidence for Sprint Review.
 
 ###  Sprint Backlog 2 – Commits Overview
 
@@ -3119,8 +3119,7 @@ Link del trello: https://trello.com/b/CZ3eGcx8/product-backlog-geops
   </tbody>
 </table>
 
-
-### 5.2.2.5. Execution Evidence for Sprint Review
+##### 5.2.2.5. Execution Evidence for Sprint Review
 
 Durante este sprint, se desarrolló exclusivamente el **frontend de GeoPS**, estableciendo los componentes y flujos principales para la **navegación** y la **gestión de la experiencia del usuario**.
 
@@ -3157,7 +3156,7 @@ Este avance representa el **primer paso visual y funcional de GeoPS**, estableci
 ---
 
 *Este sprint consolida la experiencia inicial del usuario final, asegurando una base sólida para la integración futura del backend, autenticación y servicios en tiempo real.*
-### 5.2.2.6. Services Documentation Evidence for Sprint Review
+##### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
 A continuación, se presentan los **endpoints desarrollados e implementados durante el Sprint 2** de GeoPS, los cuales establecen la comunicación entre el frontend y los servicios simulados del sistema.
 
@@ -3182,13 +3181,11 @@ Estos endpoints fueron utilizados para la simulación del flujo de datos dentro 
  **Próximos pasos:**  
 En sprints posteriores, estos endpoints serán vinculados al **API real** de GeoPS con persistencia de datos, autenticación JWT y gestión de estados compartidos (NgRx).
 
-###5.2.2.7. Software Deployment Evidence for Sprint Review.
+##### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
 - Enlace del proyecto deploy: https://geops-frontend.vercel.app/login
 
 - Enlace del json server: https://json-server-1-p24l.onrender.com/
-
-#### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
 En este apartado se documenta el proceso de despliegue de la base de datos JSON (json-server) en Render y el despliegue de la aplicación frontend desarrollada en Angular. Ambos despliegues se realizaron para disponer de una API de prueba pública y una versión accesible del frontend durante las revisiones del sprint.
 
@@ -3288,7 +3285,7 @@ En este apartado se documenta el proceso de despliegue de la base de datos JSON 
 - **JSON Server API:**: https://json-server-1-p24l.onrender.com
 - **Frontend Angular:**: https://geops-frontend.vercel.app/login 
 
-### 5.2.2.8. Team Collaboration Insights during Sprint
+##### 5.2.2.8. Team Collaboration Insights during Sprint
 
 Durante el **Sprint 2**, el equipo mantuvo una colaboración constante y organizada a través del repositorio de **GitHub**, consolidando las prácticas de control de versiones implementadas desde el primer sprint.
 
@@ -3399,16 +3396,16 @@ El uso disciplinado de ramas, la constancia en los commits y la comunicación ef
 
 #### 5.2.3. Sprint 3
 
-#### 5.2.3.1. Sprint Planning 3
+##### 5.2.3.1. Sprint Planning 3
 
-En esta sección, nos sumergiremos en los detalles del Sprint Planning 2 para el desarrollo de GeoPS.
+En esta sección, nos sumergiremos en los detalles del Sprint Planning 3 para el desarrollo de GeoPS.
 
 | **Campo** | **Detalle** |
 |------------|-------------|
 | **Sprint #** | Sprint 3 |
 | **Sprint Planning Background** | Reunión de planificación para definir los objetivos, alcance y distribución de tareas del Sprint 3. |
-| **Date** | ... |
-| **Time** | ... |
+| **Date** | 2025-11-07 |
+| **Time** | 20:00 |
 | **Location** | Server Open Source |
 | **Prepared By** | Huarcaya Matias, Gilbert Alonso |
 | **Attendees (to planning meeting)** | Huapaya Galindo, Dyron / Cotrina Siclla, Sofia Alessandra / Huarcaya Matias, Gilbert Alonso / Goñe Araccata, Esther Abigail / Salazar Caballero, Alvaro Fabrizzio |
@@ -3416,9 +3413,9 @@ En esta sección, nos sumergiremos en los detalles del Sprint Planning 2 para el
 | **Sprint Velocity** | XX Story Points |
 | **Sum of Story Points** | XX Story Points |
 
-#### 5.2.3.2. Aspect Leaders and Collaborators
+##### 5.2.3.2. Aspect Leaders and Collaborators
 
-En esta sección se incluye la elaboración del artefacto Leadership and Collaboration Matrix (LACX), el cual define quién es el líder y quiénes son los colaboradores para este Sprint 1 del proyecto GeoPS.
+En esta sección se incluye la elaboración del artefacto Leadership and Collaboration Matrix (LACX), el cual define quién es el líder y quiénes son los colaboradores para este Sprint 3 del proyecto GeoPS.
 
 | **Team Member (Last Name, First Name)** | **GitHub Username** | **Geo-PS Backend Leader (L) / Collaborator (C)** | **Geo-PS Backend Leader (L) / Collaborator (C)** | **Geo-PS Backend Leader (L) / Collaborator (C)** |
 |-----------------------------------------|---------------------|----------------------------------------------------|----------------------------------------------------|----------------------------------------------------|
@@ -3428,25 +3425,235 @@ En esta sección se incluye la elaboración del artefacto Leadership and Collabo
 | **Goñe Araccata, Esther Abigail**       | abigoe02            | C | L | C |
 | **Salazar Caballero, Alvaro Fabrizzio** | IDymian             | C | C | C |
 
-#### 5.2.3.3. Sprint Backlog 3
+##### 5.2.3.3. Sprint Backlog 3
 
 
 
-#### 5.2.3.4. Development Evidence for Sprint Review.
+##### 5.2.3.4. Development Evidence for Sprint Review.
 
 ###  Sprint Backlog 3 – Commits Overview
 
 
 
-### 5.2.3.5. Execution Evidence for Sprint Review
+##### 5.2.3.5. Execution Evidence for Sprint Review
 
+A continuación, se presentan las evidencias de ejecución correspondientes al Sprint 3, mostrando el funcionamiento de los endpoints implementados en el backend. Las capturas reflejan las pruebas realizadas mediante herramientas como Swagger UI y la respuesta directa del servidor, verificando que los módulos desarrollados funcionan correctamente.
 
+**Capturas de pantalla de las principales vistas**
 
-### 5.2.3.6. Services Documentation Evidence for Sprint Review
+<figure style="text-align: center;">
+  <img src="resources/images/chapter-5/swagger_auth_favorites.png" alt="Sección Authentication y Favorites del Swagger UI" width="700">
+  <figcaption><strong>Figura 1:</strong> Endpoints de Authentication y Favorites en Swagger UI (Parte 1).</figcaption>
+</figure>
 
+<figure style="text-align: center;">
+  <img src="resources/images/chapter-5/swagger_reviews_carts.png" alt="Sección Reviews y Carts del Swagger UI" width="700">
+  <figcaption><strong>Figura 2:</strong> Endpoints de Reviews y Carts en Swagger UI (Parte 2).</figcaption>
+</figure>
 
+<figure style="text-align: center;">
+  <img src="resources/images/chapter-5/swagger_subscriptions_offers.png" alt="Sección Subscriptions y Offers del Swagger UI" width="700">
+  <figcaption><strong>Figura 3:</strong> Endpoints de Subscriptions y Offers en Swagger UI (Parte 3).</figcaption>
+</figure>
 
-#### 5.2.3.7. Software Deployment Evidence for Sprint Review
+<figure style="text-align: center;">
+  <img src="resources/images/chapter-5/swagger_coupons.png" alt="Sección Coupons del Swagger UI" width="700">
+  <figcaption><strong>Figura 4:</strong> Endpoints de Coupons en Swagger UI (Parte 4).</figcaption>
+</figure>
+
+<figure style="text-align: center;">
+  <img src="resources/images/chapter-5/swagger_user_payments.png" alt="Sección Users y Payments del Swagger UI" width="700">
+  <figcaption><strong>Figura 5:</strong> Endpoints de Users y Payments en Swagger UI (Parte 5).</figcaption>
+</figure>
+
+<figure style="text-align: center;">
+  <img src="resources/images/chapter-5/swagger_payments.png" alt="Sección Payments del Swagger UI" width="700">
+  <figcaption><strong>Figura 6:</strong> Endpoints de Payments en Swagger UI (Parte 6).</figcaption>
+</figure>
+
+<figure style="text-align: center;">
+  <img src="resources/images/chapter-5/swagger_schemas_1.png" alt="Vista de los modelos y recursos del API - Parte 1" width="700">
+  <figcaption><strong>Figura 7:</strong> Vista de los Schemas del API GeoPS en Swagger UI (Parte 1).</figcaption>
+</figure>
+
+<figure style="text-align: center;">
+  <img src="resources/images/chapter-5/swagger_schemas_2.png" alt="Vista de los modelos y recursos del API - Parte 2" width="700">
+  <figcaption><strong>Figura 8:</strong> Continuación de los Schemas del API GeoPS en Swagger UI (Parte 2).</figcaption>
+</figure>
+
+- Video de presentación Backend: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202322855_upc_edu_pe/IQBaDGRLY_lmR7SNyWP_vuefATEzT6ELZx1QbGjP-Rp5wqg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=9HgNYp
+
+##### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+| Método | Path | Descripción |
+| ----- | ----- | ----- |
+| POST | /api/v1/authentication/sign-up | Registra a un nuevo usuario. |
+| POST | /api/v1/authentication/sign-in | Autentica al usuario y genera JWT. |
+| GET | /api/v1/favorites | Obtiene favoritos por usuario o valida si existe uno. |
+| POST | /api/v1/favorites | Crea un nuevo favorito. |
+| DELETE | /api/v1/favorites/{id} | Elimina un favorito por ID. |
+| GET | /api/v1/reviews | Obtiene todas las reseñas o por ID de oferta. |
+| POST | /api/v1/reviews | Crea una nueva reseña. |
+| GET | /api/v1/reviews/{id} | Obtiene la reseña por ID. |
+| DELETE | /api/v1/reviews/{id} | Elimina la reseña por ID. |
+| PATCH | /api/v1/reviews/{id} | Actualiza una reseña existente. |
+| GET | /api/v1/carts/{id} | Obtiene un carrito por ID. |
+| PUT | /api/v1/carts/{id} | Actualiza el carrito por ID. |
+| DELETE | /api/v1/carts/{id} | Elimina el carrito. |
+| PUT | /api/v1/carts/user/{userId}/items/{offerId} | Actualiza la cantidad de un ítem en el carrito. |
+| GET | /api/v1/carts | Obtiene todo los carritos. |
+| POST | /api/v1/carts | Crea un nuevo carrito. |
+| POST | /api/v1/carts/user/{userId}/items | Agrega un ítem al carrito del usuario. |
+| GET | /api/v1/carts/user/{userId} | Obtiene el carrito de un usuario. |
+| DELETE | /api/v1/carts/user/{userId} | Limpia el carrito del usuario. |
+| GET | /api/v1/subscriptions/{id} | Obtiene un plan por ID. |
+| PUT | /api/v1/subscriptions/{id} | Actualiza un plan de suscripción. |
+| DELETE | /api/v1/subscriptions/{id} | Elimina un plan de suscripción. |
+| GET | /api/v1/subscriptions | Lista todos los planes de suscripción. |
+| POST | /api/v1/subscriptions | Crea un nuevo plan de suscripción. |
+| GET | /api/v1/subscriptions/type/{type} | Lista planes filtrados por tipo. |
+| GET | /api/v1/subscriptions/recommended | Obtiene planes recomendados. |
+| GET | /api/v1/offers/{id} | Obtiene una oferta por ID. |
+| PUT | /api/v1/offers/{id} | Actualiza una oferta. |
+| DELETE | /api/v1/offers/{id} | Elimina una oferta. |
+| GET | /api/v1/offers | Obtiene todas las ofertas por IDs. |
+| POST | /api/v1/offers | Crea una nueva oferta. |
+| GET | /api/v1/coupons/{id} | Obtiene un cupón por ID. |
+| PUT | /api/v1/coupons/{id} | Actualiza un cupón. |
+| DELETE | /api/v1/coupons/{id} | Elimina un cupón. |
+| GET | /api/v1/coupons | Obtiene todos los cupones con filtros opcionales. |
+| POST | /api/v1/coupons | Crea un cupón. |
+| POST | /api/v1/coupons/bulk | Crea cupones en lote. |
+| POST | /api/v1/coupons/bulk-wrapped | Crea cupones en lote (endpoint alterno). |
+| GET | /api/v1/coupons/user/{userId} | Cupones por usuario. |
+| GET | /api/v1/coupons/user/{userId}/valid | Cupones válidos del usuario. |
+| GET | /api/v1/coupons/payment/{paymentId} | Cupones por ID de pago. |
+| GET | /api/v1/coupons/expired | Cupones expirados. |
+| GET | /api/v1/coupons/code/{code} | Cupón por código de redención. |
+| GET | /api/v1/users/{id} | Obtiene información del usuario por ID. |
+| PUT | /api/v1/users/{id} | Actualiza información del usuario. |
+| DELETE | /api/v1/users/{id} | Elimina un usuario. |
+| POST | /api/v1/users | Crea un nuevo usuario. |
+| GET | /api/v1/users/me | Obtiene al usuario actualmente autenticado. |
+| PUT | /api/v1/payments/{paymentId}/status | Actualiza estado de pago. |
+| PUT | /api/v1/payments/{paymentId}/fail | Marca un pago como fallido. |
+| PUT | /api/v1/payments/{paymentId}/complete | Completa transacción de pago. |
+| GET | /api/v1/payments/{id} | Obtiene un pago por ID. |
+| PUT | /api/v1/payments/{id} | Actualiza un pago existente. |
+| DELETE | /api/v1/payments/{id} | Elimina un pago. |
+| GET | /api/v1/payments | Lista todos los pagos. |
+| POST | /api/v1/payments | Crea una nueva transacción de pago. |
+| GET | /api/v1/payments/user/{userId} | Pagos por usuario. |
+| GET | /api/v1/payments/status/{status} | Pagos filtrados por estado. |
+| GET | /api/v1/payments/cart/{cartId} | Pagos asociados a un carrito. |
+| GET | /api/v1/payments/cart/{cartId}/exists | Verifica si existe pago para un carrito. |
+
+**1. Autenticación (Authentication)**
+* Operaciones CRUD soportadas:  
+  - **POST:** Iniciar sesión de usuario (sign-in).  
+  - **POST:** Registrar un nuevo usuario (sign-up).  
+* Descripción:  
+  - Permite registrar usuarios y autenticar sus credenciales para otorgarles un token JWT, el cual se utiliza para acceder a los endpoints protegidos del sistema. Es la base del control de identidad y seguridad dentro de la API.
+
+**2. Usuarios (Users)**  
+* Operaciones CRUD soportadas:  
+  - **GET:** Obtener los datos de un usuario específico mediante su ID.  
+  - **PUT:** Actualizar la información de un usuario existente por su ID.  
+  - **DELETE:** Eliminar un usuario del sistema utilizando su ID.  
+  - **POST:** Crear un nuevo usuario en la plataforma.  
+  - **GET:** Obtener la información del usuario actualmente autenticado.  
+* Descripción:  
+  - Permite registrar nuevos usuarios, consultar información individual, actualizar sus datos y gestionar la eliminación de cuentas. Además, proporciona el endpoint que permite obtener el perfil del usuario autenticado mediante el token JWT, facilitando funcionalidades personalizadas y la integración con otros servicios del sistema.
+
+**3. Favoritos (Favorites)**  
+* Operaciones CRUD soportadas:  
+  - **GET**: Obtener favoritos del usuario o validar si uno existe.  
+  - **POST**: Crear un favorito.  
+  - **DELETE**: Eliminar un favorito por ID.  
+* Descripción:  
+  - Desde este módulo es posible consultar los elementos guardados, agregar nuevas ofertas a la lista de favoritos o eliminar aquellas que el usuario ya no desea mantener. Facilita el acceso rápido a las promociones preferidas y mejora la experiencia de personalización.
+
+**4. Reseñas de Ofertas (Reviews)**
+* Operaciones CRUD soportadas:  
+  - **GET:** Obtener todas las reseñas registradas o filtrarlas por ID de oferta.  
+  - **POST:** Crear una nueva reseña para una oferta.  
+  - **GET:** Obtener una reseña específica mediante su ID.  
+  - **DELETE:** Eliminar una reseña del sistema mediante su ID.  
+  - **PATCH:** Actualizar parcialmente una reseña existente.  
+* Descripción:  
+  - Facilita la creación de comentarios, su actualización y la consulta tanto general como individual.
+
+**5. Carrito de Compra (Carts)**
+* Operaciones CRUD soportadas:  
+  - **GET:** Obtener los datos de un carrito específico por su ID.  
+  - **PUT:** Actualizar la información completa de un carrito por su ID.  
+  - **DELETE:** Eliminar un carrito del sistema mediante su ID.  
+  - **PUT:** Actualizar la cantidad de un ítem dentro del carrito de un usuario.  
+  - **GET:** Obtener todos los carritos registrados en el sistema.  
+  - **POST:** Crear un carrito para un usuario.  
+  - **POST:** Agregar un ítem al carrito de un usuario.  
+  - **GET:** Obtener el carrito correspondiente a un usuario mediante su userId.  
+  - **DELETE:** Limpiar por completo el carrito de un usuario específico.  
+* Descripción:  
+  - Permite agregar ofertas al carrito, modificar cantidades, visualizar el estado actual del carrito, eliminar ítems y vaciar el carrito cuando sea necesario. Es una parte esencial del flujo de compra, ya que gestiona la preparación de los productos que luego serán procesados mediante pagos y cupones.
+
+**6. Planes de Suscripción (Subscriptions)**  
+* Operaciones CRUD soportadas:  
+  - **GET:** Obtener un plan de suscripción por su ID.  
+  - **PUT:** Actualizar un plan de suscripción existente**.**  
+  - **DELETE:** Eliminar un plan de suscripción por ID.  
+  - **GET:** Obtener todos los planes de suscripción disponibles.  
+  - **POST:** Crear un nuevo plan de suscripción.  
+  - **GET:** Obtener los planes filtrados por tipo.  
+  - **GET:** Obtener planes de suscripción recomendados.  
+* Descripción:  
+  - Permite gestionar todos los planes de suscripción disponibles dentro de la plataforma. Desde este módulo se pueden consultar, crear, actualizar y eliminar planes, así como obtener sugerencias personalizadas según las necesidades del usuario. 
+
+**7. Ofertas (Offers)**  
+* Operaciones CRUD soportadas:  
+  - **GET:** Obtener una oferta específica por su ID.  
+  - **PUT:** Actualizar una oferta existente mediante su ID.  
+  - **DELETE:** Eliminar una oferta por su ID.  
+  - **GET:** Obtener todas las ofertas registradas o filtrarlas por un conjunto de IDs.  
+  - **POST:** Crear una nueva oferta dentro del sistema.  
+* Descripción:  
+  - Permite que los usuarios puedan consultar el catálogo completo de ofertas, permitiendo una experiencia dinámica y actualizada respecto a descuentos, promociones y beneficios ofrecidos en la plataforma.
+
+**8. Cupones (Coupons)**
+* Operaciones CRUD soportadas:  
+  - **GET:** Obtener un cupón por su ID.  
+  - **PUT:** Actualizar los datos de un cupón existente.  
+  - **DELETE:** Eliminar un cupón del sistema mediante su ID.  
+  - **GET:** Obtener todos los cupones registrados, con filtros opcionales y relaciones adicionales.  
+  - **POST:** Crear un nuevo cupón de manera individual.  
+  - **POST:** Crear múltiples cupones en lote.  
+  - **POST:** Crear múltiples cupones utilizando un formato alternativo de carga.  
+  - **GET:** Obtener los cupones pertenecientes a un usuario específico.  
+  - **GET:** Obtener únicamente los cupones válidos de un usuario.  
+  - **GET:** Obtener cupones asociados a una transacción de pago.  
+  - **GET:** Obtener cupones expirados.  
+  - **GET:** Obtener un cupón mediante su código de redención.  
+* Descripción:  
+  - Permite la creación tanto individual como masiva de cupones, su actualización, la verificación de su validez y su asociación con usuarios y pagos. Además, facilita que los usuarios puedan consultar sus cupones disponibles, utilizados o expirados, mejorando la personalización y ofreciendo beneficios exclusivos que complementan la experiencia general de compra y promociones dentro de la plataforma.
+
+**9. Pagos (Payments)**
+* Operaciones CRUD soportadas:  
+  - **PUT:** Actualizar el estado de un pago mediante su paymentId.  
+  - **PUT:** Marcar un pago como fallido.  
+  - **PUT:** Completar una transacción de pago.  
+  - **GET:** Obtener los datos de un pago mediante su ID.  
+  - **PUT:** Actualizar información de una transacción de pago.  
+  - **DELETE:** Eliminar una transacción de pago del sistema.  
+  - **GET:** Obtener todos los pagos registrados.  
+  - **POST:** Crear una nueva transacción de pago.  
+  - **GET:** Obtener los pagos asociados a un usuario específico.  
+  - **GET:** Obtener pagos filtrados por estado.  
+  - **GET:** Obtener los pagos vinculados a un carrito (cartId).  
+  - **GET:** Verificar si existe una transacción de pago asociada a un carrito.  
+* Descripción:  
+  - Permite registrar nuevas transacciones, actualizar el estado de un pago (incluyendo marcarlo como fallido o completado), consultar pagos por filtros como usuario, estado o carrito, y validar si un carrito ya cuenta con una transacción activa.
+
+##### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
 En esta sección se documenta el proceso de despliegue del backend de GeoPS desarrollado en Spring Boot hacia la plataforma Railway. El proyecto se encuentra alojado en el repositorio https://github.com/DevWebUPC/collabus-backend y está disponible públicamente en https://geops-backend-production.up.railway.app/swagger-ui/index.html.
 
@@ -3556,12 +3763,12 @@ Se valida el despliegue exitoso confirmando que el backend está completamente o
 El despliegue del backend GeoPS en Railway ha sido exitoso, proporcionando una API REST completamente funcional y accesible públicamente para soportar las operaciones del frontend y futuras integraciones del sistema.
 
 
-### 5.2.3.8. Team Collaboration Insights during Sprint
+##### 5.2.3.8. Team Collaboration Insights during Sprint
 
 
 
-## 5.3 Validation Interviews
-### 5.3.1 Diseño de Entrevistas
+### 5.3 Validation Interviews
+#### 5.3.1 Diseño de Entrevistas
 
 **Preguntas generales**
 
@@ -3579,7 +3786,7 @@ El despliegue del backend GeoPS en Railway ha sido exitoso, proporcionando una A
 
 
 
-### 5.3.2 Registro de Entrevistas
+#### 5.3.2 Registro de Entrevistas
 
 **Segmento 1:**
 
@@ -3589,7 +3796,7 @@ El despliegue del backend GeoPS en Railway ha sido exitoso, proporcionando una A
 
 
 
-### 5.3.3 Evaluaciones Según Heurísticas
+##### 5.3.3 Evaluaciones Según Heurísticas
 
 ### UX Heuristics & Principles Evaluation
 ### Usability - Inclusive Design - Information Architecture
@@ -3633,9 +3840,9 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 
 
 
-## 5.4 Video About-the-Product
+### 5.4 Video About-the-Product
 
-
+- Link del Video About The Product Geo PS Labs: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318049_upc_edu_pe/IQClpsJt1lv0SJVXaTq_7_RwAdO9x9hjir8xaAXTjGpsgAs?e=khRYPf&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 ## Conclusiones
 
@@ -3671,11 +3878,20 @@ World Bank. (2019). *World Development Report 2019: The Changing Nature of Work*
 
 - Enlace del figma de GeoPs: https://www.figma.com/design/mHHx8WStPBr63tLYj42pBX/GeoPs?t=GXTYAnTYkIFHdSN8-0
 
-- Video Web Applications Prototyping: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318049_upc_edu_pe/EfpJo35cywBHo2-BEP8S_sEBMuPuIKJ2VCSzvJL7gHK41w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=j3nWJH
+- Validación Entrevista - Segmento 2 - Andrés Torres: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318049_upc_edu_pe/IQDeTTS1ELqxQrNgI2B4yLLdAeBlKOwE-F6A5O9hKt1QFok?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=9c90f3
 
-- Video About the team: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318049_upc_edu_pe/EXBG2R5h_I5GkkRMxOrjyasBLn3ql_8zCTRmDfsTzMsh8g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=8wm84J
+- Validación Entrevista - Segmento 2 - Ángel Pariona: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318049_upc_edu_pe/IQCWzb3uMIZjT7lzFvmgBv-GAWFmjADhj95RGhKtnDtTLx8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=fOqkx5
+
+- Video About the Product: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318049_upc_edu_pe/IQClpsJt1lv0SJVXaTq_7_RwAZulho-4j7SJR3cHofT9Bpo?e=CxqmL7&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+- Video About the Team: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318049_upc_edu_pe/EXBG2R5h_I5GkkRMxOrjyasBLn3ql_8zCTRmDfsTzMsh8g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=8wm84J
+
+- Video de presentación BackEnd: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202322855_upc_edu_pe/IQBaDGRLY_lmR7SNyWP_vuefATEzT6ELZx1QbGjP-Rp5wqg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=9HgNYp
+
+- Video de presentación FrontEnd https://upcedupe-my.sharepoint.com/:v:/g/personal/u202322855_upc_edu_pe/EWv8Ir2d59hBhJEHqI3s5IwBf2ReMIFw1sbiyrvktZKYqQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Q5oO9D
 
 - Video Exposición: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318049_upc_edu_pe/ERgA61ycmStInmwxbUbMi8YBmcogeigzUW_kb0pwMezHyA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ueo7hW
 
+- Video Exposición TB2: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318049_upc_edu_pe/ERgA61ycmStInmwxbUbMi8YBmcogeigzUW_kb0pwMezHyA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ueo7hW
 
-- Link de presentacion FrontEnd https://upcedupe-my.sharepoint.com/:v:/g/personal/u202322855_upc_edu_pe/EWv8Ir2d59hBhJEHqI3s5IwBf2ReMIFw1sbiyrvktZKYqQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Q5oO9D
+- Video Web Application Prototyping: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318049_upc_edu_pe/EfpJo35cywBHo2-BEP8S_sEBMuPuIKJ2VCSzvJL7gHK41w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=j3nWJH

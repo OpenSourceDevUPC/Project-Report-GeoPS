@@ -308,7 +308,6 @@ Gracias a esta organización y al trabajo equilibrado del equipo, el entregable 
       <p>Presenté los hallazgos del análisis de mercado y la investigación de usuarios. Comuniqué efectivamente los insights del capítulo 1, adaptando la presentación según el conocimiento de cada integrante.</p>
       <p><i>TP1</i></p>
       <p>Expliqué los avances en los módulos de <strong>Tarjetas</strong> (<code>feature/cards</code>) y <strong>Identity Access</strong> (<code>feature/Identity-Access</code>), detallando cómo se implementaron los mecanismos de validación y acceso de usuario.</p>
-    </td>
       <p><i>TB2</i></p>
       <p>Expliqué el funcionamiento del módulo <strong>Authentication</strong> y sus mecanismos de acceso, detallando al equipo cómo se gestionan las credenciales, roles y validaciones. Coordiné con frontend y backend para asegurar la correcta integración de las funciones de inicio de sesión. Contribuí a la revisión del <strong>report TB2</strong>, comunicando claramente los ajustes y validaciones implementadas.</p>
     </td>
@@ -363,7 +362,7 @@ Gracias a esta organización y al trabajo equilibrado del equipo, el entregable 
     <p><i>TB2</i></p>
     <p>Redacté la documentación del módulo <strong>Authentication</strong>, explicando los métodos implementados, validaciones de usuario y flujos de acceso. Contribuí a la organización final del reporte TB2, asegurando consistencia en la estructura del documento.</p>
     
-    </td>
+   </td>
 
   <td>
       <p><strong>TB1:</strong> Se redactó documentación clara y coherente que facilitó la comprensión entre integrantes y usuarios entrevistados.</p>

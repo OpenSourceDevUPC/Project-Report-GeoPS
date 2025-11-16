@@ -3427,17 +3427,15 @@ En esta sección se incluye la elaboración del artefacto Leadership and Collabo
 
 ##### 5.2.3.3. Sprint Backlog 3
 
-
+###  Sprint Backlog 3 – Commits Overview
 
 ##### 5.2.3.4. Development Evidence for Sprint Review.
 
-###  Sprint Backlog 3 – Commits Overview
-
-
+En este capítulo se presenta el avance correspondiente al Sprint 3 dentro del desarrollo del backend de la aplicación web. Durante esta iteración, el equipo mantuvo un trabajo coordinado aplicando prácticas ágiles que permitieron continuar con la construcción y optimización de los servicios principales. Se logró implementar nuevas capacidades en el backend, reforzar la lógica de negocio y resolver incidencias identificadas en el frontend. 
 
 ##### 5.2.3.5. Execution Evidence for Sprint Review
 
-A continuación, se presentan las evidencias de ejecución correspondientes al Sprint 3, mostrando el funcionamiento de los endpoints implementados en el backend. Las capturas reflejan las pruebas realizadas mediante herramientas como Swagger UI y la respuesta directa del servidor, verificando que los módulos desarrollados funcionan correctamente.
+A continuación, se presentan las evidencias de ejecución correspondientes al Sprint 3, mostrando los endpoints implementados en el backend.
 
 **Capturas de pantalla de las principales vistas**
 

@@ -271,9 +271,9 @@ Gracias a esta organización y al trabajo equilibrado del equipo, el entregable 
   <tr>
     <td><strong>Comunica oralmente con efectividad a diferentes rangos de audiencia.</strong></td>
     <td>
-      <p><strong>Cotrina Siclla, Sofia Alessandra</strong></p>
+  <p><strong>Cotrina Siclla, Sofia Alessandra</strong></p>
       <p><i>TB1</i></p>
-      <p>Participé en las entrevistas con usuarios target, comunicando de manera clara y adaptada tanto a consumidores como a propietarios de PyMEs. Presenté los hallazgos del capítulo 2 a los integrantes del equipo, adaptando el lenguaje técnico para facilitar la comprensión entre todos los miembros.</p>
+      <p>Participé en las entrevistas con usuarios target, comunicando de manera clara y adaptada tanto a consumidores como a propietarios de PyMEs. Presenté los hallazgos del capítulo 2 a los integrantes del equipo, adaptando el lenguaje técnico para facilitar la     comprensión entre todos los miembros.</p>
       <p><i>TP1</i></p>
       <p>Presenté las funcionalidades del front-end y la integración de componentes del <strong>Centro de Ayuda</strong> (<code>feature/toolbar-help</code>), explicando decisiones de diseño y mejoras de usabilidad. Coordiné con el equipo para ajustar la vista según los hallazgos de validación de usuarios.</p>
       <p><i>TB2</i></p>
@@ -355,13 +355,14 @@ Gracias a esta organización y al trabajo equilibrado del equipo, el entregable 
       <p><i>TB2</i></p>
       <p>Desarrollé la documentación del <strong>backend</strong>, abordando la estructura del proyecto, rutas principales y arquitectura. Redacté las secciones sobre <strong>Coupons, Subscriptions, Payments y Cart</strong>, incluyendo diagramas, flujos y justificación técnica. También documenté el proceso de <strong>deployment</strong> del sistema.</p>
       
-      <p><strong>Salazar Caballero, Alvaro Fabrizzio</strong></p>
-      <p><i>TB1</i></p>
-      <p>Redacté secciones fundamentales del capítulo 1 y 3, incluyendo el análisis del problema y la propuesta de valor.</p>
-      <p><i>TP1</i></p>
-      <p>Redacté la documentación técnica de los módulos <strong>Cards</strong> e <strong>Identity-Access</strong>, describiendo los endpoints de autenticación y la estructura de los componentes visuales asociados al perfil del usuario.</p>
-      <p><i>TB2</i></p>
-      <p>Redacté la documentación del módulo <strong>Authentication</strong>, explicando los métodos implementados, validaciones de usuario y flujos de acceso. Contribuí a la organización final del reporte TB2, asegurando consistencia en la estructura del documento.</p>
+  <p><strong>Salazar Caballero, Alvaro Fabrizzio</strong></p>
+    <p><i>TB1</i></p>
+    <p>Redacté secciones fundamentales del capítulo 1 y 3, incluyendo el análisis del problema y la propuesta de valor.</p>
+    <p><i>TP1</i></p>
+    <p>Redacté la documentación técnica de los módulos <strong>Cards</strong> e <strong>Identity-Access</strong>, describiendo los endpoints de autenticación y la estructura de los componentes visuales asociados al perfil del usuario.</p>
+    <p><i>TB2</i></p>
+    <p>Redacté la documentación del módulo <strong>Authentication</strong>, explicando los métodos implementados, validaciones de usuario y flujos de acceso. Contribuí a la organización final del reporte TB2, asegurando consistencia en la estructura del documento.</p>
+    
     </td>
 
   <td>

@@ -3890,11 +3890,15 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 
 ## Conclusiones
 
+**Conclusiones y Recomendaciones**
+
 El Sprint 3 del proyecto GeoPS representó un avance fundamental en la evolución técnica de la plataforma, centrado en la implementación del backend utilizando Java. Durante esta etapa, se construyó la estructura necesaria para gestionar datos, procesar solicitudes y brindar soporte a las funcionalidades principales del sistema, sentando bases sólidas para las siguientes fases del desarrollo.
 
-Un hito importante de este sprint fue la integración completa entre el backend en Java y el frontend mediante API REST, lo que permitió que ambos entornos empezaran a operar de manera coordinada y eficiente. Además, se incorporó exitosamente la funcionalidad de Google Maps en el frontend, agregando una capa esencial de geolocalización para la visualización de negocios en la plataforma.
+Un hito importante de este sprint fue la integración completa entre el backend en Java y el frontend mediante API REST, lo que permitió que ambos entornos comenzaran a operar de manera coordinada y eficiente. Asimismo, se incorporó exitosamente la funcionalidad de Google Maps en el frontend, agregando una capa esencial de geolocalización para la visualización de negocios dentro de la plataforma.
 
-La colaboración del equipo fue excelente, con cada integrante cumpliendo a tiempo las tareas asignadas y manteniendo una comunicación clara y constante. Gracias a esta coordinación, el Sprint 3 consolidó una infraestructura técnica robusta y nos acercó significativamente a la visión de GeoPS como una solución digital efectiva para conectar PyMEs con consumidores.
+La colaboración del equipo fue excelente, caracterizada por una comunicación constante y por el cumplimiento puntual de todas las tareas asignadas. Gracias a esta coordinación, el Sprint 3 consolidó una infraestructura técnica robusta que fortalece el camino hacia la versión completa de GeoPS como una solución digital capaz de conectar de manera efectiva a PyMEs y consumidores.
+
+En cuanto a los siguientes pasos, se recomienda continuar con un roadmap claro que priorice la ampliación de módulos del backend, la implementación de funcionalidades avanzadas en el frontend y la integración de nuevos servicios digitales que formen parte del modelo de negocio. Entre estos, destacan el desarrollo del sistema de registro de usuarios, la administración de perfiles de PyMEs, la gestión de ofertas basadas en geolocalización y la creación de paneles de análisis. Seguir una hoja de ruta definida permitirá asegurar la evolución coherente del producto y maximizar el valor que GeoPS brindará en su ecosistema digital.
 
 ## Bibliografía
 

@@ -3785,7 +3785,22 @@ El despliegue del backend GeoPS en Railway ha sido exitoso, proporcionando una A
 
 
 ##### 5.2.3.8. Team Collaboration Insights during Sprint
+Gracias a la sección de Insights en Github, mostraremos la siguiente gráfica de colaboración del repositorio "geops-backend", donde se presenta una visualización de la contribución de cada miembro del equipo en el desarrollo del Sprint 3.
 
+Analíticos de GitHUb
+<div align="center">
+<img src="resources/imgs/evidence-sprint-3/sprint3-frontend-collab.png">  
+</div>
+<div align="center">
+<img src="resources/imgs/evidence-sprint-3/sprint3-frontend-contrib.png">  
+</div>
+<div align="center">
+<img src="resources/imgs/evidence-sprint-3/sprint3-backend-collab.png">  
+</div>
+<div align="center">
+<img src="resources/imgs/evidence-sprint-3/sprint3-backend-contrib.png">  
+</div>
+En estas imagenes, se evidencia los integrantes que han contribuido en el desarrollo del la aplicación web tanto frontend como backend. Se evidencia que todo el equipo ha participado.
 
 
 ### 5.3 Validation Interviews

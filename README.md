@@ -4126,18 +4126,18 @@ Habilitar la función del buscador global para que filtre ofertas, lugares o cat
 
 ***Heurística violada:*** Diseño visual y accesibilidad
 
-***Problema:*** Durante la tarea de visualización del perfil, el botón que indica el plan actual del usuario presenta un diseño con fondo transparente o muy bajo contraste respecto al fondo general de la interfaz. Esto dificulta que el usuario identifique rápidamente su función, su estado y su relevancia dentro de la sección de Perfil.
+***Problema:*** Durante la visualización del menú desplegable del usuario, las opciones My Profile, My Coupons, Settings y Logout presentan un diseño con muy bajo contraste respecto al fondo.
 
 **Figura**  
 <figure style="text-align: center;">
   <img src="resources/images/heuristica_problema2.jpg" alt="Evaluación Heurística - Problema 2" width="700">
-  <figcaption><strong>Figura 2:</strong> Botón del plan con bajo contraste en la sección de Perfil.</figcaption>
+  <figcaption><strong>Figura 2:</strong> Menú desplegable del usuario con bajo contraste en sus opciones.</figcaption>
 </figure>
 
 *Nota.* Elaboración propia.
 
 ***Recomendación:***  
-Aplicar un fondo sólido, con un color distintivo y alto contraste para mejorar su visibilidad. Se sugiere emplear un estilo consistente con el resto de botones del sistema (por ejemplo, un fondo blanco con borde definido, o un color primario con texto blanco) para garantizar accesibilidad y coherencia visual.  
+Aumentar el contraste visual del menú desplegable aplicando un fondo sólido, bordes definidos y colores más visibles para las opciones del usuario.
 
 **PROBLEMA \#3:**
 

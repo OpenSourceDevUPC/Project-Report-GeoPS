@@ -4114,6 +4114,7 @@ El buscador general ubicado en la barra superior no funciona al intentar buscar 
   <img src="resources/images/heuristica_problema1.jpg" alt="Evaluación Heurística - Problema 1" width="700">
   <figcaption><strong>Figura 1:</strong> Buscador general sin funcionalidad visible al intentar realizar una búsqueda.</figcaption>
 </figure>
+
 *Nota.* Elaboración propia.
 
 ***Recomendación:***
@@ -4132,6 +4133,7 @@ Habilitar la función del buscador global para que filtre ofertas, lugares o cat
   <img src="resources/images/heuristica_problema2.jpg" alt="Evaluación Heurística - Problema 2" width="700">
   <figcaption><strong>Figura 2:</strong> Botón del plan con bajo contraste en la sección de Perfil.</figcaption>
 </figure>
+
 *Nota.* Elaboración propia.
 
 ***Recomendación:***  
@@ -4152,6 +4154,7 @@ Esto puede generar confusión en el usuario, ya que la herramienta muestra punto
   <img src="resources/images/heuristica_problema3.jpg" alt="Evaluación Heurística - Problema 3" width="700">
   <figcaption><strong>Figura 3:</strong> Mapa mostrando establecimientos desactualizados o inexistentes dentro de la interfaz.</figcaption>
 </figure>
+
 *Nota.* Elaboración propia.
 
 ***Recomendación:***  
@@ -4172,6 +4175,7 @@ Además, no existe un menú agrupado o desplegable que ayude al usuario a ver to
   <img src="resources/images/heuristica_problema4.jpg" alt="Evaluación Heurística - Problema 4" width="700">
   <figcaption><strong>Figura 4:</strong> Filtros de categorías y opciones avanzadas con baja visibilidad y sin menú agrupado.</figcaption>
 </figure>
+
 *Nota.* Elaboración propia.  
 ***Recomendación:***  
 Implementar un menú de filtros expandible (por ejemplo: “Más filtros”) donde se agrupen opciones avanzadas como: radio, tipo de negocio, promociones, distancia, precio, etc. 
@@ -4190,6 +4194,7 @@ En las tarjetas de oferta, los botones Buy y Add no muestran un cambio visual cl
   <img src="resources/images/heuristica_problema5.jpg" alt="Evaluación Heurística - Problema 5" width="700">
   <figcaption><strong>Figura 5:</strong> Botones “Buy” y “Add” sin retroalimentación visual inmediata al ser presionados.</figcaption>
 </figure>
+
 *Nota.* Elaboración propia.
 
 ***Recomendación:***
@@ -4209,6 +4214,7 @@ En la barra superior de navegación (top tabs), las opciones como *Inicio, Ofert
   <img src="resources/images/heuristica_problema6.jpg" alt="Evaluación Heurística - Problema 6" width="700">
   <figcaption><strong>Figura 6:</strong> Top tabs con borde inferior muy sutil, dificultando identificar la sección activa.</figcaption>
 </figure>
+
 *Nota.* Elaboración propia.
 
 ***Recomendación:***  
@@ -4229,6 +4235,7 @@ Esto puede generar confusión, especialmente para usuarios nuevos o para quienes
   <img src="resources/images/heuristica_problema7.jpg" alt="Evaluación Heurística - Problema 7" width="700">
   <figcaption><strong>Figura 7:</strong> Fecha del cupón mostrada sin etiqueta explícita, generando ambigüedad sobre su significado.</figcaption>
 </figure>
+
 *Nota.* Elaboración propia.
 
 ***Recomendación:***

@@ -4126,7 +4126,7 @@ Habilitar la función del buscador global para que filtre ofertas, lugares o cat
 
 ***Heurística violada:*** Diseño visual y accesibilidad
 
-***Problema:*** Durante la visualización del menú desplegable del usuario, las opciones My Profile, My Coupons, Settings y Logout presentan un diseño con muy bajo contraste respecto al fondo.
+***Problema:*** Durante la visualización del menú desplegable del usuario, las opciones My Profile, Settings y Logout presentan un diseño con muy bajo contraste respecto al fondo.
 
 **Figura**  
 <figure style="text-align: center;">

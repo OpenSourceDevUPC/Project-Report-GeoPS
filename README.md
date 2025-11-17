@@ -3464,6 +3464,45 @@ Link del trello: https://trello.com/invite/b/6827b176ac2901fb01dfde7f/ATTI0105ab
 
 En este capítulo se presenta el avance correspondiente al Sprint 3 dentro del desarrollo del backend de la aplicación web. Durante esta iteración, el equipo mantuvo un trabajo coordinado aplicando prácticas ágiles que permitieron continuar con la construcción y optimización de los servicios principales. Se logró implementar nuevas capacidades en el backend, reforzar la lógica de negocio y resolver incidencias identificadas en el frontend. 
 
+| Repository | Branch | Commit Message | Commit ID | Date |
+| :--- | :--- | :--- | :--- | :--- |
+| **IDymiana/OpenSourceDevUPC/geo-ps-backend** | feature/authentication | feat(identity): add basic authentication endpoints (signup/signin) and expose in Swagger | `353b009b93...` | 11/15 |
+| | develop | Merge pull request \#9 from OpenSourceDevUPC/feature/authentication | `88ef7332fc...` | 11/15 |
+| **IamAndreek/OpenSourceDevUPC/geo-ps-backend** | feature/favorites | Merge pull request \#10 from OpenSourceDevUPC/feature/favorites | `52c9e417d2...` | 11/15 |
+| | feature/favorites | feat(favorites): fix bounded context favorites | `c20314f455...` | 11/15 |
+| | feature/identity | Merge pull request \#7 from OpenSourceDevUPC/feature/identity | `29aca77097...` | 11/15 |
+| | feature/identity | feat(identity): implement bounded context identity complete | `c49ca8d69f...` | 11/15 |
+| | feature/offers | Merge pull request \#3 from OpenSourceDevUPC/feature/offers | `3d7ee033c3...` | 11/11 |
+| **GilbertHuarcaya/OpenSourceDevUPC/geo-ps-backend** | feature/update-subscription | Merge pull request \#13 from OpenSourceDevUPC/feature/update-subscription | `66c3e432d8...` | 11/15 |
+| | feature/update-plan | Merge pull request \#11 from OpenSourceDevUPC/feature/update-plan | `02edf9ba04...` | 11/15 |
+| | feature/railway-deployment | Merge pull request \#8 from OpenSourceDevUPC/feature/railway-deployment | `3a284bd631...` | 11/15 |
+| | develop | Feature update MySQL datasource URL in application.properties | `f0077ac046...` | 11/15 |
+| | develop | Feature Update database connection URL in application.properties | `76a245eece...` | 11/15 |
+| | feature/deployment | Merge pull request \#6 from OpenSourceDevUPC/feature/deployment | `b31ddce21b...` | 11/15 |
+| | feature/deployment | Feat: Add Dockerfile for building Java application | `6701443b54...` | 11/15 |
+| | feature/cart | Merge pull request \#5 from OpenSourceDevUPC/feature/cart | `11928325da...` | 11/13 |
+| | feature/coupons | Merge pull request \#4 from OpenSourceDevUPC/feature/coupons | `05f1d6d595...` | 11/13 |
+| | feature/payments | Merge pull request \#1 from OpenSourceDevUPC/feature/payments | `df72ad63e4...` | 11/07 |
+| | feature/subscriptions | Merge pull request \#2 from OpenSourceDevUPC/feature/subscriptions | `d4a94c2cbf...` | 11/07 |
+| **abigoe02/OpenSourceDevUPC/geo-ps-backend** | feature/favorites | feat(favorites): implement favorite management with CRUD operations, commands and queries | `7d69770c67...` | 11/08 |
+| | feature/offers | feat(reviews): implement review management with CRUD operations, commands and queries | `56a79c60c8...` | 11/08 |
+| | feature/offers | feat(offers): implement offer management with CRUD operations, commands and queries | `f2b9a11492...` | 11/08 |
+| **MaineMa/OpenSourceDevUPC/geo-ps-frontend** | feature/google-maps | Merge pull request \#19 from OpenSourceDevUPC/feature/google-maps | `dada7cc317...` | 11/14 |
+| | develop | fix: Deleted home.map.apply translation in en and es json files | `d552427e5f...` | 11/14 |
+| | develop | fix: Css corrections | `347b9ed578...` | 11/14 |
+| | develop | feat: Added map marker and marker information in map features | `a60411c45f...` | 11/14 |
+| | develop | feat: Fix css and html | `11954511ee...` | 11/14 |
+| | develop | Merge remote-tracking branch 'origin/develop' into feature/google-maps | `70a6ff5e2f...` | 11/14 |
+| | develop | feat: Added GoogleMap in html | `3ce6dc7c47...` | 11/14 |
+| | develop | feat: Added GoogleMap import and variables | `dbca351904...` | 11/14 |
+| | develop | feat: Added google-maps script with api key | `80ab96044b...` | 11/14 |
+| | develop | feat: Added @angular/google-maps dependency | `6226dd4453...` | 11/14 |
+| | develop | feat: Added html feature to hide geolocation activation section | `99e6d562ac...` | 11/13 |
+| | develop | feat: Added geolocation-on-start feature | `152b9444ef...` | 11/13 |
+| | develop | feat: Added language features in map section | `9f21264d36...` | 11/13 |
+| | develop | feat: Added geolocation permission into map section | `6afe186570...` | 11/13 |
+
+
 ##### 5.2.3.5. Execution Evidence for Sprint Review
 
 A continuación, se presentan las evidencias de ejecución correspondientes al Sprint 3, mostrando los endpoints implementados en el backend.
@@ -3947,33 +3986,47 @@ El **Sprint 3** demostró un alto nivel de cohesión y madurez en el trabajo en 
 La gestión ordenada de ramas, la revisión continua mediante *pull requests* y la coordinación durante la preparación del release reflejan un equipo comprometido y técnicamente sólido.
 
 ### 5.3 Validation Interviews
-#### 5.3.1 Diseño de Entrevistas
 
-**Preguntas generales**
+#### 5.3.1. Diseño de Entrevistas
 
+#### Segmento 2: Consumidores de ofertas de diferentes ámbitos
 
+#### Características Demográficas
 
-**Preguntas para el Segmento 1 - Dueños de negocios de diferentes rubros:**
+  * ¿Cuál es tu **edad**?
+  * ¿En qué **distrito/ciudad** vives?
+  * ¿Con qué **frecuencia** sueles buscar o aprovechar ofertas?
+  * ¿Qué tan **familiarizado** estás con el uso de plataformas digitales?
 
+#### Landing Page
 
+  * ¿Qué es lo primero que le transmite esta página al verla? (Ej. ¿Se ve **moderna, confiable, compleja**?)
+  * ¿Entiende **qué hace GeoPS** solo con ver la sección principal?
+  * ¿Qué tan **clara** le parece la propuesta de valor que ofrecemos aquí?
+  * El ver las marcas asociadas, ¿qué nivel de **confianza** le da en la plataforma?
+  * ¿El botón o llamado a la acción le indica claramente el **siguiente paso** que debe seguir?
 
-**Preguntas para el Segmento 2 - Consumidores de ofertas de diferentes ámbitos:**
+#### Plataforma Web
 
+  * ¿Qué tan **fácil** le parece el proceso de registrarse o iniciar sesión?
+  * Sobre la búsqueda por ubicación: ¿Qué tan **útil** le parece la función de buscar ofertas cercanas a su ubicación actual?
+  * Sobre la búsqueda por categoría: ¿Le parece **fácil** usar los filtros para ver solo las ofertas de una categoría específica (ej. "Entertainment")?
+  * ¿Hubo algún momento navegando en las ofertas donde **dudó qué hacer o dónde encontrar algo**?
+  * ¿Qué elementos en la ficha de la oferta le dan la **seguridad y credibilidad** para decidir ir a canjearla?
+  * Sobre la función de guardar: ¿Le parece **fácil y práctico** guardar una oferta para revisarla más tarde?
+  * En comparación con las apps o webs que usa actualmente para buscar ofertas, ¿qué cree que hace GeoPS **mejor**?
+  * ¿Qué tendríamos que **mejorar o añadir** para que sea una herramienta de su rutina diaria?
 
+-----
 
-**Cierre — Opinión Final**
+#### 5.3.2. Registro de Entrevistas
 
+#### Segmento 2: Consumidores de ofertas de diferentes ámbitos
 
-
-#### 5.3.2 Registro de Entrevistas
-
-**Segmento 1:**
-
-
-
-**Segmento 2:**
-
-
+| Número de Registro | Datos del Entrevistado | Captura |
+| :---: | :--- | :---: |
+| **1** | **Nombre:** Ángel José <br> **Edad:** 22 años <br> **Distrito:** Cercado de Lima <br> **Duración de la entrevista:** <br> **Link:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318049_upc_edu_pe/IQCWzb3uMIZjT7lzFvmgBv-GAWFmjADhj95RGhKtnDtTLx8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=fOqkx5 **Resumen:** Ángel Pariona (22 años, Lima) es un buscador frecuente de ofertas y usuario activo de plataformas digitales como Yape. Al evaluar **Geops**, encontró que la Landing Page es muy intuitiva y la propuesta de valor es atractiva. Le da una alta credibilidad (7-8/10) a la plataforma. Las funcionalidades principales fueron bien recibidas: el registro es muy fácil, la función de geolocalización para ofertas cercanas es muy conveniente, y los filtros son intuitivos. Considera que **Geops es mejor** que las apps que usa actualmente (como Yape) debido a su **mejor distribución y ordenamiento de ofertas**, y la capacidad de guardarlas en favoritos. Para aumentar la credibilidad de las ofertas, sugiere añadir **recomendaciones o *reviews*** de otros usuarios. Su única sugerencia de mejora es modificar el **tamaño de la letra** para la vista móvil. | <img src="resources/images/chapter-5/EntrevistaValidacionSegmento2_1" alt="Backend desplegado" width="600">   |
+| **2** | **Nombre:** Andrés Torres <br> **Edad:** 19 años <br> **Distrito:** San Miguel <br> **Duración de la entrevista:** <br> **Link:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318049_upc_edu_pe/IQDeTTS1ELqxQrNgI2B4yLLdAeBlKOwE-F6A5O9hKt1QFok?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=9c90f3 **Resumen:** El entrevistado, Andrés Torres (19 años), valoró la plataforma **GeoPs** como bastante **moderna, organizada y que transmite confianza**, destacando positivamente la asociación con marcas conocidas que refuerza la credibilidad del proyecto. En cuanto a la usabilidad de la plataforma web, calificó el registro como rápido y sencillo y encontró la función de buscar ofertas por ubicación y categorías como **muy útil para ahorrar tiempo en el traslado**. Además, señaló que, en comparación con otras apps que usa (como Yape), **Geops es más rápido y tiene filtros más cómodos**. Para convertirla en una herramienta de uso diario, su principal sugerencia de mejora fue desarrollar una **aplicación para dispositivos móviles**. |  <img src="resources/images/chapter-5/EntrevistaValidacionSegmento2_2" alt="Backend desplegado" width="600">   |
 
 #### 5.3.3 Evaluaciones Según Heurísticas
 

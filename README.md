@@ -4043,14 +4043,38 @@ Desarrollo de aplicaciones Open Source
 Todos
 ### Auditor:
 GeoPs Labs
-### Cliente:
-GeoPs Labs
+### Clientes:
+- Barturen Panez, Iker Gabriel
+- Encalada Salazar, Alexis
+- Huaman Olivos, Yeira Shari
+- Loechle Arias, Mateo Ítalo
+- Torres Lavandera, Andrés Rodrigo
 ### Site o App a evaluar:
 GeoPs
 
 ### Tareas a evaluar:
 
+*El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:*
 
+1. Búsqueda general de ofertas  
+2. Filtrado de lugares por categorías  
+3. Interacción con el mapa geolocalizado  
+4. Exploración del catálogo de ofertas  
+5. Gestión del carrito de compras  
+6. Gestión de cupones  
+7. Gestión de la cuenta de usuario  
+8. Navegación entre secciones principales (top tabs)  
+9. Cambio de idioma  
+10. Visualización detallada de una oferta individual
+
+*No están incluidas en esta versión de la evaluación las siguientes tareas:*  
+
+1. Proceso de pago completo  
+2. Sistema de notificaciones push (pendiente de integración)  
+3. Funcionalidades avanzadas de favoritos  
+4. Gestión detallada del plan premium  
+5. Validación completa de autenticación avanzada  
+6. Optimización de rendimiento del mapa a gran escala
 
 ### Escala de severidad:
 Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
@@ -4065,12 +4089,131 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 ### Tabla de resumen
 
 | # | Problema | Escala de severidad | Heurística/Principio violada(o) |
-|:--:|-----------|:-------------------:|---------------------------------|
-| 1 | |  |  |
+| :---: | ----- | ----- | ----- |
+| 1 | El buscador general superior no funciona y no devuelve resultados al buscar ofertas o lugares. | 3 | Eficiencia del usuario |
+| 2 | El botón del plan en la sección *Profile* tiene fondo transparente y no es visible claramente. | 2 | Diseño visual y accesibilidad |
+| 3 | El mapa tiene datos desactualizados (ubicaciones erróneas) | 2 | Calidad de la información |
+| 4 | Los filtros son botones pequeños y de bajo contraste | 2 | Visibilidad |
+| 5 | Los botones "Buy" y "Add" no dan feedback visual al presionarse | 1 | Proveer retroalimentación adecuada |
+| 6 | El borde inferior de las pestañas es demasiado sutil | 1 | Diseño visual y minimalismo  |
+| 7 | La fecha de expiración en "My Coupons" es ambigua | 1 | Claridad |
 
 ## Descripción de problemas:
 
+***PROBLEMA \#1:***   
+***Severidad:*** 3  
+***Heurística violada:*** Eficiencia del usuario  
+***Problema:***   
+El buscador general ubicado en la barra superior no funciona al intentar buscar ofertas o lugares específicos, ya que no devuelve resultados ni realiza ningún tipo de acción visible. 
 
+**Figura**  
+<figure style="text-align: center;">
+  <img src="resources/images/heuristica_problema1.jpg" alt="Evaluación Heurística - Problema 1" width="700">
+  <figcaption><strong>Figura 1:</strong> Buscador general sin funcionalidad visible al intentar realizar una búsqueda.</figcaption>
+</figure>
+
+*Nota.* Elaboración propia.  
+***Recomendación:***
+Habilitar la función del buscador global para que filtre ofertas, lugares o categorías en tiempo real o redirija a una página de resultados de búsqueda, mostrando feedback inmediato al usuario.
+
+***PROBLEMA \#2:***   
+***Severidad:*** 2  
+***Heurística violada:*** Diseño visual y accesibilidad  
+***Problema:*** Durante la tarea de visualización del perfil, el botón que indica el plan actual del usuario presenta un diseño con fondo transparente o muy bajo contraste respecto al fondo general de la interfaz. Esto dificulta que el usuario identifique rápidamente su función, su estado y su relevancia dentro de la sección de Perfil.
+
+**Figura**  
+<figure style="text-align: center;">
+  <img src="resources/images/heuristica_problema2.jpg" alt="Evaluación Heurística - Problema 2" width="700">
+  <figcaption><strong>Figura 2:</strong> Botón del plan con bajo contraste en la sección de Perfil.</figcaption>
+</figure>
+
+*Nota.* Elaboración propia.  
+***Recomendación:***  
+Aplicar un fondo sólido, con un color distintivo y alto contraste para mejorar su visibilidad. Se sugiere emplear un estilo consistente con el resto de botones del sistema (por ejemplo, un fondo blanco con borde definido, o un color primario con texto blanco) para garantizar accesibilidad y coherencia visual.  
+
+***PROBLEMA \#3:***   
+***Severidad:*** 2  
+***Heurística violada:*** Calidad de la información  
+***Problema:***   
+Durante la visualización del mapa en la sección Home, se muestran establecimientos que ya no existen o que han cambiado de ubicación, lo cual provoca inconsistencias entre la información real y la información presentada por la aplicación.  
+Esto puede generar confusión en el usuario, ya que la herramienta muestra puntos de interés que no están activos, afectando la credibilidad de la interfaz y la precisión del sistema al momento de explorar ofertas cercanas.
+
+**Figura**  
+<figure style="text-align: center;">
+  <img src="resources/images/heuristica_problema3.jpg" alt="Evaluación Heurística - Problema 3" width="700">
+  <figcaption><strong>Figura 3:</strong> Mapa mostrando establecimientos desactualizados o inexistentes dentro de la interfaz.</figcaption>
+</figure>
+
+*Nota.* Elaboración propia.  
+***Recomendación:***  
+Actualizar la data del mapa asegurando que las ubicaciones mostradas correspondan a establecimientos reales y vigentes.
+
+***PROBLEMA \#4:***   
+***Severidad:*** 2  
+***Heurística violada:*** Visibilidad  
+***Problema:***   
+Los filtros de categorías y opciones avanzadas (como radio, búsqueda, tipo de local, etc.) presentan una visibilidad limitada: se muestran como pequeños botones con poco contraste y sin indicaciones adicionales.  
+Además, no existe un menú agrupado o desplegable que ayude al usuario a ver todas las opciones disponibles de forma clara y organizada, lo que dificulta encontrar filtros específicos o modificar múltiples criterios de búsqueda rápidamente.
+
+**Figura**  
+<figure style="text-align: center;">
+  <img src="resources/images/heuristica_problema4.jpg" alt="Evaluación Heurística - Problema 4" width="700">
+  <figcaption><strong>Figura 4:</strong> Filtros de categorías y opciones avanzadas con baja visibilidad y sin menú agrupado.</figcaption>
+</figure>
+
+*Nota.* Elaboración propia.  
+***Recomendación:***  
+Implementar un menú de filtros expandible (por ejemplo: “Más filtros”) donde se agrupen opciones avanzadas como: radio, tipo de negocio, promociones, distancia, precio, etc. 
+
+***PROBLEMA \#5:***   
+***Severidad:*** 2  
+***Heurística violada:*** Proveer retroalimentación adecuada  
+***Problema:***   
+En las tarjetas de oferta, los botones Buy y Add no muestran un cambio visual claro al ser presionados. La falta de retroalimentación inmediata (como cambio de color, animación, transición o badge de confirmación) provoca que el usuario no se percate de si la acción fue registrada correctamente
+
+**Figura**  
+<figure style="text-align: center;">
+  <img src="resources/images/heuristica_problema5.jpg" alt="Evaluación Heurística - Problema 5" width="700">
+  <figcaption><strong>Figura 5:</strong> Botones “Buy” y “Add” sin retroalimentación visual inmediata al ser presionados.</figcaption>
+</figure>
+
+*Nota.* Elaboración propia.  
+***Recomendación:***
+
+Implementar un cambio visual evidente al presionar los botones (como cambio de color, animación o mensaje breve) para que el usuario identifique inmediatamente que el producto fue añadido al carrito.
+
+***PROBLEMA \#6:***   
+***Severidad:*** 1  
+***Heurística violada:*** Diseño visual y minimalismo  
+***Problema:***   
+En la barra superior de navegación (top tabs), las opciones como *Inicio, Ofertas, Categorías, Favoritos, Mis cupones* presentan un estilo con un borde inferior muy sutil, casi imperceptible. Esto hace que resulte difícil distinguir cuál sección está activa y cuáles no, afectando la claridad del estado actual del sistema.
+
+**Figura**  
+<figure style="text-align: center;">
+  <img src="resources/images/heuristica_problema6.jpg" alt="Evaluación Heurística - Problema 6" width="700">
+  <figcaption><strong>Figura 6:</strong> Top tabs con borde inferior muy sutil, dificultando identificar la sección activa.</figcaption>
+</figure>
+
+*Nota.* Elaboración propia.  
+***Recomendación:***  
+Resaltar la pestaña activa mediante un borde inferior más grueso, un color contrastante o un fondo diferenciado.
+
+***PROBLEMA \#7:***   
+***Severidad:*** 1  
+***Heurística violada:*** Claridad  
+***Problema:***   
+En la sección My Coupons, la fecha se muestra únicamente como un número aislado (por ejemplo: “17/11/2025”) sin indicar explícitamente que corresponde a la fecha de expiración del cupón.  
+Esto puede generar confusión, especialmente para usuarios nuevos o para quienes poseen múltiples cupones con diferentes vigencias.
+
+**Figura**  
+<figure style="text-align: center;">
+  <img src="resources/images/heuristica_problema7.jpg" alt="Evaluación Heurística - Problema 7" width="700">
+  <figcaption><strong>Figura 7:</strong> Fecha del cupón mostrada sin etiqueta explícita, generando ambigüedad sobre su significado.</figcaption>
+</figure>
+
+*Nota.* Elaboración propia.  
+***Recomendación:***
+Mostrar la información de forma explícita, por ejemplo: “Fecha de expiración: 17/11/2025”
 
 ### 5.4 Video About-the-Product
 

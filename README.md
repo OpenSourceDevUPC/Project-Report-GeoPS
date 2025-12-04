@@ -1010,7 +1010,7 @@ Con un **diseño responsive** que se adapta a cualquier dispositivo, **GeoPS Lab
 Las User Stories representan las necesidades y expectativas de los usuarios finales expresadas en un lenguaje sencillo y centrado en su valor.  
 A través de ellas se traduce lo que los usuarios quieren lograr al usar el producto, asegurando que las funcionalidades desarrolladas estén alineadas con sus objetivos reales.
 
-**Tabla 6** 
+**Tabla 6**   
 *Epics — Agrupación de requerimientos de alto nivel del producto GeoPS*  
 
 | Epic                                               | ID   |
@@ -3071,7 +3071,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   **User Management BC**
 
-  **Tabla 10**
+  **Tabla 10**   
   *Class Dictionary — User Management BC*  
 
   | **Clase**          | **Atributos**                                                                                                                                        | **Descripción**                                                                                                                              |
@@ -5245,7 +5245,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   En este capítulo se presenta el avance correspondiente al Sprint 3 dentro del desarrollo del backend de la aplicación web. Durante esta iteración, el equipo mantuvo un trabajo coordinado aplicando prácticas ágiles que permitieron continuar con la construcción y optimización de los servicios principales. Se logró implementar nuevas capacidades en el backend, reforzar la lógica de negocio y resolver incidencias identificadas en el frontend. 
 
-  **Tabla 28**
+  **Tabla 28**   
   *Sprint Backlog 3 — GeoPS*
 
   | Repository | Branch | Commit Message | Commit ID | Date |
@@ -5936,7 +5936,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   En esta sección, nos sumergiremos en los detalles del Sprint Planning Meeting 4 para el desarrollo de GeoPS, donde se planificó el cierre funcional del MVP del producto, integrando los módulos finales y fortaleciendo la estabilidad general del sistema.
 
-  **Tabla 30**   
+  **Tabla 31**   
   *Sprint Planning 4 — GeoPS*
 
   <table>

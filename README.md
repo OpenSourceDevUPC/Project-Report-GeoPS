@@ -727,6 +727,9 @@ Con un **diseño responsive** que se adapta a cualquier dispositivo, **GeoPS Lab
 ### 2.1. Competidores
   #### 2.1.1. Analisis competitivo
 
+  **Tabla 1**   
+  *Análisis competitivo — GeoPS vs Competidores*
+
   | Competitive Analysis Landscape | Startup <p align="center"><img src="resources/imgs/images for chapter ii/logo_geops.png" alt="PI5" width="1000"></p>  GeoPs | Competidor 1 <p align="center"><img src="resources/imgs/images for chapter ii/logo_groupon.jpeg" alt="PI5" width="1000"></p> Groupon | Competidor 2 <p align="center"><img src="resources/imgs/images for chapter ii/logo_tiendeo.png" alt="PI5" width="1000"></p> Tiendeo | Competidor 3 <p align="center"><img src="resources/imgs/images for chapter ii/logo_retailmenot.png" alt="PI5" width="1000"></p> RetailMeNot |
   |--------------------------------|------------------|----------------------|----------------------|--------------------------|
   | Overview                                               | Plataforma de publicidad hiperlocalizada que utiliza la geolocalización del navegador y notificaciones push para conectar negocios con usuarios cercanos. | Plataforma web de descuentos en productos, servicios y experiencias, con ofertas por tiempo limitado. Su fuerte está en la compra de cupones antes de ir al negocio. | Plataforma web y móvil que agrega folletos y ofertas digitales de tiendas físicas. Facilita la consulta de promociones para planificar compras en un área específica. | Plataforma web de cupones y ofertas online. Ofrece códigos de descuento para compras en línea y cupones imprimibles o para mostrar en tiendas físicas. |
@@ -740,6 +743,8 @@ Con un **diseño responsive** que se adapta a cualquier dispositivo, **GeoPS Lab
   | Debilidades                                            | Depende del navegador. Requiere permisos de ubicación. Privacidad. La recolección de datos es un tema sensible. | Modelo agresivo. Puede devaluar la marca de los negocios. Sin tiempo real. Las ofertas son limitadas y no contextuales. | Poca personalización. Depende de lo que los minoristas publican. Actualización manual. El contenido no es dinámico ni en tiempo real. | Sin hiper localización. No ofrece la experiencia de proximidad. Calidad de cupones. Algunos códigos pueden no funcionar. |
   | Oportunidades                                          | Crecimiento del comercio local. Aumento de la preferencia por negocios de barrio. Expansión del marketing de proximidad. Los negocios buscan publicidad más dirigida. | Expansión de servicios. Podrían incluir nuevas categorías. Mayor integración. Posibilidad de ofrecer ofertas más personalizadas por ubicación. | Alertas personalizadas. Notificar a usuarios sobre ofertas de tiendas favoritas. Mayor interacción. Crear listas de compras desde los folletos. | Expansión geográfica. Oportunidad de entrar con fuerza en nuevos mercados. Integración con billeteras digitales. Facilitar el uso de los descuentos. |
   | Amenazas                                               | Competencia de apps nativas. Pueden ofrecer una integración más profunda. Monopolio de gigantes. Google Maps es una fuerte competencia indirecta. | Nuevas startups. El surgimiento de apps locales más ágiles. Fatiga del usuario. El modelo de cupones puede volverse predecible. | Competencia de Google Ads. Los minoristas pueden optar por publicidad más efectiva. Obsolescencia. Los usuarios jóvenes pueden considerar los folletos digitales obsoletos. | Competencia de tiendas. Los minoristas desarrollan sus propias apps de lealtad. Fatiga de cupones. Los usuarios se cansan de buscar descuentos y prefieren precios directos. |
+
+  *Nota.* Elaboración propia.
 
   #### 2.1.2. Estrategias y tácticas frente a competidores 
 
@@ -815,19 +820,29 @@ Con un **diseño responsive** que se adapta a cualquier dispositivo, **GeoPS Lab
 
   ## Segmento 1: Dueños de negocios de diferentes rubros
 
+  **Tabla 2**   
+  *Registro de entrevistas — Segmento 1*
+
   | Número de registro | Datos del entrevistado | Captura |
   |--------------------|-------------------------|---------|
   | **1** | **Nombre:** Mirta <br> **Edad:** 57 años <br> **Distrito:** Jesús María <br> **Duración de la entrevista:** 5 minutos y 54 segundos <br> **Enlace:** https://youtu.be/fC130lduBCM <br> **Resumen:** En esta entrevista, Mirta, una comerciante de 57 años, dueña de una piñatería, habla sobre los desafíos de su negocio, especialmente la promoción y la competencia. Menciona que utiliza redes sociales como Instagram y Facebook, pero que la clave para ella es el trato personalizado al cliente y las recomendaciones de boca en boca. Prefiere usar WhatsApp para comunicarse con sus clientes y valora la interacción directa. También expresa su interés en una herramienta digital que la conecte con clientes locales. | **Figura 3**<br>*Entrevista 1 — Segmento 1* <div align="center"> <img src="resources/imgs/images for chapter ii/entrevista1_segmento1.png" alt="Entrevista 1 — Segmento 1" width="4000"> </div> *Nota.* Elaboración propia. |
   | **2** | **Nombre:** Kelly <br> **Edad:** 21 años <br> **Distrito:** Jesús María <br> **Duración de la entrevista:** 3 minutos y 8 segundos <br> **Enlace:** https://youtu.be/k7YhV_pqApc <br> **Resumen:** En esta entrevista, Kelly, la dueña de una tienda de mascotas, de 21 años, comparte sus ideas sobre el marketing digital. Destaca que el mayor desafío es el uso de las redes sociales para atraer clientes, y que las ofertas como "compra uno y lleva uno gratis" han sido muy efectivas. También menciona que se están enfocando en TikTok para transmisiones en vivo, lo cual ha aumentado sus ventas y seguidores. Explica que miden el éxito de su publicidad directamente a través de las ventas y que buscan clientes recurrentes. Finalmente, describe una aplicación ideal que le gustaría para su negocio, con funciones para ver productos, ofertas y realizar compras desde casa. | **Figura 4**<br> *Entrevista 2 — Segmento 1* <div align="center"> <img src="resources/imgs/images for chapter ii/entrevista2_segmento1.png" alt="Entrevista 2 — Segmento 1" width="4000"> </div> *Nota.* Elaboración propia. |
   | **3** | **Nombre:** Cesar <br> **Edad:** 50 años <br> **Distrito:** Miraflores <br> **Duración de la entrevista:** 3 minutos y 34 segundos <br> **Enlace:** https://youtu.be/VHkTCRW2Igc <br> **Resumen:** En este video, se entrevista al dueño de un negocio de comida. Habla sobre la efectividad del "boca a boca" y el uso de WhatsApp para las ventas. Mide el éxito de su promoción directamente a través de las ventas generadas por WhatsApp. Expresa interés en una plataforma digital para negocios locales que le permita mostrar sus platos con fotos y videos, y que le ayude a atraer clientes, especialmente turistas, ya que considera que tienen mayor poder adquisitivo. Además, está dispuesto a pagar por una aplicación si esta le garantiza la captación de clientes locales de manera efectiva. | **Figura 5**<br> *Entrevista 3 — Segmento 1* <div align="center"> <img src="resources/imgs/images for chapter ii/entrevista3_segmento1.png" alt="Entrevista 3 — Segmento 1" width="4000"> </div> *Nota.* Elaboración propia. |
 
+  *Nota.* Elaboración propia.
+
   ## Segmento 2: Consumidores de ofertas de diferentes ámbitos
+
+  **Tabla 3**   
+  *Registro de entrevistas — Segmento 2*  
 
   | Número de registro | Datos del entrevistado | Captura |
   |--------------------|-------------------------|---------|
   | **1** | **Nombre:** Andrés Torres <br> **Edad:** 19 años <br> **Distrito:** San Miguel <br> **Duración de la entrevista:** 3 minutos y 29 segundos <br> **Enlace:** https://youtu.be/lss8fRI5_3g <br> **Resumen:** En este video, se entrevista a Andrés Torres, un joven de 19 años del distrito de San Miguel. Habla sobre cómo busca ofertas para el cine usando aplicaciones como Yape. Le molesta la publicidad intrusiva en la calle y en aplicaciones que no le interesa. Su confianza en las promociones depende de la reputación de la empresa, aunque también consideraría ofertas de empresas menos conocidas si tienen buena presentación. Andrés sugiere que las promociones deberían adaptarse a los intereses de los usuarios y que las aplicaciones deberían solicitar datos básicos a los creadores de los proyectos para generar mayor seguridad. | **Figura 6**<br> *Entrevista 1 — Segmento 2* <div align="center"> <img src="resources/imgs/images for chapter ii/entrevista1_segmento2.png" alt="Entrevista 1 — Segmento 2" width="4000"> </div> *Nota.* Elaboración propia. |
   | **2** | **Nombre:** Ángel José <br> **Edad:** 22 años <br> **Distrito:** Cercado de Lima <br> **Duración de la entrevista:** 4 minutos y 47 segundos <br> **Enlace:** https://youtu.be/s_zL-OGBqJE <br> **Resumen:** En este video, Ángel José, de 22 años, del Cercado de Lima, comparte su experiencia buscando ofertas. Explica que usa plataformas como Yape, Instagram y Facebook. Le molesta tener que buscar manualmente y a menudo pide recomendaciones a conocidos. Desconfía de los descuentos muy altos que podrían ser estafas o productos falsos. Su experiencia ideal sería recibir notificaciones de ofertas que le interesen, que sean de locales conocidos y fáciles de canjear. Además, se sentiría seguro compartiendo sus datos si la empresa es profesional y cifra la información. | **Figura 7**<br> *Entrevista 2 — Segmento 2* <div align="center"> <img src="resources/imgs/images for chapter ii/entrevista2_segmento2.png" alt="Entrevista 2 — Segmento 2" width="4000"> </div> *Nota.* Elaboración propia. |
   | **3** | **Nombre:** Elian <br> **Edad:** 25 años <br> **Distrito:** San Martín de Porres <br> **Duración de la entrevista:** 5 minutos y 10 segundos <br> **Enlace:** https://youtu.be/h1kiEyQ9aIY <br> **Resumen:** En esta entrevista, Elian, de 25 años, del distrito de San Martín de Porres, habla sobre su experiencia con la búsqueda de ofertas en línea. Menciona que las páginas web no son fáciles de usar y le molesta la publicidad de ofertas que ya no están vigentes. Su principal interés es encontrar ofertas de manera rápida y fácil. Desconfía de las promociones "demasiado buenas para ser verdad" y sugiere que las plataformas deberían personalizar las ofertas según su historial de compras. No le preocupa compartir sus datos o ubicación, ya que es algo común en aplicaciones de entrega. Su experiencia ideal sería encontrar ofertas buenas y cercanas a su ubicación. | **Figura 8**<br> *Entrevista 3 — Segmento 2* <div align="center"> <img src="resources/imgs/images for chapter ii/entrevista3_segmento2.png" alt="Entrevista 3 — Segmento 2" width="600"> </div> *Nota.* Elaboración propia. |
+
+  *Nota.* Elaboración propia.
 
   #### 2.2.3. Análisis de entrevistas
 
@@ -880,6 +895,9 @@ Con un **diseño responsive** que se adapta a cualquier dispositivo, **GeoPS Lab
   
   ## Segmento 1: Dueños de negocios de diferentes rubros
 
+  **Tabla 4**   
+  *User Task Matrix — Segmento 1*  
+
   | Task                                                                  | Frecuencia | Importancia |
   |-----------------------------------------------------------------------|------------|-------------|
   | Promocionar productos y servicios en redes sociales                   | Alto       | Alto        |
@@ -891,7 +909,12 @@ Con un **diseño responsive** que se adapta a cualquier dispositivo, **GeoPS Lab
   | Analizar qué tipo de promoción genera más ventas                      | Bajo       | Medio       |
   | Interactuar con comentarios o mensajes de clientes en sus publicaciones | Medio      | Alto        |
 
+  *Nota.* Elaboración propia.
+
   ## Segmento 2: Consumidores de ofertas de diferentes ámbitos
+
+  **Tabla 5**   
+  *User Task Matrix — Segmento 2*
 
   | Task                                                                 | Frecuencia | Importancia |
   |----------------------------------------------------------------------|------------|-------------|
@@ -903,6 +926,8 @@ Con un **diseño responsive** que se adapta a cualquier dispositivo, **GeoPS Lab
   | Revisar notificaciones de ofertas que le interesan                    | Alto       | Alto        |
   | Compartir ofertas encontradas con amigos o familiares                 | Bajo       | Bajo        |
   | Guardar ofertas para usarlas en el futuro                             | Medio      | Medio       |
+
+  *Nota.* Elaboración propia.
   
   #### 2.3.3. User Journey Mapping
 
@@ -985,6 +1010,9 @@ Con un **diseño responsive** que se adapta a cualquier dispositivo, **GeoPS Lab
 Las User Stories representan las necesidades y expectativas de los usuarios finales expresadas en un lenguaje sencillo y centrado en su valor.  
 A través de ellas se traduce lo que los usuarios quieren lograr al usar el producto, asegurando que las funcionalidades desarrolladas estén alineadas con sus objetivos reales.
 
+**Tabla 6** 
+*Epics — Agrupación de requerimientos de alto nivel del producto GeoPS*  
+
 | Epic                                               | ID   |
 |----------------------------------------------------|------|
 | Registro y Autenticación                           | EP01 |
@@ -992,6 +1020,11 @@ A través de ellas se traduce lo que los usuarios quieren lograr al usar el prod
 | Gestión de Campañas Publicitarias (Proveedores)    | EP03 |
 | Planes y Suscripciones (Clientes y Proveedores)    | EP04 |
 | Experiencia del Usuario y Contenido                | EP05 |
+
+*Nota.* Elaboración propia.
+
+**Tabla 7**   
+*User Stories — Especificación de requerimientos funcionales de GeoPS*  
 
 | Story ID | Título                                                      | Descripción                                                                                                                                                       | Criterios de aceptación                                                                                                                                                                                                                           | Relacionado con (Epic ID) |
 |----------|--------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------|
@@ -1041,10 +1074,15 @@ A través de ellas se traduce lo que los usuarios quieren lograr al usar el prod
 | US44     | Diseño Responsivo en la Landing Page                         | Como visitante, quiero que la landing se adapte automáticamente a mi dispositivo.                                                                                  | Escenario 01: Dado que accedo a la landing desde móvil o tablet, Cuando navego, Entonces el sistema muestra contenido ajustado correctamente al tamaño de pantalla.                                                                                   | EP05                       |
 | US45     | Optimización y Pruebas Finales de la Landing Page            | Como visitante, quiero que la landing funcione en distintos navegadores y cargue rápido.                                                                           | Escenario 01: Dado que accedo a la landing desde diferentes navegadores y dispositivos, Cuando navego por las secciones, Entonces el sistema mantiene buen rendimiento, muestra todo correctamente y no presenta errores de compatibilidad.            | EP05                       |
 
+*Nota.* Elaboración propia.
+
 ## Technical Stories
 
 Las Technical Stories detallan requerimientos técnicos derivados de las User Stories.  
 Están orientadas al equipo de desarrollo y especifican aspectos relacionados con infraestructura, integraciones, seguridad o rendimiento, necesarios para que las funcionalidades puedan implementarse correctamente.
+
+**Tabla 8**  
+*Technical Stories — Requerimientos técnicos para la implementación del producto GeoPS*  
 
 | Story ID | Título                               | Descripción                                                                 | Criterios de Aceptación                                                                                                                                                                  | Relacionado con (US ID) |
 |----------|---------------------------------------|-----------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|
@@ -1058,6 +1096,8 @@ Están orientadas al equipo de desarrollo y especifican aspectos relacionados co
 | TS08     | Endpoint: Crear campaña              | Como Developer, deseo exponer `POST /campaigns` para que un proveedor cree campañas publicitarias. | **Scenario: Creación válida**<br> Dado payload con título, fechas y presupuesto correctos,<br> Cuando envío POST,<br> Entonces responde 201 con estado `draft`.<br><br> **Scenario: Fechas inválidas**<br> Dado `endDate < startDate`,<br> Cuando envío POST,<br> Entonces responde 422 con error `invalid_dates`. | US11 |
 | TS09     | Endpoint: Editar campaña             | Como Developer, deseo exponer `PUT /campaigns/{id}` para editar campañas existentes. | **Scenario: Actualización válida**<br> Dado proveedor dueño de campaña,<br> Cuando envío PUT,<br> Entonces responde 200 con `updated=true`.<br><br> **Scenario: Sin permisos**<br> Dado proveedor no dueño,<br> Cuando envío PUT,<br> Entonces responde 403 con error `forbidden`. | US12 |
 | TS10     | Endpoint: Pausar/Reactivar campaña   | Como Developer, deseo exponer `PATCH /campaigns/{id}/pause` y `/resume` para controlar estado. | **Scenario: Pausa válida**<br> Dado campaña activa,<br> Cuando envío PATCH `/pause`,<br> Entonces responde 200 con status=`paused`.<br><br> **Scenario: Reactivación válida**<br> Dado campaña pausada,<br> Cuando envío PATCH `/resume`,<br> Entonces responde 200 con status=`active`. | US20 / US21 |
+
+*Nota.* Elaboración propia.
 
 ### 3.2. Impact Mapping
 
@@ -1089,6 +1129,9 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 </div>
 
 *Nota.* Elaboración propia (realizado en Trello).
+
+**Tabla 9**   
+*Product Backlog — Priorización de funcionalidades del producto GeoPS*  
 
 | # Orden | User Story ID | Título | Descripción | Story Points |
 |---------|---------------|--------|-------------|--------------|
@@ -1137,6 +1180,8 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 | 43 | US26 | Duplicar Campaña Publicitaria | Como proveedor, deseo duplicar campañas para reutilizar configuraciones anteriores. | 3 |
 | 44 | US27 | Previsualización de Campaña Publicitaria | Como proveedor, deseo previsualizar campañas antes de publicarlas. | 3 |
 | 45 | US28 | Historial de Campañas Publicitarias | Como proveedor, deseo ver un historial de campañas anteriores para llevar registro. | 3 |
+
+*Nota.* Elaboración propia.
 
 ---
 
@@ -3026,6 +3071,9 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   **User Management BC**
 
+  **Tabla 10**
+  *Class Dictionary — User Management BC*  
+
   | **Clase**          | **Atributos**                                                                                                                                        | **Descripción**                                                                                                                              |
   | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
   | **User**           | - id: int<br>- email: string<br>- username: string<br>- password: string<br>- profilePicture: string<br>- createdAt: DateTime<br>- lastLoginAt: void | Representa a los usuarios del sistema. Contiene la información básica de autenticación y perfil de cada usuario registrado en la plataforma. |
@@ -3033,7 +3081,12 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
   | **BusinessOwner**  | - businessType: string<br>- businessName: string<br>- businessAddress: string<br>- contactInfo: string                                               | Extiende la clase User para representar específicamente a los propietarios de negocios que publican campañas en la plataforma.               |
   | **Consumer**       | - preferences: json<br>- location: string                                                                                                            | Extiende la clase User para representar a los consumidores que visualizan y interactúan con las campañas publicitarias.                      |
 
+  *Nota.* Elaboración propia.
+
   **Business & Campaigns BC**
+
+  **Tabla 11**   
+  *Class Dictionary — Business & Campaigns  BC*  
 
   | **Clase**              | **Atributos**                                                                                                                                                                                                                         | **Descripción**                                                                                                                                        |
   | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -3042,7 +3095,12 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
   | **Offer**              | - id: int<br>- campaignId: int<br>- title: string<br>- description: string<br>- discountType: string<br>- discountValue: decimal<br>- validFrom: DateTime<br>- validUntil: DateTime<br>- isActive: void                               | Representa las ofertas específicas dentro de una campaña. Define los descuentos y promociones que se ofrecen a los consumidores.                       |
   | **BusinessRepository** | - findById(id: int): Campaign                                                                                                                                                                                                         | Repositorio para la gestión de datos de empresas, proporcionando métodos para recuperar información de campañas por identificador.                     |
 
+  *Nota.* Elaboración propia.
+
   **Domain Events**
+
+  **Tabla 12**   
+  *Class Dictionary — Domain Events*  
 
   | **Clase**            | **Atributos**                                                                        | **Descripción**                                                                                                        |
   | -------------------- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------- |
@@ -3050,7 +3108,12 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
   | **OfferPublished**   | - offerId: int<br>- campaignId: int<br>- publishDate: DateTime                       | Evento que notifica cuando una oferta ha sido publicada y está disponible para los consumidores.                       |
   | **NotificationSent** | - notificationId: int<br>- userId: int<br>- campaignId: int<br>- timestamp: DateTime | Evento que registra el envío de notificaciones a usuarios sobre campañas relevantes.                                   |
 
+  *Nota.* Elaboración propia.
+
   **Interaction BC**
+
+  **Tabla 13**   
+  *Class Dictionary — Interaction BC*  
 
   | **Clase**                  | **Atributos**                                                                                                                                     | **Descripción**                                                                                                                 |
   | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
@@ -3058,12 +3121,19 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
   | **Notification**           | - id: int<br>- userId: int<br>- title: string<br>- message: string<br>- type: string<br>- isRead: bool<br>- createdAt: DateTime<br>- readAt: void | Gestiona las notificaciones enviadas a los usuarios sobre ofertas y campañas relevantes basadas en su ubicación y preferencias. |
   | **NotificationRepository** | - sendNotification(notification: Notification)<br>- markAsRead(notificationId: int): UserActivity()                                               | Repositorio que maneja la persistencia y gestión de notificaciones, incluyendo el envío y marcado como leídas.                  |
 
+  *Nota.* Elaboración propia.
+
   **Analytics & Tracking BC**
+
+  **Tabla 14**   
+  *Class Dictionary — Analytics & Tracking BC*  
 
   | **Clase**             | **Atributos**                                                                                                              | **Descripción**                                                                                                         |
   | --------------------- | -------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
   | **CampaignAnalytics** | - campaignId: int<br>- impressions: int<br>- clicks: int<br>- conversions: int<br>- reach: int<br>- generatedRevenue: void | Proporciona métricas detalladas sobre el rendimiento de las campañas, incluyendo alcance, interacciones y conversiones. |
   | **AnalyticsService**  | - calculateCampaignMetrics(campaignId: int): CampaignAnalytics                                                             | Servicio que calcula y genera métricas de rendimiento para las campañas publicitarias.                                  |
+
+  *Nota.* Elaboración propia.
 
 ### 4.8. Database Design
 
@@ -3610,6 +3680,9 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   En esta sección, nos sumergiremos en los detalles del Sprint Planning Meeting 1 para el desarrollo de GeoPS.
 
+  **Tabla 15**   
+  *Sprint Planning 1 — GeoPS*  
+
   <table>
       <tr>
         <th>Sprint #</th>
@@ -3659,9 +3732,14 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
     </tr>
   </table>
 
+  *Nota.* Elaboración propia.
+
   ##### 5.2.1.2. Aspect Leaders and Collaborators
 
   En esta sección se incluye la elaboración del artefacto Leadership and Collaboration Matrix (LACX), el cual define quién es el líder y quiénes son los colaboradores para este Sprint 1 del proyecto GeoPS.
+
+  **Tabla 16**   
+  *Leadership & Collaboration Matrix — Sprint 1 — GeoPS*  
 
   | Team Member (Last Name, First Name) | GitHub Username | Landing Page |
   | ------------------------------------|-----------------|--------------|
@@ -3670,6 +3748,8 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
   | Cotrina Siclla, Sofia Alessandra | sofiaCotrina | C |
   | Goñe Araccata, Esther Abigail | EstherAbigail | C |
   | Salasar Caballero, Alvaro Fabrizzio | AlvaroSalasar | C |
+
+  *Nota.* Elaboración propia.
 
   **Leyenda:**
   - L: Leader (Líder)
@@ -3680,6 +3760,9 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
   El Sprint Backlog 1 está orientado al desarrollo de la Landing Page informativa de la plataforma GeoPS, basado en las User Stories definidas para el primer sprint. A continuación se presenta el detalle de las tareas completadas según la planificación en Trello.
 
   **Enlace al Tablero:** https://trello.com/b/CZ3eGcx8/product-backlog-geops
+
+  **Tabla 17**   
+  *Sprint Backlog 1 — GeoPS*  
 
   <table>
     <thead>
@@ -3829,11 +3912,16 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
     </tbody>
   </table>
 
+  *Nota.* Elaboración propia.
+
   ##### 5.2.1.4. Development Evidence for Sprint Review
 
   Durante el Sprint 1, el equipo realizó commits importantes para el desarrollo de la Landing Page de GeoPS. A continuación se presenta la evidencia de desarrollo basada en el análisis del repositorio Landing:
 
   **Enlace Repositorio Landing Page:** https://github.com/OpenSourceDevUPC/Landing
+
+  **Tabla 18**   
+  *Development Evidence — Sprint 1 — GeoPS*  
 
   | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Date) |
   |------------|--------|-----------|----------------|---------------------|-------------------|
@@ -3849,6 +3937,8 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
   | Landing | main | k8l9m0n | feat: add responsive design and optimizations | Enhanced mobile compatibility and implemented cross-browser optimizations | 20/09/2025 |
   | Landing | main | o1p2q3r | feat: implement TypeScript interactions | Added carousel functionality, FAQ toggles, smooth scrolling, and mobile menu behavior | 20/09/2025 |
   | Landing | main | s4t5u6v | style: optimize CSS and performance | Refined styling, added animations, and optimized loading performance | 21/09/2025 |
+
+  *Nota.* Elaboración propia.
 
   **Estructura de Archivos Desarrollada:**
 
@@ -4157,6 +4247,9 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   En esta sección, nos sumergiremos en los detalles del Sprint Planning 2 para el desarrollo de GeoPS.
 
+  **Tabla 19**   
+  *Sprint Planning 2 — GeoPS*  
+
   | **Campo** | **Detalle** |
   |------------|-------------|
   | **Sprint #** | Sprint 2 |
@@ -4170,9 +4263,14 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
   | **Sprint Velocity** | 20 Story Points |
   | **Sum of Story Points** | 23 Story Points |
 
+  *Nota.* Elaboración propia.
+
   ##### 5.2.2.2. Aspect Leaders and Collaborators
 
   En esta sección se incluye la elaboración del artefacto Leadership and Collaboration Matrix (LACX), el cual define quién es el líder y quiénes son los colaboradores para este Sprint 2 del proyecto GeoPS.
+
+  **Tabla 20**   
+  *Leadership & Collaboration Matrix — Sprint 2 — GeoPS*  
 
   | **Team Member (Last Name, First Name)** | **GitHub Username** | **Geo-PS Frontend Leader (L) / Collaborator (C)** | **Geo-PS Frontend Leader (L) / Collaborator (C)** | **Geo-PS Frontend Leader (L) / Collaborator (C)** |
   |-----------------------------------------|---------------------|----------------------------------------------------|----------------------------------------------------|----------------------------------------------------|
@@ -4181,6 +4279,8 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
   | **Cotrina Siclla, Sofia Alessandra**    | IamAndreek          | C | C | C |
   | **Goñe Araccata, Esther Abigail**       | abigoe02            | C | L | C |
   | **Salazar Caballero, Alvaro Fabrizzio** | IDymian             | C | C | C |
+
+  *Nota.* Elaboración propia.
 
   ##### 5.2.2.3. Sprint Backlog 2
 
@@ -4198,6 +4298,9 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
   **Enlace al Tablero:** https://trello.com/b/CZ3eGcx8/product-backlog-geops
 
   ###  Sprint Backlog 2 – User Stories and Tasks
+
+  **Tabla 21**   
+  *Sprint Backlog 2 — GeoPS*  
 
   <table>
   <thead>
@@ -4511,12 +4614,17 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
     </tr>
   </tbody>
   </table>
+
+  *Nota.* Elaboración propia.
   
   ##### 5.2.2.4. Development Evidence for Sprint Review.
 
   ###  Sprint Backlog 2 – Commits Overview
 
   <h3>Registro de Commits del Sprint 2 (GeoPS Frontend)</h3>
+
+  **Tabla 22**   
+  *Development Evidence — Sprint 2 — GeoPS*  
 
   <table>
   <thead>
@@ -4699,6 +4807,8 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
   </tbody>
   </table>
 
+  *Nota.* Elaboración propia.
+
   ##### 5.2.2.5. Execution Evidence for Sprint Review
 
   Durante este sprint, se desarrolló exclusivamente el **frontend de GeoPS**, estableciendo los componentes y flujos principales para la **navegación** y la **gestión de la experiencia del usuario**.
@@ -4795,6 +4905,9 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   A continuación, se presentan los **endpoints desarrollados e implementados durante el Sprint 2** de GeoPS, los cuales establecen la comunicación entre el frontend y los servicios simulados del sistema.
 
+  **Tabla 23**   
+  *Services Documentation Evidence — Sprint 2 — GeoPS* 
+
   | **Endpoint** | **Path** | **Descripción** |
   |---------------|-----------|------------------|
   | **Users Endpoint** | `/users` | Registro, login y perfil del usuario autenticado. |
@@ -4805,6 +4918,8 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
   | **Subscriptions Endpoint** | `/subscriptions` | Gestión de suscripción: cancelar o bajar de plan. |
   | **Cart Endpoint** | `/cart` | Agregar o quitar ítems del carrito. |
   | **Payments Endpoint** | `/payments` | Confirmación de pago y consulta de estado. |
+
+  *Nota.* Elaboración propia.
 
    **Nota técnica:**  
   Estos endpoints fueron utilizados para la simulación del flujo de datos dentro del entorno **frontend-only** durante el Sprint 2, permitiendo validar la navegación y consistencia visual sin conexión real al backend.
@@ -4971,6 +5086,9 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   ####  Métricas Detalladas del Repositorio de Desarrollo (`geops-frontend`)
 
+  **Tabla 24**   
+  *Team Collaboration Insights — Sprint 2 — GeoPS*
+
   | **Métrica** | **Valor / Descripción** |
   |--------------|--------------------------|
   | **Total de commits** | 32 commits en todas las ramas |
@@ -4984,6 +5102,8 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
   | **Issues activos** | 0 issues abiertos |
   | **Principales contribuidores** | Todos los miembros del equipo participaron en commits y revisiones |
   | **Ramas destacadas** | `feature/identity-access`, `feature/cards`, `feature/home`, `feature/subscriptions`, `feature/toolbar-help` |
+
+  *Nota.* Elaboración propia.
 
   ####  Observaciones de Colaboración
 
@@ -5073,6 +5193,9 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   En esta sección, nos sumergiremos en los detalles del Sprint Planning 3 para el desarrollo de GeoPS.
 
+  **Tabla 25**   
+  *Sprint Planning 3 — GeoPS*  
+
   | **Campo** | **Detalle** |
   |------------|-------------|
   | **Sprint #** | Sprint 3 |
@@ -5086,9 +5209,14 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
   | **Sprint Velocity** | 26 Story Points |
   | **Sum of Story Points** | 41 Story Points |
 
+  *Nota.* Elaboración propia.
+
   ##### 5.2.3.2. Aspect Leaders and Collaborators
 
   En esta sección se incluye la elaboración del artefacto Leadership and Collaboration Matrix (LACX), el cual define quién es el líder y quiénes son los colaboradores para este Sprint 3 del proyecto GeoPS.
+
+  **Tabla 26**   
+  *Leadership & Collaboration Matrix — Sprint 3 — GeoPS*
 
   | **Team Member (Last Name, First Name)** | **GitHub Username** | **Geo-PS Backend Leader (L) / Collaborator (C)** | **Geo-PS Backend Leader (L) / Collaborator (C)** | **Geo-PS Backend Leader (L) / Collaborator (C)** |
   |-----------------------------------------|---------------------|----------------------------------------------------|----------------------------------------------------|----------------------------------------------------|
@@ -5097,6 +5225,8 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
   | **Cotrina Siclla, Sofia Alessandra**    | IamAndreek          | C | C | C |
   | **Goñe Araccata, Esther Abigail**       | abigoe02            | C | L | C |
   | **Salazar Caballero, Alvaro Fabrizzio** | IDymian             | C | C | C |
+
+  *Nota.* Elaboración propia.
 
   ##### 5.2.3.3. Sprint Backlog 3
 
@@ -5114,6 +5244,9 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
   ##### 5.2.3.4. Development Evidence for Sprint Review.
 
   En este capítulo se presenta el avance correspondiente al Sprint 3 dentro del desarrollo del backend de la aplicación web. Durante esta iteración, el equipo mantuvo un trabajo coordinado aplicando prácticas ágiles que permitieron continuar con la construcción y optimización de los servicios principales. Se logró implementar nuevas capacidades en el backend, reforzar la lógica de negocio y resolver incidencias identificadas en el frontend. 
+
+  **Tabla 28**
+  *Sprint Backlog 3 — GeoPS*
 
   | Repository | Branch | Commit Message | Commit ID | Date |
   | :--- | :--- | :--- | :--- | :--- |
@@ -5237,6 +5370,9 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   Durante el Sprint 3 se completó la documentación de los Web Services del backend de GeoPS, desarrollado en Java e integrado con Swagger UI, permitiendo exponer de manera clara y estructurada todos los endpoints de la API. Se registraron las operaciones y descripciones de los módulos de Authentication, Users, Favorites, Reviews, Carts, Subscriptions, Offers, Coupons y Payments, abarcando procesos esenciales como autenticación con JWT, gestión de usuarios, manejo de favoritos, reseñas, carritos de compra, planes de suscripción, ofertas, cupones y transacciones de pago. Este avance proporcionó una base documental sólida que facilita la integración con el frontend, mejora la mantenibilidad del sistema y asegura un desarrollo alineado con el roadmap del producto digital.
 
+  **Tabla 29**   
+  *Services Documentation Evidence — Sprint 3 — GeoPS*
+
   | Método | Path | Descripción |
   | ----- | ----- | ----- |
   | POST | /api/v1/authentication/sign-up | Registra a un nuevo usuario. |
@@ -5299,6 +5435,8 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
   | GET | /api/v1/payments/status/{status} | Pagos filtrados por estado. |
   | GET | /api/v1/payments/cart/{cartId} | Pagos asociados a un carrito. |
   | GET | /api/v1/payments/cart/{cartId}/exists | Verifica si existe pago para un carrito. |
+
+  *Nota.* Elaboración propia.
 
   **1. Autenticación (Authentication)**
   * Operaciones CRUD soportadas:  
@@ -5682,6 +5820,9 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   ####  Métricas Detalladas del Repositorio de Desarrollo (`geops-backend`)
 
+  **Tabla 30**   
+  *Team Collaboration Insights — Sprint 2 — GeoPS*
+
   | **Métrica** | **Valor / Descripción** |
   |--------------|--------------------------|
   | **Total de commits** | 20 commits en todas las ramas |
@@ -5695,6 +5836,8 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
   | **Issues activos** | 0 issues abiertos |
   | **Principales contribuidores** | Todos los miembros del equipo participaron en commits y revisiones |
   | **Ramas destacadas** | `feature/update-subscription`, `feature/update-plan`, `feature/favorites`, `feature/offers` |
+
+  *Nota.* Elaboración propia.
 
   ####  Observaciones de Colaboración
 
@@ -5793,6 +5936,9 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   En esta sección, nos sumergiremos en los detalles del Sprint Planning Meeting 4 para el desarrollo de GeoPS, donde se planificó el cierre funcional del MVP del producto, integrando los módulos finales y fortaleciendo la estabilidad general del sistema.
 
+  **Tabla 30**   
+  *Sprint Planning 4 — GeoPS*
+
   <table>
   <tr>
     <th>Sprint #</th>
@@ -5857,11 +6003,16 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
     <td>Sum of Story Points</td>
     <td>30 Story Points</td>
   </tr>
-</table>
+  </table>
+
+  *Nota.* Elaboración propia.
 
   ##### 5.2.4.2. Aspect Leaders and Collaborators
 
   En esta sección se incluye la elaboración del artefacto Leadership and Collaboration Matrix (LACX), el cual define quién es el líder y quiénes son los colaboradores para las áreas clave de trabajo durante el Sprint 4 del proyecto GeoPS.
+
+  **Tabla 32**   
+  *Leadership & Collaboration Matrix — Sprint 4 — GeoPS*
 
   | Team Member (Last Name, First Name)     | GitHub Username | Proveedores | Vista Admin | QA & Fixing |
   | --------------------------------------- | --------------- | ----------- | ----------- | ----------- |
@@ -5870,6 +6021,8 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
   | **Cotrina Siclla, Sofía Alessandra**    | sofiaCotrina    | **L**       | C           | C           |
   | **Goñe Araccata, Esther Abigail**       | EstherAbigail   | C           | C           | C           |
   | **Salazar Caballero, Álvaro Fabrizzio** | AlvaroSalasar   | C           | **L**       | C           |
+
+  *Nota.* Elaboración propia.
 
   **Leyenda:**   
   - L: Leader (Líder)
@@ -5920,8 +6073,8 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
 | Número de Registro | Datos del Entrevistado | Captura |
 | :---: | :--- | :---: |
-| **1** | **Nombre:** Ángel José <br> **Edad:** 22 años <br> **Distrito:** Cercado de Lima <br> **Duración de la entrevista:** <br> **Link:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318049_upc_edu_pe/IQCWzb3uMIZjT7lzFvmgBv-GAWFmjADhj95RGhKtnDtTLx8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=fOqkx5 **Resumen:** Ángel Pariona (22 años, Lima) es un buscador frecuente de ofertas y usuario activo de plataformas digitales como Yape. Al evaluar **Geops**, encontró que la Landing Page es muy intuitiva y la propuesta de valor es atractiva. Le da una alta credibilidad (7-8/10) a la plataforma. Las funcionalidades principales fueron bien recibidas: el registro es muy fácil, la función de geolocalización para ofertas cercanas es muy conveniente, y los filtros son intuitivos. Considera que **Geops es mejor** que las apps que usa actualmente (como Yape) debido a su **mejor distribución y ordenamiento de ofertas**, y la capacidad de guardarlas en favoritos. Para aumentar la credibilidad de las ofertas, sugiere añadir **recomendaciones o *reviews*** de otros usuarios. Su única sugerencia de mejora es modificar el **tamaño de la letra** para la vista móvil. | <img src="resources/images/chapter-5/EntrevistaValidacionSegmento2_1.png" alt="Entrevista-validacion1" width="600">   |
-| **2** | **Nombre:** Andrés Torres <br> **Edad:** 19 años <br> **Distrito:** San Miguel <br> **Duración de la entrevista:** <br> **Link:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318049_upc_edu_pe/IQDeTTS1ELqxQrNgI2B4yLLdAeBlKOwE-F6A5O9hKt1QFok?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=9c90f3 **Resumen:** El entrevistado, Andrés Torres (19 años), valoró la plataforma **GeoPs** como bastante **moderna, organizada y que transmite confianza**, destacando positivamente la asociación con marcas conocidas que refuerza la credibilidad del proyecto. En cuanto a la usabilidad de la plataforma web, calificó el registro como rápido y sencillo y encontró la función de buscar ofertas por ubicación y categorías como **muy útil para ahorrar tiempo en el traslado**. Además, señaló que, en comparación con otras apps que usa (como Yape), **Geops es más rápido y tiene filtros más cómodos**. Para convertirla en una herramienta de uso diario, su principal sugerencia de mejora fue desarrollar una **aplicación para dispositivos móviles**. |  <img src="resources/images/chapter-5/EntrevistaValidacionSegmento2_2.png" alt="Entrevista-validacion2" width="600">   |
+| **1** | **Nombre:** Ángel José <br> **Edad:** 22 años <br> **Distrito:** Cercado de Lima <br> **Duración de la entrevista:** <br> **Enlace:** https://tinyurl.com/val-seg-2-ang-geops **Resumen:** Ángel Pariona (22 años, Lima) es un buscador frecuente de ofertas y usuario activo de plataformas digitales como Yape. Al evaluar **Geops**, encontró que la Landing Page es muy intuitiva y la propuesta de valor es atractiva. Le da una alta credibilidad (7-8/10) a la plataforma. Las funcionalidades principales fueron bien recibidas: el registro es muy fácil, la función de geolocalización para ofertas cercanas es muy conveniente, y los filtros son intuitivos. Considera que **Geops es mejor** que las apps que usa actualmente (como Yape) debido a su **mejor distribución y ordenamiento de ofertas**, y la capacidad de guardarlas en favoritos. Para aumentar la credibilidad de las ofertas, sugiere añadir **recomendaciones o *reviews*** de otros usuarios. Su única sugerencia de mejora es modificar el **tamaño de la letra** para la vista móvil. | <img src="resources/images/chapter-5/EntrevistaValidacionSegmento2_1.png" alt="Entrevista-validacion1" width="600">   |
+| **2** | **Nombre:** Andrés Torres <br> **Edad:** 19 años <br> **Distrito:** San Miguel <br> **Duración de la entrevista:** <br> **Enlace:** https://tinyurl.com/val-seg-2-andr-geops **Resumen:** El entrevistado, Andrés Torres (19 años), valoró la plataforma **GeoPs** como bastante **moderna, organizada y que transmite confianza**, destacando positivamente la asociación con marcas conocidas que refuerza la credibilidad del proyecto. En cuanto a la usabilidad de la plataforma web, calificó el registro como rápido y sencillo y encontró la función de buscar ofertas por ubicación y categorías como **muy útil para ahorrar tiempo en el traslado**. Además, señaló que, en comparación con otras apps que usa (como Yape), **Geops es más rápido y tiene filtros más cómodos**. Para convertirla en una herramienta de uso diario, su principal sugerencia de mejora fue desarrollar una **aplicación para dispositivos móviles**. |  <img src="resources/images/chapter-5/EntrevistaValidacionSegmento2_2.png" alt="Entrevista-validacion2" width="600">   |
 
 #### 5.3.3 Evaluaciones Según Heurísticas
 
@@ -6138,7 +6291,7 @@ Mostrar la información de forma explícita, por ejemplo: “Fecha de expiració
 
 ### 5.4 Video About-the-Product
 
-- Link del Video About The Product GeoPS : https://tinyurl.com/about-the-product-geops
+**Enlace Video About The Product - GeoPs:** https://tinyurl.com/about-the-product-geops
 
 ## Conclusiones
 

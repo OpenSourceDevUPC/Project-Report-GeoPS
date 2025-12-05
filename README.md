@@ -3048,92 +3048,155 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   #### 4.7.1. Class Diagrams
 
-  El diagrama de clases de GeoPS está organizado siguiendo los principios de Domain-Driven Design (DDD), dividido en diferentes bounded contexts que representan las áreas principales del negocio:
+  El diagrama de clases de GeoPS está organizado siguiendo los principios de Domain-Driven Design (DDD) con arquitectura hexagonal y CQRS, dividido en 11 bounded contexts que representan las áreas principales del negocio. El diseño sigue una separación clara entre las capas de dominio, aplicación, infraestructura e interfaces.
 
   **Figura 126**<br>
-  *Diagrama de Clases — GeoPS*
+  *Diagrama de Clases de GeoPS Backend*
   
   <div align="center">
-      <img src="resources/imgs/capitulo-4/diagrama-de-clases-geops.png" alt="Software Object-Oriented Design — Diagrama de Clases GeoPS" width="900">
+      <img src="../geops-backend/geops-class-diagram.puml" alt="Software Object-Oriented Design — Diagrama de Clases GeoPS Backend" width="900">
   </div>
-  
-  *Nota.* Elaboración propia (realizado en LucidChart).
 
-  **Bounded Contexts identificados:**
+  *Nota.* El diagrama completo en formato PlantUML se encuentra en `geops-backend/geops-class-diagram.puml`
 
-  1. **User Management BC**: Gestiona la autenticación y autorización de usuarios
-  2. **Business & Campaigns BC**: Maneja las empresas y sus campañas publicitarias
-  3. **Domain Events**: Eventos del dominio para comunicación entre contextos
-  4. **Interaction BC**: Gestiona las interacciones de los usuarios con las campañas
-  5. **Analytics & Tracking BC**: Proporciona métricas y seguimiento de campañas
+  **Bounded Contexts implementados:**
+
+  **Contextos Core (4):**
+  1. **Identity BC**: Gestiona usuarios, autenticación y perfiles (User aggregate)
+  2. **Offers BC**: Maneja ofertas geolocalizadas vinculadas a campañas (Offer aggregate)
+  3. **Cart BC**: Gestión del carrito de compras y items (Cart, CartItem aggregates)
+  4. **Payments BC**: Procesamiento de pagos con múltiples métodos (Payment aggregate, PaymentMethod, PaymentStatus enums)
+
+  **Contextos Supporting (6):**
+  5. **Coupons BC**: Generación y redención de cupones tras compras (Coupon aggregate)
+  6. **Notifications BC**: Sistema de notificaciones en tiempo real (Notification aggregate, NotificationType enum, NotificationFactoryService)
+  7. **Reviews BC**: Reseñas y calificaciones de ofertas (Review aggregate)
+  8. **Favorites BC**: Gestión de ofertas favoritas por usuario (Favorite aggregate)
+  9. **Subscriptions BC**: Planes Free y Premium (Subscription aggregate, SubscriptionType enum)
+  10. **Campaign BC**: Gestión de campañas publicitarias (Campaign aggregate, CampaignStatus enum)
+
+  **Shared Kernel (1):**
+  11. **Shared BC**: Componentes compartidos (AuditableAbstractAggregateRoot, configuraciones JPA, CORS, OpenAPI)
+
+  **Arquitectura por capas:**
+
+  - **Domain Layer**: Aggregates, Entities, Value Objects, Commands, Queries, Service Interfaces
+  - **Application Layer**: CommandServiceImpl, QueryServiceImpl (implementan CQRS)
+  - **Infrastructure Layer**: JPA Repositories con Spring Data
+  - **Interfaces Layer**: REST Controllers, Resources, Assemblers
 
   #### 4.7.2. Class Dictionary
 
-  **User Management BC**
+  **Identity Bounded Context**
 
   **Tabla 10**   
-  *Class Dictionary — User Management BC*  
+  *Class Dictionary — Identity BC*  
 
-  | **Clase**          | **Atributos**                                                                                                                                        | **Descripción**                                                                                                                              |
-  | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-  | **User**           | - id: int<br>- email: string<br>- username: string<br>- password: string<br>- profilePicture: string<br>- createdAt: DateTime<br>- lastLoginAt: void | Representa a los usuarios del sistema. Contiene la información básica de autenticación y perfil de cada usuario registrado en la plataforma. |
-  | **UserRepository** | - authenticateUser(email: string, password: string): User                                                                                            | Repositorio que maneja la persistencia y recuperación de datos de usuarios. Proporciona métodos para autenticar usuarios en el sistema.      |
-  | **BusinessOwner**  | - businessType: string<br>- businessName: string<br>- businessAddress: string<br>- contactInfo: string                                               | Extiende la clase User para representar específicamente a los propietarios de negocios que publican campañas en la plataforma.               |
-  | **Consumer**       | - preferences: json<br>- location: string                                                                                                            | Extiende la clase User para representar a los consumidores que visualizan y interactúan con las campañas publicitarias.                      |
+  | **Clase**                 | **Atributos**                                                                                                                                     | **Descripción**                                                                                                                                       |
+  | ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+  | **User**                  | - id: Long<br>- name: String<br>- email: String<br>- phone: String<br>- password: String<br>- role: String<br>- userType: String                 | Aggregate root que representa usuarios del sistema. Extiende AuditableAbstractAggregateRoot para auditoría automática (createdAt, updatedAt).        |
+  | **UserCommandService**    | + handle(CreateUserCommand): Optional\<User\><br>+ handle(UpdateUserCommand): Optional\<User\><br>+ handle(DeleteUserCommand): boolean           | Interfaz del dominio para operaciones de escritura siguiendo patrón CQRS.                                                                            |
+  | **UserQueryService**      | + handle(GetUserByIdQuery): Optional\<User\><br>+ handle(GetAllUsersQuery): List\<User\><br>+ handle(GetUserByEmailQuery): Optional\<User\>      | Interfaz del dominio para operaciones de lectura siguiendo patrón CQRS.                                                                              |
+  | **UserController**        | + getAllUsers(): ResponseEntity<br>+ getUserById(id): ResponseEntity<br>+ createUser(resource): ResponseEntity<br>+ updateUser(): ResponseEntity  | REST Controller que expone endpoints en /api/v1/users. Usa UserCommandService y UserQueryService.                                                    |
+  | **UserRepository**        | + findByEmail(email): Optional\<User\><br>+ findByPhone(phone): Optional\<User\><br>+ existsByEmail(email): boolean                              | Repositorio JPA con métodos de consulta personalizados. Extiende JpaRepository.                                                                      |
+  | **CreateUserCommand**     | + name: String<br>+ email: String<br>+ phone: String<br>+ password: String                                                                       | Record inmutable que representa el comando para crear usuario (patrón CQRS).                                                                         |
+  | **UserResource**          | + id: Long<br>+ name: String<br>+ email: String<br>+ phone: String<br>+ role: String<br>+ userType: String                                       | Código para respuestas API. Transformado desde User mediante UserResourceFromEntityAssembler.                                                           |
 
   *Nota.* Elaboración propia.
 
-  **Business & Campaigns BC**
+  **Offers Bounded Context**
 
   **Tabla 11**   
-  *Class Dictionary — Business & Campaigns  BC*  
+  *Class Dictionary — Offers BC*  
 
-  | **Clase**              | **Atributos**                                                                                                                                                                                                                         | **Descripción**                                                                                                                                        |
-  | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-  | **Business**           | - id: int<br>- businessId: int<br>- name: string<br>- category: string<br>- address: string<br>- longitude: float<br>- latitude: float<br>- description: string<br>- contactInfo: string<br>- status: string                          | Representa las empresas registradas en la plataforma. Almacena información del negocio incluyendo ubicación geográfica para el targeting de campañas.  |
-  | **Campaign**           | - id: int<br>- businessId: int<br>- title: string<br>- description: string<br>- startDate: Date<br>- endDate: Date<br>- budget: decimal<br>- status: string<br>- targetAudience: string<br>- createdAt: DateTime<br>- updatedAt: void | Representa las campañas publicitarias creadas por las empresas. Contiene toda la información necesaria para la gestión y targeting de las promociones. |
-  | **Offer**              | - id: int<br>- campaignId: int<br>- title: string<br>- description: string<br>- discountType: string<br>- discountValue: decimal<br>- validFrom: DateTime<br>- validUntil: DateTime<br>- isActive: void                               | Representa las ofertas específicas dentro de una campaña. Define los descuentos y promociones que se ofrecen a los consumidores.                       |
-  | **BusinessRepository** | - findById(id: int): Campaign                                                                                                                                                                                                         | Repositorio para la gestión de datos de empresas, proporcionando métodos para recuperar información de campañas por identificador.                     |
+  | **Clase**                 | **Atributos**                                                                                                                                                                                                  | **Descripción**                                                                                                                             |
+  | ------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+  | **Offer**                 | - id: Long<br>- campaign: Campaign<br>- title: String<br>- partner: String<br>- price: BigDecimal<br>- originalPrice: BigDecimal<br>- category: String<br>- location: String<br>- latitude/longitude: Double | Aggregate root de ofertas. Relación ManyToOne con Campaign. Incluye geolocalización (latitude, longitude) para targeting.                  |
+  | **OfferCommandService**   | + handle(CreateOfferCommand): Optional\<Offer\><br>+ handle(UpdateOfferCommand): Optional\<Offer\><br>+ handle(DeleteOfferCommand): void                                                                      | Servicio de comandos para operaciones de escritura en ofertas.                                                                              |
+  | **OfferQueryService**     | + handle(GetOfferByIdQuery): Optional\<Offer\><br>+ handle(GetAllOffersQuery): List\<Offer\><br>+ handle(GetOffersByIdsQuery): List\<Offer\>                                                                  | Servicio de consultas para operaciones de lectura en ofertas.                                                                               |
+  | **OfferController**       | + getAllOffers(): ResponseEntity<br>+ getOfferById(id): ResponseEntity<br>+ createOffer(resource): ResponseEntity<br>+ updateOffer(): ResponseEntity                                                          | REST Controller en /api/v1/offers. Implementa endpoints CRUD completos.                                                                     |
+  | **OfferRepository**       | + findByCategory(category): List\<Offer\><br>+ findByValidUntilAfter(date): List\<Offer\>                                                                                                                     | Repositorio JPA con consultas por categoría y validez temporal.                                                                             |
+  | **CreateOfferCommand**    | + campaignId: Long<br>+ title: String<br>+ partner: String<br>+ price: BigDecimal<br>+ description: String<br>+ category: String                                                                              | Command para creación de ofertas con validación de Campaign existente.                                                                      |
+  | **OfferResource**         | + id: Long<br>+ title: String<br>+ partner: String<br>+ price: BigDecimal<br>+ category: String<br>+ location: String<br>+ imageUrl: String                                                                   | Código de respuesta para ofertas. Transformado mediante OfferResourceFromEntityAssembler.                                                      |
 
   *Nota.* Elaboración propia.
 
-  **Domain Events**
+  **Cart Bounded Context**
 
   **Tabla 12**   
-  *Class Dictionary — Domain Events*  
+  *Class Dictionary — Cart BC*  
 
-  | **Clase**            | **Atributos**                                                                        | **Descripción**                                                                                                        |
-  | -------------------- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------- |
-  | **CampaignLaunched** | - campaignId: int<br>- businessId: int<br>- launchDate: DateTime                     | Evento del dominio que se dispara cuando una nueva campaña es lanzada. Permite la comunicación entre bounded contexts. |
-  | **OfferPublished**   | - offerId: int<br>- campaignId: int<br>- publishDate: DateTime                       | Evento que notifica cuando una oferta ha sido publicada y está disponible para los consumidores.                       |
-  | **NotificationSent** | - notificationId: int<br>- userId: int<br>- campaignId: int<br>- timestamp: DateTime | Evento que registra el envío de notificaciones a usuarios sobre campañas relevantes.                                   |
+  | **Clase**                 | **Atributos**                                                                                                                                         | **Descripción**                                                                                                                           |
+  | ------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+  | **Cart**                  | - id: Long<br>- user: User<br>- items: List\<CartItem\><br>- totalItems: Integer<br>- totalAmount: Double                                            | Aggregate root del carrito. Relación ManyToOne con User y OneToMany con CartItem. Calcula totales automáticamente.                       |
+  | **CartItem**              | - id: Long<br>- cart: Cart<br>- offerId: Long<br>- offerTitle: String<br>- offerPrice: Double<br>- quantity: Integer<br>- total: Double             | Entity dentro del aggregate Cart. Almacena snapshot de información de la oferta para independencia del bounded context Offers.           |
+  | **CartCommandService**    | + handle(AddItemToCartCommand): Optional\<Cart\><br>+ handle(UpdateCartItemCommand): Optional\<Cart\><br>+ handle(ClearCartCommand): boolean        | Servicio de comandos. Valida existencia de User y Offer antes de agregar items.                                                          |
+  | **CartQueryService**      | + handle(GetCartByUserIdQuery): Optional\<Cart\><br>+ handle(GetCartByIdQuery): Optional\<Cart\>                                                     | Servicio de consultas para recuperar carritos por usuario o ID.                                                                          |
+  | **CartController**        | + getCartByUserId(userId): ResponseEntity<br>+ addItemToCart(userId, resource): ResponseEntity<br>+ updateCartItem(): ResponseEntity                | REST Controller en /api/v1/cart. Gestiona ciclo completo del carrito.                                                                    |
+  | **CartRepository**        | + findByUserId(userId): Optional\<Cart\>                                                                                                              | Repositorio JPA. Un usuario tiene un único carrito activo.                                                                                |
+  | **AddItemToCartCommand**  | + userId: Long<br>+ offerId: Long<br>+ quantity: Integer                                                                                              | Command para agregar items. Valida stock y disponibilidad de oferta.                                                                     |
+  | **CartResource**          | + id: Long<br>+ userId: Long<br>+ items: List\<CartItemResource\><br>+ totalItems: Integer<br>+ totalAmount: Double                                  | Código de respuesta con estructura completa del carrito incluyendo items anidados.                                                          |
 
   *Nota.* Elaboración propia.
 
-  **Interaction BC**
+  **Payments Bounded Context**
 
   **Tabla 13**   
-  *Class Dictionary — Interaction BC*  
+  *Class Dictionary — Payments BC*  
 
-  | **Clase**                  | **Atributos**                                                                                                                                     | **Descripción**                                                                                                                 |
-  | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-  | **UserActivity**           | - id: int<br>- userId: int<br>- activityType: string<br>- timestamp: DateTime<br>- metadata: json                                                 | Registra las actividades de los usuarios en la plataforma, como visualizaciones, clics e interacciones con campañas.            |
-  | **Notification**           | - id: int<br>- userId: int<br>- title: string<br>- message: string<br>- type: string<br>- isRead: bool<br>- createdAt: DateTime<br>- readAt: void | Gestiona las notificaciones enviadas a los usuarios sobre ofertas y campañas relevantes basadas en su ubicación y preferencias. |
-  | **NotificationRepository** | - sendNotification(notification: Notification)<br>- markAsRead(notificationId: int): UserActivity()                                               | Repositorio que maneja la persistencia y gestión de notificaciones, incluyendo el envío y marcado como leídas.                  |
+  | **Clase**                  | **Atributos**                                                                                                                                                                 | **Descripción**                                                                                                                                    |
+  | -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+  | **Payment**                | - id: Long<br>- userId: Long<br>- cartId: Long<br>- amount: BigDecimal<br>- paymentMethod: PaymentMethod<br>- status: PaymentStatus<br>- paymentCode: String<br>- completedAt: String | Aggregate root de pagos. Almacena IDs de User y Cart para trazabilidad sin acoplamiento fuerte.                                                   |
+  | **PaymentMethod**          | CARD, YAPE, PLIN                                                                                                                                                              | Enum con métodos de pago soportados (tarjeta de crédito, Yape, Plin).                                                                             |
+  | **PaymentStatus**          | PENDING, COMPLETED, FAILED                                                                                                                                                    | Enum con estados del pago durante su ciclo de vida.                                                                                               |
+  | **PaymentCommandService**  | + handle(CreatePaymentCommand): Optional\<Payment\><br>+ completePayment(paymentId, completedAt): Optional\<Payment\><br>+ failPayment(paymentId): Optional\<Payment\>       | Servicio de comandos. completePayment() dispara creación de notificaciones vía NotificationFactoryService (integración cross-context).            |
+  | **PaymentQueryService**    | + handle(GetPaymentByIdQuery): Optional\<Payment\><br>+ handle(GetAllPaymentsByUserIdQuery): List\<Payment\>                                                                 | Servicio de consultas para historial de pagos del usuario.                                                                                        |
+  | **PaymentController**      | + createPayment(resource): ResponseEntity<br>+ getPaymentById(id): ResponseEntity<br>+ completePayment(id): ResponseEntity<br>+ failPayment(id): ResponseEntity             | REST Controller en /api/v1/payments. Endpoint PUT /payments/{id}/complete marca pago como completado.                                             |
+  | **PaymentRepository**      | + findByUserId(userId): List\<Payment\><br>+ findByCartId(cartId): List\<Payment\><br>+ findByStatus(status): List\<Payment\>                                                | Repositorio JPA con consultas por usuario, carrito y estado.                                                                                      |
+  | **CreatePaymentCommand**   | + userId: Long<br>+ cartId: Long<br>+ amount: BigDecimal<br>+ paymentMethod: String<br>+ customerEmail: String                                                               | Command para iniciar pago. Captura información del cliente para procesamiento.                                                                    |
+  | **PaymentResource**        | + id: Long<br>+ userId: Long<br>+ amount: BigDecimal<br>+ paymentMethod: String<br>+ status: String<br>+ paymentCodes: List<br>+ completedAt: String                         | Código de respuesta con información completa del pago incluyendo códigos de cupones generados.                                                       |
 
   *Nota.* Elaboración propia.
 
-  **Analytics & Tracking BC**
+  **Notifications Bounded Context**
 
   **Tabla 14**   
-  *Class Dictionary — Analytics & Tracking BC*  
+  *Class Dictionary — Notifications BC*  
 
-  | **Clase**             | **Atributos**                                                                                                              | **Descripción**                                                                                                         |
-  | --------------------- | -------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-  | **CampaignAnalytics** | - campaignId: int<br>- impressions: int<br>- clicks: int<br>- conversions: int<br>- reach: int<br>- generatedRevenue: void | Proporciona métricas detalladas sobre el rendimiento de las campañas, incluyendo alcance, interacciones y conversiones. |
-  | **AnalyticsService**  | - calculateCampaignMetrics(campaignId: int): CampaignAnalytics                                                             | Servicio que calcula y genera métricas de rendimiento para las campañas publicitarias.                                  |
+  | **Clase**                     | **Atributos**                                                                                                                                                                             | **Descripción**                                                                                                                                |
+  | ----------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+  | **Notification**              | - id: Long<br>- userId: Long<br>- type: NotificationType<br>- title: String<br>- message: String<br>- isRead: boolean<br>- relatedEntityId: String<br>- actionUrl: String                | Aggregate root de notificaciones. Usa NotificationType enum para categorizar. Incluye URL de acción para navegación directa.                  |
+  | **NotificationType**          | PAYMENT, PREMIUM_UPGRADE, PROFILE_UPDATE, FAVORITE, COUPON_EXPIRATION, REVIEW_COMMENT                                                                                                    | Enum con tipos de notificaciones soportadas en el sistema.                                                                                    |
+  | **NotificationFactoryService**| + createPaymentNotification(userId, paymentId, amount)<br>+ createPremiumUpgradeNotification(userId)<br>+ createFavoriteAddedNotification(userId, offerId, title)                       | Servicio de aplicación que crea notificaciones específicas. Usado por otros bounded contexts (Payments, Reviews, Favorites) para integración.|
+  | **NotificationCommandService**| + handle(CreateNotificationCommand): Optional\<Notification\><br>+ handle(MarkNotificationAsReadCommand): Optional\<Notification\>                                                        | Servicio de comandos para crear y marcar como leídas.                                                                                         |
+  | **NotificationQueryService**  | + handle(GetNotificationsByUserIdQuery): List\<Notification\><br>+ handle(GetUnreadCountByUserIdQuery): Long                                                                             | Servicio de consultas. Incluye conteo de no leídas para badge en UI.                                                                          |
+  | **NotificationController**    | + getNotificationsByUserId(userId): ResponseEntity<br>+ markAsRead(id): ResponseEntity<br>+ markAllAsRead(userId): ResponseEntity<br>+ deleteNotification(id): ResponseEntity           | REST Controller en /api/v1/notifications. Soporte para marcar todas como leídas.                                                              |
+  | **NotificationRepository**    | + findByUserId(userId): List\<Notification\><br>+ findByUserIdAndIsRead(userId, isRead): List\<Notification\><br>+ countByUserIdAndIsRead(userId, isRead): Long                          | Repositorio JPA con consultas filtradas por estado de lectura y conteo.                                                                       |
+  | **NotificationResource**      | + id: Long<br>+ userId: Long<br>+ type: String<br>+ title: String<br>+ message: String<br>+ isRead: boolean<br>+ relatedEntityId: String<br>+ actionUrl: String<br>+ createdAt: String   | Código de respuesta con información completa incluyendo timestamp de creación.                                                                    |
 
   *Nota.* Elaboración propia.
+
+  **Shared Kernel**
+
+  **Tabla 15**   
+  *Class Dictionary — Shared BC*  
+
+  | **Clase**                                    | **Atributos / Métodos**                                                                                    | **Descripción**                                                                                                                |
+  | -------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+  | **AuditableAbstractAggregateRoot**           | - id: Long<br>- createdAt: Date<br>- updatedAt: Date<br>+ getId(): Long<br>+ getCreatedAt(): Date         | Clase base abstracta para todos los aggregates. Proporciona auditoría automática con @CreatedDate y @LastModifiedDate de JPA. |
+  | **SnakeCaseWithPluralizedTablePhysicalNamingStrategy** | + toPhysicalTableName(name, context): Identifier<br>+ toPhysicalColumnName(name, context): Identifier | Naming strategy personalizada de Hibernate. Convierte nombres de Java (camelCase) a snake_case con tablas pluralizadas.       |
+  | **JpaAuditingConfiguration**                 | + auditorAware(): AuditorAware\<String\>                                                                   | Configuración Spring para habilitar JPA Auditing (@EnableJpaAuditing).                                                        |
+  | **OpenApiConfiguration**                     | + customOpenAPI(): OpenAPI                                                                                 | Configuración de SpringDoc OpenAPI para documentación automática de API REST en /swagger-ui.html.                             |
+  | **CorsConfiguration**                        | + corsConfigurationSource(): CorsConfigurationSource                                                       | Configuración CORS para permitir peticiones desde frontend Angular (origins, methods, headers).                                |
+  | **MessageResource**                          | + message: String                                                                                          | Código genérico para respuestas simples de texto en endpoints (ej: mensajes de éxito, error).                                    |
+
+  *Nota.* Elaboración propia.
+
+  **Patrones de diseño implementados:**
+
+  - **DDD (Domain-Driven Design)**: Organización en bounded contexts con aggregates claramente definidos
+  - **CQRS (Command Query Responsibility Segregation)**: Separación de servicios de comando y consulta
+
 
 ### 4.8. Database Design
 

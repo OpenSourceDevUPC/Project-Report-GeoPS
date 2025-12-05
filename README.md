@@ -3051,10 +3051,10 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
   El diagrama de clases de GeoPS está organizado siguiendo los principios de Domain-Driven Design (DDD) con arquitectura hexagonal y CQRS, dividido en 11 bounded contexts que representan las áreas principales del negocio. El diseño sigue una separación clara entre las capas de dominio, aplicación, infraestructura e interfaces.
 
   **Figura 126**<br>
-  *Diagrama de Clases de GeoPS Backend*
+  *Diagrama de Clases de GeoPS*
   
   <div align="center">
-      <img src="../geops-backend/geops-class-diagram.puml" alt="Software Object-Oriented Design — Diagrama de Clases GeoPS Backend" width="900">
+      <img src="resources/class-diagran-geops.svg" alt="Diagrama de Clases GeoPS" width="900">
   </div>
 
   *Nota.* El diagrama completo en formato PlantUML se encuentra en `geops-backend/geops-class-diagram.puml`
@@ -3202,7 +3202,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   #### 4.8.1. Database Diagram
 
-  El diseño de la base de datos de GeoPS está estructurado para soportar eficientemente las funcionalidades de geolocalización, gestión de campañas y análisis de datos. La base de datos está optimizada para consultas geoespaciales y seguimiento de interacciones de usuarios.
+  El diseño de la base de datos de GeoPS implementa un esquema relacional robusto que soporta la arquitectura DDD y los 11 bounded contexts del sistema. La base de datos MySQL 8.0 está optimizada para transacciones, consultas geoespaciales mediante ubicació del usuario, y seguimiento completo de interacciones de usuarios con auditoría automática.
 
   **Figura 127**<br>
   *Diagrama de Base de Datos — GeoPS*
@@ -3211,29 +3211,101 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
       <img src="resources/imgs/capitulo-4/diagrama-db.png" alt="Database Design — Diagrama de Base de Datos GeoPS" width="900">
   </div>
 
-  *Nota.* Elaboración propia.
+  *Nota.* El script SQL completo de creación de la base de datos se encuentra en `geops-backend/geopsdb.sql`
 
-  **Descripción de las principales entidades:**
+  **Convenciones de nomenclatura implementadas:**
 
-  **Gestión de Usuarios:**
+  - **Nombres de tablas**: snake_case pluralizado (ej: `users`, `cart_items`, `notifications`)
+  - **Columnas**: snake_case (ej: `user_id`, `created_at`, `is_read`)
+  - **Primary Keys**: `BIGINT AUTO_INCREMENT` para soportar alto volumen de datos
+  - **Timestamps**: `DATETIME(6)` con precisión de microsegundos para auditoría exacta
+  - **Charset**: `utf8mb4` con collation `utf8mb4_unicode_ci` para soporte Unicode completo
+  - **Engine**: InnoDB para transacciones ACID y foreign keys
 
-  - **Campaigns**: Almacena información de las campañas publicitarias con campos para targeting geográfico y temporal
-  - **Business**: Contiene datos de las empresas registradas incluyendo coordenadas geográficas
-  - **Consumer**: Información de los consumidores con preferencias de ubicación
-  - **GUser**: Tabla principal de usuarios del sistema
+  **Descripción de las principales tablas por bounded context:**
 
-  **Análisis y Seguimiento:**
+  **Identity BC:**
+  - **users**: Tabla principal de usuarios con autenticación (id, name, email, phone, password, role, user_type, created_at, updated_at)
+    * Índice único en `email` para login rápido
+    * Soporte para roles y tipos de usuario (FREE, PREMIUM)
 
-  - **CampaignAnalytics**: Métricas de rendimiento de campañas
-  - **BusinessOwner**: Datos específicos de propietarios de negocios
-  - **UserActivity**: Registro de actividades de usuarios para análisis
+  **Offers BC:**
+  - **campaigns**: Campañas publicitarias (id, name, description, start_date, end_date, status, created_at, updated_at)
+    * Enum status: ACTIVE, INACTIVE, EXPIRED
+  - **offers**: Ofertas geolocalizadas (id, campaign_id, title, partner, price, original_price, description, category, location, latitude, longitude, image_url, valid_until, code_prefix, created_at, updated_at)
+    * FK a campaigns (ManyToOne)
+    * Índices en category y valid_until para filtrado rápido
+    * Coordenadas geográficas (DOUBLE) para cálculo de distancias
 
-  **Comunicación:**
+  **Cart BC:**
+  - **carts**: Carrito de compras por usuario (id, user_id, total_items, total_amount, created_at, updated_at)
+    * FK a users (ManyToOne)
+    * Un carrito activo por usuario
+  - **cart_items**: Items individuales del carrito (id, cart_id, offer_id, offer_title, offer_price, offer_image_url, quantity, total, created_at, updated_at)
+    * FK a carts (ManyToOne)
+    * Snapshot de datos de la oferta para independencia
 
-  - **Notification**: Sistema de notificaciones push basadas en ubicación
-  - **BusinessDomain**: Categorización de dominios de negocio
+  **Payments BC:**
+  - **payments**: Transacciones de pago (id, user_id, cart_id, offer_id, amount, payment_method, status, payment_code, payment_codes, customer_email, customer_first_name, customer_last_name, completed_at, created_at, updated_at)
+    * Enum payment_method: CARD, YAPE, PLIN
+    * Enum status: PENDING, COMPLETED, FAILED
+    * JSON payment_codes para múltiples cupones generados
+    * Índices en user_id, cart_id y status
 
-  Las relaciones entre tablas están diseñadas para optimizar consultas de proximidad geográfica y análisis de comportamiento de usuarios, elementos clave para el éxito de la plataforma de publicidad geolocalizada.
+  **Coupons BC:**
+  - **coupons**: Cupones generados post-compra (id, user_id, payment_id, offer_id, code, product_type, payment_code, is_redeemed, redeemed_at, created_at, updated_at)
+    * FK a users, payments y offers
+    * Índice en code (UNIQUE) para validación rápida
+    * Boolean is_redeemed para control de uso
+
+  **Notifications BC:**
+  - **notifications**: Sistema de notificaciones en tiempo real (id, user_id, type, title, message, is_read, related_entity_id, related_entity_type, action_url, created_at, updated_at)
+    * Enum type: PAYMENT, PREMIUM_UPGRADE, PROFILE_UPDATE, FAVORITE, COUPON_EXPIRATION, REVIEW_COMMENT
+    * Índices compuestos en (user_id, is_read) para consultas eficientes
+    * action_url para deep linking en la aplicación
+
+  **Reviews BC:**
+  - **reviews**: Reseñas y calificaciones de ofertas (id, offer_id, user_id, rating, comment, created_at, updated_at)
+    * FK a offers y users
+    * Rating INTEGER (1-5) con validación
+    * Índice en offer_id para listar reviews por oferta
+
+  **Favorites BC:**
+  - **favorites**: Ofertas marcadas como favoritas (id, user_id, offer_id, created_at, updated_at)
+    * FK a users y offers
+    * Índice único compuesto (user_id, offer_id) para prevenir duplicados
+
+  **Subscriptions BC:**
+  - **subscriptions**: Planes de suscripción (id, name, type, price, benefits, is_active, created_at, updated_at)
+    * Enum type: FREE, PREMIUM
+    * JSON benefits para lista flexible de beneficios
+    * Boolean is_active para planes disponibles
+
+  **Características técnicas de optimización:**
+
+  1. **Auditoría automática**: Todas las tablas incluyen `created_at` y `updated_at` gestionadas por JPA Auditing
+  2. **Índices estratégicos**: Creados en columnas de búsqueda frecuente (emails, fechas, estados, foreign keys)
+  3. **Tipos de datos optimizados**: 
+     - BIGINT para IDs (soporta hasta 9,223,372,036,854,775,807 registros)
+     - DECIMAL(10,2) para precios (precisión monetaria)
+     - VARCHAR con longitudes apropiadas según uso
+     - DATETIME(6) para timestamps de alta precisión
+  4. **Normalización**: 3ra forma normal (3NF) con desnormalización estratégica en CartItem para performance
+
+  **Relaciones entre tablas:**
+
+  - users 1:N carts (Un usuario tiene un carrito)
+  - carts 1:N cart_items (Un carrito tiene múltiples items)
+  - campaigns 1:N offers (Una campaña tiene múltiples ofertas)
+  - offers 1:N cart_items (Una oferta puede estar en múltiples carritos)
+  - users 1:N payments (Un usuario tiene múltiples pagos)
+  - payments 1:N coupons (Un pago genera múltiples cupones)
+  - users 1:N notifications (Un usuario recibe múltiples notificaciones)
+  - offers 1:N reviews (Una oferta tiene múltiples reseñas)
+  - users 1:N favorites (Un usuario tiene múltiples favoritos)
+  - subscriptions 1:N users (Una subscripcion puede estar en muchos usuarios)
+
+  El diseño prioriza la escalabilidad, integridad de datos y performance en consultas frecuentes como listado de ofertas por categoría/ubicación, historial de pagos, notificaciones no leídas y gestión de carritos activos.
 
 ---
 

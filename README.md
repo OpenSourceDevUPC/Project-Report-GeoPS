@@ -8496,7 +8496,7 @@ World Bank. (2019). *World Development Report 2019: The Changing Nature of Work*
 
 **Videos About The Team**
 
-- Enlace Video About The Team - GeoPs:
+- Enlace Video About The Team - GeoPs: https://tinyurl.com/about-the-team-geopslabs
 
 - Enlace Video About The Team - Sprint 1: https://tinyurl.com/about-the-team-sprint-1-geops
 
@@ -8516,7 +8516,7 @@ World Bank. (2019). *World Development Report 2019: The Changing Nature of Work*
 
 - Enlace Video Web Application Prototype: https://tinyurl.com/web-app-prototype-geops
 
-- Enlace Video Presentación FrontEnd: https://tinyurl.com/web-app-fronted-geops
+- Enlace Video Presentación FrontEnd: https://tinyurl.com/web-app-frontend-geops
 
 - Enlace Video Presentación BackEnd: https://tinyurl.com/web-app-backend-geops
 

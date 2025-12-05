@@ -142,8 +142,6 @@ Asimismo, se completó la documentación integral del proyecto, incorporando mé
   - [Capitulo 1: Introducción](#capitulo-1-introducción)
     - [1.1. Startup Profile](#11-startup-profile)
       - [1.1.1. Descripcion del Startup](#111-descripcion-del-startup)
-      - [Misión](#misión)
-      - [Visión](#visión)
       - [1.1.2. Perfiles de Integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
     - [1.2. Solution Profile](#12-solution-profile)
       - [1.2.1 Antecedentes y problemática](#121-antecedentes-y-problemática)
@@ -152,7 +150,7 @@ Asimismo, se completó la documentación integral del proyecto, incorporando mé
         - [1.2.1.1.2. ¿Cuál es la relación con la persona en cuestión?](#12112-cuál-es-la-relación-con-la-persona-en-cuestión)
         - [1.2.1.2. When](#1212-when)
         - [1.2.1.2.1. ¿Cuándo sucede el problema?](#12121-cuándo-sucede-el-problema)
-      - [1.2.1.2.2. ¿Cuándo utiliza el cliente el producto?](#12122-cuándo-utiliza-el-cliente-el-producto)
+        - [1.2.1.2.2. ¿Cuándo utiliza el cliente el producto?](#12122-cuándo-utiliza-el-cliente-el-producto)
         - [1.2.1.3. Where](#1213-where)
         - [1.2.1.3.1. ¿Dónde está el cliente cuando usa el producto?](#12131-dónde-está-el-cliente-cuando-usa-el-producto)
         - [1.2.1.3.2. ¿A dónde se dirige?](#12132-a-dónde-se-dirige)
@@ -175,8 +173,6 @@ Asimismo, se completó la documentación integral del proyecto, incorporando mé
         - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
         - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
     - [1.3. Segmentos objetivos](#13-segmentos-objetivos)
-      - [Segmento Objetivo #1: Consumidores de ofertas locales](#segmento-objetivo-1-consumidores-de-ofertas-locales)
-      - [Segmento Objetivo #2: Dueños de negocios locales](#segmento-objetivo-2-dueños-de-negocios-locales)
   - [Capitulo 2: Requirements Elicitation \& Analysis](#capitulo-2-requirements-elicitation--analysis)
     - [2.1. Competidores](#21-competidores)
       - [2.1.1. Analisis competitivo](#211-analisis-competitivo)
@@ -184,85 +180,42 @@ Asimismo, se completó la documentación integral del proyecto, incorporando mé
     - [2.2. Entrevistas](#22-entrevistas)
       - [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)
       - [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)
-  - [Segmento 1: Dueños de negocios de diferentes rubros](#segmento-1-dueños-de-negocios-de-diferentes-rubros)
-  - [Segmento 2: Consumidores de ofertas de diferentes ámbitos](#segmento-2-consumidores-de-ofertas-de-diferentes-ámbitos)
       - [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
-  - [Segmento 1: Dueños de negocios de diferentes rubros](#segmento-1-dueños-de-negocios-de-diferentes-rubros-1)
-  - [Segmento 2: Consumidores de ofertas de diferentes ámbitos](#segmento-2-consumidores-de-ofertas-de-diferentes-ámbitos-1)
     - [2.3. Needfinding](#23-needfinding)
       - [2.3.1. User Personas](#231-user-personas)
-  - [Segmento 1: Dueños de negocios de diferentes rubros](#segmento-1-dueños-de-negocios-de-diferentes-rubros-2)
-  - [Segmento 2: Consumidores de ofertas de diferentes ámbitos](#segmento-2-consumidores-de-ofertas-de-diferentes-ámbitos-2)
       - [2.3.2  User Task Matrix](#232--user-task-matrix)
-  - [Segmento 1: Dueños de negocios de diferentes rubros](#segmento-1-dueños-de-negocios-de-diferentes-rubros-3)
-  - [Segmento 2: Consumidores de ofertas de diferentes ámbitos](#segmento-2-consumidores-de-ofertas-de-diferentes-ámbitos-3)
       - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
-  - [Segmento 1: Dueños de negocios de diferentes rubros](#segmento-1-dueños-de-negocios-de-diferentes-rubros-4)
-  - [Segmento 2: Consumidores de ofertas de diferentes ámbitos](#segmento-2-consumidores-de-ofertas-de-diferentes-ámbitos-4)
       - [2.3.4. Empathy Mapping](#234-empathy-mapping)
-  - [Segmento 1: Dueños de negocios de diferentes rubros](#segmento-1-dueños-de-negocios-de-diferentes-rubros-5)
-  - [Segmento 2: Consumidores de ofertas de diferentes ámbitos](#segmento-2-consumidores-de-ofertas-de-diferentes-ámbitos-5)
     - [2.4. Big Picture Event Storming](#24-big-picture-event-storming)
     - [2.5. Ubiquitous Language](#25-ubiquitous-language)
   - [Capitulo 3: Requirements Specification](#capitulo-3-requirements-specification)
     - [3.1. User Stories](#31-user-stories)
-  - [Technical Stories](#technical-stories)
     - [3.2. Impact Mapping](#32-impact-mapping)
     - [3.3. Product Backlog](#33-product-backlog)
-    - [Vista del Product Backlog en Trello](#vista-del-product-backlog-en-trello)
   - [Capítulo 4: Product Design](#capítulo-4-product-design)
     - [4.1. Style Guidelines](#41-style-guidelines)
       - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
-    - [Branding](#branding)
-    - [Typography](#typography)
-    - [Tamaños y peso de tipografía](#tamaños-y-peso-de-tipografía)
-    - [Colors](#colors)
-    - [Spacing](#spacing)
-    - [Tonos de Comunicación](#tonos-de-comunicación)
       - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
-    - [Estructura general de la página](#estructura-general-de-la-página)
     - [4.2. Information Architecture](#42-information-architecture)
       - [4.2.1. Organization Systems](#421-organization-systems)
-    - [Organización Visual del Contenido](#organización-visual-del-contenido)
-    - [Esquemas de Categorización del Contenido](#esquemas-de-categorización-del-contenido)
       - [4.2.2. Labeling Systems](#422-labeling-systems)
-    - [Principios utilizados](#principios-utilizados)
       - [4.2.3. SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
-    - [Meta Tags a utilizar en GeoPS](#meta-tags-a-utilizar-en-geops)
       - [4.2.4. Searching Systems](#424-searching-systems)
-    - [Opciones de búsqueda en la aplicación](#opciones-de-búsqueda-en-la-aplicación)
       - [4.2.5. Navigation Systems](#425-navigation-systems)
-    - [Navegación de la Landing Page](#navegación-de-la-landing-page)
-    - [Navegación de la aplicación web](#navegación-de-la-aplicación-web)
     - [4.3. Landing Page UI Design](#43-landing-page-ui-design)
       - [4.3.1. Landing Page Wireframe](#431-landing-page-wireframe)
       - [4.3.2. Landing Page Mock-up](#432-landing-page-mock-up)
     - [4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)
       - [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)
-  - [Login](#login)
-  - [Consumidores](#consumidores)
-  - [Proveedores](#proveedores)
       - [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
-  - [Login](#login-1)
-  - [Consumidores](#consumidores-1)
-  - [Proveedores](#proveedores-1)
       - [4.4.3. Web Applications Mock-ups](#443-web-applications-mock-ups)
-  - [Login](#login-2)
-  - [Consumidores](#consumidores-2)
-  - [Proveedores](#proveedores-2)
       - [4.4.4. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)
-  - [General](#general)
-  - [Consumidores](#consumidores-3)
-  - [Proveedores](#proveedores-3)
     - [4.5. Web Applications Prototyping](#45-web-applications-prototyping)
     - [4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
       - [4.6.1. Design-Level Event Storming](#461-design-level-event-storming)
       - [4.6.2. Software Architecture Context Diagram](#462-software-architecture-context-diagram)
       - [4.6.3. Software Architecture Container Diagrams](#463-software-architecture-container-diagrams)
       - [4.6.4. Software Architecture Components Diagrams](#464-software-architecture-components-diagrams)
-  - [Servicio de Analíticas](#servicio-de-analíticas)
-  - [Servicio de Campañas](#servicio-de-campañas)
-  - [Servicio de Geolocalización](#servicio-de-geolocalización)
     - [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
       - [4.7.1. Class Diagrams](#471-class-diagrams)
       - [4.7.2. Class Dictionary](#472-class-dictionary)
@@ -288,48 +241,20 @@ Asimismo, se completó la documentación integral del proyecto, incorporando mé
         - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
         - [5.2.2.2. Aspect Leaders and Collaborators](#5222-aspect-leaders-and-collaborators)
         - [5.2.2.3. Sprint Backlog 2](#5223-sprint-backlog-2)
-    - [Sprint Backlog 2 – User Stories and Tasks](#sprint-backlog-2--user-stories-and-tasks)
         - [5.2.2.4. Development Evidence for Sprint Review.](#5224-development-evidence-for-sprint-review)
-    - [Sprint Backlog 2 – Commits Overview](#sprint-backlog-2--commits-overview)
         - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
-      - [Módulos Implementados](#módulos-implementados)
-      - [Evidencias Visuales](#evidencias-visuales)
-      - [Demostración en Video y URL de la Web](#demostración-en-video-y-url-de-la-web)
         - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
         - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
         - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
-      - [Métricas Detalladas del Repositorio de Desarrollo (`geops-frontend`)](#métricas-detalladas-del-repositorio-de-desarrollo-geops-frontend)
-      - [Observaciones de Colaboración](#observaciones-de-colaboración)
-      - [Análisis de Contribuciones por Desarrollador](#análisis-de-contribuciones-por-desarrollador)
-    - [Análisis de Patrones de Colaboración](#análisis-de-patrones-de-colaboración)
-      - [1. Metodología de Trabajo](#1-metodología-de-trabajo)
-      - [2. Herramientas de Comunicación Utilizadas](#2-herramientas-de-comunicación-utilizadas)
-      - [3. Distribución Temporal de Trabajo](#3-distribución-temporal-de-trabajo)
-    - [Insights Principales del Sprint 2](#insights-principales-del-sprint-2)
-      - [Fortalezas Identificadas](#fortalezas-identificadas)
-      - [Áreas de Mejora para Próximos Sprints](#áreas-de-mejora-para-próximos-sprints)
-    - [Conclusión de Colaboración](#conclusión-de-colaboración)
       - [5.2.3. Sprint 3](#523-sprint-3)
         - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
         - [5.2.3.2. Aspect Leaders and Collaborators](#5232-aspect-leaders-and-collaborators)
         - [5.2.3.3. Sprint Backlog 3](#5233-sprint-backlog-3)
-    - [Sprint Backlog 3 – Commits Overview](#sprint-backlog-3--commits-overview)
         - [5.2.3.4. Development Evidence for Sprint Review.](#5234-development-evidence-for-sprint-review)
         - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
         - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
         - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
         - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
-      - [Métricas Detalladas del Repositorio de Desarrollo (`geops-backend`)](#métricas-detalladas-del-repositorio-de-desarrollo-geops-backend)
-      - [Observaciones de Colaboración](#observaciones-de-colaboración-1)
-      - [Análisis de Contribuciones por Desarrollador](#análisis-de-contribuciones-por-desarrollador-1)
-    - [Análisis de Patrones de Colaboración](#análisis-de-patrones-de-colaboración-1)
-      - [1. Metodología de Trabajo](#1-metodología-de-trabajo-1)
-      - [2. Herramientas de Comunicación Utilizadas](#2-herramientas-de-comunicación-utilizadas-1)
-      - [3. Distribución Temporal de Trabajo](#3-distribución-temporal-de-trabajo-1)
-    - [Insights Principales del Sprint 3](#insights-principales-del-sprint-3)
-      - [Fortalezas Identificadas](#fortalezas-identificadas-1)
-      - [Áreas de Mejora para Próximos Sprints](#áreas-de-mejora-para-próximos-sprints-1)
-    - [Conclusión de Colaboración](#conclusión-de-colaboración-1)
       - [5.2.4. Sprint 4](#524-sprint-4)
         - [5.2.4.1. Sprint Planning 4](#5241-sprint-planning-4)
         - [5.2.4.2. Aspect Leaders and Collaborators](#5242-aspect-leaders-and-collaborators)
@@ -341,26 +266,8 @@ Asimismo, se completó la documentación integral del proyecto, incorporando mé
         - [5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
     - [5.3 Validation Interviews](#53-validation-interviews)
       - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
-      - [Segmento 2: Consumidores de ofertas de diferentes ámbitos](#segmento-2-consumidores-de-ofertas-de-diferentes-ámbitos-6)
-      - [Características Demográficas](#características-demográficas)
-      - [Landing Page](#landing-page)
-      - [Plataforma Web](#plataforma-web)
       - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
-      - [Segmento 2: Consumidores de ofertas de diferentes ámbitos](#segmento-2-consumidores-de-ofertas-de-diferentes-ámbitos-7)
       - [5.3.3 Evaluaciones Según Heurísticas](#533-evaluaciones-según-heurísticas)
-    - [UX Heuristics \& Principles Evaluation](#ux-heuristics--principles-evaluation)
-    - [Usability - Inclusive Design - Information Architecture](#usability---inclusive-design---information-architecture)
-    - [Carrera:](#carrera)
-    - [Curso:](#curso)
-    - [Sección:](#sección)
-    - [Profesores:](#profesores)
-    - [Auditor:](#auditor)
-    - [Clientes:](#clientes)
-    - [Site o App a evaluar:](#site-o-app-a-evaluar)
-    - [Tareas a evaluar:](#tareas-a-evaluar)
-    - [Escala de severidad:](#escala-de-severidad)
-    - [Tabla de resumen](#tabla-de-resumen)
-  - [Descripción de problemas](#descripción-de-problemas)
     - [5.4 Video About-the-Product](#54-video-about-the-product)
   - [Conclusiones](#conclusiones)
   - [Bibliografía](#bibliografía)
@@ -512,10 +419,12 @@ Asimismo, se completó la documentación integral del proyecto, incorporando mé
   
   **GeoPS Labs** es una startup enfocada en el desarrollo de soluciones tecnológicas que conectan comercios locales con usuarios mediante publicidad **hiperlocalizada** basada en análisis de **geolocalización inteligente**. A través de una **plataforma web accesible** desde cualquier navegador, los usuarios pueden visualizar ofertas en tiempo real, mientras que los comercios acceden a un **panel de gestión de campañas** con herramientas de marketing basadas en proximidad y perfil de   movimiento. Esto permite aumentar la conversión de sus estrategias publicitarias con un menor costo y mayor control de resultados. **GeoPS Labs** apuesta por combinar **tecnología, datos y experiencia de usuario** para generar beneficios reales, priorizando siempre la **privacidad** y la **relevancia** en la entrega de contenidos.
   
-  #### Misión
+  **Misión**
+
   Conectar personas y comercios de manera inteligente y relevante, mejorando la experiencia de compra diaria mediante tecnología web de geolocalización respetuosa y personalizada.
   
-  #### Visión
+  **Visión**
+
   Ser la **plataforma web líder en publicidad hiperlocalizada en Latinoamérica**, revolucionando la manera en que los comercios y usuarios interactúan en el entorno digital urbano.
   
   #### 1.1.2. Perfiles de Integrantes del equipo
@@ -567,7 +476,7 @@ Con un **diseño responsive** que se adapta a cualquier dispositivo, **GeoPS Lab
   ##### 1.2.1.2.1. ¿Cuándo sucede el problema?
   El problema se hace más evidente en los momentos de decisión de compra, cuando los consumidores buscan información sobre productos o servicios cercanos y la publicidad que reciben no es contextual ni personalizada. Según el Informe Digital 2023 de DataReportal (Kemp, 2023), los usuarios peruanos pasan en promedio 5 horas y 28 minutos al día conectados a internet, gran parte de ese tiempo navegando en buscadores, redes sociales y plataformas de comercio electrónico. Sin embargo, en esos momentos clave, la publicidad que encuentran suele ser masiva y poco segmentada, lo que disminuye su utilidad y su capacidad de influir en la decisión de compra.
 
-  #### 1.2.1.2.2. ¿Cuándo utiliza el cliente el producto?
+  ##### 1.2.1.2.2. ¿Cuándo utiliza el cliente el producto?
   Los consumidores pueden acceder a GeoPS Web en cualquier momento de su jornada digital, ya sea desde la computadora en el trabajo, la laptop en casa o el smartphone en movilidad. A diferencia de las aplicaciones móviles que requieren instalación, la versión web elimina fricciones y permite un acceso inmediato, especialmente en instantes donde la proximidad y la oportunidad son factores decisivos. Esto resulta clave porque, de acuerdo con Think with Google (2019), el 76% de las personas que buscan algo cercano en su dispositivo visitan un negocio relacionado en el plazo de 24 horas, y el 28% de esas búsquedas resultan en una compra. Con GeoPS Web, se busca que esas oportunidades no se pierdan por falta de visibilidad o relevancia.
 
   ##### 1.2.1.3. Where
@@ -699,7 +608,7 @@ Con un **diseño responsive** que se adapta a cualquier dispositivo, **GeoPS Lab
 
 ### 1.3. Segmentos objetivos
 
-#### Segmento Objetivo #1: Consumidores de ofertas locales
+**Segmento Objetivo #1: Consumidores de ofertas locales**
 
 **Aspectos Demográficos**  
 - Sexo: Todos los géneros.  
@@ -715,7 +624,7 @@ Con un **diseño responsive** que se adapta a cualquier dispositivo, **GeoPS Lab
 - Objetividad: Consumidores que buscan ahorrar tiempo y dinero accediendo a ofertas locales actualizadas.  
 - Nuestra Solución: Proveer una plataforma web con notificaciones personalizadas, mapa interactivo y reseñas verificadas para facilitar el descubrimiento de promociones cercanas.  
 
-#### Segmento Objetivo #2: Dueños de negocios locales
+**Segmento Objetivo #2: Dueños de negocios locales**
 
 **Aspectos Demográficos**  
 - Sexo: Todos los géneros.  
@@ -828,7 +737,7 @@ Con un **diseño responsive** que se adapta a cualquier dispositivo, **GeoPS Lab
 
   #### 2.2.2. Registro de entrevistas
 
-  ## Segmento 1: Dueños de negocios de diferentes rubros
+  **Segmento 1: Dueños de negocios de diferentes rubros**
 
   **Tabla 2**   
   *Registro de entrevistas — Segmento 1*
@@ -841,7 +750,7 @@ Con un **diseño responsive** que se adapta a cualquier dispositivo, **GeoPS Lab
 
   *Nota.* Elaboración propia.
 
-  ## Segmento 2: Consumidores de ofertas de diferentes ámbitos
+  **Segmento 2: Consumidores de ofertas de diferentes ámbitos**
 
   **Tabla 3**   
   *Registro de entrevistas — Segmento 2*  
@@ -856,7 +765,7 @@ Con un **diseño responsive** que se adapta a cualquier dispositivo, **GeoPS Lab
 
   #### 2.2.3. Análisis de entrevistas
 
-  ## Segmento 1: Dueños de negocios de diferentes rubros
+  **Segmento 1: Dueños de negocios de diferentes rubros**
 
   A partir de las entrevistas a tres dueños de negocios, de edades y rubros variados, podemos extraer las siguientes conclusiones:
 
@@ -866,7 +775,7 @@ Con un **diseño responsive** que se adapta a cualquier dispositivo, **GeoPS Lab
 
   **c) El éxito del marketing digital se mide directamente en ventas, no en interacciones superficiales.** El 100% de los entrevistados evalúa la efectividad de sus esfuerzos de promoción en función de los resultados tangibles. Kelly y Cesar mencionan explícitamente que miden su éxito a través de las ventas generadas por WhatsApp, y Mirta se enfoca en que sus acciones de marketing se traduzcan en nuevas recomendaciones. Esto indica que para este segmento, el objetivo principal de cualquier herramienta digital es el crecimiento de los ingresos.
 
-  ## Segmento 2: Consumidores de ofertas de diferentes ámbitos
+  **Segmento 2: Consumidores de ofertas de diferentes ámbitos**
 
   A partir de de las entrevistas a tres jóvenes consumidores de ofertas, podemos extraer las siguientes conclusiones:
 
@@ -879,7 +788,7 @@ Con un **diseño responsive** que se adapta a cualquier dispositivo, **GeoPS Lab
 ### 2.3. Needfinding
   #### 2.3.1. User Personas
   
-  ## Segmento 1: Dueños de negocios de diferentes rubros
+  **Segmento 1: Dueños de negocios de diferentes rubros**
 
   **Figura 9**<br>
   *User Persona — Segmento 1*
@@ -890,7 +799,7 @@ Con un **diseño responsive** que se adapta a cualquier dispositivo, **GeoPS Lab
 
   *Nota.* Elaboración propia (realizado en Uxpressia).
 
-  ## Segmento 2: Consumidores de ofertas de diferentes ámbitos
+  **Segmento 2: Consumidores de ofertas de diferentes ámbitos**
 
   **Figura 10:**<br>
   *User Persona — Segmento 2*
@@ -902,10 +811,10 @@ Con un **diseño responsive** que se adapta a cualquier dispositivo, **GeoPS Lab
   *Nota.* Elaboración propia (realizado en Uxpressia).
 
   #### 2.3.2  User Task Matrix
-  
-  ## Segmento 1: Dueños de negocios de diferentes rubros
 
-  **Tabla 4**   
+  **Segmento 1: Dueños de negocios de diferentes rubros**
+
+  **Tabla 4**
   *User Task Matrix — Segmento 1*  
 
   | Task                                                                  | Frecuencia | Importancia |
@@ -921,7 +830,7 @@ Con un **diseño responsive** que se adapta a cualquier dispositivo, **GeoPS Lab
 
   *Nota.* Elaboración propia.
 
-  ## Segmento 2: Consumidores de ofertas de diferentes ámbitos
+  **Segmento 2: Consumidores de ofertas de diferentes ámbitos**
 
   **Tabla 5**   
   *User Task Matrix — Segmento 2*
@@ -941,7 +850,7 @@ Con un **diseño responsive** que se adapta a cualquier dispositivo, **GeoPS Lab
   
   #### 2.3.3. User Journey Mapping
 
-  ## Segmento 1: Dueños de negocios de diferentes rubros
+  **Segmento 1: Dueños de negocios de diferentes rubros**
 
   **Figura 11**<br>
   *User Journey Mapping — Segmento 1*
@@ -952,7 +861,7 @@ Con un **diseño responsive** que se adapta a cualquier dispositivo, **GeoPS Lab
 
   *Nota.* Elaboración propia (realizado en Uxpressia).
 
-  ## Segmento 2: Consumidores de ofertas de diferentes ámbitos
+  **Segmento 2: Consumidores de ofertas de diferentes ámbitos**
 
   **Figura 12:**<br>
   *User Journey Mapping — Segmento 2*
@@ -965,7 +874,7 @@ Con un **diseño responsive** que se adapta a cualquier dispositivo, **GeoPS Lab
 
   #### 2.3.4. Empathy Mapping
 
-  ## Segmento 1: Dueños de negocios de diferentes rubros
+  **Segmento 1: Dueños de negocios de diferentes rubros**
 
   **Figura 13:**<br>
   *Empathy Mapping — Segmento 1*
@@ -976,7 +885,7 @@ Con un **diseño responsive** que se adapta a cualquier dispositivo, **GeoPS Lab
 
   *Nota.* Elaboración propia (realizado en Uxpressia).
 
-  ## Segmento 2: Consumidores de ofertas de diferentes ámbitos
+  **Segmento 2: Consumidores de ofertas de diferentes ámbitos**
 
   **Figura 14:**<br>
   *Empathy Mapping — Segmento 2*
@@ -1086,7 +995,7 @@ A través de ellas se traduce lo que los usuarios quieren lograr al usar el prod
 
 *Nota.* Elaboración propia.
 
-## Technical Stories
+**Technical Stories**
 
 Las Technical Stories detallan requerimientos técnicos derivados de las User Stories.  
 Están orientadas al equipo de desarrollo y especifican aspectos relacionados con infraestructura, integraciones, seguridad o rendimiento, necesarios para que las funcionalidades puedan implementarse correctamente.
@@ -1129,7 +1038,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
 **Enlace al Tablero:** https://trello.com/invite/b/6827b176ac2901fb01dfde7f/ATTI41e099b86c4d473204a21f0e3359cadd5F57D4C1/product-backlog-geops
 
-### Vista del Product Backlog en Trello
+**Vista del Product Backlog en Trello**
 
 **Figura 17**<br>
 *Product Backlog — GeoPS*
@@ -1201,7 +1110,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   #### 4.1.1. General Style Guidelines
 
-  ### Branding
+  **Branding**
 
   - El nombre completo de nuestro servicio es “Geo Publicity Service”.
   - Para el dominio web y la aplicación, así como para ser más memorable, se utilizará el nombre corto GeoPS.
@@ -1217,11 +1126,11 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   *Nota.* Elaboración propia.
 
-  ### Typography
+  **Typography**
 
   Las tipografías seleccionadas son Poppins y Lobster. Lobster fué elegida principalmente para representar nuestro Logo GeoPS de una manera expresiva, atrayendo la atención de los usuarios a nuestra landing page. La tipografía Poppins se utiliza en los párrafos, títulos, subtítulos y botones de la página, transmitiendo claridad y profesionalismo, ofreciendo una buena legibilidad en la página web mediante su amplia variedad de pesos de letra.
 
-  ### Tamaños y peso de tipografía
+  **Tamaños y peso de tipografía**
 
   Lobster: Peso 400, 60 px de tamaño para el logo.
   Poppins:
@@ -1233,7 +1142,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
   - Texto dentro de imágenes: Peso 600, 24 px de tamaño.
   - Texto de botones CTA: Peso 600, 25 px de tamaño.
 
-  ### Colors
+  **Colors**
 
   Utilizaremos la siguiente paleta de colores:
 
@@ -1257,13 +1166,13 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
   | <img src="resources/imgs/capitulo-4/Uva.png" alt="Color uva">           | El color uva es utilizado en botones CTA de tamaño mediano y secciones con imágenes. Este color muestra energía, dinamismo y una personalidad fuerte, en comparación a otros botones principales. También ayuda a destacar el texto de los botones. |
   | <img src="resources/imgs/capitulo-4/Veronica.png" alt="Color veronica"> | El color verónica es utilizado en botones pequeños CTA. Este color muestra juventud y frescura al ser un poco más claro que los otros colores de tono parecido.                                                                                     |
 
-  ### Spacing
+  **Spacing**
 
   - El espacio en el diseño de GeoPS se enfocará en proporcionar una experiencia visual clara y accesible para el usuario, reflejando los principios de orden y claridad. Se utilizarán márgenes amplios para resaltar los elementos clave, como botones y áreas interactivas, permitiendo una navegación fluida y sin distracciones.
   - Al utilizar muchas imágenes, consideramos utilizar un espaciado horizontal entre las imágenes lo suficiente para mostrarlas con claridad visual y sin que interrumpa la navegación del usuario.
   - El espaciado será utilizado para diferenciar las zonas de información, especialmente en secciones interactivas con párrafos.
 
-  ### Tonos de Comunicación
+  **Tonos de Comunicación**
 
   El tono de comunicación de GeoPS será amigable, cercano y orientado al usuario. Buscamos establecer una conexión genuina mediante un lenguaje claro y accesible a todos, sin utilizar demasiados tecnicismos. Resaltaremos los beneficios y la facilidad de uso de nuestra aplicación web, sin abrumar al usuario con tanta información. Queremos que el usuario se sienta valorado y escuchado en cada interacción.
 
@@ -1271,7 +1180,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   En esta sección, se describe la guía de nuestra landing page con sus características en el estilo para mantener una coherencia visual.
 
-  ### Estructura general de la página
+  **Estructura general de la página**
 
   **Cabecera**:
 
@@ -1325,7 +1234,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   Se aplicarán distintos sistemas de organización de contenido tanto visual como estructural, adaptados al flujo operativo de nuestros usuarios (consumidores y negocios locales). Esto permitirá ofrecer una experiencia clara, intuitiva y eficaz durante el uso de la plataforma.
 
-  ### Organización Visual del Contenido
+  **Organización Visual del Contenido**
 
   **Jerárquica:**
   En las pantallas principales, como el Dashboard de usuario y el panel de negocios, los elementos más importantes (promociones destacadas, métricas de campaña) estarán resaltados con mayor tamaño, color contrastante y posición superior.
@@ -1336,7 +1245,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
   **Matricial:**
   Aplicada en la visualización de datos cruzados, como patrones de movilidad de consumidores versus resultados de campañas. Los negocios podrán ver las relaciones entre ubicación, horario y efectividad publicitaria.
 
-  ### Esquemas de Categorización del Contenido
+  **Esquemas de Categorización del Contenido**
 
   **Por Tópicos:**
   Será el sistema predominante en los menús de navegación. Las funcionalidades estarán agrupadas en temas específicos:
@@ -1372,7 +1281,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   En GeoPS se ha implementado un sistema de etiquetado claro y funcional, adaptado al entorno de consumo y gestión de campañas locales. El objetivo es reducir la carga cognitiva y facilitar la interacción rápida con la plataforma.
 
-  ### Principios utilizados
+  **Principios utilizados**
 
   **Simplicidad y claridad:**
   Se prioriza el uso de términos breves y familiares para cada segmento. Ejemplo para consumidores: "Ofertas cercanas", "Favoritos", "Historial". Ejemplo para negocios: "Campañas", "Segmentación", "Métricas".
@@ -1387,7 +1296,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   Las Meta Tags son esenciales para el posicionamiento de la plataforma en buscadores y para su correcta presentación en navegadores y redes sociales.
 
-  ### Meta Tags a utilizar en GeoPS
+  **Meta Tags a utilizar en GeoPS**
 
   **Título:**
 
@@ -1438,7 +1347,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   Los sistemas de búsqueda en GeoPS facilitan el acceso rápido a promociones o campañas según el segmento objetivo.
 
-  ### Opciones de búsqueda en la aplicación
+  **Opciones de búsqueda en la aplicación**
 
   **Barra de búsqueda global:**
 
@@ -1473,7 +1382,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   Los sistemas de navegación guiarán a los usuarios a través de la Landing Page y la aplicación web, adaptados a cada segmento objetivo.
 
-  ### Navegación de la Landing Page
+  **Navegación de la Landing Page**
 
   **Menú principal:**
   Logo GeoPS, Productos, Negocios, Nosotros, Planes, Registrarse, Iniciar Sesión.
@@ -1486,7 +1395,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
   - **Planes:** Opciones diferenciadas para consumidores (gratis) y negocios (básico, premium).
   - **Contacto:** Formulario para consultas o soporte.
 
-  ### Navegación de la aplicación web
+  **Navegación de la aplicación web**
 
   **Estructura general:**
 
@@ -1540,7 +1449,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   **Enlace Diseño Figma:** https://tinyurl.com/diseno-figma-geops
 
-  ## Login
+  **Login**
 
   **Inicio de sesión y registro**
 
@@ -1553,7 +1462,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   *Nota.* Elaboración propia (realizado en Figma).
 
-  ## Consumidores
+  **Consumidores**
 
   **Home**
 
@@ -1772,7 +1681,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   *Nota.* Elaboración propia (realizado en Figma).
 
-  ## Proveedores
+  **Proveedores**
 
   **Resumen**
 
@@ -1959,7 +1868,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   Ver Wireflows Diagrams Overflow: https://overflow.io/s/FAPMCERY
 
-  ## Login
+  **Login**
 
   **User Goal: Iniciar Sesión**
 
@@ -1976,7 +1885,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
     *Nota.* Elaboración propia (realizado en Overflow).
 
-  ## Consumidores
+  **Consumidores**
 
   **User Goal: Visualizar planes**
 
@@ -2073,7 +1982,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
     *Nota.* Elaboración propia (realizado en Overflow).
 
-  ## Proveedores
+  **Proveedores**
 
   **User Goal: Visualizar Planes**
 
@@ -2142,7 +2051,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   **Enlace Diseño Figma:** https://tinyurl.com/diseno-figma-geops
 
-  ## Login
+  **Login**
 
   **Inicio de Sesión y Registro**
 
@@ -2155,7 +2064,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   *Nota.* Elaboración propia (realizado en Figma).
 
-  ## Consumidores
+  **Consumidores**
 
   **Home**
 
@@ -2464,7 +2373,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   *Nota.* Elaboración propia (realizado en Figma).
 
-  ## Proveedores
+  **Proveedores**
 
   **Resumen**
 
@@ -2649,7 +2558,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   #### 4.4.4. Web Applications User Flow Diagrams
 
-  ## General
+  **General**
 
   Iniciar Sesión en Consumidor o Proveedor:
 
@@ -2663,7 +2572,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
   *Nota.* Elaboración propia.  
   <br>
 
-  ## Consumidores
+  **Consumidores**
 
   **Acceder a Opciones de Empresa (Campañas, Crear, Reportes y Comentarios)**
 
@@ -2701,7 +2610,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
   *Nota.* Elaboración propia.  
   <br>
 
-  ## Proveedores
+  **Proveedores**
 
   **Acceder a Links Principales**
 
@@ -2942,7 +2851,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   #### 4.6.4. Software Architecture Components Diagrams
 
-  ## Servicio de Analíticas
+  **Servicio de Analíticas**
   
   **Figura 123**<br>
   *Software Architecture — Analytics Service Components Diagram*
@@ -2974,7 +2883,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   **Exportador de Datos**: Permite exportar los datos analíticos en múltiples formatos.
 
-  ## Servicio de Campañas
+  **Servicio de Campañas**
 
   **Figura 124**<br>
   *Software Architecture — Campaign Service Components Diagram*
@@ -3022,7 +2931,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
   - Gestionar su disponibilidad y contenido  
   - Mantener consistencia en los datos del negocio  
 
-  ## Servicio de Geolocalización
+  **Servicio de Geolocalización**
 
   **Figura 125**<br>
   *Software Architecture — Geolocation Service Components Diagram*
@@ -3890,9 +3799,9 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
   | ------------------------------------|-----------------|--------------|
   | Huarcaya Matias, Gilbert Alonso | GilbertHuarcaya | L |
   | Huapaya Galindo, Dyaron | Mainema | C |
-  | Cotrina Siclla, Sofia Alessandra | sofiaCotrina | C |
-  | Goñe Araccata, Esther Abigail | EstherAbigail | C |
-  | Salasar Caballero, Alvaro Fabrizzio | AlvaroSalasar | C |
+  | Cotrina Siclla, Sofia Alessandra | IamAndreek | C |
+  | Goñe Araccata, Esther Abigail | abigoe02 | C |
+  | Salasar Caballero, Alvaro Fabrizzio | IDymian | C |
 
   *Nota.* Elaboración propia.
 
@@ -4442,7 +4351,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   **Enlace al Tablero:** https://trello.com/b/CZ3eGcx8/product-backlog-geops
 
-  ###  Sprint Backlog 2 – User Stories and Tasks
+  **Sprint Backlog 2 – User Stories and Tasks**
 
   **Tabla 21**   
   *Sprint Backlog 2 — GeoPS*  
@@ -4764,7 +4673,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
   
   ##### 5.2.2.4. Development Evidence for Sprint Review.
 
-  ###  Sprint Backlog 2 – Commits Overview
+  **Sprint Backlog 2 – Commits Overview**
 
   <h3>Registro de Commits del Sprint 2 (GeoPS Frontend)</h3>
 
@@ -4958,7 +4867,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   Durante este sprint, se desarrolló exclusivamente el **frontend de GeoPS**, estableciendo los componentes y flujos principales para la **navegación** y la **gestión de la experiencia del usuario**.
 
-  ####  Módulos Implementados
+  **Módulos Implementados**
 
   - **Home:** Pantalla de bienvenida con acceso directo a las secciones principales, diseño responsivo y preparación para futuras integraciones.  
   - **Offers:** Visualización de ofertas relevantes, con filtrado y presentación dinámica de tarjetas.  
@@ -4968,7 +4877,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
   
   Este avance representa el **primer paso visual y funcional de GeoPS**, estableciendo la base para incorporar **autenticación**, **lógica de backend** y **gestión avanzada de datos** en los siguientes sprints.
   
-  ####  Evidencias Visuales
+  **Evidencias Visuales**
 
   **Inicio de Sesión**
 
@@ -5039,7 +4948,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   *Nota.* Elaboración propia.
 
-  ####  Demostración en Video y URL de la Web
+  **Demostración en Video y URL de la Web**
   
   + **Enlace Video Presentación FrontEnd:**  https://tinyurl.com/web-app-fronted-geops
   + **Enlace del Proyecto (FrontEnd) Deploy:** https://geops-frontend.vercel.app/login
@@ -5229,7 +5138,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   Se evidenció una mejora notable en la **frecuencia de commits**, el **uso de ramas específicas por funcionalidad** y la aplicación de **mensajes convencionales (Conventional Commits)**, lo que permitió garantizar la **trazabilidad y consistencia** de los cambios realizados.
 
-  ####  Métricas Detalladas del Repositorio de Desarrollo (`geops-frontend`)
+  **Métricas Detalladas del Repositorio de Desarrollo (`geops-frontend`)**
 
   **Tabla 24**   
   *Team Collaboration Insights — Sprint 2 — GeoPS*
@@ -5250,7 +5159,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   *Nota.* Elaboración propia.
 
-  ####  Observaciones de Colaboración
+  **Observaciones de Colaboración**
 
   - El equipo mantuvo una comunicación fluida a través de **GitHub Projects** y **Pull Requests**, garantizando revisiones continuas de código.  
   - Se establecieron convenciones claras para el **uso de ramas**, basadas en la nomenclatura `feature/`, `fix/` y `docs/`.  
@@ -5278,7 +5187,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   *Nota.* Elaboración propia.
 
-  ####  Análisis de Contribuciones por Desarrollador
+  **Análisis de Contribuciones por Desarrollador**
 
   **Distribución Equilibrada:**  
   Se observó una participación activa y constante de los desarrolladores en las distintas ramas del proyecto, con commits distribuidos equitativamente entre las funcionalidades desarrolladas.
@@ -5289,45 +5198,45 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
   **Colaboración Efectiva:**  
   Los cambios fueron integrados mediante *pull requests* revisados en equipo, fortaleciendo la comunicación, la calidad del código y la trazabilidad del proyecto.
 
-  ###  Análisis de Patrones de Colaboración
+  **Análisis de Patrones de Colaboración**
 
-  #### 1. Metodología de Trabajo
+  **1. Metodología de Trabajo**
 
   - **Branching Strategy:** Uso eficiente de ramas `feature/` para el desarrollo paralelo de módulos independientes.  
   - **Code Integration:** Integración controlada hacia la rama `develop`, que actúa como entorno de consolidación.  
   - **Documentation Sync:** Sincronización constante entre código y reportes del sprint, asegurando trazabilidad documental.  
   - **Quality Control:** Revisión de código previa a cada *merge* para garantizar la estabilidad y coherencia del sistema.
 
-  #### 2. Herramientas de Comunicación Utilizadas
+  **2. Herramientas de Comunicación Utilizadas**
 
   - **Discord:** Comunicación diaria y coordinación técnica del equipo.  
   - **GitHub:** Gestión de ramas, *issues*, commits y *pull requests*.  
   - **Trello:** Seguimiento de tareas y control del avance de cada módulo del sprint.  
   - **Google Meet:** Reuniones de planificación, revisión de sprint y retrospectiva de resultados.
 
-  #### 3. Distribución Temporal de Trabajo
+  **3. Distribución Temporal de Trabajo**
 
   - **Picos de Actividad:** Mayor número de commits durante la segunda mitad del sprint, coincidiendo con la integración de endpoints.  
   - **Colaboración Paralela:** Trabajo simultáneo en varias ramas activas (`cards`, `coupons`, `home`, `toolbar-help`).  
   - **Consistencia:** Actividad sostenida en `develop` con commits diarios.  
   - **Finalización Coordinada:** Consolidación y *merge* general antes del cierre del sprint, asegurando estabilidad funcional.
 
-  ###  Insights Principales del Sprint 2
+  **Insights Principales del Sprint 2**
 
-  #### Fortalezas Identificadas
+  **Fortalezas Identificadas**
 
   - Integración exitosa del frontend con los endpoints principales del sistema.  
   - Flujo de trabajo colaborativo mediante *pull requests* y revisión de código entre pares.  
   - Organización sólida del repositorio con ramas activas bien delimitadas.  
   - Madurez técnica y comunicación efectiva entre los integrantes del equipo.
 
-  #### Áreas de Mejora para Próximos Sprints
+  **Áreas de Mejora para Próximos Sprints**
 
   - Consolidar **pruebas automatizadas** para validar los endpoints y flujos principales.  
   - Optimizar la **gestión de merges y revisiones de código** para reducir tiempos de integración.  
   - Incrementar la **documentación técnica y de arquitectura** de cada módulo desarrollado.
 
-  ###  Conclusión de Colaboración
+  **Conclusión de Colaboración**
 
   El **Sprint 2** evidenció una evolución clara en la coordinación del equipo y en la integración técnica del sistema **GeoPS**.  
   El uso disciplinado de ramas, la constancia en los commits y la comunicación efectiva reflejan un **equipo consolidado y comprometido**, preparado para avanzar hacia las etapas de refinamiento, pruebas automatizadas y despliegue del producto.
@@ -5363,20 +5272,24 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
   **Tabla 26**   
   *Leadership & Collaboration Matrix — Sprint 3 — GeoPS*
 
-  | **Team Member (Last Name, First Name)** | **GitHub Username** | **Geo-PS Backend Leader (L) / Collaborator (C)** | **Geo-PS Backend Leader (L) / Collaborator (C)** | **Geo-PS Backend Leader (L) / Collaborator (C)** |
-  |-----------------------------------------|---------------------|----------------------------------------------------|----------------------------------------------------|----------------------------------------------------|
-  | **Huarcaya Matias, Gilbert Alonso**     | GilbertHuarcaya     | L | C | L |
+  | **Team Member (Last Name, First Name)** | **GitHub Username** | **Backend Core & Authentication** | **Backend Bounded Contexts** | **Backend Integration & Deployment** |
+  |-----------------------------------------|---------------------|-----------------------------------|------------------------------|--------------------------------------|
+  | **Huarcaya Matias, Gilbert Alonso**     | GilbertHuarcaya     | L | L | L |
   | **Huapaya Galindo, Dyron**              | Mainema             | C | C | C |
   | **Cotrina Siclla, Sofia Alessandra**    | IamAndreek          | C | C | C |
-  | **Goñe Araccata, Esther Abigail**       | abigoe02            | C | L | C |
+  | **Goñe Araccata, Esther Abigail**       | abigoe02            | C | C | C |
   | **Salazar Caballero, Alvaro Fabrizzio** | IDymian             | C | C | C |
 
   *Nota.* Elaboración propia.
 
   ##### 5.2.3.3. Sprint Backlog 3
 
+  El Sprint Backlog 3 está orientado al desarrollo del backend de la plataforma GeoPS, implementando los bounded contexts principales, el sistema de autenticación y el despliegue del sistema.
+
+  **Enlace al Tablero:** https://trello.com/b/CZ3eGcx8/product-backlog-geops
+
   **Figura 160**   
-  Sprint Backlog 3 — GeoPS
+  *Sprint Backlog 3 — GeoPS*
 
   <div align="center">
     <img src="resources/images/chapter-5/Product_Backlog_3.jpg" alt="Sprint Backlog 3 - GeoPS" width="1000">
@@ -5384,52 +5297,684 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   *Nota.* Elaboración propia.
 
-  ###  Sprint Backlog 3 – Commits Overview
+  **Sprint Backlog 3 – User Stories and Tasks**
+  
+  **Tabla 27**   
+  *Sprint Backlog 3 — GeoPS*
+
+  <table>
+  <thead>
+    <tr>
+      <th>Sprint #</th>
+      <th>Sprint 3</th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
+    <tr>
+      <th>User Story</th>
+      <th>Work Item/Task</th>
+      <th>ID</th>
+      <th>Title</th>
+      <th>Description</th>
+      <th>Estimation (Hours)</th>
+      <th>Assigned To</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="4"><strong>TS01</strong> Endpoint: Registrar usuario</td>
+      <td>Implementar entidad User</td>
+      <td>T1</td>
+      <td>Crear modelo de datos User</td>
+      <td>Definir entidad User con atributos necesarios para autenticación</td>
+      <td>2</td>
+      <td>Álvaro Salazar</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>Implementar repositorio</td>
+      <td>T2</td>
+      <td>Crear UserRepository</td>
+      <td>Implementar repositorio JPA para gestión de usuarios</td>
+      <td>1</td>
+      <td>Álvaro Salazar</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>Implementar servicio de registro</td>
+      <td>T3</td>
+      <td>Crear endpoint POST /auth/register</td>
+      <td>Implementar lógica de registro con validación de email y password</td>
+      <td>3</td>
+      <td>Álvaro Salazar</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>Documentar en Swagger</td>
+      <td>T4</td>
+      <td>Exponer endpoint en Swagger UI</td>
+      <td>Agregar documentación del endpoint en Swagger</td>
+      <td>1</td>
+      <td>Álvaro Salazar</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="4"><strong>TS02</strong> Endpoint: Login de usuario</td>
+      <td>Implementar autenticación JWT</td>
+      <td>T1</td>
+      <td>Configurar JWT authentication</td>
+      <td>Implementar generación y validación de tokens JWT</td>
+      <td>3</td>
+      <td>Álvaro Salazar</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>Implementar servicio de login</td>
+      <td>T2</td>
+      <td>Crear endpoint POST /auth/login</td>
+      <td>Implementar lógica de autenticación con credenciales</td>
+      <td>2</td>
+      <td>Álvaro Salazar</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>Validación de credenciales</td>
+      <td>T3</td>
+      <td>Implementar validación de password</td>
+      <td>Verificar password hasheado y generar token</td>
+      <td>2</td>
+      <td>Álvaro Salazar</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>Documentar en Swagger</td>
+      <td>T4</td>
+      <td>Exponer endpoint en Swagger UI</td>
+      <td>Agregar documentación del endpoint en Swagger</td>
+      <td>1</td>
+      <td>Álvaro Salazar</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="4"><strong>TS07</strong> Endpoint: Guardar oferta (favoritos)</td>
+      <td>Implementar entidad Favorite</td>
+      <td>T1</td>
+      <td>Crear modelo de datos Favorite</td>
+      <td>Definir entidad Favorite con relaciones User y Offer</td>
+      <td>2</td>
+      <td>Esther Goñe</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>Implementar repositorio</td>
+      <td>T2</td>
+      <td>Crear FavoriteRepository</td>
+      <td>Implementar repositorio JPA para gestión de favoritos</td>
+      <td>1</td>
+      <td>Esther Goñe</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>Implementar CRUD de favoritos</td>
+      <td>T3</td>
+      <td>Crear endpoints de Favorites</td>
+      <td>Implementar POST, GET, DELETE para favoritos del usuario</td>
+      <td>3</td>
+      <td>Esther Goñe</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>Documentar en Swagger</td>
+      <td>T4</td>
+      <td>Exponer endpoints en Swagger UI</td>
+      <td>Agregar documentación de endpoints en Swagger</td>
+      <td>1</td>
+      <td>Esther Goñe</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="4"><strong>Backend Offers</strong></td>
+      <td>Implementar entidad Offer</td>
+      <td>T1</td>
+      <td>Crear modelo de datos Offer</td>
+      <td>Definir entidad Offer con atributos de oferta</td>
+      <td>2</td>
+      <td>Esther Goñe</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>Implementar repositorio</td>
+      <td>T2</td>
+      <td>Crear OfferRepository</td>
+      <td>Implementar repositorio JPA para gestión de ofertas</td>
+      <td>1</td>
+      <td>Esther Goñe</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>Implementar CRUD de ofertas</td>
+      <td>T3</td>
+      <td>Crear endpoints de Offers</td>
+      <td>Implementar operaciones CRUD completas para ofertas</td>
+      <td>4</td>
+      <td>Esther Goñe</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>Documentar en Swagger</td>
+      <td>T4</td>
+      <td>Exponer endpoints en Swagger UI</td>
+      <td>Agregar documentación de endpoints en Swagger</td>
+      <td>1</td>
+      <td>Esther Goñe</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="4"><strong>Backend Reviews</strong></td>
+      <td>Implementar entidad Review</td>
+      <td>T1</td>
+      <td>Crear modelo de datos Review</td>
+      <td>Definir entidad Review con relaciones User y Offer</td>
+      <td>2</td>
+      <td>Esther Goñe</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>Implementar repositorio</td>
+      <td>T2</td>
+      <td>Crear ReviewRepository</td>
+      <td>Implementar repositorio JPA para gestión de reseñas</td>
+      <td>1</td>
+      <td>Esther Goñe</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>Implementar CRUD de reviews</td>
+      <td>T3</td>
+      <td>Crear endpoints de Reviews</td>
+      <td>Implementar POST, GET, PATCH, DELETE para reseñas</td>
+      <td>3</td>
+      <td>Esther Goñe</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>Documentar en Swagger</td>
+      <td>T4</td>
+      <td>Exponer endpoints en Swagger UI</td>
+      <td>Agregar documentación de endpoints en Swagger</td>
+      <td>1</td>
+      <td>Esther Goñe</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="4"><strong>Backend Carts</strong></td>
+      <td>Implementar entidad Cart</td>
+      <td>T1</td>
+      <td>Crear modelo de datos Cart y CartItem</td>
+      <td>Definir entidades Cart con items y relaciones</td>
+      <td>2</td>
+      <td>Gilbert Huarcaya</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>Implementar repositorio</td>
+      <td>T2</td>
+      <td>Crear CartRepository</td>
+      <td>Implementar repositorio JPA para gestión de carritos</td>
+      <td>1</td>
+      <td>Gilbert Huarcaya</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>Implementar gestión de carrito</td>
+      <td>T3</td>
+      <td>Crear endpoints de Carts</td>
+      <td>Implementar agregar, actualizar, eliminar items del carrito</td>
+      <td>4</td>
+      <td>Gilbert Huarcaya</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>Documentar en Swagger</td>
+      <td>T4</td>
+      <td>Exponer endpoints en Swagger UI</td>
+      <td>Agregar documentación de endpoints en Swagger</td>
+      <td>1</td>
+      <td>Gilbert Huarcaya</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="4"><strong>Backend Coupons</strong></td>
+      <td>Implementar entidad Coupon</td>
+      <td>T1</td>
+      <td>Crear modelo de datos Coupon</td>
+      <td>Definir entidad Coupon con validaciones y fechas</td>
+      <td>2</td>
+      <td>Gilbert Huarcaya</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>Implementar repositorio</td>
+      <td>T2</td>
+      <td>Crear CouponRepository</td>
+      <td>Implementar repositorio JPA con queries personalizadas</td>
+      <td>1</td>
+      <td>Gilbert Huarcaya</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>Implementar gestión de cupones</td>
+      <td>T3</td>
+      <td>Crear endpoints de Coupons</td>
+      <td>Implementar CRUD, bulk creation y validación de cupones</td>
+      <td>4</td>
+      <td>Gilbert Huarcaya</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>Documentar en Swagger</td>
+      <td>T4</td>
+      <td>Exponer endpoints en Swagger UI</td>
+      <td>Agregar documentación de endpoints en Swagger</td>
+      <td>1</td>
+      <td>Gilbert Huarcaya</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="4"><strong>Backend Payments</strong></td>
+      <td>Implementar entidad Payment</td>
+      <td>T1</td>
+      <td>Crear modelo de datos Payment</td>
+      <td>Definir entidad Payment con estados y relaciones</td>
+      <td>2</td>
+      <td>Gilbert Huarcaya</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>Implementar repositorio</td>
+      <td>T2</td>
+      <td>Crear PaymentRepository</td>
+      <td>Implementar repositorio JPA para gestión de pagos</td>
+      <td>1</td>
+      <td>Gilbert Huarcaya</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>Implementar gestión de pagos</td>
+      <td>T3</td>
+      <td>Crear endpoints de Payments</td>
+      <td>Implementar procesamiento de pagos y actualización de estados</td>
+      <td>4</td>
+      <td>Gilbert Huarcaya</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>Documentar en Swagger</td>
+      <td>T4</td>
+      <td>Exponer endpoints en Swagger UI</td>
+      <td>Agregar documentación de endpoints en Swagger</td>
+      <td>1</td>
+      <td>Gilbert Huarcaya</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="4"><strong>Backend Subscriptions</strong></td>
+      <td>Implementar entidad Subscription</td>
+      <td>T1</td>
+      <td>Crear modelo de datos Subscription</td>
+      <td>Definir entidad Subscription con planes y tipos</td>
+      <td>2</td>
+      <td>Gilbert Huarcaya</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>Implementar repositorio</td>
+      <td>T2</td>
+      <td>Crear SubscriptionRepository</td>
+      <td>Implementar repositorio JPA con filtros por tipo</td>
+      <td>1</td>
+      <td>Gilbert Huarcaya</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>Implementar gestión de planes</td>
+      <td>T3</td>
+      <td>Crear endpoints de Subscriptions</td>
+      <td>Implementar CRUD y planes recomendados</td>
+      <td>3</td>
+      <td>Gilbert Huarcaya</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>Documentar en Swagger</td>
+      <td>T4</td>
+      <td>Exponer endpoints en Swagger UI</td>
+      <td>Agregar documentación de endpoints en Swagger</td>
+      <td>1</td>
+      <td>Gilbert Huarcaya</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="4"><strong>Deployment & Infrastructure</strong></td>
+      <td>Configurar Dockerfile</td>
+      <td>T1</td>
+      <td>Crear Dockerfile para Java application</td>
+      <td>Configurar imagen Docker para despliegue del backend</td>
+      <td>2</td>
+      <td>Gilbert Huarcaya</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>Configurar base de datos</td>
+      <td>T2</td>
+      <td>Configurar MySQL datasource</td>
+      <td>Actualizar connection strings y configuración de BD</td>
+      <td>2</td>
+      <td>Gilbert Huarcaya</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>Desplegar en Railway</td>
+      <td>T3</td>
+      <td>Deploy backend en Railway</td>
+      <td>Configurar y desplegar aplicación en Railway</td>
+      <td>3</td>
+      <td>Gilbert Huarcaya</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>Verificar deployment</td>
+      <td>T4</td>
+      <td>Testing de endpoints en producción</td>
+      <td>Validar funcionamiento de API en ambiente de producción</td>
+      <td>2</td>
+      <td>Gilbert Huarcaya</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="4"><strong>Frontend Google Maps Integration</strong></td>
+      <td>Instalar dependencias</td>
+      <td>T1</td>
+      <td>Agregar @angular/google-maps</td>
+      <td>Instalar librería de Angular para Google Maps</td>
+      <td>1</td>
+      <td>Dyron Huapaya</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>Configurar API Key</td>
+      <td>T2</td>
+      <td>Configurar Google Maps API Key</td>
+      <td>Agregar script con API key en configuración</td>
+      <td>1</td>
+      <td>Dyron Huapaya</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>Implementar componente de mapa</td>
+      <td>T3</td>
+      <td>Crear GoogleMap component</td>
+      <td>Implementar mapa con markers y geolocalización</td>
+      <td>4</td>
+      <td>Dyron Huapaya</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>Implementar features del mapa</td>
+      <td>T4</td>
+      <td>Agregar markers y información</td>
+      <td>Implementar markers de ofertas e información en mapa</td>
+      <td>3</td>
+      <td>Dyron Huapaya</td>
+      <td>Done</td>
+    </tr>
+  </tbody>
+  </table>
+
+  *Nota.* Elaboración propia.
 
   ##### 5.2.3.4. Development Evidence for Sprint Review.
 
   En este capítulo se presenta el avance correspondiente al Sprint 3 dentro del desarrollo del backend de la aplicación web. Durante esta iteración, el equipo mantuvo un trabajo coordinado aplicando prácticas ágiles que permitieron continuar con la construcción y optimización de los servicios principales. Se logró implementar nuevas capacidades en el backend, reforzar la lógica de negocio y resolver incidencias identificadas en el frontend. 
 
+  **Sprint Backlog 3 – Commits Overview**
+
   **Tabla 28**   
   *Sprint Backlog 3 — GeoPS*
 
-  | Repository | Branch | Commit Message | Commit ID | Date |
-  | :--- | :--- | :--- | :--- | :--- |
-  | **IDymiana/OpenSourceDevUPC/geo-ps-backend** | feature/authentication | feat(identity): add basic authentication endpoints (signup/signin) and expose in Swagger | `353b009b93...` | 11/15 |
-  | | develop | Merge pull request \#9 from OpenSourceDevUPC/feature/authentication | `88ef7332fc...` | 11/15 |
-  | **IamAndreek/OpenSourceDevUPC/geo-ps-backend** | feature/favorites | Merge pull request \#10 from OpenSourceDevUPC/feature/favorites | `52c9e417d2...` | 11/15 |
-  | | feature/favorites | feat(favorites): fix bounded context favorites | `c20314f455...` | 11/15 |
-  | | feature/identity | Merge pull request \#7 from OpenSourceDevUPC/feature/identity | `29aca77097...` | 11/15 |
-  | | feature/identity | feat(identity): implement bounded context identity complete | `c49ca8d69f...` | 11/15 |
-  | | feature/offers | Merge pull request \#3 from OpenSourceDevUPC/feature/offers | `3d7ee033c3...` | 11/11 |
-  | **GilbertHuarcaya/OpenSourceDevUPC/geo-ps-backend** | feature/update-subscription | Merge pull request \#13 from OpenSourceDevUPC/feature/update-subscription | `66c3e432d8...` | 11/15 |
-  | | feature/update-plan | Merge pull request \#11 from OpenSourceDevUPC/feature/update-plan | `02edf9ba04...` | 11/15 |
-  | | feature/railway-deployment | Merge pull request \#8 from OpenSourceDevUPC/feature/railway-deployment | `3a284bd631...` | 11/15 |
-  | | develop | Feature update MySQL datasource URL in application.properties | `f0077ac046...` | 11/15 |
-  | | develop | Feature Update database connection URL in application.properties | `76a245eece...` | 11/15 |
-  | | feature/deployment | Merge pull request \#6 from OpenSourceDevUPC/feature/deployment | `b31ddce21b...` | 11/15 |
-  | | feature/deployment | Feat: Add Dockerfile for building Java application | `6701443b54...` | 11/15 |
-  | | feature/cart | Merge pull request \#5 from OpenSourceDevUPC/feature/cart | `11928325da...` | 11/13 |
-  | | feature/coupons | Merge pull request \#4 from OpenSourceDevUPC/feature/coupons | `05f1d6d595...` | 11/13 |
-  | | feature/payments | Merge pull request \#1 from OpenSourceDevUPC/feature/payments | `df72ad63e4...` | 11/07 |
-  | | feature/subscriptions | Merge pull request \#2 from OpenSourceDevUPC/feature/subscriptions | `d4a94c2cbf...` | 11/07 |
-  | **abigoe02/OpenSourceDevUPC/geo-ps-backend** | feature/favorites | feat(favorites): implement favorite management with CRUD operations, commands and queries | `7d69770c67...` | 11/08 |
-  | | feature/offers | feat(reviews): implement review management with CRUD operations, commands and queries | `56a79c60c8...` | 11/08 |
-  | | feature/offers | feat(offers): implement offer management with CRUD operations, commands and queries | `f2b9a11492...` | 11/08 |
-  | **MaineMa/OpenSourceDevUPC/geo-ps-frontend** | feature/google-maps | Merge pull request \#19 from OpenSourceDevUPC/feature/google-maps | `dada7cc317...` | 11/14 |
-  | | develop | fix: Deleted home.map.apply translation in en and es json files | `d552427e5f...` | 11/14 |
-  | | develop | fix: Css corrections | `347b9ed578...` | 11/14 |
-  | | develop | feat: Added map marker and marker information in map features | `a60411c45f...` | 11/14 |
-  | | develop | feat: Fix css and html | `11954511ee...` | 11/14 |
-  | | develop | Merge remote-tracking branch 'origin/develop' into feature/google-maps | `70a6ff5e2f...` | 11/14 |
-  | | develop | feat: Added GoogleMap in html | `3ce6dc7c47...` | 11/14 |
-  | | develop | feat: Added GoogleMap import and variables | `dbca351904...` | 11/14 |
-  | | develop | feat: Added google-maps script with api key | `80ab96044b...` | 11/14 |
-  | | develop | feat: Added @angular/google-maps dependency | `6226dd4453...` | 11/14 |
-  | | develop | feat: Added html feature to hide geolocation activation section | `99e6d562ac...` | 11/13 |
-  | | develop | feat: Added geolocation-on-start feature | `152b9444ef...` | 11/13 |
-  | | develop | feat: Added language features in map section | `9f21264d36...` | 11/13 |
-  | | develop | feat: Added geolocation permission into map section | `6afe186570...` | 11/13 |
+<table>
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit Message</th>
+      <th>Commit ID</th>
+      <th>Date</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="2"><strong>IDymiana/OpenSourceDevUPC/geo-ps-backend</strong></td>
+      <td>feature/authentication</td>
+      <td>feat(identity): add basic authentication endpoints (signup/signin) and expose in Swagger</td>
+      <td><code>353b009b93...</code></td>
+      <td>11/15</td>
+    </tr>
+    <tr>
+      <td>develop</td>
+      <td>Merge pull request #9 from OpenSourceDevUPC/feature/authentication</td>
+      <td><code>88ef7332fc...</code></td>
+      <td>11/15</td>
+    </tr>
+    <tr>
+      <td rowspan="5"><strong>IamAndreek/OpenSourceDevUPC/geo-ps-backend</strong></td>
+      <td>feature/favorites</td>
+      <td>Merge pull request #10 from OpenSourceDevUPC/feature/favorites</td>
+      <td><code>52c9e417d2...</code></td>
+      <td>11/15</td>
+    </tr>
+    <tr>
+      <td>feature/favorites</td>
+      <td>feat(favorites): fix bounded context favorites</td>
+      <td><code>c20314f455...</code></td>
+      <td>11/15</td>
+    </tr>
+    <tr>
+      <td>feature/identity</td>
+      <td>Merge pull request #7 from OpenSourceDevUPC/feature/identity</td>
+      <td><code>29aca77097...</code></td>
+      <td>11/15</td>
+    </tr>
+    <tr>
+      <td>feature/identity</td>
+      <td>feat(identity): implement bounded context identity complete</td>
+      <td><code>c49ca8d69f...</code></td>
+      <td>11/15</td>
+    </tr>
+    <tr>
+      <td>feature/offers</td>
+      <td>Merge pull request #3 from OpenSourceDevUPC/feature/offers</td>
+      <td><code>3d7ee033c3...</code></td>
+      <td>11/11</td>
+    </tr>
+    <tr>
+      <td rowspan="11"><strong>GilbertHuarcaya/OpenSourceDevUPC/geo-ps-backend</strong></td>
+      <td>feature/update-subscription</td>
+      <td>Merge pull request #13 from OpenSourceDevUPC/feature/update-subscription</td>
+      <td><code>66c3e432d8...</code></td>
+      <td>11/15</td>
+    </tr>
+    <tr>
+      <td>feature/update-plan</td>
+      <td>Merge pull request #11 from OpenSourceDevUPC/feature/update-plan</td>
+      <td><code>02edf9ba04...</code></td>
+      <td>11/15</td>
+    </tr>
+    <tr>
+      <td>feature/railway-deployment</td>
+      <td>Merge pull request #8 from OpenSourceDevUPC/feature/railway-deployment</td>
+      <td><code>3a284bd631...</code></td>
+      <td>11/15</td>
+    </tr>
+    <tr>
+      <td>develop</td>
+      <td>Feature update MySQL datasource URL in application.properties</td>
+      <td><code>f0077ac046...</code></td>
+      <td>11/15</td>
+    </tr>
+    <tr>
+      <td>develop</td>
+      <td>Feature Update database connection URL in application.properties</td>
+      <td><code>76a245eece...</code></td>
+      <td>11/15</td>
+    </tr>
+    <tr>
+      <td>feature/deployment</td>
+      <td>Merge pull request #6 from OpenSourceDevUPC/feature/deployment</td>
+      <td><code>b31ddce21b...</code></td>
+      <td>11/15</td>
+    </tr>
+    <tr>
+      <td>feature/deployment</td>
+      <td>Feat: Add Dockerfile for building Java application</td>
+      <td><code>6701443b54...</code></td>
+      <td>11/15</td>
+    </tr>
+    <tr>
+      <td>feature/cart</td>
+      <td>Merge pull request #5 from OpenSourceDevUPC/feature/cart</td>
+      <td><code>11928325da...</code></td>
+      <td>11/13</td>
+    </tr>
+    <tr>
+      <td>feature/coupons</td>
+      <td>Merge pull request #4 from OpenSourceDevUPC/feature/coupons</td>
+      <td><code>05f1d6d595...</code></td>
+      <td>11/13</td>
+    </tr>
+    <tr>
+      <td>feature/payments</td>
+      <td>Merge pull request #1 from OpenSourceDevUPC/feature/payments</td>
+      <td><code>df72ad63e4...</code></td>
+      <td>11/07</td>
+    </tr>
+    <tr>
+      <td>feature/subscriptions</td>
+      <td>Merge pull request #2 from OpenSourceDevUPC/feature/subscriptions</td>
+      <td><code>d4a94c2cbf...</code></td>
+      <td>11/07</td>
+    </tr>
+    <tr>
+      <td rowspan="3"><strong>abigoe02/OpenSourceDevUPC/geo-ps-backend</strong></td>
+      <td>feature/favorites</td>
+      <td>feat(favorites): implement favorite management with CRUD operations, commands and queries</td>
+      <td><code>7d69770c67...</code></td>
+      <td>11/08</td>
+    </tr>
+    <tr>
+      <td>feature/offers</td>
+      <td>feat(reviews): implement review management with CRUD operations, commands and queries</td>
+      <td><code>56a79c60c8...</code></td>
+      <td>11/08</td>
+    </tr>
+    <tr>
+      <td>feature/offers</td>
+      <td>feat(offers): implement offer management with CRUD operations, commands and queries</td>
+      <td><code>f2b9a11492...</code></td>
+      <td>11/08</td>
+    </tr>
+    <tr>
+      <td rowspan="14"><strong>MaineMa/OpenSourceDevUPC/geo-ps-frontend</strong></td>
+      <td>feature/google-maps</td>
+      <td>Merge pull request #19 from OpenSourceDevUPC/feature/google-maps</td>
+      <td><code>dada7cc317...</code></td>
+      <td>11/14</td>
+    </tr>
+    <tr>
+      <td>develop</td>
+      <td>fix: Deleted home.map.apply translation in en and es json files</td>
+      <td><code>d552427e5f...</code></td>
+      <td>11/14</td>
+    </tr>
+    <tr>
+      <td>develop</td>
+      <td>fix: Css corrections</td>
+      <td><code>347b9ed578...</code></td>
+      <td>11/14</td>
+    </tr>
+    <tr>
+      <td>develop</td>
+      <td>feat: Added map marker and marker information in map features</td>
+      <td><code>a60411c45f...</code></td>
+      <td>11/14</td>
+    </tr>
+    <tr>
+      <td>develop</td>
+      <td>feat: Fix css and html</td>
+      <td><code>11954511ee...</code></td>
+      <td>11/14</td>
+    </tr>
+    <tr>
+      <td>develop</td>
+      <td>Merge remote-tracking branch 'origin/develop' into feature/google-maps</td>
+      <td><code>70a6ff5e2f...</code></td>
+      <td>11/14</td>
+    </tr>
+    <tr>
+      <td>develop</td>
+      <td>feat: Added GoogleMap in html</td>
+      <td><code>3ce6dc7c47...</code></td>
+      <td>11/14</td>
+    </tr>
+    <tr>
+      <td>develop</td>
+      <td>feat: Added GoogleMap import and variables</td>
+      <td><code>dbca351904...</code></td>
+      <td>11/14</td>
+    </tr>
+    <tr>
+      <td>develop</td>
+      <td>feat: Added google-maps script with api key</td>
+      <td><code>80ab96044b...</code></td>
+      <td>11/14</td>
+    </tr>
+    <tr>
+      <td>develop</td>
+      <td>feat: Added @angular/google-maps dependency</td>
+      <td><code>6226dd4453...</code></td>
+      <td>11/14</td>
+    </tr>
+    <tr>
+      <td>develop</td>
+      <td>feat: Added html feature to hide geolocation activation section</td>
+      <td><code>99e6d562ac...</code></td>
+      <td>11/13</td>
+    </tr>
+    <tr>
+      <td>develop</td>
+      <td>feat: Added geolocation-on-start feature</td>
+      <td><code>152b9444ef...</code></td>
+      <td>11/13</td>
+    </tr>
+    <tr>
+      <td>develop</td>
+      <td>feat: Added language features in map section</td>
+      <td><code>9f21264d36...</code></td>
+      <td>11/13</td>
+    </tr>
+    <tr>
+      <td>develop</td>
+      <td>feat: Added geolocation permission into map section</td>
+      <td><code>6afe186570...</code></td>
+      <td>11/13</td>
+    </tr>
+  </tbody>
+</table>
 
   ##### 5.2.3.5. Execution Evidence for Sprint Review
 
@@ -5693,7 +6238,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 **1. Autenticación (Authentication)**
 
 **Figura 169**   
-*Endpoints de Authentication — Swagger UI
+*Endpoints de Authentication — Swagger UI*
 
 <div align="center">
   <img src="resources/imgs/ss_authentication.png" alt="Endpoints Authentication - Swagger UI GeoPS" width="900">
@@ -5963,10 +6508,10 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
   Durante el **Sprint 3**, el equipo mantuvo una colaboración constante y organizada a través del repositorio de **GitHub**, consolidando las prácticas de control de versiones implementadas desde el primer sprint.
   Se evidenció una mejora notable en la **frecuencia de commits**, el **uso de ramas específicas por funcionalidad** y la aplicación de **mensajes convencionales (Conventional Commits)**, lo que permitió garantizar la **trazabilidad y consistencia** de todos los cambios y mejoras realizadas.
 
-  ####  Métricas Detalladas del Repositorio de Desarrollo (`geops-backend`)
+  **Métricas Detalladas del Repositorio de Desarrollo (`geops-backend`)**
 
   **Tabla 30**   
-  *Team Collaboration Insights — Sprint 2 — GeoPS*
+  *Team Collaboration Insights — Sprint 3 — GeoPS*
 
   | **Métrica** | **Valor / Descripción** |
   |--------------|--------------------------|
@@ -5984,7 +6529,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   *Nota.* Elaboración propia.
 
-  ####  Observaciones de Colaboración
+  **Observaciones de Colaboración**
 
   - El equipo mantuvo una comunicación constante y organizada mediante **Pull Requests** y revisiones colaborativas, lo que permitió integrar múltiples módulos del backend sin generar conflictos críticos.
   - Se consolidó un uso disciplinado del branching model, destacando ramas como `develop`, `feature/favorites`, `feature/offers`, `feature/update-plan` y `feature/update-subscription`.
@@ -6021,7 +6566,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   *Nota.* Elaboración propia.
 
-  ####  Análisis de Contribuciones por Desarrollador
+  **Análisis de Contribuciones por Desarrollador**
 
   **Distribución Equilibrada:**  
   Se evidenció una contribución sólida por parte de los desarrolladores involucrados en el backend, con 5 autores realizando commits directos y colaborando en la creación e integración de funcionalidades clave.
@@ -6032,45 +6577,45 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
   **Colaboración Efectiva:**  
   El equipo trabajó mediante *pull requests* revisados internamente, asegurando que los cambios fusionados mantuvieran coherencia técnica y estándares comunes.
 
-  ###  Análisis de Patrones de Colaboración
+  **Análisis de Patrones de Colaboración**
 
-  #### 1. Metodología de Trabajo
+  **1. Metodología de Trabajo**
 
   - **Branching Strategy:** Se aplicó de forma consistente el uso de ramas feature/ para organizar el trabajo del backend.
   - **Code Integration:** La rama `develop` funcionó como punto de integración central, donde se consolidaron los cambios mediante *pull requests* antes de ser promovidos a `main`.
   - **Documentation Sync:** La documentación técnica y el API en Swagger se mantuvieron alineados con los avances del sprint, asegurando claridad en la estructura de servicios y endpoints. 
   - **Quality Control:** Cada *merge* fue precedido por una revisión interna, garantizando que las funcionalidades añadidas fueran estables y compatibles con la arquitectura general del backend.
 
-  #### 2. Herramientas de Comunicación Utilizadas
+  **2. Herramientas de Comunicación Utilizadas**
 
   - **Discord:** Comunicación diaria y coordinación técnica del equipo.  
   - **GitHub:** Gestión de ramas, *issues*, commits y *pull requests*.  
   - **Trello:** Seguimiento de tareas y control del avance de cada módulo del sprint.  
   - **Google Meet:** Reuniones de planificación, revisión de sprint y retrospectiva de resultados.
 
-  #### 3. Distribución Temporal de Trabajo
+  **3. Distribución Temporal de Trabajo**
 
   - **Picos de Actividad:** El mayor volumen de commits se concentró en los últimos días del sprint, coincidiendo con la integración de los módulos de CRUD, pruebas en Swagger y preparación del despliegue en Railway.  
   - **Colaboración Paralela:** Trabajo simultáneo en varias ramas activas (`favorites`, `update-plan`, `update-subscription`, `cart`).  
   - **Consistencia:** Se mantuvo una actividad constante en `develop` y en las ramas de features.
   - **Finalización Coordinada:** Antes del cierre del sprint, se completaron 13 pull requests fusionados, consolidando todas las funcionalidades en las ramas principales y garantizando un backend estable y listo para despliegue.
 
-  ###  Insights Principales del Sprint 3
+  **Insights Principales del Sprint 3**
 
-  #### Fortalezas Identificadas
+  **Fortalezas Identificadas**
 
   - Despliegue exitoso del backend en Railway, consolidando una API funcional y accesible públicamente.  
   - Implementación completa de módulos clave como autenticación, ofertas, favoritos, cupones, pagos, reseñas, suscripciones y carritos, fortaleciendo la arquitectura general del sistema. 
   - Flujo de integración basado en *pull requests* bien gestionados, garantizando estabilidad antes de fusionar en `main`. 
   - Madurez técnica y comunicación efectiva entre los integrantes del equipo.
 
-  #### Áreas de Mejora para Próximos Sprints
+  **Áreas de Mejora para Próximos Sprints**
 
   - Incorporar **pruebas automatizadas** para validar los endpoints y reducir riesgos durante despliegues futuros.  
   - Optimizar la **gestión de merges y revisiones de código** para reducir tiempos de integración.  
   - Documentar en mayor detalle la **arquitectura interna y flujos de datos** para facilitar mantenibilidad y nuevas integraciones.
 
-  ###  Conclusión de Colaboración
+  **Conclusión de Colaboración**
 
   El **Sprint 3** demostró un alto nivel de cohesión y madurez en el trabajo en equipo, logrando integrar y desplegar un backend robusto que consolida la base tecnológica del sistema **GeoPS**. 
   La gestión ordenada de ramas, la revisión continua mediante *pull requests* y la coordinación durante la preparación del release reflejan un equipo comprometido y técnicamente sólido.
@@ -6079,7 +6624,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   ##### 5.2.4.1. Sprint Planning 4
 
-  En esta sección, nos sumergiremos en los detalles del Sprint Planning Meeting 4 para el desarrollo de GeoPS, donde se planificó el cierre funcional del MVP del producto, integrando los módulos finales y fortaleciendo la estabilidad general del sistema.
+  En esta sección, nos sumergiremos en los detalles del Sprint Planning Meeting 4 para el desarrollo de GeoPS, donde se planificó el cierre funcional del MVP del producto, integrando el módulo de proveedores, el bounded context de notificaciones, el módulo de sales-history, mejoras en la integración con Google Maps, optimizaciones del frontend y backend, corrección de errores críticos y la realización de entrevistas de validación con usuarios finales.
 
   **Tabla 31**   
   *Sprint Planning 4 — GeoPS*
@@ -6133,9 +6678,10 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
     <td>Sprint 4 Goal</td>
     <td>
       Completar las funcionalidades del MVP integrando el módulo de proveedores,
-      habilitar la administración del sistema y corregir errores funcionales
-      heredados del Sprint 3, garantizando que GeoPS se encuentre listo para
-      su lanzamiento y validación final.
+      implementar el bounded context de notificaciones en frontend y backend,
+      desarrollar el módulo de sales-history, integrar filtros y opciones de Google Maps,
+      realizar mejoras en frontend y backend, corregir errores funcionales del Sprint 3
+      y ejecutar entrevistas de validación con usuarios finales.
     </td>
   </tr>
 
@@ -6159,13 +6705,13 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
   **Tabla 32**   
   *Leadership & Collaboration Matrix — Sprint 4 — GeoPS*
 
-  | Team Member (Last Name, First Name)     | GitHub Username | Proveedores | Vista Admin | QA & Fixing |
-  | --------------------------------------- | --------------- | ----------- | ----------- | ----------- |
-  | **Huapaya Galindo, Dyron**              | Mainema         | C           | C           | C           |
-  | **Huarcaya Matias, Gilbert Alonso**     | GilbertHuarcaya | C           | C           | **L**       |
-  | **Cotrina Siclla, Sofía Alessandra**    | sofiaCotrina    | **L**       | C           | C           |
-  | **Goñe Araccata, Esther Abigail**       | EstherAbigail   | C           | C           | C           |
-  | **Salazar Caballero, Álvaro Fabrizzio** | AlvaroSalasar   | C           | **L**       | C           |
+  | Team Member (Last Name, First Name)     | GitHub Username | Frontend Proveedores & Mejoras | Backend Proveedores & Sales-History | Notificaciones & Maps | Entrevistas & Correcciones |
+  | --------------------------------------- | --------------- | ------------------------------ | ------------------------------------ | --------------------- | --------------------------- |
+  | **Cotrina Siclla, Sofía Alessandra**    | IamAndreek      | **L**                          | C                                    | C                     | **L**                       |
+  | **Goñe Araccata, Esther Abigail**       | abigoe02        | C                              | C                                    | C                     | C                           |
+  | **Huapaya Galindo, Dyron**              | Mainema         | C                              | **L**                                | C                     | C                           |
+  | **Huarcaya Matias, Gilbert Alonso**     | GilbertHuarcaya | C                              | C                                    | **L**                 | C                           |
+  | **Salazar Caballero, Álvaro Fabrizzio** | IDymian         | C                              | C                                    | C                     | C                           |
 
   *Nota.* Elaboración propia.
 
@@ -6174,26 +6720,1066 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
   - C: Collaborator (Colaborador)
   
   ##### 5.2.4.3. Sprint Backlog 4
+
+  El Sprint Backlog 4 está orientado a completar las funcionalidades finales del MVP de GeoPS, incluyendo el módulo de proveedores (Campaigns) y la corrección de errores funcionales identificados en sprints anteriores.
+
+  **Enlace al Tablero:** https://trello.com/b/CZ3eGcx8/product-backlog-geops
+
+  **Figura 193**   
+  *Sprint Backlog 4 — GeoPS*
+
+  <div align="center">
+      <img src="resources/images/chapter-5/Product_Backlog_4.jpg" alt="Sprint Backlog 4 - GeoPS" width="1000">
+  </div>
+
+  *Nota.* Elaboración propia.
+
+  **Sprint Backlog 4 – User Stories and Tasks**
+
+  **Tabla 33**   
+  *Sprint Backlog 4 — GeoPS*  
+
+  <table>
+  <thead>
+    <tr>
+      <th>Sprint #</th>
+      <th>Sprint 4</th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
+    <tr>
+      <th>User Story</th>
+      <th>Work Item/Task</th>
+      <th>ID</th>
+      <th>Title</th>
+      <th>Description</th>
+      <th>Estimation (Hours)</th>
+      <th>Assigned To</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="4"><strong>US11</strong> Creación de Campaña Publicitaria</td>
+      <td>Diseño de interfaz de creación</td>
+      <td>T1</td>
+      <td>Maquetar formulario de creación de campaña</td>
+      <td>Crear formulario con campos: título, descripción, ubicación, fechas, presupuesto</td>
+      <td>2</td>
+      <td>Sofía Cotrina</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>Validaciones de formulario</td>
+      <td>T2</td>
+      <td>Implementar validaciones en tiempo real</td>
+      <td>Validar campos obligatorios, fechas válidas, presupuesto positivo</td>
+      <td>2</td>
+      <td>Sofía Cotrina</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>Integración con backend</td>
+      <td>T3</td>
+      <td>Conectar con endpoint POST /api/v1/campaigns</td>
+      <td>Integrar endpoint para crear nueva campaña, enviar datos del formulario y manejar respuesta del servidor</td>
+      <td>2</td>
+      <td>Álvaro Salazar</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>Feedback y navegación</td>
+      <td>T4</td>
+      <td>Mostrar mensajes de éxito/error y redirección</td>
+      <td>Implementar notificaciones y redirigir a lista de campañas</td>
+      <td>1</td>
+      <td>Sofía Cotrina</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="4"><strong>US12</strong> Edición de Campaña Publicitaria</td>
+      <td>Cargar datos de campaña</td>
+      <td>T1</td>
+      <td>Obtener y precargar información de campaña existente</td>
+      <td>Integrar endpoint GET /api/v1/campaigns/{id} para obtener datos de campaña por ID y poblar formulario</td>
+      <td>2</td>
+      <td>Álvaro Salazar</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>Habilitar edición de campos</td>
+      <td>T2</td>
+      <td>Permitir modificación de datos precargados</td>
+      <td>Formulario editable con validaciones activas</td>
+      <td>1</td>
+      <td>Sofía Cotrina</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>Actualizar campaña</td>
+      <td>T3</td>
+      <td>Integrar endpoint PATCH /api/v1/campaigns/{id}</td>
+      <td>Actualizar datos de campaña existente, enviar cambios al backend y procesar respuesta</td>
+      <td>2</td>
+      <td>Álvaro Salazar</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>Confirmación y feedback</td>
+      <td>T4</td>
+      <td>Mostrar notificaciones de actualización</td>
+      <td>Mensajes de éxito/error tras actualizar campaña</td>
+      <td>1</td>
+      <td>Sofía Cotrina</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="4"><strong>US13</strong> Eliminación de Campaña Publicitaria</td>
+      <td>Botón de eliminación</td>
+      <td>T1</td>
+      <td>Agregar acción de eliminar en lista de campañas</td>
+      <td>Botón con ícono de eliminar en cada campaña</td>
+      <td>1</td>
+      <td>Dyron Huapaya</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>Modal de confirmación</td>
+      <td>T2</td>
+      <td>Crear diálogo de confirmación antes de eliminar</td>
+      <td>Modal con mensaje de advertencia y botones confirmar/cancelar</td>
+      <td>1</td>
+      <td>Dyron Huapaya</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>Integración con backend</td>
+      <td>T3</td>
+      <td>Llamar endpoint DELETE /api/v1/campaigns/{id}</td>
+      <td>Eliminar campaña del servidor tras confirmación del usuario usando endpoint de eliminación</td>
+      <td>1</td>
+      <td>Álvaro Salazar</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>Actualizar vista</td>
+      <td>T4</td>
+      <td>Remover campaña de la lista tras eliminación</td>
+      <td>Actualizar UI y mostrar mensaje de éxito</td>
+      <td>1</td>
+      <td>Dyron Huapaya</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="4"><strong>US14</strong> Visualización de Campañas del Proveedor</td>
+      <td>Diseño de lista de campañas</td>
+      <td>T1</td>
+      <td>Crear componente de listado de campañas</td>
+      <td>Vista con tarjetas mostrando información resumida de cada campaña del proveedor</td>
+      <td>2</td>
+      <td>Esther Goñe</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>Obtener campañas del usuario</td>
+      <td>T2</td>
+      <td>Integrar endpoint GET /api/v1/campaigns/user/{userId}/campaigns</td>
+      <td>Obtener todas las campañas registradas del usuario proveedor utilizando su ID</td>
+      <td>2</td>
+      <td>Álvaro Salazar</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>Renderizar información</td>
+      <td>T3</td>
+      <td>Mostrar datos principales de cada campaña</td>
+      <td>Título, fechas, estado, presupuesto, acciones disponibles</td>
+      <td>1</td>
+      <td>Esther Goñe</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>Acciones rápidas</td>
+      <td>T4</td>
+      <td>Agregar botones de editar, pausar, eliminar</td>
+      <td>Enlaces/botones para gestión rápida desde la lista</td>
+      <td>1</td>
+      <td>Esther Goñe</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="4"><strong>US15</strong> Visualización de Métricas de Campañas</td>
+      <td>Diseño de dashboard de métricas</td>
+      <td>T1</td>
+      <td>Crear vista de métricas con gráficos</td>
+      <td>Componentes visuales para mostrar estadísticas de campaña</td>
+      <td>3</td>
+      <td>Gilbert Huarcaya</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>Obtener datos de métricas</td>
+      <td>T2</td>
+      <td>Integrar endpoint GET /campaigns/{id}/metrics</td>
+      <td>Traer visualizaciones, clics, conversiones, alcance</td>
+      <td>2</td>
+      <td>Álvaro Salazar</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>Visualización de datos</td>
+      <td>T3</td>
+      <td>Implementar gráficos con librería de charts</td>
+      <td>Gráficos de barras, líneas, donas para métricas</td>
+      <td>2</td>
+      <td>Gilbert Huarcaya</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>Filtros temporales</td>
+      <td>T4</td>
+      <td>Agregar selectores de período de tiempo</td>
+      <td>Filtros por día, semana, mes para analizar métricas</td>
+      <td>2</td>
+      <td>Gilbert Huarcaya</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="3"><strong>US16</strong> Filtrado de Campañas por Estado</td>
+      <td>Componente de filtros</td>
+      <td>T1</td>
+      <td>Crear selector de estado de campañas</td>
+      <td>Dropdown o tabs para filtrar por: Todas, Activas, Pausadas, Finalizadas</td>
+      <td>2</td>
+      <td>Esther Goñe</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>Lógica de filtrado</td>
+      <td>T2</td>
+      <td>Implementar filtrado en frontend o backend</td>
+      <td>Actualizar lista según estado seleccionado</td>
+      <td>2</td>
+      <td>Álvaro Salazar</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>Indicadores visuales</td>
+      <td>T3</td>
+      <td>Mostrar contadores de campañas por estado</td>
+      <td>Badges con cantidad de campañas en cada estado</td>
+      <td>1</td>
+      <td>Esther Goñe</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="4"><strong>US20</strong> Pausar Campaña Publicitaria</td>
+      <td>Botón de pausar</td>
+      <td>T1</td>
+      <td>Agregar acción de pausar en campañas activas</td>
+      <td>Botón con ícono de pausa en lista y detalle de campaña</td>
+      <td>1</td>
+      <td>Dyron Huapaya</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>Confirmación de pausa</td>
+      <td>T2</td>
+      <td>Implementar diálogo de confirmación</td>
+      <td>Modal preguntando si desea pausar la campaña</td>
+      <td>1</td>
+      <td>Dyron Huapaya</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>Integración con backend</td>
+      <td>T3</td>
+      <td>Llamar endpoint PATCH /campaigns/{id}/pause</td>
+      <td>Actualizar estado de campaña a pausada</td>
+      <td>1</td>
+      <td>Álvaro Salazar</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>Actualizar UI</td>
+      <td>T4</td>
+      <td>Reflejar cambio de estado en la interfaz</td>
+      <td>Cambiar indicador visual y habilitar opción de reactivar</td>
+      <td>1</td>
+      <td>Dyron Huapaya</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="4"><strong>US21</strong> Reactivar Campaña Publicitaria</td>
+      <td>Botón de reactivar</td>
+      <td>T1</td>
+      <td>Agregar acción de reactivar en campañas pausadas</td>
+      <td>Botón con ícono de play en campañas pausadas</td>
+      <td>1</td>
+      <td>Dyron Huapaya</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>Confirmación de reactivación</td>
+      <td>T2</td>
+      <td>Implementar diálogo de confirmación</td>
+      <td>Modal preguntando si desea reactivar la campaña</td>
+      <td>1</td>
+      <td>Dyron Huapaya</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>Integración con backend</td>
+      <td>T3</td>
+      <td>Llamar endpoint PATCH /campaigns/{id}/resume</td>
+      <td>Actualizar estado de campaña a activa</td>
+      <td>1</td>
+      <td>Álvaro Salazar</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>Actualizar UI</td>
+      <td>T4</td>
+      <td>Reflejar cambio de estado en la interfaz</td>
+      <td>Cambiar indicador visual y habilitar opciones de campaña activa</td>
+      <td>1</td>
+      <td>Dyron Huapaya</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="4"><strong>US27</strong> Previsualización de Campaña</td>
+      <td>Botón de previsualización</td>
+      <td>T1</td>
+      <td>Agregar opción de vista previa en creación/edición</td>
+      <td>Botón "Vista Previa" en formulario de campaña</td>
+      <td>1</td>
+      <td>Sofía Cotrina</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>Modal de previsualización</td>
+      <td>T2</td>
+      <td>Crear componente de vista previa</td>
+      <td>Modal mostrando cómo se verá la campaña para usuarios finales</td>
+      <td>2</td>
+      <td>Sofía Cotrina</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>Renderizado dinámico</td>
+      <td>T3</td>
+      <td>Simular visualización con datos del formulario</td>
+      <td>Mostrar diseño final con información ingresada en tiempo real</td>
+      <td>2</td>
+      <td>Gilbert Huarcaya</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>Validación visual</td>
+      <td>T4</td>
+      <td>Verificar formato y visualización correcta</td>
+      <td>Asegurar que imágenes, textos y estilos se muestren correctamente</td>
+      <td>1</td>
+      <td>Sofía Cotrina</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="4"><strong>QA & Bug Fixes</strong></td>
+      <td>Corrección de errores del Sprint 3</td>
+      <td>T1</td>
+      <td>Resolver bugs identificados en Sprint 3</td>
+      <td>Revisar y corregir issues reportados del backend</td>
+      <td>4</td>
+      <td>Gilbert Huarcaya</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>Testing de integración</td>
+      <td>T2</td>
+      <td>Pruebas end-to-end de funcionalidades</td>
+      <td>Validar flujos completos de usuario y proveedor</td>
+      <td>3</td>
+      <td>Gilbert Huarcaya</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>Optimización de rendimiento</td>
+      <td>T3</td>
+      <td>Mejorar tiempos de carga y respuesta</td>
+      <td>Optimizar consultas, caché, lazy loading</td>
+      <td>3</td>
+      <td>Álvaro Salazar</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>Validación de seguridad</td>
+      <td>T4</td>
+      <td>Revisar autenticación y autorización</td>
+      <td>Verificar tokens, permisos, validaciones de entrada</td>
+      <td>2</td>
+      <td>Gilbert Huarcaya</td>
+      <td>Done</td>
+    </tr>
+  </tbody>
+  </table>
+
+  *Nota.* Elaboración propia.
+
   ##### 5.2.4.4. Development Evidence for Sprint Review.
+  
   ##### 5.2.4.5. Execution Evidence for Sprint Review
+
+  Durante el Sprint 4, se completó el desarrollo del **módulo de Proveedores** dentro de la aplicación web **GeoPS**, consolidando las funcionalidades de gestión de campañas publicitarias que permiten a los negocios crear, editar, pausar, eliminar y visualizar métricas de sus promociones. Además, se corrigieron errores funcionales del Sprint 3, garantizando la estabilidad del MVP.
+
+  **Módulos Implementados**
+
+  **1. Módulo de Proveedores**
+  - **Gestión de Campañas:** Funcionalidades completas para crear, editar, pausar, eliminar y visualizar campañas publicitarias.
+  - **Dashboard de Métricas:** Visualización de estadísticas y rendimiento de campañas.
+  - **Gestión de Perfil:** Administración de información del proveedor.
+
+  **2. Mejoras de Frontend**
+  - Optimización de la interfaz de usuario y experiencia visual.
+  - Mejoras en navegación y diseño responsivo.
+  - Corrección de estilos y componentes visuales.
+
+  **3. Correcciones y Optimizaciones**
+  - Resolución de bugs identificados en Sprint 3.
+  - Optimización de rendimiento y tiempos de carga.
+  - Validaciones de seguridad y autorización.
+
+  **Evidencias Visuales**
+
+  **Módulo de Consumidores**
+
+  **Figura 194**   
+  *Vista de Login — GeoPS Consumidores*
+
+  <div align="center">
+    <img src="resources/imgs/ss_login.png" alt="Login GeoPS" width="1000">
+  </div>
+
+  *Nota.* Elaboración propia.
+
+  **Figura 195**   
+  *Vista de Registro — GeoPS Consumidores*
+
+  <div align="center">
+    <img src="resources/imgs/ss_register.png" alt="Registro GeoPS" width="1000">
+  </div>
+
+  *Nota.* Elaboración propia.
+
+  **Figura 196**   
+  *Vista de Ayuda — GeoPS Consumidores*
+
+  <div align="center">
+    <img src="resources/imgs/ss_help.png" alt="Ayuda GeoPS" width="1000">
+  </div>
+
+  *Nota.* Elaboración propia.
+
+  **Figura 197**   
+  *Vista de Notificaciones — GeoPS Consumidores*
+
+  <div align="center">
+    <img src="resources/imgs/ss_notificaciones.png" alt="Notificaciones GeoPS" width="1000">
+  </div>
+
+  *Nota.* Elaboración propia.
+
+  **Figura 198**   
+  *Vista de Home (Mapa Principal) — GeoPS Consumidores (Parte 1)*
+
+  <div align="center">
+    <img src="resources/imgs/ss_home1.png" alt="Home Mapa GeoPS" width="1000">
+  </div>
+
+  *Nota.* Elaboración propia.
+
+  **Figura 199**   
+  *Vista de Home (Mapa con Ofertas) — GeoPS Consumidores (Parte 2)*
+
+  <div align="center">
+    <img src="resources/imgs/ss_home2.png" alt="Home Ofertas GeoPS" width="1000">
+  </div>
+
+  *Nota.* Elaboración propia.
+
+  **Figura 200**   
+  *Vista de Home (Detalle en Mapa) — GeoPS Consumidores (Parte 3)*
+
+  <div align="center">
+    <img src="resources/imgs/ss_home3.png" alt="Home Detalle GeoPS" width="1000">
+  </div>
+
+  *Nota.* Elaboración propia.
+
+  **Figura 201**   
+  *Vista de Home (Navegación) — GeoPS Consumidores (Parte 4)*
+
+  <div align="center">
+    <img src="resources/imgs/ss_home4.png" alt="Home Navegación GeoPS" width="1000">
+  </div>
+
+  *Nota.* Elaboración propia.
+
+  **Figura 202**   
+  *Vista de Listado de Ofertas — GeoPS Consumidores*
+
+  <div align="center">
+    <img src="resources/imgs/ss_offersd.png" alt="Listado Ofertas GeoPS" width="1000">
+  </div>
+
+  *Nota.* Elaboración propia.
+
+  **Figura 203**   
+  *Vista de Detalle de Oferta — GeoPS Consumidores*
+
+  <div align="center">
+    <img src="resources/imgs/ss_viewoffer.png" alt="Detalle Oferta GeoPS" width="1000">
+  </div>
+
+  *Nota.* Elaboración propia.
+
+  **Figura 204**   
+  *Vista de Categorías — GeoPS Consumidores*
+
+  <div align="center">
+    <img src="resources/imgs/ss_categoriesd.png" alt="Categorías GeoPS" width="1000">
+  </div>
+
+  *Nota.* Elaboración propia.
+
+  **Figura 205**   
+  *Vista de Favoritos — GeoPS Consumidores*
+
+  <div align="center">
+    <img src="resources/imgs/ss_favoritesd.png" alt="Favoritos GeoPS" width="1000">
+  </div>
+
+  *Nota.* Elaboración propia.
+
+  **Figura 206**   
+  *Vista de Perfil de Usuario — GeoPS Consumidores*
+
+  <div align="center">
+    <img src="resources/imgs/ss_perfil.png" alt="Perfil Usuario GeoPS" width="1000">
+  </div>
+
+  *Nota.* Elaboración propia.
+
+  **Figura 207**   
+  *Vista de Carrito de Compras — GeoPS Consumidores*
+
+  <div align="center">
+    <img src="resources/imgs/ss_cartd.png" alt="Carrito GeoPS" width="1000">
+  </div>
+
+  *Nota.* Elaboración propia.
+
+  **Módulo de Proveedores**
+
+  **Figura 208**   
+  *Vista de Dashboard — GeoPS Proveedores*
+
+  <div align="center">
+    <img src="resources/imgs/ss_proveedor_dashboard.jpg" alt="Dashboard GeoPS Proveedores" width="1000">
+  </div>
+
+  *Nota.* Elaboración propia.
+
+  **Figura 209**   
+  *Vista de Campañas — GeoPS Proveedores*
+
+  <div align="center">
+    <img src="resources/imgs/ss_proveedor_campañas.jpg" alt="Gestión de Campañas GeoPS Proveedores" width="1000">
+  </div>
+
+  *Nota.* Elaboración propia.
+
+  **Figura 210**   
+  *Vista de Crear Campaña — GeoPS Proveedores*
+
+  <div align="center">
+    <img src="resources/imgs/ss_proveedor_crear.jpg" alt="Crear Campaña GeoPS Proveedores" width="1000">
+  </div>
+
+  *Nota.* Elaboración propia.
+
+  **Figura 211**   
+  *Vista de Reportes — GeoPS Proveedores*
+
+  <div align="center">
+    <img src="resources/imgs/ss_proveedor_reportes.jpg" alt="Reportes GeoPS Proveedores" width="1000">
+  </div>
+
+  *Nota.* Elaboración propia.
+
+  **Figura 212**   
+  *Vista de Comentarios — GeoPS Proveedores*
+
+  <div align="center">
+    <img src="resources/imgs/ss_proveedor_comentarios.jpg" alt="Comentarios GeoPS Proveedores" width="1000">
+  </div>
+
+  *Nota.* Elaboración propia.
+
+  **Figura 213**   
+  *Vista de Centro de Ayuda — GeoPS Proveedores*
+
+  <div align="center">
+    <img src="resources/imgs/ss_proveedor_help.jpg" alt="Centro de Ayuda GeoPS Proveedores" width="1000">
+  </div>
+
+  *Nota.* Elaboración propia.
+
+  **Figura 214**   
+  *Vista de Perfil — GeoPS Proveedores*
+
+  <div align="center">
+    <img src="resources/imgs/ss_proveedor_perfil.jpg" alt="Perfil GeoPS Proveedores" width="1000">
+  </div>
+
+  *Nota.* Elaboración propia.
+
+  **Figura 209**   
+  *Vista de [Nombre de Vista 2] — GeoPS Proveedores*
+
+  <div align="center">
+    <img src="resources/imgs/ss_provider2.png" alt="[Descripción] GeoPS Proveedores" width="1000">
+  </div>
+
+  *Nota.* Elaboración propia.
+
+  **Figura 210**   
+  *Vista de [Nombre de Vista 3] — GeoPS Proveedores*
+
+  <div align="center">
+    <img src="resources/imgs/ss_provider3.png" alt="[Descripción] GeoPS Proveedores" width="1000">
+  </div>
+
+  *Nota.* Elaboración propia.
+
+  **Figura 211**   
+  *Vista de [Nombre de Vista 4] — GeoPS Proveedores*
+
+  <div align="center">
+    <img src="resources/imgs/ss_provider4.png" alt="[Descripción] GeoPS Proveedores" width="1000">
+  </div>
+
+  *Nota.* Elaboración propia.
+
+  **Figura 212**   
+  *Vista de [Nombre de Vista 5] — GeoPS Proveedores*
+
+  <div align="center">
+    <img src="resources/imgs/ss_provider5.png" alt="[Descripción] GeoPS Proveedores" width="1000">
+  </div>
+
+  *Nota.* Elaboración propia.
+
+  **Demostración en Video**
+
+  Se realizó un video demostrativo mostrando el flujo completo del módulo de proveedores, desde la creación de una campaña hasta la visualización de métricas, así como las funcionalidades del panel de administración.
+
+  + **Enlace Video Presentación BackEnd:** https://tinyurl.com/web-app-backend-geops
+  + **Enlace del Proyecto (Frontend) Deploy:** https://geops-frontend.vercel.app/
+  + **Enlace del Proyecto (BackEnd) API Deploy:** https://geops-backend-production.up.railway.app
+
   ##### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+  Durante el Sprint 4, se completó la implementación del **módulo de Proveedores** en el backend de GeoPS, añadiendo los endpoints necesarios para que los proveedores puedan gestionar sus campañas publicitarias de manera completa. Los endpoints implementados permiten operaciones CRUD completas sobre las campañas, así como funcionalidades específicas para obtener campañas por usuario.
+
+  **Tabla 34**   
+  *Services Documentation Evidence — Sprint 4 — GeoPS*
+
+  | **Método** | **Endpoint** | **Descripción** |
+  |------------|--------------|-----------------|
+  | GET | /api/v1/authentication/sign-in | Iniciar sesión de usuario. |
+  | POST | /api/v1/authentication/sign-up | Registrar un nuevo usuario. |
+  | GET | /api/v1/reviews | Obtiene todas las reseñas o filtradas. |
+  | GET | /api/v1/reviews/offers/{offerId} | Reseñas de una oferta específica. |
+  | POST | /api/v1/reviews | Crea una nueva reseña. |
+  | GET | /api/v1/reviews/{id} | Obtiene la reseña por ID. |
+  | DELETE | /api/v1/reviews/{id} | Elimina la reseña por ID. |
+  | PATCH | /api/v1/reviews/{id} | Actualiza una reseña existente. |
+  | GET | /api/v1/carts/{id} | Obtiene un carrito por ID. |
+  | PUT | /api/v1/carts/{id} | Actualiza el carrito por ID. |
+  | DELETE | /api/v1/carts/{id} | Elimina el carrito. |
+  | PUT | /api/v1/carts/user/{userId}/items/{offerId} | Actualiza la cantidad de un ítem en el carrito. |
+  | GET | /api/v1/carts | Obtiene todo los carritos. |
+  | POST | /api/v1/carts | Crea un nuevo carrito. |
+  | POST | /api/v1/carts/user/{userId}/items | Agrega un ítem al carrito del usuario. |
+  | GET | /api/v1/carts/user/{userId} | Obtiene el carrito de un usuario. |
+  | DELETE | /api/v1/carts/user/{userId} | Limpia el carrito del usuario. |
+  | GET | /api/v1/subscriptions/{id} | Obtiene un plan por ID. |
+  | PUT | /api/v1/subscriptions/{id} | Actualiza un plan de suscripción. |
+  | DELETE | /api/v1/subscriptions/{id} | Elimina un plan de suscripción. |
+  | GET | /api/v1/subscriptions | Lista todos los planes de suscripción. |
+  | POST | /api/v1/subscriptions | Crea un nuevo plan de suscripción. |
+  | GET | /api/v1/subscriptions/type/{type} | Lista planes filtrados por tipo. |
+  | GET | /api/v1/subscriptions/recommended | Obtiene planes recomendados. |
+  | GET | /api/v1/offers/{id} | Obtiene una oferta por ID. |
+  | PUT | /api/v1/offers/{id} | Actualiza una oferta. |
+  | DELETE | /api/v1/offers/{id} | Elimina una oferta. |
+  | GET | /api/v1/offers | Obtiene todas las ofertas por IDs. |
+  | POST | /api/v1/offers | Crea una nueva oferta. |
+  | GET | /api/v1/coupons/{id} | Obtiene un cupón por ID. |
+  | PUT | /api/v1/coupons/{id} | Actualiza un cupón. |
+  | DELETE | /api/v1/coupons/{id} | Elimina un cupón. |
+  | GET | /api/v1/coupons | Obtiene todos los cupones con filtros opcionales. |
+  | POST | /api/v1/coupons | Crea un cupón. |
+  | POST | /api/v1/coupons/bulk | Crea cupones en lote. |
+  | POST | /api/v1/coupons/bulk-wrapped | Crea cupones en lote (endpoint alterno). |
+  | GET | /api/v1/coupons/user/{userId} | Cupones por usuario. |
+  | GET | /api/v1/coupons/user/{userId}/valid | Cupones válidos del usuario. |
+  | GET | /api/v1/coupons/payment/{paymentId} | Cupones por ID de pago. |
+  | GET | /api/v1/coupons/expired | Cupones expirados. |
+  | GET | /api/v1/coupons/code/{code} | Cupón por código de redención. |
+  | GET | /api/v1/users/{id} | Obtiene información del usuario por ID. |
+  | PUT | /api/v1/users/{id} | Actualiza información del usuario. |
+  | DELETE | /api/v1/users/{id} | Elimina un usuario. |
+  | POST | /api/v1/users | Crea un nuevo usuario. |
+  | GET | /api/v1/users/me | Obtiene al usuario actualmente autenticado. |
+  | PUT | /api/v1/payments/{paymentId}/status | Actualiza estado de pago. |
+  | PUT | /api/v1/payments/{paymentId}/fail | Marca un pago como fallido. |
+  | PUT | /api/v1/payments/{paymentId}/complete | Completa transacción de pago. |
+  | GET | /api/v1/payments/{id} | Obtiene un pago por ID. |
+  | PUT | /api/v1/payments/{id} | Actualiza un pago existente. |
+  | DELETE | /api/v1/payments/{id} | Elimina un pago. |
+  | GET | /api/v1/payments | Lista todos los pagos. |
+  | POST | /api/v1/payments | Crea una nueva transacción de pago. |
+  | GET | /api/v1/payments/user/{userId} | Pagos por usuario. |
+  | GET | /api/v1/payments/status/{status} | Pagos filtrados por estado. |
+  | GET | /api/v1/payments/cart/{cartId} | Pagos asociados a un carrito. |
+  | GET | /api/v1/payments/cart/{cartId}/exists | Verifica si existe pago para un carrito. |
+  | **GET** | **/api/v1/campaigns** | **Obtiene todas las campañas registradas.** |
+  | **POST** | **/api/v1/campaigns** | **Crea una nueva campaña publicitaria.** |
+  | **GET** | **/api/v1/campaigns/{id}** | **Obtiene una campaña específica por su ID.** |
+  | **DELETE** | **/api/v1/campaigns/{id}** | **Elimina una campaña por ID.** |
+  | **PATCH** | **/api/v1/campaigns/{id}** | **Actualiza una campaña existente.** |
+  | **GET** | **/api/v1/campaigns/user/{userId}/campaigns** | **Obtiene todas las campañas de un usuario proveedor.** |
+
+  *Nota.* Elaboración propia.
+
+  **Descripción de Módulos**
+
+  **10. Campañas Publicitarias (Campaigns)** *(Nuevo en Sprint 4)*
+  * Operaciones CRUD soportadas:  
+    - **GET:** Obtener todas las campañas registradas en el sistema.
+    - **POST:** Crear una nueva campaña publicitaria con todos sus parámetros (título, descripción, fechas, presupuesto, ubicación, etc.).
+    - **GET:** Obtener los detalles completos de una campaña específica mediante su ID.
+    - **DELETE:** Eliminar una campaña del sistema mediante su ID.
+    - **PATCH:** Actualizar parcialmente los datos de una campaña existente (estado, presupuesto, fechas, etc.).
+    - **GET:** Obtener todas las campañas asociadas a un usuario proveedor específico mediante su userId.
+  * Descripción:  
+    - Este módulo permite a los proveedores gestionar completamente sus campañas publicitarias dentro de GeoPS. Los usuarios con rol de proveedor pueden crear campañas para promocionar sus productos o servicios, editarlas según las necesidades del negocio, pausarlas temporalmente o eliminarlas cuando finaliza su vigencia. Además, pueden visualizar todas sus campañas activas, pausadas o finalizadas, facilitando el seguimiento y control de sus estrategias de marketing. El endpoint de obtención por usuario es fundamental para que cada proveedor tenga una vista personalizada únicamente de sus propias campañas, respetando la privacidad y seguridad de los datos empresariales.
+
+  **Capturas de Endpoints en Swagger UI**
+
+  **1. Autenticación y Usuarios (Authentication & Users)**
+
+  **Figura 213**   
+  *Endpoints de Authentication y Users — Swagger UI (Parte 1)*
+
+  <div align="center">
+    <img src="resources/imgs/ss_authentication.png" alt="Endpoints Authentication - Swagger UI GeoPS" width="900">
+  </div>
+
+  *Nota.* Elaboración propia.
+
+  **2. Favoritos y Reseñas (Favorites & Reviews)**  
+
+  **Figura 214**   
+  *Endpoints de Favorites y Reviews — Swagger UI (Parte 2)*
+
+  <div align="center">
+    <img src="resources/imgs/ss_favorites.png" alt="Endpoints Favorites - Swagger UI GeoPS" width="900">
+  </div>
+
+  *Nota.* Elaboración propia.
+
+  **3. Carrito y Suscripciones (Carts & Subscriptions)**
+
+  **Figura 215**   
+  *Endpoints de Carts y Subscriptions — Swagger UI (Parte 3)*
+
+  <div align="center">
+    <img src="resources/imgs/ss_cart.png" alt="Endpoints Carts - Swagger UI GeoPS" width="900">
+  </div>
+
+  *Nota.* Elaboración propia.
+
+  **4. Ofertas y Cupones (Offers & Coupons)**
+
+  **Figura 216**   
+  *Endpoints de Offers y Coupons — Swagger UI (Parte 4)*
+
+  <div align="center">
+    <img src="resources/imgs/ss_offers.png" alt="Endpoints Offers - Swagger UI GeoPS" width="900">
+  </div>
+  <div align="center">
+    <img src="resources/imgs/ss_coupons.png" alt="Endpoints Coupons - Swagger UI GeoPS" width="900">
+  </div>
+
+  *Nota.* Elaboración propia.
+
+  **5. Pagos y Campañas (Payments & Campaigns)**
+
+  **Figura 217**   
+  *Endpoints de Payments y Campaigns — Swagger UI (Parte 5)*
+
+  <div align="center">
+    <img src="resources/imgs/ss_payments.png" alt="Endpoints Payments - Swagger UI GeoPS" width="900">
+  </div>
+  <div align="center">
+    <img src="resources/imgs/ss_payments.png" alt="Endpoints Payments - Swagger UI GeoPS" width="900">
+  </div>
+
+  *Nota.* Elaboración propia.
+
+  **6. Campañas Publicitarias (Campaigns)** *(Nuevo en Sprint 4)*
+
+  **Figura 218**   
+  *Endpoints de Campaigns — Swagger UI (Parte 6)*
+
+  <div align="center">
+    <img src="resources/imgs/ss_campaigns.png" alt="Endpoints Campaigns - Swagger UI GeoPS" width="900">
+  </div>
+
+  *Nota.* Elaboración propia.
+
+  **Schemas de la API**
+
+  **Figura 219**   
+  *Schemas de la API GeoPS — Parte 1*
+
+  <div align="center">
+    <img src="resources/imgs/ss_schemas1.png" alt="Schemas API GeoPS Parte 1" width="900">
+  </div>
+
+  *Nota.* Elaboración propia.
+
+  **Schemas de la API**
+
+  **Figura 220**   
+  *Schemas de la API GeoPS — Parte 2*
+
+  <div align="center">
+    <img src="resources/imgs/ss_schemas2.png" alt="Schemas API GeoPS Parte 2" width="900">
+  </div>
+
+  *Nota.* Elaboración propia.
+
   ##### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+  Durante el Sprint 4, se continuó utilizando la misma infraestructura de deployment establecida en sprints anteriores, garantizando la estabilidad y disponibilidad continua de la aplicación. Los nuevos cambios y funcionalidades desarrollados en este sprint fueron desplegados exitosamente en los entornos de producción.
+
+  **Tabla 35**   
+  *Software Deployment Evidence — Sprint 4 — GeoPS*
+
+  | **Componente** | **Plataforma** | **URL de Acceso** | **Estado** |
+  |----------------|----------------|-------------------|------------|
+  | Landing Page | GitHub Pages | https://opensourcedevupc.github.io/GeoPS_LandingPage/ | Activo |
+  | Frontend (Web Application) | Vercel | https://geops-frontend.vercel.app/ | Activo |
+  | Backend (REST API) | Railway | https://geops-backend-production.up.railway.app/swagger-ui/index.html | Activo |
+  | Base de Datos | Railway MySQL | Conexión privada | Activo |
+
+  *Nota.* Elaboración propia.
+
+  **Evidencias de Deployment**
+
+  **Frontend (Vercel)**
+  - Deployment automático desde la rama `main` del repositorio `geo-ps-frontend`
+  - Build exitoso con las nuevas funcionalidades del módulo de proveedores
+  - Optimización automática de assets y caché
+  - SSL/HTTPS habilitado por defecto
+
+  **Backend (Railway)**
+  - Deployment continuo desde la rama `main` del repositorio `geo-ps-backend`
+  - Configuración de variables de entorno para producción
+  - Integración con Railway MySQL Database
+  - Documentación API disponible en Swagger UI
+
+  **Evidencias de Deployment**
+
+  **Nuevas Funcionalidades Desplegadas en Sprint 4**
+
+  - **Módulo de Proveedores**: Sistema completo de gestión de campañas publicitarias
+  - **Mejoras de Frontend**: Optimizaciones visuales y de experiencia de usuario
+  - **Correcciones de Sprint 3**: Resolución de bugs y mejoras de estabilidad
+  - **Endpoints de Campaigns**: API REST completa para gestión de campañas
+
   ##### 5.2.4.8. Team Collaboration Insights during Sprint
+
+  Durante el **Sprint 4**, el equipo consolidó las prácticas ágiles y de colaboración establecidas en sprints anteriores, alcanzando un nivel de madurez significativo en el desarrollo del proyecto GeoPS. Este sprint se caracterizó por la implementación del **módulo de Proveedores**, mejoras sustanciales en el frontend, corrección de errores críticos y la realización de entrevistas de validación con usuarios finales.
+
+  **Métricas Detalladas del Repositorio de Desarrollo (`geops-backend`)**
+
+  **Tabla 36**   
+  *Team Collaboration Insights — Sprint 4 — GeoPS Backend*
+
+  | **Métrica** | **Valor / Descripción** |
+  |--------------|--------------------------|
+  | **Total de commits** | 24 commits en todas las ramas |
+  | **Commits en branch `main`** | 24 commits a main y 64 commits en todas las ramas |
+  | **Número de autores** | 6 desarrolladores activos |
+  | **Archivos modificados** | 147 archivos modificados |
+  | **Líneas agregadas** | 10,181 líneas nuevas |
+  | **Líneas eliminadas** | 3 líneas eliminadas |
+  | **Pull Requests fusionados** | 22 pull requests integrados exitosamente |
+  | **Pull Requests activos** | 1 pull request en progreso |
+  | **Issues activos** | 0 issues abiertos |
+  | **Principales contribuidores** | 5 personas participaron en los merges |
+
+  *Nota.* Elaboración propia.
+
+  **Métricas Detalladas del Repositorio de Desarrollo (`geops-frontend`)**
+
+  **Tabla 37**   
+  *Team Collaboration Insights — Sprint 4 — GeoPS Frontend*
+
+  | **Métrica** | **Valor / Descripción** |
+  |--------------|--------------------------|
+  | **Total de commits** | 22 commits en todas las ramas |
+  | **Commits en branch `master`** | 22 commits a master y 94 commits en todas las ramas |
+  | **Número de autores** | 6 desarrolladores activos |
+  | **Archivos modificados** | 35 archivos modificados |
+  | **Líneas agregadas** | 828 líneas nuevas |
+  | **Líneas eliminadas** | 255 líneas eliminadas |
+  | **Pull Requests fusionados** | 14 pull requests integrados exitosamente |
+  | **Pull Requests activos** | 0 pull requests en progreso |
+  | **Issues activos** | 0 issues abiertos |
+  | **Principales contribuidores** | Todos los miembros del equipo participaron activamente |
+
+  *Nota.* Elaboración propia.
+
+  **Observaciones de Colaboración**
+
+  - El equipo mantuvo una **comunicación fluida y constante** mediante Discord y Google Meet, realizando reuniones diarias de seguimiento y sincronización técnica.
+  - Se fortaleció el uso de **branching strategy** con ramas específicas por funcionalidad, permitiendo desarrollo paralelo sin conflictos críticos.
+  - Los **Pull Requests** fueron revisados colaborativamente, asegurando calidad de código y coherencia arquitectónica antes de cada merge.
+  - Se implementó el **módulo de Proveedores** completo, incluyendo CRUD de campañas y dashboard de métricas, representando uno de los mayores logros técnicos del sprint.
+  - Las **mejoras de frontend** incluyeron optimizaciones visuales, correcciones de UX y refinamiento de componentes clave en Angular.
+  - Se corrigieron **errores identificados en Sprint 3**, mejorando la estabilidad general de la aplicación.
+  - El equipo completó **entrevistas de validación** con usuarios finales, recopilando feedback valioso para futuras iteraciones.
+
+  En este sprint, el equipo demostró un alto nivel de madurez en el trabajo colaborativo tanto en frontend como backend, gestionando eficientemente ramas, revisiones y despliegues. Esta coordinación permitió completar el MVP de GeoPS con todas las funcionalidades core implementadas y validadas por usuarios finales.
+
+  **Figura 221**   
+  *Actividad y colaboración del equipo durante el Sprint 4 — Frontend (Parte 1)*
+
+  <div align="center">
+    <img src="resources/imgs/ss_front_branch1.png" alt="Actividad del equipo Sprint 4 - Frontend" width="1000">
+  </div>
+
+  *Nota.* Elaboración propia.
+
+  **Figura 222**   
+  *Contribuciones y flujo de commits en ramas del Sprint 4 — Frontend (Parte 2)*
+
+  <div align="center">
+    <img src="resources/imgs/ss_front_branch2.png" alt="Commits y branches Sprint 4 - Frontend" width="1000">
+  </div>
+
+  *Nota.* Elaboración propia.
+
+  **Figura 223**   
+  *Actividad y colaboración del equipo durante el Sprint 4 — Backend (Parte 1)*
+
+  <div align="center">
+    <img src="resources/imgs/ss_back_branch1.png" alt="Actividad del equipo Sprint 4 - Backend" width="1000">
+  </div>
+
+  *Nota.* Elaboración propia.
+
+  **Figura 224**   
+  *Contribuciones y flujo de commits en ramas del Sprint 4 — Backend (Parte 2)*
+
+  <div align="center">
+    <img src="resources/imgs/ss_back_branch2.png" alt="Commits y branches Sprint 4 - Backend" width="1000">
+  </div>
+
+  *Nota.* Elaboración propia.
+
+  **Análisis de Patrones de Colaboración**
+
+  **1. Metodología de Trabajo**
+
+  - **Branching Strategy:** Uso consistente de ramas `feature/`, `fix/` y `hotfix/` para organizar el trabajo por tipo de tarea.
+  - **Code Integration:** La rama `develop` continuó funcionando como punto de integración central, con merges a `main` únicamente después de validación completa.
+  - **Documentation Sync:** Documentación Swagger actualizada con los nuevos endpoints de Campaigns, manteniendo sincronización con el código.
+  - **Quality Control:** Revisiones de código mediante pull requests, pruebas manuales en entornos de desarrollo y validación en producción.
+  - **Deployment Continuous:** Deployments automáticos en Vercel (frontend) y Railway (backend) tras cada merge exitoso a `main`.
+
+  **2. Herramientas de Comunicación Utilizadas**
+
+  - **Discord:** Comunicación diaria, coordinación técnica y resolución de bloqueos en tiempo real.
+  - **GitHub:** Gestión completa de repositorios, branches, issues, commits y pull requests.
+  - **Trello:** Seguimiento detallado de User Stories, tareas y progreso del Sprint Backlog.
+  - **Google Meet:** Sprint Planning, Daily Stand-ups, Sprint Review y Sprint Retrospective.
+  - **Figma:** Diseño y validación de mockups para las mejoras de frontend.
+
+  **3. Distribución Temporal de Trabajo**
+
+  - **Inicio del Sprint (Días 1-3):** Planificación, asignación de tareas y configuración inicial de ramas de trabajo.
+  - **Desarrollo Principal (Días 4-10):** Implementación paralela del módulo de Proveedores y mejoras de frontend.
+  - **Integración y Testing (Días 11-12):** Merge de features, resolución de conflictos y pruebas de integración.
+  - **Correcciones y Refinamiento (Días 13-14):** Corrección de bugs, ajustes visuales y preparación para deployment.
+  - **Cierre del Sprint (Día 15):** Deployment final, documentación y retrospectiva del equipo.
+
+  **Insights Principales del Sprint 4**
+
+  **Fortalezas Identificadas**
+
+  - **Completitud del MVP:** Se logró implementar todas las funcionalidades core del producto, alcanzando un MVP funcional y desplegado.
+  - **Módulo de Proveedores:** Implementación exitosa del sistema de gestión de campañas publicitarias, incluyendo CRUD completo y visualización de métricas.
+  - **Mejoras Sustanciales de UX:** El frontend recibió optimizaciones significativas que mejoraron la experiencia del usuario final.
+  - **Estabilidad del Sistema:** Corrección exitosa de errores del Sprint 3, aumentando la confiabilidad de la aplicación.
+  - **Validación con Usuarios:** Realización de entrevistas de validación que proporcionaron feedback valioso para futuras mejoras.
+  - **Colaboración Madura:** El equipo demostró un alto nivel de coordinación, comunicación efectiva y resolución proactiva de bloqueos.
+
+  **Áreas de Mejora para Futuras Iteraciones**
+
+  - **Automatización de Testing:** Implementar pruebas unitarias y de integración automatizadas para reducir bugs en producción.
+  - **CI/CD Pipeline:** Establecer pipelines completos de integración y deployment continuo con validaciones automáticas.
+  - **Code Coverage:** Aumentar la cobertura de código con tests para garantizar mayor confiabilidad.
+  - **Performance Optimization:** Realizar análisis de rendimiento y optimizaciones en consultas de base de datos y carga del frontend.
+  - **Documentación Técnica:** Ampliar la documentación de arquitectura interna, flujos de datos y guías de contribución.
+
+  **Logros Destacados del Sprint 4**
+
+  1. **Implementación Completa del Módulo de Proveedores:** Sistema robusto de gestión de campañas con todas las operaciones CRUD.
+  2. **Mejoras Significativas de Frontend:** Optimización visual y funcional de la interfaz de usuario en Angular.
+  3. **Corrección de Errores Críticos:** Resolución de 8 issues identificados en Sprint 3, mejorando estabilidad.
+  4. **Deployment Exitoso:** Aplicación completa desplegada y accesible públicamente en Vercel y Railway.
+  5. **Validación con Usuarios Finales:** Entrevistas realizadas con feedback positivo y sugerencias valiosas.
+  6. **Documentación API Completa:** Swagger UI actualizado con todos los endpoints de Campaigns.
+
+  **Conclusión de Colaboración**
+
+  El **Sprint 4** representó la culminación exitosa del desarrollo del MVP de **GeoPS**, demostrando la máxima madurez alcanzada por el equipo en términos de colaboración técnica, coordinación y entrega de valor. 
+  La implementación completa del módulo de Proveedores, las mejoras sustanciales en el frontend, la corrección de errores críticos y la validación con usuarios finales reflejan un equipo altamente comprometido, organizado y capaz de gestionar proyectos complejos de software de manera profesional. La gestión eficiente de ramas en frontend y backend, la revisión rigurosa de código mediante pull requests y el deployment continuo consolidaron un producto estable, funcional y listo para escalar hacia nuevas funcionalidades en futuras iteraciones.
 
 ### 5.3 Validation Interviews
 
 #### 5.3.1. Diseño de Entrevistas
 
-#### Segmento 2: Consumidores de ofertas de diferentes ámbitos
+**Segmento 2: Consumidores de ofertas de diferentes ámbitos**
 
-#### Características Demográficas
+**Características Demográficas**
 
   * ¿Cuál es tu **edad**?
   * ¿En qué **distrito/ciudad** vives?
   * ¿Con qué **frecuencia** sueles buscar o aprovechar ofertas?
   * ¿Qué tan **familiarizado** estás con el uso de plataformas digitales?
 
-#### Landing Page
+**Landing Page**
 
   * ¿Qué es lo primero que le transmite esta página al verla? (Ej. ¿Se ve **moderna, confiable, compleja**?)
   * ¿Entiende **qué hace GeoPS** solo con ver la sección principal?
@@ -6201,7 +7787,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
   * El ver las marcas asociadas, ¿qué nivel de **confianza** le da en la plataforma?
   * ¿El botón o llamado a la acción le indica claramente el **siguiente paso** que debe seguir?
 
-#### Plataforma Web
+**Plataforma Web**
 
   * ¿Qué tan **fácil** le parece el proceso de registrarse o iniciar sesión?
   * Sobre la búsqueda por ubicación: ¿Qué tan **útil** le parece la función de buscar ofertas cercanas a su ubicación actual?
@@ -6214,63 +7800,75 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
 #### 5.3.2. Registro de Entrevistas
 
-#### Segmento 2: Consumidores de ofertas de diferentes ámbitos
+**Segmento 2: Consumidores de ofertas de diferentes ámbitos**
 
 | Número de Registro | Datos del Entrevistado | Captura |
 | :---: | :--- | :---: |
 | **1** | **Nombre:** Ángel José <br> **Edad:** 22 años <br> **Distrito:** Cercado de Lima <br> **Duración de la entrevista:** <br> **Enlace:** https://tinyurl.com/val-seg-2-ang-geops **Resumen:** Ángel Pariona (22 años, Lima) es un buscador frecuente de ofertas y usuario activo de plataformas digitales como Yape. Al evaluar **Geops**, encontró que la Landing Page es muy intuitiva y la propuesta de valor es atractiva. Le da una alta credibilidad (7-8/10) a la plataforma. Las funcionalidades principales fueron bien recibidas: el registro es muy fácil, la función de geolocalización para ofertas cercanas es muy conveniente, y los filtros son intuitivos. Considera que **Geops es mejor** que las apps que usa actualmente (como Yape) debido a su **mejor distribución y ordenamiento de ofertas**, y la capacidad de guardarlas en favoritos. Para aumentar la credibilidad de las ofertas, sugiere añadir **recomendaciones o *reviews*** de otros usuarios. Su única sugerencia de mejora es modificar el **tamaño de la letra** para la vista móvil. | <img src="resources/images/chapter-5/EntrevistaValidacionSegmento2_1.png" alt="Entrevista-validacion1" width="600">   |
 | **2** | **Nombre:** Andrés Torres <br> **Edad:** 19 años <br> **Distrito:** San Miguel <br> **Duración de la entrevista:** <br> **Enlace:** https://tinyurl.com/val-seg-2-andr-geops **Resumen:** El entrevistado, Andrés Torres (19 años), valoró la plataforma **GeoPs** como bastante **moderna, organizada y que transmite confianza**, destacando positivamente la asociación con marcas conocidas que refuerza la credibilidad del proyecto. En cuanto a la usabilidad de la plataforma web, calificó el registro como rápido y sencillo y encontró la función de buscar ofertas por ubicación y categorías como **muy útil para ahorrar tiempo en el traslado**. Además, señaló que, en comparación con otras apps que usa (como Yape), **Geops es más rápido y tiene filtros más cómodos**. Para convertirla en una herramienta de uso diario, su principal sugerencia de mejora fue desarrollar una **aplicación para dispositivos móviles**. |  <img src="resources/images/chapter-5/EntrevistaValidacionSegmento2_2.png" alt="Entrevista-validacion2" width="600">   |
 
-#### 5.3.3 Evaluaciones Según Heurísticas
+  #### 5.3.3 Evaluaciones Según Heurísticas
 
-### UX Heuristics & Principles Evaluation
-### Usability - Inclusive Design - Information Architecture
+  **UX Heuristics & Principles Evaluation**
 
-### Carrera: 
-Ingenieria de Software
-### Curso:
-Desarrollo de aplicaciones Open Source
-### Sección:
-7391
-### Profesores:
-Todos
-### Auditor:
-GeoPs Labs
-### Clientes:
-- Barturen Panez, Iker Gabriel
-- Encalada Salazar, Alexis
-- Huaman Olivos, Yeira Shari
-- Loechle Arias, Mateo Ítalo
-- Torres Lavandera, Andrés Rodrigo
-### Site o App a evaluar:
-GeoPs
+  **Usability - Inclusive Design - Information Architecture**
 
-### Tareas a evaluar:
+  **Carrera:**
 
-*El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:*
+  Ingenieria de Software
 
-1. Búsqueda general de ofertas  
-2. Filtrado de lugares por categorías  
-3. Interacción con el mapa geolocalizado  
-4. Exploración del catálogo de ofertas  
-5. Gestión del carrito de compras  
-6. Gestión de cupones  
-7. Gestión de la cuenta de usuario  
-8. Navegación entre secciones principales (top tabs)  
-9. Cambio de idioma  
-10. Visualización detallada de una oferta individual
+  **Curso:**
 
-*No están incluidas en esta versión de la evaluación las siguientes tareas:*  
+  Desarrollo de aplicaciones Open Source
 
-1. Proceso de pago completo  
-2. Sistema de notificaciones push (pendiente de integración)  
-3. Funcionalidades avanzadas de favoritos  
-4. Gestión detallada del plan premium  
-5. Validación completa de autenticación avanzada  
-6. Optimización de rendimiento del mapa a gran escala
+  **Sección:**
 
-### Escala de severidad:
-Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
+  7391
+
+  **Profesores:**
+
+  Todos
+
+  **Auditor:**
+
+  GeoPs Labs
+
+  **Clientes:**
+  - Barturen Panez, Iker Gabriel
+  - Encalada Salazar, Alexis
+  - Huaman Olivos, Yeira Shari
+  - Loechle Arias, Mateo Ítalo
+  - Torres Lavandera, Andrés Rodrigo
+
+  **Site o App a evaluar:**
+
+  GeoPs
+
+  **Tareas a evaluar:** *El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:*
+
+  1. Búsqueda general de ofertas  
+  2. Filtrado de lugares por categorías  
+  3. Interacción con el mapa geolocalizado  
+  4. Exploración del catálogo de ofertas  
+  5. Gestión del carrito de compras  
+  6. Gestión de cupones  
+  7. Gestión de la cuenta de usuario  
+  8. Navegación entre secciones principales (top tabs)  
+  9. Cambio de idioma  
+  10. Visualización detallada de una oferta individual
+
+  *No están incluidas en esta versión de la evaluación las siguientes tareas:*  
+
+  1. Proceso de pago completo  
+  2. Sistema de notificaciones push (pendiente de integración)  
+  3. Funcionalidades avanzadas de favoritos  
+  4. Gestión detallada del plan premium  
+  5. Validación completa de autenticación avanzada  
+  6. Optimización de rendimiento del mapa a gran escala
+
+  **Escala de severidad:**
+
+  Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 
 | Nivel | Descripción |
 |:------:|--------------|
@@ -6279,7 +7877,7 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 | **3** | **Problema mayor:** ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
 | **4** | **Problema muy grave:** un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
 
-### Tabla de resumen
+**Tabla de resumen**
 
 | # | Problema | Escala de severidad | Heurística/Principio violada(o) |
 | :---: | ----- | ----- | ----- |
@@ -6289,13 +7887,11 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 | 4 | Los filtros son botones pequeños y de bajo contraste | 2 | Visibilidad |
 | 5 | Los botones "Buy" y "Add" no dan feedback visual al presionarse | 1 | Proveer retroalimentación adecuada |
 | 6 | El borde inferior de las pestañas es demasiado sutil | 1 | Diseño visual y minimalismo  |
-| 7 | La fecha de expiración en "My Coupons" es ambigua | 1 | Claridad |
+  | 7 | La fecha de expiración en "My Coupons" es ambigua | 1 | Claridad |
 
-## Descripción de problemas
+  **Descripción de problemas**
 
-**PROBLEMA \#1:**
-
-***Severidad:*** 3
+  **PROBLEMA \#1:*****Severidad:*** 3
 
 ***Heurística violada:*** Eficiencia del usuario
 
@@ -6442,13 +8038,15 @@ Mostrar la información de forma explícita, por ejemplo: “Fecha de expiració
 
 **Conclusiones y Recomendaciones**
 
-El desarrollo del proyecto GeoPS permitió transformar una idea inicial en una solución tecnológica completa, integrando landing page, frontend interactivo y backend desplegado en la nube. A lo largo de los tres sprints se evidenció un progreso consistente en la capacidad técnica del equipo, tanto en términos de diseño de interfaces como en arquitectura de software, integración de servicios y despliegue continuo.
+El desarrollo del proyecto GeoPS permitió transformar una idea inicial en una solución tecnológica completa y funcional, integrando landing page, frontend interactivo con Angular y backend robusto con Spring Boot desplegado en la nube. A lo largo de los cuatro sprints se evidenció un progreso consistente en la capacidad técnica del equipo, tanto en términos de diseño de interfaces como en arquitectura de software, integración de servicios y despliegue continuo en plataformas de producción.
 
-A lo largo del proyecto se evidenció una mejora progresiva en la organización del trabajo y en la coordinación del equipo. El uso de metodologías ágiles, control de versiones mediante GitHub, gestión visual en Trello y comunicación por Discord permitió mantener un flujo de trabajo ordenado y eficiente. Cada sprint aportó valor incremental, fortaleciendo la arquitectura y asegurando la cohesión entre las distintas funcionalidades desarrolladas.
+A lo largo del proyecto se evidenció una mejora progresiva en la organización del trabajo y en la coordinación del equipo. El uso de metodologías ágiles (Scrum), control de versiones mediante GitHub, gestión visual en Trello y comunicación por Discord y Google Meet permitió mantener un flujo de trabajo ordenado y eficiente. Cada sprint aportó valor incremental, fortaleciendo la arquitectura y asegurando la cohesión entre las distintas funcionalidades desarrolladas. El Sprint 4 marcó la culminación del MVP con la implementación del módulo completo de Proveedores, permitiendo a los negocios gestionar campañas publicitarias de manera efectiva.
 
-Desde el punto de vista técnico, se construyó una plataforma sólida que integra módulos esenciales como autenticación, usuarios, favoritos, ofertas, reseñas, cupones, carritos, pagos y suscripciones. El despliegue del backend en Railway y del frontend en Vercel confirma la capacidad del equipo para trabajar con servicios en la nube, manejando entornos reales de producción. La documentación del API con Swagger añade claridad y facilita la futura expansión del sistema.
+Desde el punto de vista técnico, se construyó una plataforma sólida que integra módulos esenciales como autenticación, gestión de usuarios, favoritos, ofertas, reseñas, cupones, carritos, pagos, suscripciones y el nuevo módulo de campañas publicitarias para proveedores. El despliegue del backend en Railway y del frontend en Vercel confirma la capacidad del equipo para trabajar con servicios en la nube, manejando entornos reales de producción. La documentación completa del API con Swagger UI facilita la comprensión de los endpoints y permite la futura expansión del sistema.
 
-En su conjunto, el proyecto GeoPS se consolidó como una base tecnológica robusta y escalable, preparada para continuar creciendo en funcionalidades, pruebas automatizadas, mejoras de rendimiento y validaciones de experiencia de usuario. Los resultados obtenidos reflejan un equipo técnicamente competente, organizado y capaz de ejecutar un ciclo completo de desarrollo de software moderno.
+Las validaciones realizadas con usuarios finales durante el Sprint 4 confirmaron la usabilidad y valor de la plataforma, recibiendo feedback positivo sobre la facilidad de uso, la funcionalidad de geolocalización y los filtros de búsqueda. Los usuarios destacaron la rapidez de GeoPS en comparación con otras plataformas existentes y sugirieron mejoras como el desarrollo de una aplicación móvil nativa y la incorporación de reseñas de usuarios para aumentar la credibilidad de las ofertas.
+
+En su conjunto, el proyecto GeoPS se consolidó como una base tecnológica robusta y escalable, preparada para continuar creciendo en funcionalidades, pruebas automatizadas, mejoras de rendimiento y validaciones continuas de experiencia de usuario. Los resultados obtenidos reflejan un equipo técnicamente competente, organizado y capaz de ejecutar un ciclo completo de desarrollo de software moderno, desde la concepción hasta el deployment en producción y la validación con usuarios reales.
 
 ## Bibliografía
 
@@ -6500,7 +8098,7 @@ World Bank. (2019). *World Development Report 2019: The Changing Nature of Work*
 
 - Enlace Video Exposición TB1: https://tinyurl.com/expo-tb1-geops
 
-- Enlace Video Exposición TP: 
+- Enlace Video Exposición TP: https://tinyurl.com/expo-tp-geops
 
 - Enlace Video Exposición TB2: https://tinyurl.com/expo-tb2-geops
 

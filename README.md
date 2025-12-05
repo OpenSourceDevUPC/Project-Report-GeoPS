@@ -5745,7 +5745,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
   **Sprint Backlog 3 – Commits Overview**
 
   **Tabla 29**   
-  *Sprint Backlog 3 — GeoPS*
+  **Development Evidence — Sprint 3 — GeoPS* *
 
 <table>
   <thead>
@@ -6729,7 +6729,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
   *Sprint Backlog 4 — GeoPS*
 
   <div align="center">
-      <img src="resources/imgs/Sprint Backlog 4 - GeoPS.png" alt="Sprint Backlog 4 - GeoPS" width="1000">
+      <img src="resources/images/chapter-5/Product_Backlog_4.jpg" alt="Sprint Backlog 4 - GeoPS" width="1000">
   </div>
 
   *Nota.* Elaboración propia.
@@ -7130,7 +7130,373 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
   *Nota.* Elaboración propia.
 
   ##### 5.2.4.4. Development Evidence for Sprint Review.
-  
+
+  En este capítulo se presenta el avance correspondiente al Sprint 4 dentro del desarrollo de la aplicación web. Durante esta iteración, el equipo completó el módulo de Proveedores, implementó mejoras en el frontend y backend, y corrigió errores funcionales identificados en sprints anteriores. Se aplicaron prácticas ágiles que permitieron optimizar las funcionalidades existentes y consolidar el MVP de la plataforma GeoPS.
+
+  **Sprint Backlog 4 – Commits Overview**
+
+  **Tabla 37**   
+  *Development Evidence — Sprint 4 — GeoPS*
+
+<table>
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit Message</th>
+      <th>Commit ID</th>
+      <th>Date</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="13"><strong>GilbertHuarcaya/OpenSourceDevUPC/geops-frontend</strong></td>
+      <td>develop</td>
+      <td>fix(environment): update platformProviderApiBaseUrl to correct endpoint</td>
+      <td><code>34bd7fa</code></td>
+      <td>12/04</td>
+    </tr>
+    <tr>
+      <td>feature/notifications</td>
+      <td>Merge pull request #26 from OpenSourceDevUPC/feature/notifications</td>
+      <td><code>5036933</code></td>
+      <td>11/26</td>
+    </tr>
+    <tr>
+      <td>develop</td>
+      <td>feat(cart): enhance payment button to show processing state and disable during payment</td>
+      <td><code>921acf2</code></td>
+      <td>11/26</td>
+    </tr>
+    <tr>
+      <td>develop</td>
+      <td>feat(notifications): integrate notifications service in cart sidebar and update payment completion flow</td>
+      <td><code>e6e4357</code></td>
+      <td>11/26</td>
+    </tr>
+    <tr>
+      <td>develop</td>
+      <td>Refactor userId type from string to number across multiple modules</td>
+      <td><code>89c8036</code></td>
+      <td>11/26</td>
+    </tr>
+    <tr>
+      <td>develop</td>
+      <td>feat(notifications): replace notification button with notifications dropdown component in layout</td>
+      <td><code>714fb9a</code></td>
+      <td>11/26</td>
+    </tr>
+    <tr>
+      <td>develop</td>
+      <td>feat(notifications): add notifications dropdown component with styles and functionality</td>
+      <td><code>c02fadc</code></td>
+      <td>11/26</td>
+    </tr>
+    <tr>
+      <td>develop</td>
+      <td>feat(notifications): implement notification entity, API endpoint, assembler, and response models</td>
+      <td><code>ab02749</code></td>
+      <td>11/26</td>
+    </tr>
+    <tr>
+      <td>feature/update-subscriptions</td>
+      <td>Merge pull request #25 from OpenSourceDevUPC/feature/update-subscriptions</td>
+      <td><code>dc9972c</code></td>
+      <td>11/26</td>
+    </tr>
+    <tr>
+      <td>develop</td>
+      <td>feat(navigation): add loading backdrop during route transitions</td>
+      <td><code>2e88f7d</code></td>
+      <td>11/26</td>
+    </tr>
+    <tr>
+      <td>develop</td>
+      <td>feat(subscriptions): remove FREEMIUM plan type and enhance translation handling</td>
+      <td><code>fb2925d</code></td>
+      <td>11/26</td>
+    </tr>
+    <tr>
+      <td>develop</td>
+      <td>feat(subscriptions): update subscription plans and user role handling</td>
+      <td><code>9e9fef3</code></td>
+      <td>11/26</td>
+    </tr>
+    <tr>
+      <td>feature/google-maps</td>
+      <td>Merge pull request #19 from OpenSourceDevUPC/feature/google-maps-complete-implementation</td>
+      <td><code>87fc8c6</code></td>
+      <td>11/18</td>
+    </tr>
+    <tr>
+      <td rowspan="8"><strong>abigoe02/OpenSourceDevUPC/geops-frontend</strong></td>
+      <td>hotfix/categories</td>
+      <td>Merge pull request #32 from OpenSourceDevUPC/hotfix/categories</td>
+      <td><code>a556b3c</code></td>
+      <td>12/05</td>
+    </tr>
+    <tr>
+      <td>develop</td>
+      <td>hotfix(categories): visually improve the categories section</td>
+      <td><code>267b737</code></td>
+      <td>12/05</td>
+    </tr>
+    <tr>
+      <td>hotfix/offers</td>
+      <td>Merge pull request #31 from OpenSourceDevUPC/hotfix/offers</td>
+      <td><code>4e6c0d7</code></td>
+      <td>12/05</td>
+    </tr>
+    <tr>
+      <td>develop</td>
+      <td>hotfix(offers): visually modify the offers section</td>
+      <td><code>d7b5ca9</code></td>
+      <td>12/05</td>
+    </tr>
+    <tr>
+      <td>develop</td>
+      <td>fix(offers): improve visual aspects of the offers section</td>
+      <td><code>a7ea6c9</code></td>
+      <td>12/05</td>
+    </tr>
+    <tr>
+      <td>feature/help-center-fix</td>
+      <td>Merge pull request #30 from OpenSourceDevUPC/feature/help-center-fix</td>
+      <td><code>0032677</code></td>
+      <td>12/05</td>
+    </tr>
+    <tr>
+      <td>develop</td>
+      <td>feat(help-center): add dedicated provider help section</td>
+      <td><code>a77e7da</code></td>
+      <td>12/05</td>
+    </tr>
+    <tr>
+      <td>feature/help-center-fix</td>
+      <td>Merge pull request #29 from OpenSourceDevUPC/feature/help-center-fix</td>
+      <td><code>7c68ab4</code></td>
+      <td>12/05</td>
+    </tr>
+    <tr>
+      <td rowspan="4"><strong>IamAndreek/OpenSourceDevUPC/geops-frontend</strong></td>
+      <td>hotfix/settings</td>
+      <td>Merge pull request #33 from OpenSourceDevUPC/hotfix/settings</td>
+      <td><code>a2df4f0</code></td>
+      <td>12/05</td>
+    </tr>
+    <tr>
+      <td>develop</td>
+      <td>feat(settings): add preferences in settings consumer</td>
+      <td><code>0593134</code></td>
+      <td>12/05</td>
+    </tr>
+    <tr>
+      <td>feature/identity-details</td>
+      <td>Merge pull request #27 from OpenSourceDevUPC/feature/identity-details</td>
+      <td><code>bdafab2</code></td>
+      <td>11/28</td>
+    </tr>
+    <tr>
+      <td>develop</td>
+      <td>Resuelve conflictos de fusion con develop</td>
+      <td><code>db5192b</code></td>
+      <td>11/28</td>
+    </tr>
+    <tr>
+      <td rowspan="3"><strong>IamAndreek/OpenSourceDevUPC/geops-backend</strong></td>
+      <td>feature/identity-details</td>
+      <td>Merge pull request #21 from OpenSourceDevUPC/feature/identity-details</td>
+      <td><code>6d8d72f</code></td>
+      <td>11/28</td>
+    </tr>
+    <tr>
+      <td>develop</td>
+      <td>feat(identity-details): fix sing-up</td>
+      <td><code>6be52f8</code></td>
+      <td>11/28</td>
+    </tr>
+    <tr>
+      <td>feature/identity-details</td>
+      <td>Merge pull request #18 from OpenSourceDevUPC/feature/identity-details</td>
+      <td><code>1e3d75b</code></td>
+      <td>11/26</td>
+    </tr>
+    <tr>
+      <td rowspan="5"><strong>IDymian/OpenSourceDevUPC/geops-backend</strong></td>
+      <td>feature/sales-history</td>
+      <td>Merge pull request #26 from OpenSourceDevUPC/feature/sales-history</td>
+      <td><code>5f1d72d</code></td>
+      <td>12/05</td>
+    </tr>
+    <tr>
+      <td>develop</td>
+      <td>feat(sales): Refactor OrderHistory to use Resource objects and add detailed resource representation</td>
+      <td><code>af90024</code></td>
+      <td>12/05</td>
+    </tr>
+    <tr>
+      <td>develop</td>
+      <td>refactor: Update documentation to replace 'DTO' with 'Resource' in various resource classes</td>
+      <td><code>df6f580</code></td>
+      <td>12/05</td>
+    </tr>
+    <tr>
+      <td>feature/campaign</td>
+      <td>feat(campaign): Introduce campaign command and query models with validation</td>
+      <td><code>5d4920c</code></td>
+      <td>12/04</td>
+    </tr>
+    <tr>
+      <td>feature/sales</td>
+      <td>git commit -m "feat(sales): Add OrderHistory module with two-layer order history view</td>
+      <td><code>9978e47</code></td>
+      <td>11/27</td>
+    </tr>
+    <tr>
+      <td rowspan="13"><strong>MaineMa/OpenSourceDevUPC/geops-backend</strong></td>
+      <td>feature/offers</td>
+      <td>Merge pull request #24 from OpenSourceDevUPC/feature/offers</td>
+      <td><code>686d9e8</code></td>
+      <td>12/03</td>
+    </tr>
+    <tr>
+      <td>develop</td>
+      <td>feat: Added new GET operation: Gets all the offers from a campaign using its campaign unique identification.</td>
+      <td><code>6b70e44</code></td>
+      <td>12/03</td>
+    </tr>
+    <tr>
+      <td>develop</td>
+      <td>feat: Added campaign id to OfferResourceFromEntityAssembler and OfferResource</td>
+      <td><code>c426563</code></td>
+      <td>12/03</td>
+    </tr>
+    <tr>
+      <td>develop</td>
+      <td>feat: Added campaign id to CreateOfferCommandFromResourceAssembler.java</td>
+      <td><code>d88e1f5</code></td>
+      <td>12/03</td>
+    </tr>
+    <tr>
+      <td>develop</td>
+      <td>feat: Added campaign id to CreateOfferResource.java</td>
+      <td><code>3a4fcee</code></td>
+      <td>12/03</td>
+    </tr>
+    <tr>
+      <td>develop</td>
+      <td>feat: Added new method to offer repository to use with campaign id column</td>
+      <td><code>d2d1407</code></td>
+      <td>12/03</td>
+    </tr>
+    <tr>
+      <td>develop</td>
+      <td>feat: Added campaign repository to query service implementation to create the new query.</td>
+      <td><code>626a763</code></td>
+      <td>12/03</td>
+    </tr>
+    <tr>
+      <td>develop</td>
+      <td>feat: Added campaign repository to command service implementation to use campaign related data functions.</td>
+      <td><code>61573aa</code></td>
+      <td>12/03</td>
+    </tr>
+    <tr>
+      <td>develop</td>
+      <td>feat: Modified the handleDelete command</td>
+      <td><code>adb1cab</code></td>
+      <td>12/03</td>
+    </tr>
+    <tr>
+      <td>develop</td>
+      <td>feat: Added the new query to query service.</td>
+      <td><code>5424abc</code></td>
+      <td>12/03</td>
+    </tr>
+    <tr>
+      <td>develop</td>
+      <td>feat:Added DeleteOfferCommand.java to use CQRS.</td>
+      <td><code>79b38b2</code></td>
+      <td>12/03</td>
+    </tr>
+    <tr>
+      <td>develop</td>
+      <td>feat:Modified offer commands and added campaign related query.</td>
+      <td><code>5504cf9</code></td>
+      <td>12/03</td>
+    </tr>
+    <tr>
+      <td>develop</td>
+      <td>feat:Added campaign_id foreign key to offer class.</td>
+      <td><code>c33e194</code></td>
+      <td>12/03</td>
+    </tr>
+    <tr>
+      <td rowspan="10"><strong>GilbertHuarcaya/OpenSourceDevUPC/geops-backend</strong></td>
+      <td>develop</td>
+      <td>feat: Add estimated budget to campaign creation and update commands</td>
+      <td><code>1b3c1fc</code></td>
+      <td>12/05</td>
+    </tr>
+    <tr>
+      <td>develop</td>
+      <td>refactor: Remove class</td>
+      <td><code>fe1260d</code></td>
+      <td>12/05</td>
+    </tr>
+    <tr>
+      <td>develop</td>
+      <td>Update documentation</td>
+      <td><code>9adcfcc</code></td>
+      <td>12/05</td>
+    </tr>
+    <tr>
+      <td>develop</td>
+      <td>feat: Add prod backend URL to CORS configuration</td>
+      <td><code>f224913</code></td>
+      <td>12/04</td>
+    </tr>
+    <tr>
+      <td>develop</td>
+      <td>fix: Update datasource URL for database connection</td>
+      <td><code>0fe5570</code></td>
+      <td>12/04</td>
+    </tr>
+    <tr>
+      <td>feature/notifications</td>
+      <td>Merge pull request #19 from OpenSourceDevUPC/feature/notifications</td>
+      <td><code>da5a0bb</code></td>
+      <td>11/26</td>
+    </tr>
+    <tr>
+      <td>develop</td>
+      <td>feat(notifications): implement notification system for user events including coupon expirations, payments, and profile updates</td>
+      <td><code>ab74f71</code></td>
+      <td>11/26</td>
+    </tr>
+    <tr>
+      <td>develop</td>
+      <td>feat(notifications): implement notification system for user events including coupon expirations, payments, and profile updates</td>
+      <td><code>c08327d</code></td>
+      <td>11/26</td>
+    </tr>
+    <tr>
+      <td>develop</td>
+      <td>feat(notifications): integrate notification creation in command services for favorites, payments, reviews, and users</td>
+      <td><code>74624f81</code></td>
+      <td>11/26</td>
+    </tr>
+    <tr>
+      <td>feature/update-subscriptions</td>
+      <td>Merge pull request #17 from OpenSourceDevUPC/feature/update-subscriptions</td>
+      <td><code>1cbe46c</code></td>
+      <td>11/26</td>
+    </tr>
+  </tbody>
+  </table>
+
+  *Nota.* Elaboración propia.
+
   ##### 5.2.4.5. Execution Evidence for Sprint Review
 
   Durante el Sprint 4, se completó el desarrollo del **módulo de Proveedores** dentro de la aplicación web **GeoPS**, consolidando las funcionalidades de gestión de campañas publicitarias que permiten a los negocios crear, editar, pausar, eliminar y visualizar métricas de sus promociones. Además, se corrigieron errores funcionales del Sprint 3, garantizando la estabilidad del MVP.
@@ -7353,7 +7719,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   + **Enlace Video Presentación BackEnd:** https://tinyurl.com/web-app-backend-geops
   + **Enlace del Proyecto (Frontend) Deploy:** https://geops-frontend.vercel.app/
-  + **Enlace del Proyecto (BackEnd) API Deploy:** https://geops-backend-production.up.railway.app
+  + **Enlace del Proyecto (BackEnd) API Deploy:** https://geops-backend-production-6f35.up.railway.app
 
   ##### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
@@ -7454,6 +7820,9 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
   <div align="center">
     <img src="resources/imgs/ss_authentication.png" alt="Endpoints Authentication - Swagger UI GeoPS" width="900">
   </div>
+  <div align="center">
+    <img src="resources/imgs/ss_users.png" alt="Endpoints Authentication - Swagger UI GeoPS" width="900">
+  </div>
 
   *Nota.* Elaboración propia.
 
@@ -7465,6 +7834,10 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
   <div align="center">
     <img src="resources/imgs/ss_favorites.png" alt="Endpoints Favorites - Swagger UI GeoPS" width="900">
   </div>
+  <div align="center">
+    <img src="resources/imgs/ss_reviews.png" alt="Endpoints Reviews - Swagger UI GeoPS" width="900">
+  </div>
+
 
   *Nota.* Elaboración propia.
 
@@ -7554,7 +7927,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
   |----------------|----------------|-------------------|------------|
   | Landing Page | GitHub Pages | https://opensourcedevupc.github.io/GeoPS_LandingPage/ | Activo |
   | Frontend (Web Application) | Vercel | https://geops-frontend.vercel.app/ | Activo |
-  | Backend (REST API) | Railway | https://geops-backend-production.up.railway.app/swagger-ui/index.html | Activo |
+  | Backend (REST API) | Railway | https://geops-backend-production-6f35.up.railway.app/swagger-ui/index.html | Activo |
   | Base de Datos | Railway MySQL | Conexión privada | Activo |
 
   *Nota.* Elaboración propia.
@@ -7588,7 +7961,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   **Métricas Detalladas del Repositorio de Desarrollo (`geops-backend`)**
 
-  **Tabla 37**   
+  **Tabla 38**   
   *Team Collaboration Insights — Sprint 4 — GeoPS Backend*
 
   | **Métrica** | **Valor / Descripción** |
@@ -7608,7 +7981,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   **Métricas Detalladas del Repositorio de Desarrollo (`geops-frontend`)**
 
-  **Tabla 38**   
+  **Tabla 39**   
   *Team Collaboration Insights — Sprint 4 — GeoPS Frontend*
 
   | **Métrica** | **Valor / Descripción** |
@@ -7735,45 +8108,77 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
 ### 5.3 Validation Interviews
 
-#### 5.3.1. Diseño de Entrevistas
-
-**Segmento 2: Consumidores de ofertas de diferentes ámbitos**
-
-**Características Demográficas**
-
-  * ¿Cuál es tu **edad**?
-  * ¿En qué **distrito/ciudad** vives?
-  * ¿Con qué **frecuencia** sueles buscar o aprovechar ofertas?
-  * ¿Qué tan **familiarizado** estás con el uso de plataformas digitales?
-
-**Landing Page**
-
-  * ¿Qué es lo primero que le transmite esta página al verla? (Ej. ¿Se ve **moderna, confiable, compleja**?)
-  * ¿Entiende **qué hace GeoPS** solo con ver la sección principal?
-  * ¿Qué tan **clara** le parece la propuesta de valor que ofrecemos aquí?
-  * El ver las marcas asociadas, ¿qué nivel de **confianza** le da en la plataforma?
-  * ¿El botón o llamado a la acción le indica claramente el **siguiente paso** que debe seguir?
-
-**Plataforma Web**
-
-  * ¿Qué tan **fácil** le parece el proceso de registrarse o iniciar sesión?
-  * Sobre la búsqueda por ubicación: ¿Qué tan **útil** le parece la función de buscar ofertas cercanas a su ubicación actual?
-  * Sobre la búsqueda por categoría: ¿Le parece **fácil** usar los filtros para ver solo las ofertas de una categoría específica (ej. "Entertainment")?
-  * ¿Hubo algún momento navegando en las ofertas donde **dudó qué hacer o dónde encontrar algo**?
-  * ¿Qué elementos en la ficha de la oferta le dan la **seguridad y credibilidad** para decidir ir a canjearla?
-  * Sobre la función de guardar: ¿Le parece **fácil y práctico** guardar una oferta para revisarla más tarde?
-  * En comparación con las apps o webs que usa actualmente para buscar ofertas, ¿qué cree que hace GeoPS **mejor**?
-  * ¿Qué tendríamos que **mejorar o añadir** para que sea una herramienta de su rutina diaria?
-
-#### 5.3.2. Registro de Entrevistas
-
-**Segmento 2: Consumidores de ofertas de diferentes ámbitos**
-
-| Número de Registro | Datos del Entrevistado | Captura |
-| :---: | :--- | :---: |
-| **1** | **Nombre:** Ángel José <br> **Edad:** 22 años <br> **Distrito:** Cercado de Lima <br> **Duración de la entrevista:** <br> **Enlace:** https://tinyurl.com/val-seg-2-ang-geops **Resumen:** Ángel Pariona (22 años, Lima) es un buscador frecuente de ofertas y usuario activo de plataformas digitales como Yape. Al evaluar **Geops**, encontró que la Landing Page es muy intuitiva y la propuesta de valor es atractiva. Le da una alta credibilidad (7-8/10) a la plataforma. Las funcionalidades principales fueron bien recibidas: el registro es muy fácil, la función de geolocalización para ofertas cercanas es muy conveniente, y los filtros son intuitivos. Considera que **Geops es mejor** que las apps que usa actualmente (como Yape) debido a su **mejor distribución y ordenamiento de ofertas**, y la capacidad de guardarlas en favoritos. Para aumentar la credibilidad de las ofertas, sugiere añadir **recomendaciones o *reviews*** de otros usuarios. Su única sugerencia de mejora es modificar el **tamaño de la letra** para la vista móvil. | <img src="resources/images/chapter-5/EntrevistaValidacionSegmento2_1.png" alt="Entrevista-validacion1" width="600">   |
-| **2** | **Nombre:** Andrés Torres <br> **Edad:** 19 años <br> **Distrito:** San Miguel <br> **Duración de la entrevista:** <br> **Enlace:** https://tinyurl.com/val-seg-2-andr-geops **Resumen:** El entrevistado, Andrés Torres (19 años), valoró la plataforma **GeoPs** como bastante **moderna, organizada y que transmite confianza**, destacando positivamente la asociación con marcas conocidas que refuerza la credibilidad del proyecto. En cuanto a la usabilidad de la plataforma web, calificó el registro como rápido y sencillo y encontró la función de buscar ofertas por ubicación y categorías como **muy útil para ahorrar tiempo en el traslado**. Además, señaló que, en comparación con otras apps que usa (como Yape), **Geops es más rápido y tiene filtros más cómodos**. Para convertirla en una herramienta de uso diario, su principal sugerencia de mejora fue desarrollar una **aplicación para dispositivos móviles**. |  <img src="resources/images/chapter-5/EntrevistaValidacionSegmento2_2.png" alt="Entrevista-validacion2" width="600">   |
-
+  #### 5.3.1. Diseño de Entrevistas
+  
+  **Segmento 1: Dueños de negocios locales**
+  
+  **Características Demográficas**
+  
+    * ¿Qué tipo de **negocio** tiene y cómo se llama?
+    * ¿Cuál es tu **edad** y tu **cargo/rol** dentro del negocio?
+    * ¿En qué **distrito/ciudad** se encuentra?
+    * ¿Con qué **frecuencia** sueles lanzar ofertas o promociones especiales para atraer clientes?
+    * ¿Qué tan **familiarizado** estás con el uso de plataformas digitales para promocionar tu negocio?
+  
+  **Landing Page**
+  
+    * ¿Qué es lo primero que le transmite esta página al verla?
+    * ¿Entiende **qué hace GeoPS** por tu negocio solo con ver la sección principal?
+    * ¿Qué tan **clara** le parece la propuesta de valor que ofrecemos para aumentar tus ventas/visibilidad?
+    * El ver las marcas asociadas, ¿qué nivel de **confianza** le da en la plataforma como un socio potencial para tu negocio?
+    * ¿El botón o llamado a la acción le indica claramente el **siguiente paso** que debe seguir para registrar su negocio?
+  
+  **Plataforma Web**
+  
+    * ¿Qué tan **fácil** le parece el proceso de registrar su negocio y configurar su perfil inicial?
+    * ¿Le parece **intuitivo y rápido** crear, editar y activar una nueva oferta/promoción?
+    * Sobre la configuración de la ubicación: ¿Qué tan **útil** le parece la función de especificar el área de cobertura o la sucursal de la oferta?
+    * ¿Qué tan **útil y comprensible** le parece la sección donde puede ver cuántos usuarios han visto/canjeado sus ofertas?
+    * ¿Hubo algún momento navegando en la plataforma donde **dudó qué hacer o dónde encontrar** las herramientas de gestión (ej. Campañas, Estadísticas)?
+    * ¿Qué elementos en el proceso de canje/validación de la oferta por parte del cliente le dan la **seguridad y control** para registrar la transacción?
+    * En comparación con las herramientas o plataformas que usa actualmente para promocionar su negocio, ¿qué cree que hace GeoPS **mejor**?
+    * ¿Qué tendríamos que **mejorar o añadir** para que GeoPS sea una herramienta esencial en la gestión y promoción diaria de su negocio?
+  
+  **Segmento 2: Consumidores de ofertas de diferentes ámbitos**
+  
+  **Características Demográficas**
+  
+    * ¿Cuál es tu **edad**?
+    * ¿En qué **distrito/ciudad** vives?
+    * ¿Con qué **frecuencia** sueles buscar o aprovechar ofertas?
+    * ¿Qué tan **familiarizado** estás con el uso de plataformas digitales?
+  
+  **Landing Page**
+  
+    * ¿Qué es lo primero que le transmite esta página al verla? (Ej. ¿Se ve **moderna, confiable, compleja**?)
+    * ¿Entiende **qué hace GeoPS** solo con ver la sección principal?
+    * ¿Qué tan **clara** le parece la propuesta de valor que ofrecemos aquí?
+    * El ver las marcas asociadas, ¿qué nivel de **confianza** le da en la plataforma?
+    * ¿El botón o llamado a la acción le indica claramente el **siguiente paso** que debe seguir?
+  
+  **Plataforma Web**
+  
+    * ¿Qué tan **fácil** le parece el proceso de registrarse o iniciar sesión?
+    * Sobre la búsqueda por ubicación: ¿Qué tan **útil** le parece la función de buscar ofertas cercanas a su ubicación actual?
+    * Sobre la búsqueda por categoría: ¿Le parece **fácil** usar los filtros para ver solo las ofertas de una categoría específica (ej. "Entertainment")?
+    * ¿Hubo algún momento navegando en las ofertas donde **dudó qué hacer o dónde encontrar algo**?
+    * ¿Qué elementos en la ficha de la oferta le dan la **seguridad y credibilidad** para decidir ir a canjearla?
+    * Sobre la función de guardar: ¿Le parece **fácil y práctico** guardar una oferta para revisarla más tarde?
+    * En comparación con las apps o webs que usa actualmente para buscar ofertas, ¿qué cree que hace GeoPS **mejor**?
+    * ¿Qué tendríamos que **mejorar o añadir** para que sea una herramienta de su rutina diaria?
+  
+  #### 5.3.2. Registro de Entrevistas
+  
+  **Segmento 2: Consumidores de ofertas de diferentes ámbitos**
+  
+  **Tabla 40**   
+  *Registro de Entrevistas de Validación — Segmento 2*
+  
+  | Número de Registro | Datos del Entrevistado | Captura |
+  | :---: | :--- | :---: |
+  | **1** | **Nombre:** Ángel José <br> **Edad:** 22 años <br> **Distrito:** Cercado de Lima <br> **Duración de la entrevista:** <br> **Enlace:** https://tinyurl.com/val-seg-2-ang-geops **Resumen:** Ángel Pariona (22 años, Lima) es un buscador frecuente de ofertas y usuario activo de plataformas digitales como Yape. Al evaluar **Geops**, encontró que la Landing Page es muy intuitiva y la propuesta de valor es atractiva. Le da una alta credibilidad (7-8/10) a la plataforma. Las funcionalidades principales fueron bien recibidas: el registro es muy fácil, la función de geolocalización para ofertas cercanas es muy conveniente, y los filtros son intuitivos. Considera que **Geops es mejor** que las apps que usa actualmente (como Yape) debido a su **mejor distribución y ordenamiento de ofertas**, y la capacidad de guardarlas en favoritos. Para aumentar la credibilidad de las ofertas, sugiere añadir **recomendaciones o *reviews*** de otros usuarios. Su única sugerencia de mejora es modificar el **tamaño de la letra** para la vista móvil. | **Figura 225**<br>*Entrevista de Validación 1 — Segmento 2*<br><img src="resources/images/chapter-5/EntrevistaValidacionSegmento2_1.png" alt="Entrevista-validacion1" width="600"><br>*Nota.* Elaboración propia.   |
+  | **2** | **Nombre:** Andrés Torres <br> **Edad:** 19 años <br> **Distrito:** San Miguel <br> **Duración de la entrevista:** <br> **Enlace:** https://tinyurl.com/val-seg-2-andr-geops **Resumen:** El entrevistado, Andrés Torres (19 años), valoró la plataforma **GeoPs** como bastante **moderna, organizada y que transmite confianza**, destacando positivamente la asociación con marcas conocidas que refuerza la credibilidad del proyecto. En cuanto a la usabilidad de la plataforma web, calificó el registro como rápido y sencillo y encontró la función de buscar ofertas por ubicación y categorías como **muy útil para ahorrar tiempo en el traslado**. Además, señaló que, en comparación con otras apps que usa (como Yape), **Geops es más rápido y tiene filtros más cómodos**. Para convertirla en una herramienta de uso diario, su principal sugerencia de mejora fue desarrollar una **aplicación para dispositivos móviles**. | **Figura 226**<br>*Entrevista de Validación 2 — Segmento 2*<br><img src="resources/images/chapter-5/EntrevistaValidacionSegmento2_2.png" alt="Entrevista-validacion2" width="600"><br>*Nota.* Elaboración propia.   |
+  
   #### 5.3.3 Evaluaciones Según Heurísticas
 
   **UX Heuristics & Principles Evaluation**
@@ -7837,165 +8242,183 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 
-| Nivel | Descripción |
-|:------:|--------------|
-| **1** | **Problema superficial:** puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
-| **2** | **Problema menor:** puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja para resolverlo de cara al siguiente release. |
-| **3** | **Problema mayor:** ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
-| **4** | **Problema muy grave:** un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+  **Tabla 41**   
+  *Escala de Severidad para Evaluación Heurística*
 
-**Tabla de resumen**
+  | Nivel | Descripción |
+  |:------:|--------------|
+  | **1** | **Problema superficial:** puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+  | **2** | **Problema menor:** puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja para resolverlo de cara al siguiente release. |
+  | **3** | **Problema mayor:** ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
+  | **4** | **Problema muy grave:** un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
 
-| # | Problema | Escala de severidad | Heurística/Principio violada(o) |
-| :---: | ----- | ----- | ----- |
-| 1 | El buscador general superior no funciona y no devuelve resultados al buscar ofertas o lugares. | 3 | Eficiencia del usuario |
-| 2 | El botón del plan en la sección *Profile* tiene fondo transparente y no es visible claramente. | 2 | Diseño visual y accesibilidad |
-| 3 | El mapa tiene datos desactualizados (ubicaciones erróneas) | 2 | Calidad de la información |
-| 4 | Los filtros son botones pequeños y de bajo contraste | 2 | Visibilidad |
-| 5 | Los botones "Buy" y "Add" no dan feedback visual al presionarse | 1 | Proveer retroalimentación adecuada |
-| 6 | El borde inferior de las pestañas es demasiado sutil | 1 | Diseño visual y minimalismo  |
+  *Nota.* Elaboración propia.
+
+  **Tabla de resumen**
+
+  **Tabla 42**   
+  *Resumen de Problemas Identificados — Evaluación Heurística*
+
+  | # | Problema | Escala de severidad | Heurística/Principio violada(o) |
+  | :---: | ----- | ----- | ----- |
+  | 1 | El buscador general superior no funciona y no devuelve resultados al buscar ofertas o lugares. | 3 | Eficiencia del usuario |
+  | 2 | El botón del plan en la sección *Profile* tiene fondo transparente y no es visible claramente. | 2 | Diseño visual y accesibilidad |
+  | 3 | El mapa tiene datos desactualizados (ubicaciones erróneas) | 2 | Calidad de la información |
+  | 4 | Los filtros son botones pequeños y de bajo contraste | 2 | Visibilidad |
+  | 5 | Los botones "Buy" y "Add" no dan feedback visual al presionarse | 1 | Proveer retroalimentación adecuada |
+  | 6 | El borde inferior de las pestañas es demasiado sutil | 1 | Diseño visual y minimalismo  |
   | 7 | La fecha de expiración en "My Coupons" es ambigua | 1 | Claridad |
 
   **Descripción de problemas**
 
-  **PROBLEMA \#1:*****Severidad:*** 3
+  **PROBLEMA \#1:**
+  
+  ***Severidad:*** 3
 
-***Heurística violada:*** Eficiencia del usuario
+  ***Heurística violada:*** Eficiencia del usuario
 
-***Problema:***   
-El buscador general ubicado en la barra superior no funciona al intentar buscar ofertas o lugares específicos, ya que no devuelve resultados ni realiza ningún tipo de acción visible. 
+  ***Problema:***   
+  El buscador general ubicado en la barra superior no funciona al intentar buscar ofertas o lugares específicos, ya que no devuelve resultados ni realiza ningún tipo de acción visible. 
 
-**Figura**  
-<figure style="text-align: center;">
-  <img src="resources/images/heuristica_problema1.jpg" alt="Evaluación Heurística - Problema 1" width="700">
-  <figcaption><strong>Figura 1:</strong> Buscador general sin funcionalidad visible al intentar realizar una búsqueda.</figcaption>
-</figure>
+  **Figura 227**  
+  *Buscador general sin funcionalidad visible al intentar realizar una búsqueda*
 
-*Nota.* Elaboración propia.
+  <figure style="text-align: center;">
+    <img src="resources/images/heuristica_problema1.jpg" alt="Evaluación Heurística - Problema 1" width="700">
+  </figure>
 
-***Recomendación:***
-Habilitar la función del buscador global para que filtre ofertas, lugares o categorías en tiempo real o redirija a una página de resultados de búsqueda, mostrando feedback inmediato al usuario.
+  *Nota.* Elaboración propia.
 
-**PROBLEMA \#2:**
+  ***Recomendación:***
+  Habilitar la función del buscador global para que filtre ofertas, lugares o categorías en tiempo real o redirija a una página de resultados de búsqueda, mostrando feedback inmediato al usuario.
 
-***Severidad:*** 2
+  **PROBLEMA \#2:**
 
-***Heurística violada:*** Diseño visual y accesibilidad
+  ***Severidad:*** 2
 
-***Problema:*** Durante la visualización del menú desplegable del usuario, las opciones My Profile, Settings y Logout presentan un diseño con muy bajo contraste respecto al fondo.
+  ***Heurística violada:*** Diseño visual y accesibilidad
 
-**Figura**  
-<figure style="text-align: center;">
-  <img src="resources/images/heuristica_problema2.jpg" alt="Evaluación Heurística - Problema 2" width="700">
-  <figcaption><strong>Figura 2:</strong> Menú desplegable del usuario con bajo contraste en sus opciones.</figcaption>
-</figure>
+  ***Problema:*** Durante la visualización del menú desplegable del usuario, las opciones My Profile, Settings y Logout presentan un diseño con muy bajo contraste respecto al fondo.
 
-*Nota.* Elaboración propia.
+  **Figura 228**  
+  *Menú desplegable del usuario con bajo contraste en sus opciones*
 
-***Recomendación:***  
-Aumentar el contraste visual del menú desplegable aplicando un fondo sólido, bordes definidos y colores más visibles para las opciones del usuario.
+  <figure style="text-align: center;">
+    <img src="resources/images/heuristica_problema2.jpg" alt="Evaluación Heurística - Problema 2" width="700">
+  </figure>
 
-**PROBLEMA \#3:**
+  *Nota.* Elaboración propia.
 
-***Severidad:*** 2
+  ***Recomendación:***  
+  Aumentar el contraste visual del menú desplegable aplicando un fondo sólido, bordes definidos y colores más visibles para las opciones del usuario.
 
-***Heurística violada:*** Calidad de la información
+  **PROBLEMA \#3:**
 
-***Problema:***   
-Durante la visualización del mapa en la sección Home, se muestran establecimientos que ya no existen o que han cambiado de ubicación, lo cual provoca inconsistencias entre la información real y la información presentada por la aplicación.  
-Esto puede generar confusión en el usuario, ya que la herramienta muestra puntos de interés que no están activos, afectando la credibilidad de la interfaz y la precisión del sistema al momento de explorar ofertas cercanas.
+  ***Severidad:*** 2
 
-**Figura**  
-<figure style="text-align: center;">
-  <img src="resources/images/heuristica_problema3.jpg" alt="Evaluación Heurística - Problema 3" width="700">
-  <figcaption><strong>Figura 3:</strong> Mapa mostrando establecimientos desactualizados o inexistentes dentro de la interfaz.</figcaption>
-</figure>
+  ***Heurística violada:*** Calidad de la información
 
-*Nota.* Elaboración propia.
+  ***Problema:***   
+  Durante la visualización del mapa en la sección Home, se muestran establecimientos que ya no existen o que han cambiado de ubicación, lo cual provoca inconsistencias entre la información real y la información presentada por la aplicación.  
+  Esto puede generar confusión en el usuario, ya que la herramienta muestra puntos de interés que no están activos, afectando la credibilidad de la interfaz y la precisión del sistema al momento de explorar ofertas cercanas.
 
-***Recomendación:***  
-Actualizar la data del mapa asegurando que las ubicaciones mostradas correspondan a establecimientos reales y vigentes.
+  **Figura 229**  
+  *Mapa mostrando establecimientos desactualizados o inexistentes dentro de la interfaz*
 
-**PROBLEMA \#4:**
+  <figure style="text-align: center;">
+    <img src="resources/images/heuristica_problema3.jpg" alt="Evaluación Heurística - Problema 3" width="700">
+  </figure>
 
-***Severidad:*** 2
+  *Nota.* Elaboración propia.
 
-***Heurística violada:*** Visibilidad
+  ***Recomendación:***  
+  Actualizar la data del mapa asegurando que las ubicaciones mostradas correspondan a establecimientos reales y vigentes.
 
-***Problema:***   
-Los filtros de categorías y opciones avanzadas (como radio, búsqueda, tipo de local, etc.) presentan una visibilidad limitada: se muestran como pequeños botones con poco contraste y sin indicaciones adicionales.  
-Además, no existe un menú agrupado o desplegable que ayude al usuario a ver todas las opciones disponibles de forma clara y organizada, lo que dificulta encontrar filtros específicos o modificar múltiples criterios de búsqueda rápidamente.
+  **PROBLEMA \#4:**
 
-**Figura**  
-<figure style="text-align: center;">
-  <img src="resources/images/heuristica_problema4.jpg" alt="Evaluación Heurística - Problema 4" width="700">
-  <figcaption><strong>Figura 4:</strong> Filtros de categorías y opciones avanzadas con baja visibilidad y sin menú agrupado.</figcaption>
-</figure>
+  ***Severidad:*** 2
 
-*Nota.* Elaboración propia.  
-***Recomendación:***  
-Implementar un menú de filtros expandible (por ejemplo: “Más filtros”) donde se agrupen opciones avanzadas como: radio, tipo de negocio, promociones, distancia, precio, etc. 
+  ***Heurística violada:*** Visibilidad
 
-**PROBLEMA \#5:**
+  ***Problema:***   
+  Los filtros de categorías y opciones avanzadas (como radio, búsqueda, tipo de local, etc.) presentan una visibilidad limitada: se muestran como pequeños botones con poco contraste y sin indicaciones adicionales.  
+  Además, no existe un menú agrupado o desplegable que ayude al usuario a ver todas las opciones disponibles de forma clara y organizada, lo que dificulta encontrar filtros específicos o modificar múltiples criterios de búsqueda rápidamente.
 
-***Severidad:*** 2
+  **Figura 230**  
+  *Filtros de categorías y opciones avanzadas con baja visibilidad y sin menú agrupado*
 
-***Heurística violada:*** Proveer retroalimentación adecuada
+  <figure style="text-align: center;">
+    <img src="resources/images/heuristica_problema4.jpg" alt="Evaluación Heurística - Problema 4" width="700">
+  </figure>
 
-***Problema:*** 
-En las tarjetas de oferta, los botones Buy y Add no muestran un cambio visual claro al ser presionados. La falta de retroalimentación inmediata (como cambio de color, animación, transición o badge de confirmación) provoca que el usuario no se percate de si la acción fue registrada correctamente
+  *Nota.* Elaboración propia.  
 
-**Figura**  
-<figure style="text-align: center;">
-  <img src="resources/images/heuristica_problema5.jpg" alt="Evaluación Heurística - Problema 5" width="700">
-  <figcaption><strong>Figura 5:</strong> Botones “Buy” y “Add” sin retroalimentación visual inmediata al ser presionados.</figcaption>
-</figure>
+  ***Recomendación:***  
+  Implementar un menú de filtros expandible (por ejemplo: “Más filtros”) donde se agrupen opciones avanzadas como: radio, tipo de negocio, promociones, distancia, precio, etc. 
 
-*Nota.* Elaboración propia.
+  **PROBLEMA \#5:**
 
-***Recomendación:***
-Implementar un cambio visual evidente al presionar los botones (como cambio de color, animación o mensaje breve) para que el usuario identifique inmediatamente que el producto fue añadido al carrito.
+  ***Severidad:*** 2
 
-**PROBLEMA \#6:**
+  ***Heurística violada:*** Proveer retroalimentación adecuada
 
-***Severidad:*** 1
+  ***Problema:*** 
+  En las tarjetas de oferta, los botones Buy y Add no muestran un cambio visual claro al ser presionados. La falta de retroalimentación inmediata (como cambio de color, animación, transición o badge de confirmación) provoca que el usuario no se percate de si la acción fue registrada correctamente
 
-***Heurística violada:*** Diseño visual y minimalismo
+  **Figura 231**   
+  *Botones “Buy” y “Add” sin retroalimentación visual inmediata al ser presionados.*
 
-***Problema:***   
-En la barra superior de navegación (top tabs), las opciones como *Inicio, Ofertas, Categorías, Favoritos, Mis cupones* presentan un estilo con un borde inferior muy sutil, casi imperceptible. Esto hace que resulte difícil distinguir cuál sección está activa y cuáles no, afectando la claridad del estado actual del sistema.
+  <figure style="text-align: center;">
+    <img src="resources/images/heuristica_problema5.jpg" alt="Evaluación Heurística - Problema 5" width="700">
+  </figure>
 
-**Figura**  
-<figure style="text-align: center;">
-  <img src="resources/images/heuristica_problema6.jpg" alt="Evaluación Heurística - Problema 6" width="700">
-  <figcaption><strong>Figura 6:</strong> Top tabs con borde inferior muy sutil, dificultando identificar la sección activa.</figcaption>
-</figure>
+  *Nota.* Elaboración propia.
 
-*Nota.* Elaboración propia.
+  ***Recomendación:***
+  Implementar un cambio visual evidente al presionar los botones (como cambio de color, animación o mensaje breve) para que el usuario identifique inmediatamente que el producto fue añadido al carrito.
 
-***Recomendación:***  
-Resaltar la pestaña activa mediante un borde inferior más grueso, un color contrastante o un fondo diferenciado.
+  **PROBLEMA \#6:**
 
-**PROBLEMA \#7:**
+  ***Severidad:*** 1
 
-***Severidad:*** 1
+  ***Heurística violada:*** Diseño visual y minimalismo
 
-***Heurística violada:*** Claridad
+  ***Problema:***   
+  En la barra superior de navegación (top tabs), las opciones como *Inicio, Ofertas, Categorías, Favoritos, Mis cupones* presentan un estilo con un borde inferior muy sutil, casi imperceptible. Esto hace que resulte difícil distinguir cuál sección está activa y cuáles no, afectando la claridad del estado actual del sistema.
 
-***Problema:***   
-En la sección My Coupons, la fecha se muestra únicamente como un número aislado (por ejemplo: “17/11/2025”) sin indicar explícitamente que corresponde a la fecha de expiración del cupón.  
-Esto puede generar confusión, especialmente para usuarios nuevos o para quienes poseen múltiples cupones con diferentes vigencias.
+  **Figura 232**  
+  *Top tabs con borde inferior muy sutil, dificultando identificar la sección activa*
 
-**Figura**  
-<figure style="text-align: center;">
-  <img src="resources/images/heuristica_problema7.jpg" alt="Evaluación Heurística - Problema 7" width="700">
-  <figcaption><strong>Figura 7:</strong> Fecha del cupón mostrada sin etiqueta explícita, generando ambigüedad sobre su significado.</figcaption>
-</figure>
+  <figure style="text-align: center;">
+    <img src="resources/images/heuristica_problema6.jpg" alt="Evaluación Heurística - Problema 6" width="700">
+  </figure>
 
-*Nota.* Elaboración propia.
+  *Nota.* Elaboración propia.
 
-***Recomendación:***
-Mostrar la información de forma explícita, por ejemplo: “Fecha de expiración: 17/11/2025”
+  ***Recomendación:***  
+  Resaltar la pestaña activa mediante un borde inferior más grueso, un color contrastante o un fondo diferenciado.
+
+  **PROBLEMA \#7:**
+
+  ***Severidad:*** 1
+
+  ***Heurística violada:*** Claridad
+
+  ***Problema:***   
+  En la sección My Coupons, la fecha se muestra únicamente como un número aislado (por ejemplo: “17/11/2025”) sin indicar explícitamente que corresponde a la fecha de expiración del cupón.  
+  Esto puede generar confusión, especialmente para usuarios nuevos o para quienes poseen múltiples cupones con diferentes vigencias.
+
+  **Figura 233**  
+  *Fecha del cupón mostrada sin etiqueta explícita, generando ambüedad sobre su significado*
+
+  <figure style="text-align: center;">
+    <img src="resources/images/heuristica_problema7.jpg" alt="Evaluación Heurística - Problema 7" width="700">
+  </figure>
+
+  *Nota.* Elaboración propia.
+
+  ***Recomendación:***
+  Mostrar la información de forma explícita, por ejemplo: “Fecha de expiración: 17/11/2025”
 
 ### 5.4 Video About-the-Product
 

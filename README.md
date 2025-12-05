@@ -7651,16 +7651,16 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
   **Módulo de Proveedores**
 
   **Figura 206**   
-  *Vista de Dashboard — GeoPS Proveedores*
+  *Vista de Resumen (Dashboard) — GeoPS Proveedores*
 
   <div align="center">
-    <img src="resources/imgs/ss_proveedor_dashboard.jpg" alt="Dashboard GeoPS Proveedores" width="1000">
+    <img src="resources/imgs/ss_proveedor_resumen.jpg" alt="Resumen Dashboard GeoPS Proveedores" width="1000">
   </div>
 
   *Nota.* Elaboración propia.
 
   **Figura 207**   
-  *Vista de Campañas — GeoPS Proveedores*
+  *Vista de Gestión de Campañas — GeoPS Proveedores*
 
   <div align="center">
     <img src="resources/imgs/ss_proveedor_campañas.jpg" alt="Gestión de Campañas GeoPS Proveedores" width="1000">
@@ -7669,34 +7669,34 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
   *Nota.* Elaboración propia.
 
   **Figura 208**   
-  *Vista de Crear Campaña — GeoPS Proveedores*
+  *Vista de Crear Nueva Campaña — GeoPS Proveedores*
 
   <div align="center">
-    <img src="resources/imgs/ss_proveedor_crear.jpg" alt="Crear Campaña GeoPS Proveedores" width="1000">
+    <img src="resources/imgs/ss_proveedor_crear.jpg" alt="Crear Nueva Campaña GeoPS Proveedores" width="1000">
   </div>
 
   *Nota.* Elaboración propia.
 
   **Figura 209**   
-  *Vista de Reportes — GeoPS Proveedores*
+  *Vista de Reportes de Campañas — GeoPS Proveedores*
 
   <div align="center">
-    <img src="resources/imgs/ss_proveedor_reportes.jpg" alt="Reportes GeoPS Proveedores" width="1000">
+    <img src="resources/imgs/ss_proveedor_reportes.jpg" alt="Reportes de Campañas GeoPS Proveedores" width="1000">
   </div>
 
   *Nota.* Elaboración propia.
 
   **Figura 210**   
-  *Vista de Comentarios — GeoPS Proveedores*
+  *Vista de Comentarios y Reseñas — GeoPS Proveedores*
 
   <div align="center">
-    <img src="resources/imgs/ss_proveedor_comentarios.jpg" alt="Comentarios GeoPS Proveedores" width="1000">
+    <img src="resources/imgs/ss_proveedor_reviews.jpg" alt="Comentarios y Reseñas GeoPS Proveedores" width="1000">
   </div>
 
   *Nota.* Elaboración propia.
 
   **Figura 211**   
-  *Vista de Centro de Ayuda — GeoPS Proveedores*
+  *Vista de Centro de Ayuda para Proveedores — GeoPS*
 
   <div align="center">
     <img src="resources/imgs/ss_proveedor_help.jpg" alt="Centro de Ayuda GeoPS Proveedores" width="1000">
@@ -7705,10 +7705,10 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
   *Nota.* Elaboración propia.
 
   **Figura 212**   
-  *Vista de Perfil — GeoPS Proveedores*
+  *Vista de Configuración de Perfil — GeoPS Proveedores*
 
   <div align="center">
-    <img src="resources/imgs/ss_proveedor_perfil.jpg" alt="Perfil GeoPS Proveedores" width="1000">
+    <img src="resources/imgs/ss_proveedor_perfil.jpg" alt="Configuración Perfil GeoPS Proveedores" width="1000">
   </div>
 
   *Nota.* Elaboración propia.
@@ -7730,52 +7730,19 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   | **Método** | **Endpoint** | **Descripción** |
   |------------|--------------|-----------------|
-  | GET | /api/v1/authentication/sign-in | Iniciar sesión de usuario. |
   | POST | /api/v1/authentication/sign-up | Registrar un nuevo usuario. |
-  | GET | /api/v1/reviews | Obtiene todas las reseñas o filtradas. |
-  | GET | /api/v1/reviews/offers/{offerId} | Reseñas de una oferta específica. |
+  | POST | /api/v1/authentication/sign-in | Autenticar un usuario. |
+  | GET | /api/v1/reviews | Obtiene todas las reseñas o filtradas por oferta. |
   | POST | /api/v1/reviews | Crea una nueva reseña. |
   | GET | /api/v1/reviews/{id} | Obtiene la reseña por ID. |
   | DELETE | /api/v1/reviews/{id} | Elimina la reseña por ID. |
-  | PATCH | /api/v1/reviews/{id} | Actualiza una reseña existente. |
-  | GET | /api/v1/carts/{id} | Obtiene un carrito por ID. |
-  | PUT | /api/v1/carts/{id} | Actualiza el carrito por ID. |
-  | DELETE | /api/v1/carts/{id} | Elimina el carrito. |
-  | PUT | /api/v1/carts/user/{userId}/items/{offerId} | Actualiza la cantidad de un ítem en el carrito. |
-  | GET | /api/v1/carts | Obtiene todo los carritos. |
-  | POST | /api/v1/carts | Crea un nuevo carrito. |
-  | POST | /api/v1/carts/user/{userId}/items | Agrega un ítem al carrito del usuario. |
-  | GET | /api/v1/carts/user/{userId} | Obtiene el carrito de un usuario. |
-  | DELETE | /api/v1/carts/user/{userId} | Limpia el carrito del usuario. |
-  | GET | /api/v1/subscriptions/{id} | Obtiene un plan por ID. |
-  | PUT | /api/v1/subscriptions/{id} | Actualiza un plan de suscripción. |
-  | DELETE | /api/v1/subscriptions/{id} | Elimina un plan de suscripción. |
-  | GET | /api/v1/subscriptions | Lista todos los planes de suscripción. |
-  | POST | /api/v1/subscriptions | Crea un nuevo plan de suscripción. |
-  | GET | /api/v1/subscriptions/type/{type} | Lista planes filtrados por tipo. |
-  | GET | /api/v1/subscriptions/recommended | Obtiene planes recomendados. |
-  | GET | /api/v1/offers/{id} | Obtiene una oferta por ID. |
-  | PUT | /api/v1/offers/{id} | Actualiza una oferta. |
-  | DELETE | /api/v1/offers/{id} | Elimina una oferta. |
-  | GET | /api/v1/offers | Obtiene todas las ofertas por IDs. |
-  | POST | /api/v1/offers | Crea una nueva oferta. |
-  | GET | /api/v1/coupons/{id} | Obtiene un cupón por ID. |
-  | PUT | /api/v1/coupons/{id} | Actualiza un cupón. |
-  | DELETE | /api/v1/coupons/{id} | Elimina un cupón. |
-  | GET | /api/v1/coupons | Obtiene todos los cupones con filtros opcionales. |
-  | POST | /api/v1/coupons | Crea un cupón. |
-  | POST | /api/v1/coupons/bulk | Crea cupones en lote. |
-  | POST | /api/v1/coupons/bulk-wrapped | Crea cupones en lote (endpoint alterno). |
-  | GET | /api/v1/coupons/user/{userId} | Cupones por usuario. |
-  | GET | /api/v1/coupons/user/{userId}/valid | Cupones válidos del usuario. |
-  | GET | /api/v1/coupons/payment/{paymentId} | Cupones por ID de pago. |
-  | GET | /api/v1/coupons/expired | Cupones expirados. |
-  | GET | /api/v1/coupons/code/{code} | Cupón por código de redención. |
-  | GET | /api/v1/users/{id} | Obtiene información del usuario por ID. |
-  | PUT | /api/v1/users/{id} | Actualiza información del usuario. |
-  | DELETE | /api/v1/users/{id} | Elimina un usuario. |
-  | POST | /api/v1/users | Crea un nuevo usuario. |
-  | GET | /api/v1/users/me | Obtiene al usuario actualmente autenticado. |
+  | PATCH | /api/v1/reviews/{id} | Actualiza una reseña existente (PATCH). |
+  | GET | /api/v1/campaigns | Obtiene todas las campañas registradas. |
+  | POST | /api/v1/campaigns | Crea una nueva campaña. |
+  | GET | /api/v1/campaigns/{id} | Obtiene una campaña por ID. |
+  | DELETE | /api/v1/campaigns/{id} | Elimina una campaña. |
+  | PATCH | /api/v1/campaigns/{id} | Actualiza una campaña. |
+  | GET | /api/v1/campaigns/user/{userId}/campaigns | Obtiene campañas de un usuario. |
   | PUT | /api/v1/payments/{paymentId}/status | Actualiza estado de pago. |
   | PUT | /api/v1/payments/{paymentId}/fail | Marca un pago como fallido. |
   | PUT | /api/v1/payments/{paymentId}/complete | Completa transacción de pago. |
@@ -7784,123 +7751,146 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
   | DELETE | /api/v1/payments/{id} | Elimina un pago. |
   | GET | /api/v1/payments | Lista todos los pagos. |
   | POST | /api/v1/payments | Crea una nueva transacción de pago. |
-  | GET | /api/v1/payments/user/{userId} | Pagos por usuario. |
-  | GET | /api/v1/payments/status/{status} | Pagos filtrados por estado. |
-  | GET | /api/v1/payments/cart/{cartId} | Pagos asociados a un carrito. |
+  | GET | /api/v1/payments/user/{userId} | Obtiene todos los pagos por ID de usuario. |
+  | GET | /api/v1/payments/status/{status} | Obtiene todos los pagos por estado. |
+  | GET | /api/v1/payments/cart/{cartId} | Obtiene pagos por ID de carrito. |
   | GET | /api/v1/payments/cart/{cartId}/exists | Verifica si existe pago para un carrito. |
-  | **GET** | **/api/v1/campaigns** | **Obtiene todas las campañas registradas.** |
-  | **POST** | **/api/v1/campaigns** | **Crea una nueva campaña publicitaria.** |
-  | **GET** | **/api/v1/campaigns/{id}** | **Obtiene una campaña específica por su ID.** |
-  | **DELETE** | **/api/v1/campaigns/{id}** | **Elimina una campaña por ID.** |
-  | **PATCH** | **/api/v1/campaigns/{id}** | **Actualiza una campaña existente.** |
-  | **GET** | **/api/v1/campaigns/user/{userId}/campaigns** | **Obtiene todas las campañas de un usuario proveedor.** |
+  | GET | /api/v1/favorites | Obtiene favoritos por usuario o verifica si existe favorito. |
+  | POST | /api/v1/favorites | Crea un nuevo favorito. |
+  | DELETE | /api/v1/favorites | Elimina favorito por usuario y oferta. |
+  | DELETE | /api/v1/favorites/{id} | Elimina favorito por ID. |
+  | GET | /api/v1/users/{userId}/owner-details | Obtiene detalles del propietario por ID de usuario. |
+  | PUT | /api/v1/users/{userId}/owner-details | Actualiza detalles del propietario. |
+  | POST | /api/v1/users/{userId}/owner-details | Crea detalles del propietario. |
+  | GET | /api/v1/subscriptions/{id} | Obtiene un plan de suscripción por ID. |
+  | PUT | /api/v1/subscriptions/{id} | Actualiza un plan de suscripción. |
+  | DELETE | /api/v1/subscriptions/{id} | Elimina un plan de suscripción. |
+  | GET | /api/v1/subscriptions | Lista todos los planes de suscripción. |
+  | POST | /api/v1/subscriptions | Crea un nuevo plan de suscripción. |
+  | GET | /api/v1/subscriptions/type/{type} | Obtiene planes de suscripción por tipo. |
+  | GET | /api/v1/offers/{id} | Obtiene una oferta por ID. |
+  | PUT | /api/v1/offers/{id} | Actualiza una oferta. |
+  | DELETE | /api/v1/offers/{id} | Elimina una oferta. |
+  | GET | /api/v1/offers | Obtiene todas las ofertas por IDs. |
+  | POST | /api/v1/offers | Crea una nueva oferta. |
+  | GET | /api/v1/offers/campaign/{id} | Obtiene ofertas de una campaña. |
+  | GET | /api/v1/coupons/{id} | Obtiene un cupón por ID. |
+  | PUT | /api/v1/coupons/{id} | Actualiza un cupón. |
+  | DELETE | /api/v1/coupons/{id} | Elimina un cupón. |
+  | GET | /api/v1/coupons | Obtiene todos los cupones con filtros y relaciones opcionales. |
+  | POST | /api/v1/coupons | Crea un cupón. |
+  | POST | /api/v1/coupons/bulk | Crea cupones en lote (operación bulk). |
+  | POST | /api/v1/coupons/bulk-wrapped | Crea cupones en lote (endpoint alternativo). |
+  | GET | /api/v1/coupons/user/{userId} | Obtiene cupones por usuario con relaciones opcionales. |
+  | GET | /api/v1/coupons/user/{userId}/valid | Obtiene cupones válidos del usuario por ID. |
+  | GET | /api/v1/coupons/payment/{paymentId} | Obtiene cupones por ID de pago. |
+  | GET | /api/v1/coupons/expired | Obtiene cupones expirados. |
+  | GET | /api/v1/coupons/code/{code} | Obtiene cupón por código de redención. |
+  | GET | /api/v1/users/{userId}/consumer-details | Obtiene detalles del consumidor por ID de usuario. |
+  | PUT | /api/v1/users/{userId}/consumer-details | Actualiza detalles del consumidor. |
+  | POST | /api/v1/users/{userId}/consumer-details | Crea detalles del consumidor. |
+  | PUT | /api/v1/sales/order-history/{orderHistoryId}/coupon-counts | Actualiza contador de cupones en historial de pedidos. |
+  | GET | /api/v1/sales/order-history/{orderHistoryId} | Obtiene historial de pedidos por ID. |
+  | GET | /api/v1/sales/order-history/supplier/{supplierId} | Obtiene historial de pedidos por proveedor. |
+  | GET | /api/v1/sales/order-history/supplier/{supplierId}/pending-coupons | Obtiene cupones pendientes del proveedor. |
+  | GET | /api/v1/sales/order-history/payment/{paymentId} | Obtiene historial de pedidos por pago. |
+  | GET | /api/v1/sales/order-history/customer/{userId} | Obtiene historial de pedidos por cliente. |
+  | GET | /api/v1/users/{id} | Obtiene información del usuario por ID. |
+  | PUT | /api/v1/users/{id} | Actualiza información del usuario. |
+  | GET | /api/v1/users/me | Obtiene al usuario actualmente autenticado. |
+  | PUT | /api/v1/notifications/{id}/mark-as-read | Marca una notificación como leída. |
+  | PUT | /api/v1/notifications/user/{userId}/mark-all-as-read | Marca todas las notificaciones como leídas para un usuario. |
+  | POST | /api/v1/notifications | Crea una nueva notificación. |
+  | GET | /api/v1/notifications/user/{userId} | Obtiene todas las notificaciones de un usuario. |
+  | GET | /api/v1/notifications/user/{userId}/unread-count | Obtiene la cantidad de notificaciones no leídas. |
+  | DELETE | /api/v1/notifications/{id} | Elimina una notificación. |
+  | GET | /api/v1/carts/{id} | Obtiene un carrito por ID. |
+  | PUT | /api/v1/carts/{id} | Actualiza el carrito por ID. |
+  | DELETE | /api/v1/carts/{id} | Elimina el carrito. |
+  | PUT | /api/v1/carts/user/{userId}/items/{offerId} | Actualiza la cantidad de un ítem en el carrito. |
+  | GET | /api/v1/carts | Obtiene todos los carritos. |
+  | POST | /api/v1/carts | Crea un nuevo carrito. |
+  | POST | /api/v1/carts/user/{userId}/items | Agrega un ítem al carrito del usuario. |
+  | GET | /api/v1/carts/user/{userId} | Obtiene el carrito de un usuario. |
+  | DELETE | /api/v1/carts/user/{userId} | Limpia el carrito del usuario. |
 
   *Nota.* Elaboración propia.
-
-  **Descripción de Módulos**
-
-  **10. Campañas Publicitarias (Campaigns)** *(Nuevo en Sprint 4)*
-  * Operaciones CRUD soportadas:  
-    - **GET:** Obtener todas las campañas registradas en el sistema.
-    - **POST:** Crear una nueva campaña publicitaria con todos sus parámetros (título, descripción, fechas, presupuesto, ubicación, etc.).
-    - **GET:** Obtener los detalles completos de una campaña específica mediante su ID.
-    - **DELETE:** Eliminar una campaña del sistema mediante su ID.
-    - **PATCH:** Actualizar parcialmente los datos de una campaña existente (estado, presupuesto, fechas, etc.).
-    - **GET:** Obtener todas las campañas asociadas a un usuario proveedor específico mediante su userId.
-  * Descripción:  
-    - Este módulo permite a los proveedores gestionar completamente sus campañas publicitarias dentro de GeoPS. Los usuarios con rol de proveedor pueden crear campañas para promocionar sus productos o servicios, editarlas según las necesidades del negocio, pausarlas temporalmente o eliminarlas cuando finaliza su vigencia. Además, pueden visualizar todas sus campañas activas, pausadas o finalizadas, facilitando el seguimiento y control de sus estrategias de marketing. El endpoint de obtención por usuario es fundamental para que cada proveedor tenga una vista personalizada únicamente de sus propias campañas, respetando la privacidad y seguridad de los datos empresariales.
 
   **Capturas de Endpoints en Swagger UI**
 
-  **1. Autenticación y Usuarios (Authentication & Users)**
+  **1. Reviews y Campaigns**
 
   **Figura 213**   
-  *Endpoints de Authentication y Users — Swagger UI (Parte 1)*
+  *Endpoints de Reviews y Campaigns — Swagger UI*
 
   <div align="center">
-    <img src="resources/imgs/ss_authentication.png" alt="Endpoints Authentication - Swagger UI GeoPS" width="900">
-  </div>
-  <div align="center">
-    <img src="resources/imgs/ss_users.png" alt="Endpoints Authentication - Swagger UI GeoPS" width="900">
+    <img src="resources/imgs/ss_reviews_campaigns.jpg" alt="Endpoints Reviews y Campaigns - Swagger UI GeoPS" width="900">
   </div>
 
   *Nota.* Elaboración propia.
 
-  **2. Favoritos y Reseñas (Favorites & Reviews)**  
+  **2. Payments y Authentication**
 
   **Figura 214**   
-  *Endpoints de Favorites y Reviews — Swagger UI (Parte 2)*
+  *Endpoints de Payments y Authentication — Swagger UI*
 
   <div align="center">
-    <img src="resources/imgs/ss_favorites.png" alt="Endpoints Favorites - Swagger UI GeoPS" width="900">
+    <img src="resources/imgs/ss_payments_authentication.jpg" alt="Endpoints Payments y Authentication - Swagger UI GeoPS" width="900">
   </div>
-  <div align="center">
-    <img src="resources/imgs/ss_reviews.png" alt="Endpoints Reviews - Swagger UI GeoPS" width="900">
-  </div>
-
 
   *Nota.* Elaboración propia.
 
-  **3. Carrito y Suscripciones (Carts & Subscriptions)**
+  **3. Favorites, Owner Details y Subscriptions**
 
   **Figura 215**   
-  *Endpoints de Carts y Subscriptions — Swagger UI (Parte 3)*
+  *Endpoints de Favorites, Owner Details y Subscriptions — Swagger UI*
 
   <div align="center">
-    <img src="resources/imgs/ss_cart.png" alt="Endpoints Carts - Swagger UI GeoPS" width="900">
-  </div>
-  <div align="center">
-    <img src="resources/imgs/ss_subscriptions.png" alt="Endpoints Subscriptions - Swagger UI GeoPS" width="900">
+    <img src="resources/imgs/ss_favorites_ownerdetails_subscriptions.jpg" alt="Endpoints Favorites, Owner Details y Subscriptions - Swagger UI GeoPS" width="900">
   </div>
 
   *Nota.* Elaboración propia.
 
-  **4. Ofertas y Cupones (Offers & Coupons)**
+  **4. Offers y Coupons**
 
   **Figura 216**   
-  *Endpoints de Offers y Coupons — Swagger UI (Parte 4)*
+  *Endpoints de Offers y Coupons — Swagger UI*
 
   <div align="center">
-    <img src="resources/imgs/ss_offers.png" alt="Endpoints Offers - Swagger UI GeoPS" width="900">
-  </div>
-  <div align="center">
-    <img src="resources/imgs/ss_coupons.png" alt="Endpoints Coupons - Swagger UI GeoPS" width="900">
+    <img src="resources/imgs/ss_offers_coupons.jpg" alt="Endpoints Offers y Coupons - Swagger UI GeoPS" width="900">
   </div>
 
   *Nota.* Elaboración propia.
 
-  **5. Pagos y Campañas (Payments & Campaigns)**
+  **5. Consumer Details y Sales**
 
   **Figura 217**   
-  *Endpoints de Payments y Campaigns — Swagger UI (Parte 5)*
+  *Endpoints de Consumer Details y Sales — Swagger UI*
 
   <div align="center">
-    <img src="resources/imgs/ss_payments.png" alt="Endpoints Payments - Swagger UI GeoPS" width="900">
-  </div>
-  <div align="center">
-    <img src="resources/imgs/ss_campaigns.png" alt="Endpoints Campaigns - Swagger UI GeoPS" width="900">
+    <img src="resources/imgs/ss_consumer_details_sales.jpg" alt="Endpoints Consumer Details y Sales - Swagger UI GeoPS" width="900">
   </div>
 
   *Nota.* Elaboración propia.
 
-  **6. Campañas Publicitarias (Campaigns)** *(Nuevo en Sprint 4)*
+  **6. Users y Notifications**
 
   **Figura 218**   
-  *Endpoints de Campaigns — Swagger UI (Parte 6)*
+  *Endpoints de Users y Notifications — Swagger UI*
 
   <div align="center">
-    <img src="resources/imgs/ss_campaigns.png" alt="Endpoints Campaigns - Swagger UI GeoPS" width="900">
+    <img src="resources/imgs/ss_users_notifications.jpg" alt="Endpoints Users y Notifications - Swagger UI GeoPS" width="900">
   </div>
 
   *Nota.* Elaboración propia.
 
-  **Schemas de la API**
+  **7. Carts**
 
   **Figura 219**   
-  *Schemas de la API GeoPS — Parte 1*
+  *Endpoints de Carts — Swagger UI*
 
   <div align="center">
-    <img src="resources/imgs/ss_schemas1.png" alt="Schemas API GeoPS Parte 1" width="900">
+    <img src="resources/imgs/ss_carts.jpg" alt="Endpoints Carts - Swagger UI GeoPS" width="900">
   </div>
 
   *Nota.* Elaboración propia.
@@ -7908,10 +7898,30 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
   **Schemas de la API**
 
   **Figura 220**   
+  *Schemas de la API GeoPS — Parte 1*
+
+  <div align="center">
+    <img src="resources/imgs/ss_schemas1.jpg" alt="Schemas API GeoPS Parte 1" width="900">
+  </div>
+
+  *Nota.* Elaboración propia.
+
+  **Schemas de la API**
+
+  **Figura 221**   
   *Schemas de la API GeoPS — Parte 2*
 
   <div align="center">
-    <img src="resources/imgs/ss_schemas2.png" alt="Schemas API GeoPS Parte 2" width="900">
+    <img src="resources/imgs/ss_schemas2.jpg" alt="Schemas API GeoPS Parte 2" width="900">
+  </div>
+
+  *Nota.* Elaboración propia.
+
+  **Figura 222**   
+  *Schemas de la API GeoPS — Parte 3*
+
+  <div align="center">
+    <img src="resources/imgs/ss_schemas3.jpg" alt="Schemas API GeoPS Parte 2" width="900">
   </div>
 
   *Nota.* Elaboración propia.
@@ -7968,7 +7978,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
   |--------------|--------------------------|
   | **Total de commits** | 24 commits en todas las ramas |
   | **Commits en branch `main`** | 24 commits a main y 64 commits en todas las ramas |
-  | **Número de autores** | 6 desarrolladores activos |
+  | **Número de autores** | 5 desarrolladores activos |
   | **Archivos modificados** | 147 archivos modificados |
   | **Líneas agregadas** | 10,181 líneas nuevas |
   | **Líneas eliminadas** | 3 líneas eliminadas |
@@ -7988,7 +7998,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
   |--------------|--------------------------|
   | **Total de commits** | 22 commits en todas las ramas |
   | **Commits en branch `master`** | 22 commits a master y 94 commits en todas las ramas |
-  | **Número de autores** | 6 desarrolladores activos |
+  | **Número de autores** | 5 desarrolladores activos |
   | **Archivos modificados** | 35 archivos modificados |
   | **Líneas agregadas** | 828 líneas nuevas |
   | **Líneas eliminadas** | 255 líneas eliminadas |
@@ -8011,7 +8021,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   En este sprint, el equipo demostró un alto nivel de madurez en el trabajo colaborativo tanto en frontend como backend, gestionando eficientemente ramas, revisiones y despliegues. Esta coordinación permitió completar el MVP de GeoPS con todas las funcionalidades core implementadas y validadas por usuarios finales.
 
-  **Figura 221**   
+  **Figura 223**   
   *Actividad y colaboración del equipo durante el Sprint 4 — Frontend (Parte 1)*
 
   <div align="center">
@@ -8020,7 +8030,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   *Nota.* Elaboración propia.
 
-  **Figura 222**   
+  **Figura 224**   
   *Contribuciones y flujo de commits en ramas del Sprint 4 — Frontend (Parte 2)*
 
   <div align="center">
@@ -8029,7 +8039,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   *Nota.* Elaboración propia.
 
-  **Figura 223**   
+  **Figura 225**   
   *Actividad y colaboración del equipo durante el Sprint 4 — Backend (Parte 1)*
 
   <div align="center">
@@ -8038,7 +8048,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   *Nota.* Elaboración propia.
 
-  **Figura 224**   
+  **Figura 226**   
   *Contribuciones y flujo de commits en ramas del Sprint 4 — Backend (Parte 2)*
 
   <div align="center">
@@ -8169,15 +8179,24 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
   
   #### 5.3.2. Registro de Entrevistas
   
-  **Segmento 2: Consumidores de ofertas de diferentes ámbitos**
+  **Segmento 1: Dueños de negocios locales**
   
   **Tabla 40**   
+  *Registro de Entrevistas de Validación — Segmento 1*
+  
+  | Número de Registro | Datos del Entrevistado | Captura |
+  | :---: | :--- | :---: |
+  | **1** | **Nombre:** Elián Quispe <br> **Edad:** 25 años <br> **Distrito:** San Martín de Porres <br> **Duración de la entrevista:** 10:16 <br> **Enlace:** https://tinyurl.com/val-seg-1-eli-geops <br><br> **Resumen:** Elián Quispe (25 años, San Martín de Porres) es dueño de un negocio local que usualmente busca ofertas de alimentos y está familiarizado con plataformas digitales como Yape. Al evaluar la landing page de **GeoPS**, le pareció que tiene facilidad de uso y es muy intuitiva. Pudo comprender la propuesta de valor y la considera bastante clara y concisa. La asociación con marcas conocidas le genera confianza. Sobre la usabilidad de la plataforma, el proceso de registrarse o iniciar sesión le pareció bastante sencillo. La función de buscar ofertas cercanas a su ubicación actual le parece bastante útil para evitar trasladarse a otros distritos. También consideró útil y fácil de usar los filtros por categoría (como gastronomía). No dudó en la navegación, ya que el proceso de compra y agregación está "bastante detallada". Le pareció bueno que la ficha de la oferta muestre la ubicación y permita dejar comentarios o reviews, lo que le da seguridad. La función de guardar la oferta para realizar la compra más tarde le pareció práctica. En comparación con apps que usa (como Yape), Elián cree que **GeoPS es mejor porque permite que el usuario pueda opinar/dejar reviews** acerca de lo que consume, lo cual es una buena forma de saber si la oferta es de buena calidad. Para que GeoPS se convierta en una herramienta de su rutina diaria, sugiere **agregar más ofertas de distintos lugares y más marcas** para aumentar la variedad y llamar más la atención. | **Figura 227**<br>*Entrevista de Validación 1 — Segmento 1*<br><img src="resources/images/chapter-5/EntrevistaValidacionSegmento1_1.png" alt="Entrevista-validacion-seg1-1" width="600"><br>*Nota.* Elaboración propia.   |
+  
+  **Segmento 2: Consumidores de ofertas locales**
+  
+  **Tabla 41**   
   *Registro de Entrevistas de Validación — Segmento 2*
   
   | Número de Registro | Datos del Entrevistado | Captura |
   | :---: | :--- | :---: |
-  | **1** | **Nombre:** Ángel José <br> **Edad:** 22 años <br> **Distrito:** Cercado de Lima <br> **Duración de la entrevista:** <br> **Enlace:** https://tinyurl.com/val-seg-2-ang-geops **Resumen:** Ángel Pariona (22 años, Lima) es un buscador frecuente de ofertas y usuario activo de plataformas digitales como Yape. Al evaluar **Geops**, encontró que la Landing Page es muy intuitiva y la propuesta de valor es atractiva. Le da una alta credibilidad (7-8/10) a la plataforma. Las funcionalidades principales fueron bien recibidas: el registro es muy fácil, la función de geolocalización para ofertas cercanas es muy conveniente, y los filtros son intuitivos. Considera que **Geops es mejor** que las apps que usa actualmente (como Yape) debido a su **mejor distribución y ordenamiento de ofertas**, y la capacidad de guardarlas en favoritos. Para aumentar la credibilidad de las ofertas, sugiere añadir **recomendaciones o *reviews*** de otros usuarios. Su única sugerencia de mejora es modificar el **tamaño de la letra** para la vista móvil. | **Figura 225**<br>*Entrevista de Validación 1 — Segmento 2*<br><img src="resources/images/chapter-5/EntrevistaValidacionSegmento2_1.png" alt="Entrevista-validacion1" width="600"><br>*Nota.* Elaboración propia.   |
-  | **2** | **Nombre:** Andrés Torres <br> **Edad:** 19 años <br> **Distrito:** San Miguel <br> **Duración de la entrevista:** <br> **Enlace:** https://tinyurl.com/val-seg-2-andr-geops **Resumen:** El entrevistado, Andrés Torres (19 años), valoró la plataforma **GeoPs** como bastante **moderna, organizada y que transmite confianza**, destacando positivamente la asociación con marcas conocidas que refuerza la credibilidad del proyecto. En cuanto a la usabilidad de la plataforma web, calificó el registro como rápido y sencillo y encontró la función de buscar ofertas por ubicación y categorías como **muy útil para ahorrar tiempo en el traslado**. Además, señaló que, en comparación con otras apps que usa (como Yape), **Geops es más rápido y tiene filtros más cómodos**. Para convertirla en una herramienta de uso diario, su principal sugerencia de mejora fue desarrollar una **aplicación para dispositivos móviles**. | **Figura 226**<br>*Entrevista de Validación 2 — Segmento 2*<br><img src="resources/images/chapter-5/EntrevistaValidacionSegmento2_2.png" alt="Entrevista-validacion2" width="600"><br>*Nota.* Elaboración propia.   |
+  | **1** | **Nombre:** Ángel José <br> **Edad:** 22 años <br> **Distrito:** Cercado de Lima <br> **Duración de la entrevista:** [Pendiente] <br> **Enlace:** https://tinyurl.com/val-seg-2-ang-geops <br><br> **Resumen:** Ángel Pariona (22 años, Lima) es un buscador frecuente de ofertas y usuario activo de plataformas digitales como Yape. Al evaluar **Geops**, encontró que la Landing Page es muy intuitiva y la propuesta de valor es atractiva. Le da una alta credibilidad (7-8/10) a la plataforma. Las funcionalidades principales fueron bien recibidas: el registro es muy fácil, la función de geolocalización para ofertas cercanas es muy conveniente, y los filtros son intuitivos. Considera que **Geops es mejor** que las apps que usa actualmente (como Yape) debido a su **mejor distribución y ordenamiento de ofertas**, y la capacidad de guardarlas en favoritos. Para aumentar la credibilidad de las ofertas, sugiere añadir **recomendaciones o *reviews*** de otros usuarios. Su única sugerencia de mejora es modificar el **tamaño de la letra** para la vista móvil. | **Figura 228**<br>*Entrevista de Validación 1 — Segmento 2*<br><img src="resources/images/chapter-5/EntrevistaValidacionSegmento2_1.png" alt="Entrevista-validacion1" width="600"><br>*Nota.* Elaboración propia.   |
+  | **2** | **Nombre:** Andrés Torres <br> **Edad:** 19 años <br> **Distrito:** San Miguel <br> **Duración de la entrevista:** [Pendiente] <br> **Enlace:** https://tinyurl.com/val-seg-2-andr-geops <br><br> **Resumen:** El entrevistado, Andrés Torres (19 años), valoró la plataforma **GeoPs** como bastante **moderna, organizada y que transmite confianza**, destacando positivamente la asociación con marcas conocidas que refuerza la credibilidad del proyecto. En cuanto a la usabilidad de la plataforma web, calificó el registro como rápido y sencillo y encontró la función de buscar ofertas por ubicación y categorías como **muy útil para ahorrar tiempo en el traslado**. Además, señaló que, en comparación con otras apps que usa (como Yape), **Geops es más rápido y tiene filtros más cómodos**. Para convertirla en una herramienta de uso diario, su principal sugerencia de mejora fue desarrollar una **aplicación para dispositivos m��viles**. | **Figura 229**<br>*Entrevista de Validación 2 — Segmento 2*<br><img src="resources/images/chapter-5/EntrevistaValidacionSegmento2_2.png" alt="Entrevista-validacion2" width="600"><br>*Nota.* Elaboración propia.   |
   
   #### 5.3.3 Evaluaciones Según Heurísticas
 
@@ -8242,7 +8261,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 
-  **Tabla 41**   
+  **Tabla 42**   
   *Escala de Severidad para Evaluación Heurística*
 
   | Nivel | Descripción |
@@ -8256,7 +8275,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   **Tabla de resumen**
 
-  **Tabla 42**   
+  **Tabla 43**   
   *Resumen de Problemas Identificados — Evaluación Heurística*
 
   | # | Problema | Escala de severidad | Heurística/Principio violada(o) |
@@ -8280,7 +8299,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
   ***Problema:***   
   El buscador general ubicado en la barra superior no funciona al intentar buscar ofertas o lugares específicos, ya que no devuelve resultados ni realiza ningún tipo de acción visible. 
 
-  **Figura 227**  
+  **Figura 230**  
   *Buscador general sin funcionalidad visible al intentar realizar una búsqueda*
 
   <figure style="text-align: center;">
@@ -8300,7 +8319,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   ***Problema:*** Durante la visualización del menú desplegable del usuario, las opciones My Profile, Settings y Logout presentan un diseño con muy bajo contraste respecto al fondo.
 
-  **Figura 228**  
+  **Figura 231**  
   *Menú desplegable del usuario con bajo contraste en sus opciones*
 
   <figure style="text-align: center;">
@@ -8322,7 +8341,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
   Durante la visualización del mapa en la sección Home, se muestran establecimientos que ya no existen o que han cambiado de ubicación, lo cual provoca inconsistencias entre la información real y la información presentada por la aplicación.  
   Esto puede generar confusión en el usuario, ya que la herramienta muestra puntos de interés que no están activos, afectando la credibilidad de la interfaz y la precisión del sistema al momento de explorar ofertas cercanas.
 
-  **Figura 229**  
+  **Figura 232**  
   *Mapa mostrando establecimientos desactualizados o inexistentes dentro de la interfaz*
 
   <figure style="text-align: center;">
@@ -8344,7 +8363,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
   Los filtros de categorías y opciones avanzadas (como radio, búsqueda, tipo de local, etc.) presentan una visibilidad limitada: se muestran como pequeños botones con poco contraste y sin indicaciones adicionales.  
   Además, no existe un menú agrupado o desplegable que ayude al usuario a ver todas las opciones disponibles de forma clara y organizada, lo que dificulta encontrar filtros específicos o modificar múltiples criterios de búsqueda rápidamente.
 
-  **Figura 230**  
+  **Figura 233**  
   *Filtros de categorías y opciones avanzadas con baja visibilidad y sin menú agrupado*
 
   <figure style="text-align: center;">
@@ -8354,7 +8373,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
   *Nota.* Elaboración propia.  
 
   ***Recomendación:***  
-  Implementar un menú de filtros expandible (por ejemplo: “Más filtros”) donde se agrupen opciones avanzadas como: radio, tipo de negocio, promociones, distancia, precio, etc. 
+  Implementar un menú de filtros expandible (por ejemplo: "Más filtros") donde se agrupen opciones avanzadas como: radio, tipo de negocio, promociones, distancia, precio, etc. 
 
   **PROBLEMA \#5:**
 
@@ -8365,8 +8384,8 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
   ***Problema:*** 
   En las tarjetas de oferta, los botones Buy y Add no muestran un cambio visual claro al ser presionados. La falta de retroalimentación inmediata (como cambio de color, animación, transición o badge de confirmación) provoca que el usuario no se percate de si la acción fue registrada correctamente
 
-  **Figura 231**   
-  *Botones “Buy” y “Add” sin retroalimentación visual inmediata al ser presionados.*
+  **Figura 234**   
+  *Botones "Buy" y "Add" sin retroalimentación visual inmediata al ser presionados.*
 
   <figure style="text-align: center;">
     <img src="resources/images/heuristica_problema5.jpg" alt="Evaluación Heurística - Problema 5" width="700">
@@ -8386,7 +8405,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
   ***Problema:***   
   En la barra superior de navegación (top tabs), las opciones como *Inicio, Ofertas, Categorías, Favoritos, Mis cupones* presentan un estilo con un borde inferior muy sutil, casi imperceptible. Esto hace que resulte difícil distinguir cuál sección está activa y cuáles no, afectando la claridad del estado actual del sistema.
 
-  **Figura 232**  
+  **Figura 235**  
   *Top tabs con borde inferior muy sutil, dificultando identificar la sección activa*
 
   <figure style="text-align: center;">
@@ -8405,10 +8424,10 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
   ***Heurística violada:*** Claridad
 
   ***Problema:***   
-  En la sección My Coupons, la fecha se muestra únicamente como un número aislado (por ejemplo: “17/11/2025”) sin indicar explícitamente que corresponde a la fecha de expiración del cupón.  
+  En la sección My Coupons, la fecha se muestra únicamente como un número aislado (por ejemplo: "17/11/2025") sin indicar explícitamente que corresponde a la fecha de expiración del cupón.  
   Esto puede generar confusión, especialmente para usuarios nuevos o para quienes poseen múltiples cupones con diferentes vigencias.
 
-  **Figura 233**  
+  **Figura 236**  
   *Fecha del cupón mostrada sin etiqueta explícita, generando ambüedad sobre su significado*
 
   <figure style="text-align: center;">
@@ -8418,7 +8437,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
   *Nota.* Elaboración propia.
 
   ***Recomendación:***
-  Mostrar la información de forma explícita, por ejemplo: “Fecha de expiración: 17/11/2025”
+  Mostrar la información de forma explícita, por ejemplo: "Fecha de expiración: 17/11/2025"
 
 ### 5.4 Video About-the-Product
 
@@ -8528,7 +8547,9 @@ World Bank. (2019). *World Development Report 2019: The Changing Nature of Work*
 
 **Videos Entrevistas y Validaciones**
 
-- Enlace Validación Entrevista - Segmento 2 - Andrés Torres: https://tinyurl.com/val-seg-2-andr-geops
+- Enlace Validación Entrevista - Segmento #1 - Elian Quispe: https://tinyurl.com/val-seg-1-eli-geops
 
-- Enlace Validación Entrevista - Segmento 2 - Ángel Pariona: https://tinyurl.com/val-seg-2-ang-geops
+- Enlace Validación Entrevista - Segmento #2 - Andrés Torres: https://tinyurl.com/val-seg-2-andr-geops
+
+- Enlace Validación Entrevista - Segmento #2 - Ángel Pariona: https://tinyurl.com/val-seg-2-ang-geops
 

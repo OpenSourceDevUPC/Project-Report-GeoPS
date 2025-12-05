@@ -801,7 +801,7 @@ Con un **diseño responsive** que se adapta a cualquier dispositivo, **GeoPS Lab
 
   **Segmento 2: Consumidores de ofertas de diferentes ámbitos**
 
-  **Figura 10:**<br>
+  **Figura 10**<br>
   *User Persona — Segmento 2*
 
   <div align="center">
@@ -863,7 +863,7 @@ Con un **diseño responsive** que se adapta a cualquier dispositivo, **GeoPS Lab
 
   **Segmento 2: Consumidores de ofertas de diferentes ámbitos**
 
-  **Figura 12:**<br>
+  **Figura 12**<br>
   *User Journey Mapping — Segmento 2*
 
   <div align="center">
@@ -876,7 +876,7 @@ Con un **diseño responsive** que se adapta a cualquier dispositivo, **GeoPS Lab
 
   **Segmento 1: Dueños de negocios de diferentes rubros**
 
-  **Figura 13:**<br>
+  **Figura 13**<br>
   *Empathy Mapping — Segmento 1*
 
   <div align="center">
@@ -887,7 +887,7 @@ Con un **diseño responsive** que se adapta a cualquier dispositivo, **GeoPS Lab
 
   **Segmento 2: Consumidores de ofertas de diferentes ámbitos**
 
-  **Figura 14:**<br>
+  **Figura 14**<br>
   *Empathy Mapping — Segmento 2*
 
   <div align="center">
@@ -898,7 +898,7 @@ Con un **diseño responsive** que se adapta a cualquier dispositivo, **GeoPS Lab
 
 ### 2.4. Big Picture Event Storming
 
-**Figura 15**<br>
+**Figura 13**<br>
 *Big Picture Event Storming — GeoPS*
 
 <div align="center">
@@ -1022,7 +1022,7 @@ Están orientadas al equipo de desarrollo y especifican aspectos relacionados co
 
 El Impact Mapping es una técnica de planificación estratégica que conecta los objetivos del negocio con los entregables del producto. Ayuda a visualizar cómo las funcionalidades contribuyen a alcanzar los resultados esperados, identificando actores, impactos deseados y soluciones clave.
 
-**Figura 16**<br>
+**Figura 14**<br>
 *Impact Mapping — GeoPS*
 
 <div align="center">
@@ -1040,7 +1040,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
 **Vista del Product Backlog en Trello**
 
-**Figura 17**<br>
+**Figura 15**<br>
 *Product Backlog — GeoPS*
 
 <div align="center">
@@ -1117,7 +1117,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
   - El tagline es “Promociones cerca de ti”, reflejando el servicio principal de promocionar ofertas de diversas tiendas cerca de tu ubicación.
   - El logo tiene un diseño sencillo, lo que lo hace minimalista y fácil de recordar. Además, el uso del color morado demuestra creatividad e innovación.
 
-  **Figura 18**<br>
+  **Figura 16**<br>
   *Logo — GeoPS*
 
   <div align="center">
@@ -1146,7 +1146,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   Utilizaremos la siguiente paleta de colores:
 
-  **Figura 19**<br>
+  **Figura 17**<br>
   *Paleta de Colores — GeoPS*
 
   <div align="center">
@@ -1215,7 +1215,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   **Diseño de la Landing Page**:
 
-  **Figura 20**<br>
+  **Figura 18**<br>
   *Landing Page — GeoPS*
 
   <div align="center">
@@ -1421,7 +1421,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   **Enlace Diseño Figma:** https://tinyurl.com/diseno-figma-geops
 
-  **Figura 21**<br>
+  **Figura 19**<br>
   *Wireframe — Landing Page GeoPS*
 
   <div align="center">
@@ -1434,7 +1434,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   **Enlace Diseño Figma:** https://tinyurl.com/diseno-figma-geops
 
-  **Figura 22**<br>
+  **Figura 20**<br>
   *Mock-up — Landing Page GeoPS*
 
   <div align="center">
@@ -1453,7 +1453,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   **Inicio de sesión y registro**
 
-  **Figura 23**<br>
+  **Figura 21**<br>
   *Wireframe — Inicio de Sesión y Registro*
 
   <div align="center">
@@ -1466,7 +1466,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   **Home**
 
-  **Figura 24**<br>
+  **Figura 22**<br>
   *Wireframe — Home Consumidor*
 
   <div align="center">
@@ -1478,7 +1478,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
   
   **Ofertas**
 
-  **Figura 25**<br>
+  **Figura 23**<br>
   *Wireframe — Ofertas Consumidor*
 
   <div align="center">
@@ -1490,7 +1490,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
   
   **Categorías**
 
-  **Figura 26**<br>
+  **Figura 24**<br>
   *Wireframe — Categorías Consumidor*
 
   <div align="center">
@@ -1502,7 +1502,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   **Favoritos**
 
-  **Figura 27**<br>
+  **Figura 25**<br>
   *Wireframe — Favoritos Consumidor*
 
   <div align="center">
@@ -1514,7 +1514,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   **Mis Cupones**
 
-  **Figura 28**<br>
+  **Figura 26**<br>
   *Wireframe — Mis Cupones Consumidor*
 
   <div align="center">
@@ -1526,7 +1526,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   **Planes**
 
-  **Figura 29**<br>
+  **Figura 27**<br>
   *Wireframe — Planes Consumidor*
 
   <div align="center">
@@ -1538,7 +1538,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   **Acceso Ubicación**
 
-  **Figura 30**<br>
+  **Figura 28**<br>
   *Wireframe — Acceso a Ubicación Consumidor*
 
   <div align="center">
@@ -1550,7 +1550,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   - Ubicación Permitida
 
-    **Figura 31**<br>
+    **Figura 29**<br>
     *Wireframe — Ubicación Permitida Consumidor*
 
     <div align="center">
@@ -1562,7 +1562,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   **Secciones**
 
-  **Figura 32**<br>
+  **Figura 30**<br>
   *Wireframe — Secciones Consumidor*
 
   <div align="center">
@@ -1574,7 +1574,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   **Carrito de Compras**
 
-  **Figura 33**<br>
+  **Figura 31**<br>
   *Wireframe — Agregar Oferta al Carrito Consumidor*
 
   <div align="center">
@@ -1586,7 +1586,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   **Pago**
 
-  **Figura 34**<br>
+  **Figura 32**<br>
   *Wireframe — Pago Consumidor*
 
   <div align="center">
@@ -1598,7 +1598,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   **Ayuda**
 
-  **Figura 35**<br>
+  **Figura 33**<br>
   *Wireframe — Ayuda Consumidor*
 
   <div align="center">
@@ -1612,7 +1612,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   - Notificaciones Generales
 
-    **Figura 36**<br>
+    **Figura 34**<br>
     *Wireframe — Notificaciones Consumidor*
 
     <div align="center">
@@ -1624,7 +1624,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   - Notificaciones Leídas
 
-    **Figura 37**<br>
+    **Figura 35**<br>
     *Wireframe — Notificaciones Leídas Consumidor*
 
     <div align="center">
@@ -1636,7 +1636,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   - Sin Notificaciones
 
-    **Figura 38**<br>
+    **Figura 36**<br>
     *Wireframe — Sin Notificaciones Consumidor*
 
     <div align="center">
@@ -1648,7 +1648,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   **Perfil**
 
-  **Figura 39**<br>
+  **Figura 37**<br>
   *Wireframe — Perfil Consumidor*
 
   <div align="center">
@@ -1660,7 +1660,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   - Editar Perfil
 
-    **Figura 40**<br>
+    **Figura 38**<br>
     *Wireframe — Editar Perfil Consumidor*
 
     <div align="center">
@@ -1672,7 +1672,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   **Cerrar Sesión**
 
-  **Figura 41**<br>
+  **Figura 39**<br>
   *Wireframe — Cerrar Sesión Consumidor*
 
   <div align="center">
@@ -1685,7 +1685,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   **Resumen**
 
-  **Figura 42**<br>
+  **Figura 40**<br>
   *Wireframe — Resumen Proveedor*
 
   <div align="center">
@@ -1697,7 +1697,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   **Campañas**
 
-  **Figura 43**<br>
+  **Figura 41**<br>
   *Wireframe — Campañas Proveedor*
 
   <div align="center">
@@ -1709,7 +1709,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   **Crear**
 
-  **Figura 44**<br>
+  **Figura 42**<br>
   *Wireframe — Crear Campaña Proveedor*
 
   <div align="center">
@@ -1721,7 +1721,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   - Crear campaña
 
-    **Figura 45**<br>
+    **Figura 43**<br>
     *Wireframe — Formulario Crear Campaña Proveedor*
 
     <div align="center">
@@ -1733,7 +1733,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   - Campaña creada
 
-    **Figura 46**<br>
+    **Figura 44**<br>
     *Wireframe — Campaña Creada Proveedor*
 
     <div align="center">
@@ -1745,7 +1745,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   **Reportes**
 
-  **Figura 47**<br>
+  **Figura 45**<br>
   *Wireframe — Reportes Proveedor*
 
   <div align="center">
@@ -1757,7 +1757,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   **Comentarios**
 
-  **Figura 48**<br>
+  **Figura 46**<br>
   *Wireframe — Comentarios Proveedor*
 
   <div align="center">
@@ -1769,7 +1769,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   **Planes**
 
-  **Figura 49**<br>
+  **Figura 47**<br>
   *Wireframe — Planes Proveedor*
 
   <div align="center">
@@ -1781,7 +1781,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   **Ayuda**
 
-  **Figura 50**<br>
+  **Figura 48**<br>
   *Wireframe — Ayuda Proveedor*
 
   <div align="center">
@@ -1795,7 +1795,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   - Notificaciones Generales
 
-    **Figura 51**<br>
+    **Figura 49**<br>
     *Wireframe — Notificaciones Proveedor*
 
     <div align="center">
@@ -1807,7 +1807,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   - Notificaciones Leídas
 
-    **Figura 52**<br>
+    **Figura 50**<br>
     *Wireframe — Notificaciones Leídas Proveedor*
 
     <div align="center">
@@ -1819,7 +1819,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   - Sin Notificaciones
 
-    **Figura 53**<br>
+    **Figura 51**<br>
     *Wireframe — Sin Notificaciones Proveedor*
 
     <div align="center">
@@ -1831,7 +1831,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   **Perfil**
 
-  **Figura 54**<br>
+  **Figura 52**<br>
   *Wireframe — Perfil Proveedor*
 
   <div align="center">
@@ -1843,7 +1843,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   - Editar perfil
 
-    **Figura 55**<br>
+    **Figura 53**<br>
     *Wireframe — Editar Perfil Proveedor*
 
     <div align="center">
@@ -1855,7 +1855,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   **Cerrar Sesión**
 
-  **Figura 56**<br>
+  **Figura 54**<br>
   *Wireframe — Cerrar Sesión Proveedor*
 
   <div align="center">
@@ -1876,7 +1876,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
     El usuario accede a la aplicación desde la vista de login, elige su rol (cliente o proveedor) e ingresa sus credenciales. Si los datos son correctos, el sistema valida la información y redirige al dashboard correspondiente. En caso contrario, se muestra un mensaje de error para reintentar.
 
-    **Figura 57**<br>
+    **Figura 55**<br>
     *User Goal — Iniciar Sesión*
 
     <div align="center">
@@ -1893,7 +1893,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
     El consumidor ingresa a la sección de planes desde el home. Allí puede ver las opciones de suscripción disponibles. Cada plan muestra sus características principales y beneficios. El usuario evalúa y elige el que mejor se ajusta a sus necesidades.
 
-    **Figura 58**<br>
+    **Figura 56**<br>
     *User Goal — Visualizar Planes*
 
     <div align="center">
@@ -1909,7 +1909,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
     El sistema solicita al consumidor acceso a su ubicación. El usuario recibe una ventana emergente para aceptar o rechazar. Al aceptar, la aplicación muestra ofertas cercanas personalizadas. Si no lo permite, solo se muestran resultados generales.
 
-    **Figura 59**<br>
+    **Figura 57**<br>
     *User Goal — Permitir Acceso a Ubicación*
 
     <div align="center">
@@ -1925,7 +1925,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
     El consumidor desde el header accede al centro de ayuda, revisa sus notificaciones (con la opción de marcar como leídas o limpiarlas) y puede entrar a su perfil. En el perfil tiene acceso a la información registrada y ajustes personales.
 
-    **Figura 60**<br>
+    **Figura 58**<br>
     *User Goal — Acceso a Ayuda, Notificaciones y Perfil*
 
     <div align="center">
@@ -1941,7 +1941,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
     Desde el home, el consumidor selecciona alguno de los accesos rápidos (Ofertas, Categorías, Favoritos, Cupones). El sistema lo redirige a la sección correspondiente. En cada sección se muestran los elementos relacionados, organizados para facilitar la navegación.
 
-    **Figura 61**<br>
+    **Figura 59**<br>
     *User Goal — Acceso a links Principales*
 
     <div align="center">
@@ -1957,7 +1957,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
     El consumidor entra a una sección (ej. cines), selecciona una oferta y accede al detalle. Desde allí puede añadir al carrito o comprar directamente. Posteriormente continúa con el proceso de pago, confirmando el método y finalizando la transacción.
 
-    **Figura 62**<br>
+    **Figura 60**<br>
     *User Goal — Detalle de Sección y Proceso de Pago*
 
     <div align="center">
@@ -1973,7 +1973,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
     El consumidor, desde el perfil, selecciona la opción de cerrar sesión. El sistema valida la acción y cierra la cuenta activa.
 
-    **Figura 63**<br>
+    **Figura 61**<br>
     *User Goal — Cerrar Sesión*
 
     <div align="center">
@@ -1990,7 +1990,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
     El proveedor accede a la sección de planes desde la opción resumen. Allí se le muestran las opciones de suscripción que permiten ampliar beneficios en la plataforma.
 
-    **Figura 64**<br>
+    **Figura 62**<br>
     *User Goal — Visualizar Planes*
 
     <div align="center">
@@ -2006,7 +2006,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
     El proveedor accede desde el header a secciones complementarias. En Ayuda, encuentra respuestas rápidas a dudas frecuentes. En Notificaciones, revisa avisos relevantes y puede marcarlos como leídos o eliminarlos. Finalmente, en Perfil, gestiona la información de su negocio.
 
-    **Figura 65**<br>
+    **Figura 63**<br>
     *User Goal — Acceso a Ayuda, Notificaciones y Perfil*
 
     <div align="center">
@@ -2022,7 +2022,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
     El proveedor, desde la vista de resumen, puede navegar hacia los enlaces principales de la plataforma: campañas, creación de nuevas promociones, reportes y comentarios de clientes.
 
-    **Figura 66**<br>
+    **Figura 64**<br>
     *User Goal — Acceso a links Principales*
 
     <div align="center">
@@ -2038,7 +2038,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
     El proveedor, desde el perfil, selecciona cerrar sesión. El sistema valida la acción y cierra la cuenta activa.
 
-    **Figura 67**<br>
+    **Figura 65**<br>
     *User Goal — Cerrar Sesión*
 
     <div align="center">
@@ -2055,7 +2055,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   **Inicio de Sesión y Registro**
 
-  **Figura 68**<br>
+  **Figura 66**<br>
   *Mock-up — Inicio de Sesión y Registro*
 
   <div align="center">
@@ -2068,7 +2068,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   **Home**
 
-  **Figura 69**<br>
+  **Figura 67**<br>
   *Mock-up — Home*
 
   <div align="center">
@@ -2080,7 +2080,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   **Ofertas**
 
-  **Figura 70**<br>
+  **Figura 68**<br>
   *Mock-up — Ofertas*
 
   <div align="center">
@@ -2092,7 +2092,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   **Categorias**
 
-  **Figura 71**<br>
+  **Figura 69**<br>
   *Mock-up — Categorías*
 
   <div align="center">
@@ -2104,7 +2104,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   **Favoritos**
 
-  **Figura 72**<br>
+  **Figura 70**<br>
   *Mock-up — Favoritos*
 
   <div align="center">
@@ -2116,7 +2116,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   **Cupones**
 
-  **Figura 73**<br>
+  **Figura 71**<br>
   *Mock-up — Cupones*
 
   <div align="center">
@@ -2128,7 +2128,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   **Planes**
 
-  **Figura 74**<br>
+  **Figura 72**<br>
   *Mock-up — Planes*
 
   <div align="center">
@@ -2140,7 +2140,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   **Acceso Ubicación**
 
-  **Figura 75**<br>
+  **Figura 73**<br>
   *Mock-up — Solicitud de Acceso a Ubicación*
 
   <div align="center">
@@ -2152,7 +2152,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   **Ubicación Permitida**
 
-  **Figura 76**<br>
+  **Figura 74**<br>
   *Mock-up — Ubicación Permitida*
 
   <div align="center">
@@ -2166,7 +2166,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   - Cines
 
-    **Figura 77**<br>
+    **Figura 75**<br>
     *Mock-up — Sección Cines*
 
     <div align="center">
@@ -2178,7 +2178,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   - Buffets
 
-    **Figura 78**<br>
+    **Figura 76**<br>
     *Mock-up — Sección Buffets*
 
     <div align="center">
@@ -2190,7 +2190,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   - Parques
 
-    **Figura 79**<br>
+    **Figura 77**<br>
     *Mock-up — Sección Parques*
 
     <div align="center">
@@ -2202,7 +2202,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   - Juegos
 
-    **Figura 80**<br>
+    **Figura 78**<br>
     *Mock-up — Sección Juegos*
 
     <div align="center">
@@ -2214,7 +2214,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   - Makis
 
-    **Figura 81**<br>
+    **Figura 79**<br>
     *Mock-up — Sección Makis*
 
     <div align="center">
@@ -2226,7 +2226,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   - Belleza
 
-    **Figura 82**<br>
+    **Figura 80**<br>
     *Mock-up — Sección Belleza*
 
     <div align="center">
@@ -2240,7 +2240,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   - Agregar Oferta al Carrito
 
-    **Figura 83**<br>
+    **Figura 81**<br>
     *Mock-up — Agregar Oferta al Carrito*
 
     <div align="center">
@@ -2252,7 +2252,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   - Oferta Agregada al Carrito
 
-    **Figura 84**<br>
+    **Figura 82**<br>
     *Mock-up — Oferta Agregada al Carrito*
 
     <div align="center">
@@ -2266,7 +2266,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   - Ver Carrito
 
-    **Figura 85**<br>
+    **Figura 83**<br>
     *Mock-up — Carrito de Compras*
 
     <div align="center">
@@ -2278,7 +2278,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   - Procesar Pago
 
-    **Figura 86**<br>
+    **Figura 84**<br>
     *Mock-up — Proceso de Pago*
 
     <div align="center">
@@ -2290,7 +2290,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
     
   **Ayuda**
 
-  **Figura 87**<br>
+  **Figura 85**<br>
   * *
 
   <div align="center">
@@ -2304,7 +2304,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   - Notificaciones Generales
 
-    **Figura 88**<br>
+    **Figura 86**<br>
     *Mock-up — Notificaciones Generales*
 
     <div align="center">
@@ -2316,7 +2316,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   - Notificaciones Leídas
 
-    **Figura 89**<br>
+    **Figura 87**<br>
     *Mock-up — Notificaciones leídas*
 
     <div align="center">
@@ -2328,7 +2328,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   - Sin Notificaciones
 
-    **Figura 90**<br>
+    **Figura 88**<br>
     *Mock-up — Sin Notificaciones*
 
     <div align="center">
@@ -2340,7 +2340,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   **Perfil**
 
-  **Figura 91**<br>
+  **Figura 89**<br>
   *Mock-up — Perfil*
 
   <div align="center">
@@ -2352,7 +2352,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   - Editar Perfil
 
-    **Figura 92**<br>
+    **Figura 90**<br>
     *Mock-up — Editar Perfil*
 
     <div align="center">
@@ -2364,7 +2364,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   **Cerrar Sesión**
 
-  **Figura 93**<br>
+  **Figura 91**<br>
   *Mock-up — Cerrar Sesión*
 
   <div align="center">
@@ -2377,7 +2377,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   **Resumen**
 
-  **Figura 94**<br>
+  **Figura 92**<br>
   *Mockup — Resumen Proveedor*
 
   <div align="center">
@@ -2389,7 +2389,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   **Campañas**
 
-  **Figura 95**<br>
+  **Figura 93**<br>
   *Mockup — Campañas Proveedor*
 
   <div align="center">
@@ -2401,7 +2401,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   **Crear**
 
-  **Figura 96**<br>
+  **Figura 94**<br>
   *Mockup — Sección Crear Proveedor*
 
   <div align="center">
@@ -2413,7 +2413,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   - Crear Campaña
 
-    **Figura 97**<br>
+    **Figura 95**<br>
     *Mockup — Crear Campaña Proveedor*
 
     <div align="center">
@@ -2425,7 +2425,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   - Campaña Creada
 
-    **Figura 98**<br>
+    **Figura 96**<br>
     *Mockup — Campaña Creada Proveedor*
 
     <div align="center">
@@ -2437,7 +2437,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   **Reportes**
 
-  **Figura 99**<br>
+  **Figura 97**<br>
   *Mockup — Reportes Proveedor*
 
   <div align="center">
@@ -2449,7 +2449,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   **Comentarios**
 
-  **Figura 100**<br>
+  **Figura 98**<br>
   *Mockup — Comentarios Proveedor*
 
   <div align="center">
@@ -2461,7 +2461,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   **Planes**
 
-  **Figura 101**<br>
+  **Figura 99**<br>
   *Mockup — Planes Proveedor*
 
   <div align="center">
@@ -2473,7 +2473,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   **Ayuda**
 
-  **Figura 102**<br>
+  **Figura 100**<br>
   *Mockup — Ayuda Proveedor*
 
   <div align="center">
@@ -2487,7 +2487,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   - Notificaciones Generales
 
-    **Figura 103**<br>
+    **Figura 101**<br>
     *Mockup — Notificaciones Proveedor*
 
     <div align="center">
@@ -2499,7 +2499,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   - Notificaciones Leídas
 
-    **Figura 104**<br>
+    **Figura 102**<br>
     *Mockup — Notificaciones Leídas Proveedor*
   
     <div align="center">
@@ -2511,7 +2511,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   - Sin Notificaciones
 
-    **Figura 105**<br>
+    **Figura 103**<br>
     *Mockup — Sin Notificaciones Proveedor*
 
     <div align="center">
@@ -2523,7 +2523,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   **Perfil**
 
-  **Figura 106**<br>
+  **Figura 104**<br>
   *Mockup — Perfil Proveedor*
 
   <div align="center">
@@ -2535,7 +2535,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   - Editar perfil
 
-    **Figura 107**<br> 
+    **Figura 105**<br> 
     *Mockup — Editar Perfil Proveedor*
 
     <div align="center">
@@ -2547,7 +2547,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   **Cerrar Sesión**
 
-  **Figura 108**<br> 
+  **Figura 106**<br> 
   *Mockup — Cerrar Sesión Proveedor*
 
   <div align="center">
@@ -2562,7 +2562,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   Iniciar Sesión en Consumidor o Proveedor:
 
-  **Figura 109**<br>
+  **Figura 107**<br>
   *USFD — Iniciar sesión (Cliente / Proveedor)*
 
   <div align="center">
@@ -2576,7 +2576,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   **Acceder a Opciones de Empresa (Campañas, Crear, Reportes y Comentarios)**
 
-  **Figura 110**<br>
+  **Figura 108**<br>
   *USFD — Acceso a links principales Consumidor*
 
   <div align="center">
@@ -2588,7 +2588,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   **Acceder a Links Principales**
 
-  **Figura 111**<br>
+  **Figura 109**<br>
   *USFD — Acceso a links principales Consumidor*
 
   <div align="center">
@@ -2600,7 +2600,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   **Cerrar Sesión**
 
-  **Figura 112**<br>
+  **Figura 110**<br>
   *USFD — Cerrar sesión Consumidor*
 
   <div align="center">
@@ -2614,7 +2614,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   **Acceder a Links Principales**
 
-  **Figura 113**<br>
+  **Figura 111**<br>
   *USFD — Acceso a Links Principales Proveedor*
 
   <div align="center">
@@ -2626,7 +2626,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   **Acceder a Ayuda, Notificaciones y Perfil**
 
-  **Figura 114**<br>
+  **Figura 112**<br>
   *USFD — Acceso a Ayuda, Notificaciones y Perfil Proveedor*
 
   <div align="center">
@@ -2638,7 +2638,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   **Cerrar Sesión**
 
-  **Figura 115**<br>
+  **Figura 113**<br>
   *USFD — Cerrar Sesión Proveedor*
 
   <div align="center">
@@ -2653,7 +2653,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   **Enlace Diseño Figma Prototype:** https://tinyurl.com/prototype-figma-geops
 
-  **Figura 116**<br>
+  **Figura 114**<br>
   *Prototype — GeoPS*
 
   <div align="center">
@@ -2691,7 +2691,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
     - Cuenta de negocio creada: Señala que el registro del negocio fue exitoso.
     - Ubicacion de usuario detectada: Evento clave que inicia la interacción del consumidor con las ofertas geolocalizadas.
 
-    **Figura 117**<br>
+    **Figura 115**<br>
     *Design-Level Event Storming — Gestión de Perfil y Preferencias*
 
     <div align="center">
@@ -2711,7 +2711,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
     - Reporte de métricas: Una vista optimizada para consultas de datos históricos y análisis.
     - Panel de control de campañas: Una vista de lectura que se actualiza con los eventos del sistema, mostrando el estado en tiempo real.
   
-    **Figura 118**<br>
+    **Figura 116**<br>
     *Design-Level Event Storming — Monitoreo y Analítica*
 
     <div align="center">
@@ -2730,7 +2730,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
   - **Proceso de negocio**
     - Permisos de ubicación: Al recibir una ubicación del consumidor, este proceso se activa si el usuario desea utilizar la ubicación para buscar ofertas cercanas.
 
-    **Figura 119**<br>
+    **Figura 117**<br>
     *Design-Level Event Storming — Servicios al Consumidor*
 
     <div align="center">
@@ -2750,7 +2750,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
   - **Procesos de negocio**
     - Politicas de uso: Las politicas de uso señaladas para las campañas creadas. Las campañas siguen unas normas.
 
-    **Figura 120**<br>
+    **Figura 118**<br>
     *Design-Level Event Storming — Gestión de campañas y ofertas*
 
     <div align="center">
@@ -2761,7 +2761,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
     
   #### 4.6.2. Software Architecture Context Diagram
 
-  **Figura 121**<br>
+  **Figura 119**<br>
   *Software Architecture Context Diagram — GeoPS*
 
   <div align="center">
@@ -2796,7 +2796,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   #### 4.6.3. Software Architecture Container Diagrams
 
-  **Figura 122**<br>
+  **Figura 120**<br>
   *Software Architecture — Container Diagram GeoPS*
 
   <div align="center">
@@ -2853,7 +2853,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   **Servicio de Analíticas**
   
-  **Figura 123**<br>
+  **Figura 121**<br>
   *Software Architecture — Analytics Service Components Diagram*
 
   <div align="center">
@@ -2885,7 +2885,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   **Servicio de Campañas**
 
-  **Figura 124**<br>
+  **Figura 122**<br>
   *Software Architecture — Campaign Service Components Diagram*
 
   <div align="center">
@@ -2933,7 +2933,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   **Servicio de Geolocalización**
 
-  **Figura 125**<br>
+  **Figura 123**<br>
   *Software Architecture — Geolocation Service Components Diagram*
 
   <div align="center">
@@ -2969,7 +2969,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   El diagrama de clases de GeoPS está organizado siguiendo los principios de Domain-Driven Design (DDD) con arquitectura hexagonal y CQRS, dividido en 11 bounded contexts que representan las áreas principales del negocio. El diseño sigue una separación clara entre las capas de dominio, aplicación, infraestructura e interfaces.
 
-  **Figura 126**<br>
+  **Figura 124**<br>
   *Diagrama de Clases de GeoPS*
   
   <div align="center">
@@ -3123,7 +3123,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   El diseño de la base de datos de GeoPS implementa un esquema relacional robusto que soporta la arquitectura DDD y los 11 bounded contexts del sistema. La base de datos MySQL 8.0 está optimizada para transacciones, consultas geoespaciales mediante ubicació del usuario, y seguimiento completo de interacciones de usuarios con auditoría automática.
 
-  **Figura 127**<br>
+  **Figura 125**<br>
   *Diagrama de Base de Datos — GeoPS*
 
   <div align="center">
@@ -3609,7 +3609,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   La configuración inicial del repositorio incluye la configuración del nombre, template repository, y configuraciones de seguridad para contribuciones:
 
-  **Figura 128**   
+  **Figura 126**   
   *Configuración general del repositorio de la Landing Page — GitHub*
 
   <div align="center">
@@ -3628,7 +3628,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   La configuración de GitHub Pages se realiza desde la sección "Pages" en la configuración del repositorio:
 
-  **Figura 129**   
+  **Figura 127**   
   *Configuración de GitHub Pages — Landing Page GeoPS*
 
   <div align="center">
@@ -3648,7 +3648,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   El repositorio muestra información detallada sobre el estado del deployment y las características técnicas del proyecto:
 
-  **Figura 130**   
+  **Figura 128**   
   *Estado del repositorio y configuración de deployment — Landing Page GeoPS*
 
   <div align="center">
@@ -3667,7 +3667,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   El resultado final del deployment es la landing page completamente funcional y accesible públicamente:
 
-  **Figura 131**   
+  **Figura 129**   
   *Landing Page desplegada públicamente — GeoPS*
 
   <div align="center">
@@ -3734,7 +3734,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   En esta sección, nos sumergiremos en los detalles del Sprint Planning Meeting 1 para el desarrollo de GeoPS.
 
-  **Tabla 15**   
+  **Tabla 16**   
   *Sprint Planning 1 — GeoPS*  
 
   <table>
@@ -3792,7 +3792,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   En esta sección se incluye la elaboración del artefacto Leadership and Collaboration Matrix (LACX), el cual define quién es el líder y quiénes son los colaboradores para este Sprint 1 del proyecto GeoPS.
 
-  **Tabla 16**   
+  **Tabla 17**   
   *Leadership & Collaboration Matrix — Sprint 1 — GeoPS*  
 
   | Team Member (Last Name, First Name) | GitHub Username | Landing Page |
@@ -3815,7 +3815,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   **Enlace al Tablero:** https://trello.com/b/CZ3eGcx8/product-backlog-geops
 
-  **Tabla 17**   
+  **Tabla 18**   
   *Sprint Backlog 1 — GeoPS*  
 
   <table>
@@ -3974,7 +3974,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   **Enlace Repositorio Landing Page:** https://github.com/OpenSourceDevUPC/Landing
 
-  **Tabla 18**   
+  **Tabla 19**   
   *Development Evidence — Sprint 1 — GeoPS*  
 
   | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Date) |
@@ -4033,7 +4033,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   La implementación del header incluye navegación completa, logo corporativo y diseño responsivo que se adapta a dispositivos móviles con menú hamburguesa.
 
-  **Figura 132**  
+  **Figura 130**  
   *Landing Page — Header Section GeoPS*
 
   <div align="center">
@@ -4051,7 +4051,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   Sección principal que comunica claramente la propuesta de valor de GeoPS con call-to-actions prominentes para el registro de usuarios.
 
-  **Figura 133**  
+  **Figura 131**  
   *Landing Page — Hero Section GeoPS*
 
   <div align="center">
@@ -4069,7 +4069,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   Presentación detallada de PanPun Source, incluyendo misión, visión y información del equipo fundador de GeoPS.
 
-  **Figura 134**  
+  **Figura 132**  
   *Landing Page — About Us Section GeoPS*
 
   <div align="center">
@@ -4087,7 +4087,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   Comparación clara entre planes gratuito y premium, destacando las características y beneficios de cada modalidad de servicio.
 
-  **Figura 135**  
+  **Figura 133**  
   *Landing Page — Plans Section GeoPS*
 
   <div align="center">
@@ -4105,7 +4105,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   Showcase de partners comerciales y categorías de negocios disponibles en la plataforma GeoPS.
 
-  **Figura 136**  
+  **Figura 134**  
   *Landing Page — Stores Section GeoPS*
 
   <div align="center">
@@ -4123,7 +4123,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   Sección interactiva con accordion que responde las consultas más comunes sobre el servicio GeoPS.
 
-  **Figura 137**  
+  **Figura 135**  
   *Landing Page — FAQ Section GeoPS*
 
   <div align="center">
@@ -4141,7 +4141,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   Footer completo con enlaces a redes sociales, información de contacto y políticas legales.
 
-  **Figura 138**  
+  **Figura 136**  
   *Landing Page — Footer Section GeoPS*
 
   <div align="center">
@@ -4192,7 +4192,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   Figura Evidencia de deployment
 
-  **Figura 139**  
+  **Figura 137**  
   *Landing Page — Evidencia de Deployment en GitHub Pages*
 
   <div align="center">
@@ -4207,7 +4207,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   **Métricas Detalladas del Repositorio de Documentación (Project-Report-GeoPS)**
 
-  **Figura 140**  
+  **Figura 138**  
   *Insights — Métricas del Repositorio de Documentación*
 
   <div align="center">
@@ -4226,7 +4226,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   **Métricas Generales de Colaboración (Repositorio Landing)**
 
-  **Figura 141**  
+  **Figura 139**  
   *Insights — Métricas de Colaboración Repositorio Landing*
 
   <div align="center">
@@ -4244,7 +4244,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   **Distribución de Trabajo del landing page:**
 
-  **Figura 142**  
+  **Figura 140**  
   *Top Committers — Repositorio Landing GeoPS*
 
   <div align="center">
@@ -4301,7 +4301,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   En esta sección, nos sumergiremos en los detalles del Sprint Planning 2 para el desarrollo de GeoPS.
 
-  **Tabla 19**   
+  **Tabla 20**   
   *Sprint Planning 2 — GeoPS*  
 
   | **Campo** | **Detalle** |
@@ -4323,7 +4323,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   En esta sección se incluye la elaboración del artefacto Leadership and Collaboration Matrix (LACX), el cual define quién es el líder y quiénes son los colaboradores para este Sprint 2 del proyecto GeoPS.
 
-  **Tabla 20**   
+  **Tabla 21**   
   *Leadership & Collaboration Matrix — Sprint 2 — GeoPS*  
 
   | **Team Member (Last Name, First Name)** | **GitHub Username** | **Geo-PS Frontend Leader (L) / Collaborator (C)** | **Geo-PS Frontend Leader (L) / Collaborator (C)** | **Geo-PS Frontend Leader (L) / Collaborator (C)** |
@@ -4340,7 +4340,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   Elaboramos el sprint backlog 2 en trello, como se puede apreciar en la siguiente imagen:
 
-  **Figura 143**  
+  **Figura 141**  
   *Sprint Backlog 2 — GeoPS*
 
   <div align="center">
@@ -4353,7 +4353,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   **Sprint Backlog 2 – User Stories and Tasks**
 
-  **Tabla 21**   
+  **Tabla 22**   
   *Sprint Backlog 2 — GeoPS*  
 
   <table>
@@ -4677,7 +4677,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   <h3>Registro de Commits del Sprint 2 (GeoPS Frontend)</h3>
 
-  **Tabla 22**   
+  **Tabla 23**   
   *Development Evidence — Sprint 2 — GeoPS*  
 
   <table>
@@ -4881,7 +4881,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   **Inicio de Sesión**
 
-  **Figura 144**   
+  **Figura 142**   
   *Inicio de Sesión — GeoPS*
   
   <div align="center">
@@ -4892,7 +4892,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   **Registro**
 
-  **Figura 145**   
+  **Figura 143**   
   *Registro de Usuario — GeoPS*
 
   <div align="center">
@@ -4903,7 +4903,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   **Home**
 
-  **Figura 146**   
+  **Figura 144**   
   *Home — GeoPS*
 
   <div align="center">
@@ -4917,7 +4917,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   **Ver Oferta**
 
-  **Figura 147**   
+  **Figura 145**   
   *Ver Oferta — GeoPS*
 
   <div align="center">
@@ -4928,7 +4928,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   **Categorías**   
 
-  **Figura 148**
+  **Figura 146**
   *Categorías — GeoPS*
 
   <div align="center">
@@ -4939,7 +4939,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   **Mis Cupones**
 
-  **Figura 149**   
+  **Figura 147**   
   *Mis Cupones — GeoPS*
 
   <div align="center">
@@ -4959,7 +4959,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   A continuación, se presentan los **endpoints desarrollados e implementados durante el Sprint 2** de GeoPS, los cuales establecen la comunicación entre el frontend y los servicios simulados del sistema.
 
-  **Tabla 23**   
+  **Tabla 24**   
   *Services Documentation Evidence — Sprint 2 — GeoPS* 
 
   | **Endpoint** | **Path** | **Descripción** |
@@ -5009,7 +5009,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   **Configuración del Servicio JSON Server:**
 
-  **Figura 150**   
+  **Figura 148**   
   *Configuración JSON Server — Render*
 
   ![JSON Server Configuration](./resources/tb1-db/base-config.png)
@@ -5018,7 +5018,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   **Estado del Servicio en Render:**
 
-  **Figura 151**   
+  **Figura 149**   
   *Servicio JSON Server en ejecución — Render*
 
   ![JSON Server Service Status](./resources/tb1-db/deploy-running.png)
@@ -5027,14 +5027,14 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   **Logs de Deployment del JSON Server:**
 
-  **Figura 152**   
+  **Figura 150**   
   *Logs de despliegue — JSON Server*
 
   ![JSON Server Deployment Logs](./resources/tb1-db/finish-deploy-json-server.png)
 
   *Nota.* Elaboración propia.
 
-  **Figura 153**   
+  **Figura 151**   
   *Configuración de dominio — JSON Server*
 
   ![JSON Server Deployment Logs](./resources/tb1-db/add-custom-domain.png)
@@ -5061,7 +5061,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   **Configuración del Frontend en Vercel:**
 
-  **Figura 154**   
+  **Figura 152**   
   *Configuración del Frontend en Vercel*
 
   <div align="center">
@@ -5078,7 +5078,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   **Build Process del Frontend:**
 
-  **Figura 155**     
+  **Figura 153**     
   *Proceso de deployment del Frontend en Vercel*
 
   <div align="center">
@@ -5089,7 +5089,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   **Estado del Deployment Frontend:**
 
-  **Figura 156**   
+  **Figura 154**   
   *Estado del deployment del Frontend en Vercel*
 
   <div align="center">
@@ -5104,7 +5104,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   **Aplicación Frontend Desplegada:**
 
-  **Figura 157**   
+  **Figura 155**   
   *Aplicación del Frontend desplegada en Vercel*
 
   <div align="center">
@@ -5140,7 +5140,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   **Métricas Detalladas del Repositorio de Desarrollo (`geops-frontend`)**
 
-  **Tabla 24**   
+  **Tabla 25**   
   *Team Collaboration Insights — Sprint 2 — GeoPS*
 
   | **Métrica** | **Valor / Descripción** |
@@ -5169,7 +5169,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   En este sprint, el equipo demostró madurez técnica y coordinación efectiva en el uso de herramientas de control de versiones, sentando las bases para una colaboración aún más eficiente en las siguientes fases del desarrollo.
 
-  **Figura 158**   
+  **Figura 156**   
   *Actividad y colaboración del equipo durante el Sprint 3 (Parte 1)*
 
   <div align="center">
@@ -5178,7 +5178,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   *Nota.* Elaboración propia.
 
-  **Figura 159**   
+  **Figura 157**   
   *Actividad y colaboración del equipo durante el Sprint 3 (Parte 2)*
 
   <div align="center">
@@ -5247,7 +5247,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   En esta sección, nos sumergiremos en los detalles del Sprint Planning 3 para el desarrollo de GeoPS.
 
-  **Tabla 25**   
+  **Tabla 26**   
   *Sprint Planning 3 — GeoPS*  
 
   | **Campo** | **Detalle** |
@@ -5269,7 +5269,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   En esta sección se incluye la elaboración del artefacto Leadership and Collaboration Matrix (LACX), el cual define quién es el líder y quiénes son los colaboradores para este Sprint 3 del proyecto GeoPS.
 
-  **Tabla 26**   
+  **Tabla 27**   
   *Leadership & Collaboration Matrix — Sprint 3 — GeoPS*
 
   | **Team Member (Last Name, First Name)** | **GitHub Username** | **Backend Core & Authentication** | **Backend Bounded Contexts** | **Backend Integration & Deployment** |
@@ -5288,7 +5288,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   **Enlace al Tablero:** https://trello.com/b/CZ3eGcx8/product-backlog-geops
 
-  **Figura 160**   
+  **Figura 158**   
   *Sprint Backlog 3 — GeoPS*
 
   <div align="center">
@@ -5299,7 +5299,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   **Sprint Backlog 3 – User Stories and Tasks**
   
-  **Tabla 27**   
+  **Tabla 28**   
   *Sprint Backlog 3 — GeoPS*
 
   <table>
@@ -5744,7 +5744,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   **Sprint Backlog 3 – Commits Overview**
 
-  **Tabla 28**   
+  **Tabla 29**   
   *Sprint Backlog 3 — GeoPS*
 
 <table>
@@ -5982,7 +5982,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   **Capturas de pantalla de las principales vistas**
 
-  **Figura 161**   
+  **Figura 159**   
   *Endpoints de Authentication y Favorites — Swagger UI (Parte 1)*
 
   <div align="center">
@@ -5991,7 +5991,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   *Nota.* Elaboración propia.
 
-  **Figura 162**   
+  **Figura 160**   
   *Endpoints de Reviews y Carts — Swagger UI (Parte 2)*
 
   <div align="center">
@@ -6000,7 +6000,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   *Nota.* Elaboración propia.
 
-  **Figura 163**   
+  **Figura 161**   
   *Endpoints de Subscriptions y Offers — Swagger UI (Parte 3)*
 
   <div align="center">
@@ -6009,7 +6009,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   *Nota.* Elaboración propia.
 
-  **Figura 164**   
+  **Figura 162**   
   *Endpoints de Coupons — Swagger UI (Parte 4)*
 
   <div align="center">
@@ -6018,7 +6018,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   *Nota.* Elaboración propia.
 
-  **Figura 165**   
+  **Figura 163**   
   *Endpoints de Users y Payments — Swagger UI (Parte 5)*
 
   <div align="center">
@@ -6027,7 +6027,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   *Nota.* Elaboración propia.
 
-  **Figura 166**   
+  **Figura 164**   
   *Endpoints de Payments — Swagger UI (Parte 6)*
 
   <div align="center">
@@ -6036,7 +6036,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   *Nota.* Elaboración propia.
 
-  **Figura 167**   
+  **Figura 165**   
   *Vista de Schemas del API — Swagger UI (Parte 1)*
 
   <div align="center">
@@ -6045,7 +6045,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   *Nota.* Elaboración propia.
 
-  **Figura 168**   
+  **Figura 166**   
   *Vista de Schemas del API — Swagger UI (Parte 2)*
 
   <div align="center">
@@ -6060,7 +6060,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   Durante el Sprint 3 se completó la documentación de los Web Services del backend de GeoPS, desarrollado en Java e integrado con Swagger UI, permitiendo exponer de manera clara y estructurada todos los endpoints de la API. Se registraron las operaciones y descripciones de los módulos de Authentication, Users, Favorites, Reviews, Carts, Subscriptions, Offers, Coupons y Payments, abarcando procesos esenciales como autenticación con JWT, gestión de usuarios, manejo de favoritos, reseñas, carritos de compra, planes de suscripción, ofertas, cupones y transacciones de pago. Este avance proporcionó una base documental sólida que facilita la integración con el frontend, mejora la mantenibilidad del sistema y asegura un desarrollo alineado con el roadmap del producto digital.
 
-  **Tabla 29**   
+  **Tabla 30**   
   *Services Documentation Evidence — Sprint 3 — GeoPS*
 
   | Método | Path | Descripción |
@@ -6237,7 +6237,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
 **1. Autenticación (Authentication)**
 
-**Figura 169**   
+**Figura 167**   
 *Endpoints de Authentication — Swagger UI*
 
 <div align="center">
@@ -6248,7 +6248,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
 **2. Usuarios (Users)**  
 
-**Figura 170**   
+**Figura 168**   
 *Endpoints de Users — Swagger UI*
 
 <div align="center">
@@ -6259,7 +6259,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
 **3. Favoritos (Favorites)**  
 
-**Figura 171**   
+**Figura 169**   
 *Endpoints de Favorites — Swagger UI*
 
 <div align="center">
@@ -6270,7 +6270,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
 **4. Reseñas de Ofertas (Reviews)**
 
-**Figura 172**   
+**Figura 170**   
 *Endpoints de Reviews — Swagger UI*
 
 <div align="center">
@@ -6281,7 +6281,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
 **5. Carrito de Compra (Carts)**
 
-**Figura 173**   
+**Figura 171**   
 *Endpoints de Carts — Swagger UI*
 
 <div align="center">
@@ -6292,7 +6292,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
 **6. Planes de Suscripción (Subscriptions)**
 
-**Figura 174**   
+**Figura 172**   
 *Endpoints de Subscriptions — Swagger UI*
 
 <div align="center">
@@ -6303,7 +6303,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
 **7. Ofertas (Offers)** 
 
-**Figura 175**   
+**Figura 173**   
 *Endpoints de Offers — Swagger UI*
 
 <div align="center">
@@ -6314,7 +6314,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
 **8. Cupones (Coupons)**
 
-**Figura 176**   
+**Figura 174**   
 *Endpoints de Coupons — Swagger UI*
 
 <div align="center">
@@ -6325,7 +6325,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
 **9. Pagos (Payments)**
 
-**Figura 177**   
+**Figura 175**   
 *Endpoints de Payments — Swagger UI*
 
 <div align="center">
@@ -6344,7 +6344,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   Se accede a la plataforma Railway donde se gestionará tanto el backend como los servicios de base de datos necesarios para GeoPS.
 
-  **Figura 178**   
+  **Figura 176**   
   *Acceso a Railway — Plataforma de despliegue Backend GeoPS*
 
   <div align="center">
@@ -6357,7 +6357,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   Se inicia el proceso creando un nuevo proyecto en Railway para hospedar el backend de GeoPS.
 
-  **Figura 179**   
+  **Figura 177**   
   *Creación de nuevo proyecto en Railway*
 
   <div align="center">
@@ -6370,7 +6370,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   Se selecciona MySQL como motor de base de datos para almacenar la información de usuarios, ofertas, favoritos y demás entidades del sistema GeoPS.
 
-  **Figura 180**   
+  **Figura 178**   
   *Selección del motor de base de datos MySQL — Railway*
 
   <div align="center">
@@ -6383,7 +6383,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   Railway confirma la creación exitosa del servicio MySQL, mostrando el estado activo y listo para recibir conexiones del backend.
 
-  **Figura 181**   
+  **Figura 179**   
   *Base de datos MySQL creada y activa en Railway*
 
   <div align="center">
@@ -6396,7 +6396,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   Se obtienen las credenciales y configuración de conexión necesarias para que el backend Spring Boot pueda conectarse a la base de datos MySQL desplegada.
 
-  **Figura 182**   
+  **Figura 180**   
   *Detalles y configuración de conexión MySQL para backend GeoPS*
 
   <div align="center">
@@ -6409,7 +6409,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   Se conecta el repositorio del backend GeoPS desde GitHub, habilitando despliegues automáticos cada vez que se actualice la rama principal.
 
-  **Figura 183**   
+  **Figura 181**   
   *Conexión del repositorio de GitHub para despliegues automáticos*
   
   <div align="center">
@@ -6422,7 +6422,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   Se selecciona GitHub como la fuente del repositorio para realizar el despliegue del backend.
 
-  **Figura 184**   
+  **Figura 182**   
   *Selección de GitHub como fuente de despliegue — Railway*
 
   <div align="center">
@@ -6435,7 +6435,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   Railway inicia el proceso de construcción y despliegue del backend, instalando las dependencias y configurando el entorno de ejecución.
 
-  **Figura 185**   
+  **Figura 183**   
   *Deployment en proceso — Construcción del Backend en Railway*
 
   <div align="center">
@@ -6448,7 +6448,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   El proceso de despliegue se completa exitosamente, mostrando que el backend está activo y funcionando correctamente.
 
-  **Figura 186**   
+  **Figura 184**   
   *Deployment completado exitosamente — Backend GeoPS activo*
 
   <div align="center">
@@ -6461,7 +6461,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   Se configura el acceso público para habilitar la conexión externa al backend desplegado.
 
-  **Figura 187**   
+  **Figura 185**   
   *Configuración de red pública para acceso externo*
 
   <div align="center">
@@ -6474,7 +6474,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   Railway genera automáticamente el dominio público `geops-backend-production.up.railway.app`, permitiendo acceso HTTP/HTTPS a la API REST del backend GeoPS.
 
-  **Figura 188**   
+  **Figura 186**   
   *Dominio público generado automáticamente por Railway*
 
   <div align="center">
@@ -6487,7 +6487,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   Se valida el despliegue exitoso confirmando que el backend está completamente operativo y accesible públicamente.
 
-  **Figura 189**   
+  **Figura 187**   
   *Verificación final del despliegue — Backend GeoPS operativo*
 
   <div align="center">
@@ -6510,7 +6510,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   **Métricas Detalladas del Repositorio de Desarrollo (`geops-backend`)**
 
-  **Tabla 30**   
+  **Tabla 31**   
   *Team Collaboration Insights — Sprint 3 — GeoPS*
 
   | **Métrica** | **Valor / Descripción** |
@@ -6539,7 +6539,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   En este sprint, el equipo demostró un alto nivel de madurez en el trabajo colaborativo dentro del entorno backend, gestionando eficientemente ramas, revisiones y despliegues. Esta coordinación permitió que el servicio alcanzara un estado estable y listo para integrarse con el frontend y las etapas finales del proyecto GeoPS.
 
-  **Figura 190**   
+  **Figura 188**   
   *Actividad y colaboración del equipo durante el Sprint 3 (Parte 1)*
 
   <div align="center">
@@ -6548,7 +6548,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   *Nota.* Elaboración propia.
 
-  **Figura 191**   
+  **Figura 189**   
   *Contribuciones y flujo de commits en ramas del Sprint 3 (Parte 2)*
 
   <div align="center">
@@ -6557,7 +6557,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   *Nota.* Elaboración propia.
 
-  **Figura 192**   
+  **Figura 190**   
   *Contribuciones y flujo de commits en ramas del Sprint 3 (Parte 3)*
 
   <div align="center">
@@ -6626,7 +6626,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   En esta sección, nos sumergiremos en los detalles del Sprint Planning Meeting 4 para el desarrollo de GeoPS, donde se planificó el cierre funcional del MVP del producto, integrando el módulo de proveedores, el bounded context de notificaciones, el módulo de sales-history, mejoras en la integración con Google Maps, optimizaciones del frontend y backend, corrección de errores críticos y la realización de entrevistas de validación con usuarios finales.
 
-  **Tabla 31**   
+  **Tabla 32**   
   *Sprint Planning 4 — GeoPS*
 
   <table>
@@ -6702,7 +6702,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   En esta sección se incluye la elaboración del artefacto Leadership and Collaboration Matrix (LACX), el cual define quién es el líder y quiénes son los colaboradores para las áreas clave de trabajo durante el Sprint 4 del proyecto GeoPS.
 
-  **Tabla 32**   
+  **Tabla 33**   
   *Leadership & Collaboration Matrix — Sprint 4 — GeoPS*
 
   | Team Member (Last Name, First Name)     | GitHub Username | Frontend Proveedores & Mejoras | Backend Proveedores & Sales-History | Notificaciones & Maps | Entrevistas & Correcciones |
@@ -6725,7 +6725,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   **Enlace al Tablero:** https://trello.com/b/CZ3eGcx8/product-backlog-geops
 
-  **Figura 193**   
+  **Figura 191**   
   *Sprint Backlog 4 — GeoPS*
 
   <div align="center">
@@ -6736,7 +6736,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   **Sprint Backlog 4 – User Stories and Tasks**
 
-  **Tabla 33**   
+  **Tabla 34**   
   *Sprint Backlog 4 — GeoPS*  
 
   <table>
@@ -7156,7 +7156,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   **Módulo de Consumidores**
 
-  **Figura 194**   
+  **Figura 192**   
   *Vista de Login — GeoPS Consumidores*
 
   <div align="center">
@@ -7165,7 +7165,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   *Nota.* Elaboración propia.
 
-  **Figura 195**   
+  **Figura 193**   
   *Vista de Registro — GeoPS Consumidores*
 
   <div align="center">
@@ -7174,7 +7174,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   *Nota.* Elaboración propia.
 
-  **Figura 196**   
+  **Figura 194**   
   *Vista de Ayuda — GeoPS Consumidores*
 
   <div align="center">
@@ -7183,7 +7183,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   *Nota.* Elaboración propia.
 
-  **Figura 197**   
+  **Figura 195**   
   *Vista de Notificaciones — GeoPS Consumidores*
 
   <div align="center">
@@ -7192,7 +7192,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   *Nota.* Elaboración propia.
 
-  **Figura 198**   
+  **Figura 196**   
   *Vista de Home (Mapa Principal) — GeoPS Consumidores (Parte 1)*
 
   <div align="center">
@@ -7201,7 +7201,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   *Nota.* Elaboración propia.
 
-  **Figura 199**   
+  **Figura 197**   
   *Vista de Home (Mapa con Ofertas) — GeoPS Consumidores (Parte 2)*
 
   <div align="center">
@@ -7210,7 +7210,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   *Nota.* Elaboración propia.
 
-  **Figura 200**   
+  **Figura 198**   
   *Vista de Home (Detalle en Mapa) — GeoPS Consumidores (Parte 3)*
 
   <div align="center">
@@ -7219,7 +7219,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   *Nota.* Elaboración propia.
 
-  **Figura 201**   
+  **Figura 199**   
   *Vista de Home (Navegación) — GeoPS Consumidores (Parte 4)*
 
   <div align="center">
@@ -7228,7 +7228,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   *Nota.* Elaboración propia.
 
-  **Figura 202**   
+  **Figura 200**   
   *Vista de Listado de Ofertas — GeoPS Consumidores*
 
   <div align="center">
@@ -7237,7 +7237,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   *Nota.* Elaboración propia.
 
-  **Figura 203**   
+  **Figura 201**   
   *Vista de Detalle de Oferta — GeoPS Consumidores*
 
   <div align="center">
@@ -7246,7 +7246,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   *Nota.* Elaboración propia.
 
-  **Figura 204**   
+  **Figura 202**   
   *Vista de Categorías — GeoPS Consumidores*
 
   <div align="center">
@@ -7255,7 +7255,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   *Nota.* Elaboración propia.
 
-  **Figura 205**   
+  **Figura 203**   
   *Vista de Favoritos — GeoPS Consumidores*
 
   <div align="center">
@@ -7264,7 +7264,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   *Nota.* Elaboración propia.
 
-  **Figura 206**   
+  **Figura 204**   
   *Vista de Perfil de Usuario — GeoPS Consumidores*
 
   <div align="center">
@@ -7273,7 +7273,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   *Nota.* Elaboración propia.
 
-  **Figura 207**   
+  **Figura 205**   
   *Vista de Carrito de Compras — GeoPS Consumidores*
 
   <div align="center">
@@ -7284,7 +7284,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   **Módulo de Proveedores**
 
-  **Figura 208**   
+  **Figura 206**   
   *Vista de Dashboard — GeoPS Proveedores*
 
   <div align="center">
@@ -7293,7 +7293,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   *Nota.* Elaboración propia.
 
-  **Figura 209**   
+  **Figura 207**   
   *Vista de Campañas — GeoPS Proveedores*
 
   <div align="center">
@@ -7302,7 +7302,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   *Nota.* Elaboración propia.
 
-  **Figura 210**   
+  **Figura 208**   
   *Vista de Crear Campaña — GeoPS Proveedores*
 
   <div align="center">
@@ -7311,7 +7311,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   *Nota.* Elaboración propia.
 
-  **Figura 211**   
+  **Figura 209**   
   *Vista de Reportes — GeoPS Proveedores*
 
   <div align="center">
@@ -7320,7 +7320,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   *Nota.* Elaboración propia.
 
-  **Figura 212**   
+  **Figura 210**   
   *Vista de Comentarios — GeoPS Proveedores*
 
   <div align="center">
@@ -7329,7 +7329,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   *Nota.* Elaboración propia.
 
-  **Figura 213**   
+  **Figura 211**   
   *Vista de Centro de Ayuda — GeoPS Proveedores*
 
   <div align="center">
@@ -7338,47 +7338,11 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   *Nota.* Elaboración propia.
 
-  **Figura 214**   
+  **Figura 212**   
   *Vista de Perfil — GeoPS Proveedores*
 
   <div align="center">
     <img src="resources/imgs/ss_proveedor_perfil.jpg" alt="Perfil GeoPS Proveedores" width="1000">
-  </div>
-
-  *Nota.* Elaboración propia.
-
-  **Figura 209**   
-  *Vista de [Nombre de Vista 2] — GeoPS Proveedores*
-
-  <div align="center">
-    <img src="resources/imgs/ss_provider2.png" alt="[Descripción] GeoPS Proveedores" width="1000">
-  </div>
-
-  *Nota.* Elaboración propia.
-
-  **Figura 210**   
-  *Vista de [Nombre de Vista 3] — GeoPS Proveedores*
-
-  <div align="center">
-    <img src="resources/imgs/ss_provider3.png" alt="[Descripción] GeoPS Proveedores" width="1000">
-  </div>
-
-  *Nota.* Elaboración propia.
-
-  **Figura 211**   
-  *Vista de [Nombre de Vista 4] — GeoPS Proveedores*
-
-  <div align="center">
-    <img src="resources/imgs/ss_provider4.png" alt="[Descripción] GeoPS Proveedores" width="1000">
-  </div>
-
-  *Nota.* Elaboración propia.
-
-  **Figura 212**   
-  *Vista de [Nombre de Vista 5] — GeoPS Proveedores*
-
-  <div align="center">
-    <img src="resources/imgs/ss_provider5.png" alt="[Descripción] GeoPS Proveedores" width="1000">
   </div>
 
   *Nota.* Elaboración propia.
@@ -7395,7 +7359,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   Durante el Sprint 4, se completó la implementación del **módulo de Proveedores** en el backend de GeoPS, añadiendo los endpoints necesarios para que los proveedores puedan gestionar sus campañas publicitarias de manera completa. Los endpoints implementados permiten operaciones CRUD completas sobre las campañas, así como funcionalidades específicas para obtener campañas por usuario.
 
-  **Tabla 34**   
+  **Tabla 35**   
   *Services Documentation Evidence — Sprint 4 — GeoPS*
 
   | **Método** | **Endpoint** | **Descripción** |
@@ -7580,7 +7544,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   Durante el Sprint 4, se continuó utilizando la misma infraestructura de deployment establecida en sprints anteriores, garantizando la estabilidad y disponibilidad continua de la aplicación. Los nuevos cambios y funcionalidades desarrollados en este sprint fueron desplegados exitosamente en los entornos de producción.
 
-  **Tabla 35**   
+  **Tabla 36**   
   *Software Deployment Evidence — Sprint 4 — GeoPS*
 
   | **Componente** | **Plataforma** | **URL de Acceso** | **Estado** |
@@ -7621,7 +7585,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   **Métricas Detalladas del Repositorio de Desarrollo (`geops-backend`)**
 
-  **Tabla 36**   
+  **Tabla 37**   
   *Team Collaboration Insights — Sprint 4 — GeoPS Backend*
 
   | **Métrica** | **Valor / Descripción** |
@@ -7641,7 +7605,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   **Métricas Detalladas del Repositorio de Desarrollo (`geops-frontend`)**
 
-  **Tabla 37**   
+  **Tabla 38**   
   *Team Collaboration Insights — Sprint 4 — GeoPS Frontend*
 
   | **Métrica** | **Valor / Descripción** |
@@ -8110,11 +8074,11 @@ World Bank. (2019). *World Development Report 2019: The Changing Nature of Work*
 
 - Enlace Video About The Team - Sprint 1: https://tinyurl.com/about-the-team-sprint-1-geops
 
-- Enlace Video About The Team - Sprint 2: 
+- Enlace Video About The Team - Sprint 2: https://tinyurl.com/about-the-team-sprint-2-geops
 
 - Enlace Video About The Team - Sprint 3: https://tinyurl.com/about-the-team-sprint-3-geops
 
-- Enlace Video About The Team - Sprint 4: 
+- Enlace Video About The Team - Sprint 4: https://tinyurl.com/about-the-team-sprint-4-geops
 
 **Video About The Product**
 

@@ -6729,7 +6729,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
   *Sprint Backlog 4 — GeoPS*
 
   <div align="center">
-      <img src="resources/images/chapter-5/Product_Backlog_4.jpg" alt="Sprint Backlog 4 - GeoPS" width="1000">
+      <img src="resources/images/chapter-5/Product_Backlog_4.png" alt="Sprint Backlog 4 - GeoPS" width="1000">
   </div>
 
   *Nota.* Elaboración propia.
@@ -8114,58 +8114,58 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
   
   **Características Demográficas**
   
-    * ¿Qué tipo de **negocio** tiene y cómo se llama?
-    * ¿Cuál es tu **edad** y tu **cargo/rol** dentro del negocio?
-    * ¿En qué **distrito/ciudad** se encuentra?
-    * ¿Con qué **frecuencia** sueles lanzar ofertas o promociones especiales para atraer clientes?
-    * ¿Qué tan **familiarizado** estás con el uso de plataformas digitales para promocionar tu negocio?
-  
+  * ¿Qué tipo de **negocio** tiene y cómo se llama?
+  * ¿Cuál es tu **edad** y tu **cargo/rol** dentro del negocio?
+  * ¿En qué **distrito/ciudad** se encuentra?
+  * ¿Con qué **frecuencia** sueles lanzar ofertas o promociones especiales para atraer clientes?
+  * ¿Qué tan **familiarizado** estás con el uso de plataformas digitales para promocionar tu negocio?
+
   **Landing Page**
   
-    * ¿Qué es lo primero que le transmite esta página al verla?
-    * ¿Entiende **qué hace GeoPS** por tu negocio solo con ver la sección principal?
-    * ¿Qué tan **clara** le parece la propuesta de valor que ofrecemos para aumentar tus ventas/visibilidad?
-    * El ver las marcas asociadas, ¿qué nivel de **confianza** le da en la plataforma como un socio potencial para tu negocio?
-    * ¿El botón o llamado a la acción le indica claramente el **siguiente paso** que debe seguir para registrar su negocio?
-  
+  * ¿Qué es lo primero que le transmite esta página al verla?
+  * ¿Entiende **qué hace GeoPS** por tu negocio solo con ver la sección principal?
+  * ¿Qué tan **clara** le parece la propuesta de valor que ofrecemos para aumentar tus ventas/visibilidad?
+  * El ver las marcas asociadas, ¿qué nivel de **confianza** le da en la plataforma como un socio potencial para tu negocio?
+  * ¿El botón o llamado a la acción le indica claramente el **siguiente paso** que debe seguir para registrar su negocio?
+
   **Plataforma Web**
   
-    * ¿Qué tan **fácil** le parece el proceso de registrar su negocio y configurar su perfil inicial?
-    * ¿Le parece **intuitivo y rápido** crear, editar y activar una nueva oferta/promoción?
-    * Sobre la configuración de la ubicación: ¿Qué tan **útil** le parece la función de especificar el área de cobertura o la sucursal de la oferta?
-    * ¿Qué tan **útil y comprensible** le parece la sección donde puede ver cuántos usuarios han visto/canjeado sus ofertas?
-    * ¿Hubo algún momento navegando en la plataforma donde **dudó qué hacer o dónde encontrar** las herramientas de gestión (ej. Campañas, Estadísticas)?
-    * ¿Qué elementos en el proceso de canje/validación de la oferta por parte del cliente le dan la **seguridad y control** para registrar la transacción?
-    * En comparación con las herramientas o plataformas que usa actualmente para promocionar su negocio, ¿qué cree que hace GeoPS **mejor**?
-    * ¿Qué tendríamos que **mejorar o añadir** para que GeoPS sea una herramienta esencial en la gestión y promoción diaria de su negocio?
+  * ¿Qué tan **fácil** le parece el proceso de registrar su negocio y configurar su perfil inicial?
+  * ¿Le parece **intuitivo y rápido** crear, editar y activar una nueva oferta/promoción?
+  * Sobre la configuración de la ubicación: ¿Qué tan **útil** le parece la función de especificar el área de cobertura o la sucursal de la oferta?
+  * ¿Qué tan **útil y comprensible** le parece la sección donde puede ver cuántos usuarios han visto/canjeado sus ofertas?
+  * ¿Hubo algún momento navegando en la plataforma donde **dudó qué hacer o dónde encontrar** las herramientas de gestión (ej. Campañas, Estadísticas)?
+  * ¿Qué elementos en el proceso de canje/validación de la oferta por parte del cliente le dan la **seguridad y control** para registrar la transacción?
+  * En comparación con las herramientas o plataformas que usa actualmente para promocionar su negocio, ¿qué cree que hace GeoPS **mejor**?
+  * ¿Qué tendríamos que **mejorar o añadir** para que GeoPS sea una herramienta esencial en la gestión y promoción diaria de su negocio?
   
   **Segmento 2: Consumidores de ofertas de diferentes ámbitos**
   
   **Características Demográficas**
   
-    * ¿Cuál es tu **edad**?
-    * ¿En qué **distrito/ciudad** vives?
-    * ¿Con qué **frecuencia** sueles buscar o aprovechar ofertas?
-    * ¿Qué tan **familiarizado** estás con el uso de plataformas digitales?
+  * ¿Cuál es tu **edad**?
+  * ¿En qué **distrito/ciudad** vives?
+  * ¿Con qué **frecuencia** sueles buscar o aprovechar ofertas?
+  * ¿Qué tan **familiarizado** estás con el uso de plataformas digitales?
   
   **Landing Page**
   
-    * ¿Qué es lo primero que le transmite esta página al verla? (Ej. ¿Se ve **moderna, confiable, compleja**?)
-    * ¿Entiende **qué hace GeoPS** solo con ver la sección principal?
-    * ¿Qué tan **clara** le parece la propuesta de valor que ofrecemos aquí?
-    * El ver las marcas asociadas, ¿qué nivel de **confianza** le da en la plataforma?
-    * ¿El botón o llamado a la acción le indica claramente el **siguiente paso** que debe seguir?
-  
+  * ¿Qué es lo primero que le transmite esta página al verla? (Ej. ¿Se ve **moderna, confiable, compleja**?)
+  * ¿Entiende **qué hace GeoPS** solo con ver la sección principal?
+  * ¿Qué tan **clara** le parece la propuesta de valor que ofrecemos aquí?
+  * El ver las marcas asociadas, ¿qué nivel de **confianza** le da en la plataforma?
+  * ¿El botón o llamado a la acción le indica claramente el **siguiente paso** que debe seguir?
+
   **Plataforma Web**
   
-    * ¿Qué tan **fácil** le parece el proceso de registrarse o iniciar sesión?
-    * Sobre la búsqueda por ubicación: ¿Qué tan **útil** le parece la función de buscar ofertas cercanas a su ubicación actual?
-    * Sobre la búsqueda por categoría: ¿Le parece **fácil** usar los filtros para ver solo las ofertas de una categoría específica (ej. "Entertainment")?
-    * ¿Hubo algún momento navegando en las ofertas donde **dudó qué hacer o dónde encontrar algo**?
-    * ¿Qué elementos en la ficha de la oferta le dan la **seguridad y credibilidad** para decidir ir a canjearla?
-    * Sobre la función de guardar: ¿Le parece **fácil y práctico** guardar una oferta para revisarla más tarde?
-    * En comparación con las apps o webs que usa actualmente para buscar ofertas, ¿qué cree que hace GeoPS **mejor**?
-    * ¿Qué tendríamos que **mejorar o añadir** para que sea una herramienta de su rutina diaria?
+  * ¿Qué tan **fácil** le parece el proceso de registrarse o iniciar sesión?
+  * Sobre la búsqueda por ubicación: ¿Qué tan **útil** le parece la función de buscar ofertas cercanas a su ubicación actual?
+  * Sobre la búsqueda por categoría: ¿Le parece **fácil** usar los filtros para ver solo las ofertas de una categoría específica (ej. "Entertainment")?
+  * ¿Hubo algún momento navegando en las ofertas donde **dudó qué hacer o dónde encontrar algo**?
+  * ¿Qué elementos en la ficha de la oferta le dan la **seguridad y credibilidad** para decidir ir a canjearla?
+  * Sobre la función de guardar: ¿Le parece **fácil y práctico** guardar una oferta para revisarla más tarde?
+  * En comparación con las apps o webs que usa actualmente para buscar ofertas, ¿qué cree que hace GeoPS **mejor**?
+  * ¿Qué tendríamos que **mejorar o añadir** para que sea una herramienta de su rutina diaria?
   
   #### 5.3.2. Registro de Entrevistas
   

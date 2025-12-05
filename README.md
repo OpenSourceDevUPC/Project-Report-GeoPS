@@ -388,6 +388,7 @@ Asimismo, se completó la documentación integral del proyecto, incorporando mé
       <p><i>TB2</i></p>
       <p>Comuniqué de manera clara los avances del módulo <strong>Identity</strong> durante las reuniones de integración, explicando al equipo el flujo de autenticación, los estados del usuario y la estructura de los componentes asociados. Presenté las validaciones realizadas y coordiné con el equipo la revisión final del report TB2, asegurando que todos comprendieran los cambios aplicados y las mejoras necesarias.</p>
       <p><i>TF</i></p>
+      <p>Presenté al equipo los avances en la implementación de las pantallas de frontend para el rol de Owner, detallando los componentes desarrollados y su integración con el backend. Comuniqué las capacidades del sistema para el despliegue en producción, explicando el proceso de configuración y los ajustes necesarios para garantizar la estabilidad del sistema en el entorno final.</p>
 
 
   <p><strong>Goñe Araccata, Esther Abigail</strong></p>
@@ -398,6 +399,7 @@ Asimismo, se completó la documentación integral del proyecto, incorporando mé
       <p><i>TB2</i></p>
       <p>Comuniqué el progreso de los módulos <strong>Offers, Favorites y Reviews</strong>, explicando al equipo los flujos entre vistas, servicios y métodos del backend. Presenté el <strong>Video About The Product</strong>, guiando al equipo en la narrativa visual del funcionamiento de la plataforma. Además, participé activamente en reuniones para ajustar la estructura del report TB2, explicando los componentes visuales y decisiones de diseño tomadas.</p>
       <p><i>TF</i></p>
+      <p>Expliqué al equipo la lógica de negocio implementada en el backend para el rol de Owner, detallando los servicios de comando y consulta desarrollados. Comuniqué las estrategias de despliegue utilizadas y coordiné con el equipo la validación final de los flujos de negocio, asegurando que las capacidades comunicativas del sistema fueran claras para todos los usuarios finales.</p>
 
   <p><strong>Huapaya Galindo, Dyron</strong></p>
       <p><i>TB1</i></p>
@@ -407,6 +409,7 @@ Asimismo, se completó la documentación integral del proyecto, incorporando mé
       <p><i>TB2</i></p>
       <p>Expliqué al equipo la integración del <strong>mapa de Google Maps</strong> con el frontend, detallando la comunicación con el backend, el manejo de geolocalización y la lógica para vincular las ofertas con ubicaciones reales. Presenté las pruebas realizadas y los ajustes necesarios para asegurar un funcionamiento estable. Apoyé la construcción del report TB2 explicando las decisiones técnicas.</p>
       <p><i>TF</i></p>
+      <p>Comuniqué los avances en la implementación del backend para el módulo de <strong>Owner</strong>, explicando los endpoints desarrollados y la lógica de gestión de campañas. Presenté al equipo el proceso de despliegue final del sistema, coordinando las capacidades comunicativas entre frontend y backend para asegurar una experiencia fluida en producción.</p>
 
   <p><strong>Huarcaya Matias, Gilbert Alonso</strong></p>
       <p><i>TB1</i></p>
@@ -416,6 +419,7 @@ Asimismo, se completó la documentación integral del proyecto, incorporando mé
       <p><i>TB2</i></p>
       <p>Comuniqué la creación y estructura del <strong>backend</strong>, explicando al equipo la arquitectura general del sistema, la organización de módulos y los patrones de diseño utilizados. Presenté los avances de <strong>Coupons, Subscriptions, Payments y Cart</strong>, usando diagramas de flujo y endpoints para facilitar la comprensión. Lideré las sesiones de <strong>integración y deployment</strong>, manteniendo informados a los integrantes sobre estados, bloqueos y avances técnicos.</p>
       <p><i>TF</i></p>
+      <p>Presenté al equipo la implementación completa del módulo de Notificaciones, tanto en frontend como en backend, explicando el flujo de comunicación en tiempo real y la integración con los demás módulos. Comuniqué las mejoras realizadas en la interfaz visual del frontend para asegurar un diseño responsive que se adapta correctamente a diferentes dispositivos. Coordiné las capacidades del sistema para el despliegue final, liderando las sesiones técnicas sobre configuración de servidores y validación de funcionalidades en producción.</p>
 
    <p><strong>Salazar Caballero, Alvaro Fabrizzio</strong></p>
       <p><i>TB1</i></p>
@@ -425,13 +429,14 @@ Asimismo, se completó la documentación integral del proyecto, incorporando mé
       <p><i>TB2</i></p>
       <p>Expliqué el funcionamiento del módulo <strong>Authentication</strong> y sus mecanismos de acceso, detallando al equipo cómo se gestionan las credenciales, roles y validaciones. Coordiné con frontend y backend para asegurar la correcta integración de las funciones de inicio de sesión. Contribuí a la revisión del <strong>report TB2</strong>, comunicando claramente los ajustes y validaciones implementadas.</p>
       <p><i>TF</i></p>
+      <p>Comuniqué al equipo el desarrollo de las pantallas de frontend para el módulo de Owner, detallando la experiencia de usuario y las funcionalidades implementadas. Expliqué las capacidades técnicas del backend desarrollado para soportar las operaciones de los propietarios de negocios. Coordiné con el equipo las estrategias de despliegue del sistema, asegurando la comunicación efectiva de los procesos y validaciones necesarias.</p>
     </td>
 
    <td>
       <p><strong>TB1:</strong> El equipo mostró una comunicación oral efectiva al presentar entrevistas y hallazgos iniciales, adaptando el discurso según el público.</p>
       <p><strong>TP1:</strong> La comunicación oral se enfocó en la explicación técnica de los módulos del front-end. Cada integrante defendió con claridad su rama de desarrollo, facilitando la integración entre vistas, servicios y componentes, manteniendo alineamiento con la experiencia del usuario.</p>
       <p><strong>TB2:</strong> Durante esta etapa, la comunicación oral permitió coordinar la integración de frontend y backend, deployment y revisión del reporte final. Cada miembro expuso con claridad el estado de sus módulos, las decisiones técnicas y los problemas encontrados, lo que favoreció la resolución oportuna de bloqueos y la consolidación del sistema final.</p>
-      <p><strong>TF:</strong>
+      <p><strong>TF:</strong> En la entrega final, la comunicación oral se centró en las capacidades comunicativas del sistema completo y el proceso de despliegue en producción. Cada integrante explicó los avances finales del backend para Owner, la implementación de pantallas de frontend, y las funcionalidades de notificaciones. Se coordinó efectivamente el deployment final, asegurando que todos los miembros comprendieran el estado operativo de la plataforma y las mejoras visuales implementadas.</p>
     </td>
   </tr>
 
@@ -446,6 +451,7 @@ Asimismo, se completó la documentación integral del proyecto, incorporando mé
       <p><i>TB2</i></p>
       <p>Redacté las secciones del reporte TB2 relacionadas al módulo <strong>Identity</strong>, describiendo los flujos de autenticación, validaciones aplicadas y resultados obtenidos durante la integración. Organicé la información de manera clara y estructurada para que tanto compañeros como lectores externos comprendieran el funcionamiento del sistema.</p>
       <p><i>TF</i></p>
+      <p>Documenté la implementación de las pantallas de frontend para Owner, siguiendo los principios de DDD en la organización de componentes y servicios. Redacté la documentación técnica del flujo de trabajo en GitFlow, describiendo la estrategia de branching utilizada para el desarrollo de las funcionalidades finales del sistema.</p>
 
    <p><strong>Goñe Araccata, Esther Abigail</strong></p>
       <p><i>TB1</i></p>
@@ -455,6 +461,7 @@ Asimismo, se completó la documentación integral del proyecto, incorporando mé
       <p><i>TB2</i></p>
       <p>Documenté los módulos <strong>Offers, Favorites y Reviews</strong>, explicando sus flujos y decisiones visuales. Redacté descripciones detalladas de las interacciones entre vistas y servicios, además de contribuir a la redacción general del reporte TB2, asegurando coherencia en la narrativa técnica.</p>
       <p><i>TF</i></p>
+      <p>Redacté la documentación técnica de la lógica de negocio implementada en el backend para el rol de Owner, aplicando correctamente los patrones de DDD en la descripción de agregados, comandos y consultas. Documenté el uso de GitFlow en el control de versiones, explicando las convenciones de commits y la gestión de branches utilizadas durante el desarrollo final del proyecto.</p>
       
   <p><strong>Huapaya Galindo, Dyron</strong></p>
       <p><i>TB1</i></p>
@@ -464,6 +471,7 @@ Asimismo, se completó la documentación integral del proyecto, incorporando mé
       <p><i>TB2</i></p>
       <p>Redacté las secciones del reporte sobre la integración del <strong>mapa de Google Maps</strong>, detallando la lógica técnica implementada, el manejo de marcadores dinámicos y la relación entre ubicaciones y ofertas. Incluí explicaciones claras sobre la comunicación frontend-backend.</p>
       <p><i>TF</i></p>
+      <p>Documenté la arquitectura del backend para el módulo de Owner, siguiendo estrictamente los principios de Domain-Driven Design (DDD) en la estructuración de bounded contexts, servicios de aplicación y repositorios. Redacté la guía de uso de GitFlow implementada en el proyecto, describiendo las estrategias de merge y la resolución de conflictos durante la fase final de desarrollo.</p>
       
   <p><strong>Huarcaya Matias, Gilbert Alonso</strong></p>
       <p><i>TB1</i></p>
@@ -473,6 +481,7 @@ Asimismo, se completó la documentación integral del proyecto, incorporando mé
       <p><i>TB2</i></p>
       <p>Desarrollé la documentación del <strong>backend</strong>, abordando la estructura del proyecto, rutas principales y arquitectura. Redacté las secciones sobre <strong>Coupons, Subscriptions, Payments y Cart</strong>, incluyendo diagramas, flujos y justificación técnica. También documenté el proceso de <strong>deployment</strong> del sistema.</p>
       <p><i>TF</i></p>
+      <p>Redacté la documentación completa del módulo de Notificaciones, abarcando tanto la implementación del backend siguiendo los principios de DDD (agregados, comandos, consultas) como el desarrollo del frontend con componentes responsives. Documenté las mejoras visuales aplicadas a la interfaz, incluyendo las adaptaciones para diferentes dispositivos y resoluciones. Desarrollé la guía de GitFlow utilizada en el proyecto, detallando la estrategia de branches, convenciones de commits y el proceso de integración continua implementado para el despliegue final.</p>
       
   <p><strong>Salazar Caballero, Alvaro Fabrizzio</strong></p>
       <p><i>TB1</i></p>
@@ -482,13 +491,14 @@ Asimismo, se completó la documentación integral del proyecto, incorporando mé
       <p><i>TB2</i></p>
       <p>Redacté la documentación del módulo <strong>Authentication</strong>, explicando los métodos implementados, validaciones de usuario y flujos de acceso. Contribuí a la organización final del reporte TB2, asegurando consistencia en la estructura del documento.</p>
       <p><i>TF</i></p>
+      <p>Documenté el desarrollo de las pantallas de frontend para Owner, aplicando los conceptos de DDD en la organización de la capa de presentación y los servicios asociados. Redacté las secciones sobre el uso de GitFlow en el control de versiones del proyecto, incluyendo ejemplos de flujos de trabajo y mejores prácticas aplicadas durante la implementación final del sistema.</p>
    </td>
 
   <td>
       <p><strong>TB1:</strong> Se redactó documentación clara y coherente que facilitó la comprensión entre integrantes y usuarios entrevistados.</p>
       <p><strong>TP1:</strong> La documentación escrita en esta etapa consolidó las buenas prácticas del desarrollo front-end. Cada miembro explicó detalladamente su módulo y las decisiones de diseño, creando una base sólida para futuras iteraciones y mantenimiento del sistema.</p>
       <p><strong>TB2:</strong> En esta etapa, la documentación escrita consolidó la integración final del proyecto. Cada miembro explicó detalladamente su módulo, los flujos implementados, los problemas encontrados y las decisiones técnicas, contribuyendo a un reporte coherente, completo y alineado con los estándares del curso.</p>
-      <p><strong>TF:</strong>
+      <p><strong>TF:</strong> En esta etapa final se consolidó el uso correcto de Domain-Driven Design (DDD) en toda la arquitectura del sistema, desde la estructuración de bounded contexts hasta la implementación de patrones CQRS. Cada integrante documentó el correcto uso de GitFlow durante el desarrollo, explicando las estrategias de branching, convenciones de commits y procesos de integración. Se redactó documentación técnica exhaustiva, las pantallas de frontend implementadas, el módulo de notificaciones completo y las mejoras responsive aplicadas, estableciendo un estándar de calidad.</p>
     </td>
   </tr>
 </table>

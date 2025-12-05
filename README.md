@@ -6729,7 +6729,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
   *Sprint Backlog 4 — GeoPS*
 
   <div align="center">
-      <img src="resources/images/chapter-5/Product_Backlog_4.jpg" alt="Sprint Backlog 4 - GeoPS" width="1000">
+      <img src="resources/imgs/Sprint Backlog 4 - GeoPS.png" alt="Sprint Backlog 4 - GeoPS" width="1000">
   </div>
 
   *Nota.* Elaboración propia.

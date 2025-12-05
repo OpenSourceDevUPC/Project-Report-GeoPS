@@ -127,10 +127,14 @@ Durante el desarrollo del entregable TF, el equipo consolidó las funcionalidade
 
 Asimismo, se completó la documentación integral del proyecto, incorporando métricas de colaboración, evidencias de implementación y conclusiones generales sobre el desempeño del sistema. La organización del equipo se mantuvo mediante sesiones virtuales, distribución equitativa de responsabilidades y revisiones conjuntas del informe, asegurando el cumplimiento exitoso de los objetivos establecidos para el sprint final.
 
-<p><strong>Evidencias de colaboración y commits:</strong></p>
+<p><strong>Evidencias de colaboración y commits - Frontend:</strong></p>
 <div style="text-align: center;">
-  <img src="resources/imgs/insightstf.png" width="500"><br><br>
-  <img src="resources/imgs/contribuitorstf.png" width="500">
+  <img src="resources/imgs/contribuitorstf-front.jpg" width="500">
+</div>
+
+<p><strong>Evidencias de colaboración y commits - Backend:</strong></p>
+<div style="text-align: center;">
+  <img src="resources/imgs/contribuitorstf-back.jpg" width="500">
 </div>
 
 ---
@@ -693,7 +697,7 @@ Con un **diseño responsive** que se adapta a cualquier dispositivo, **GeoPS Lab
 ### 2.2. Entrevistas
   #### 2.2.1. Diseño de entrevistas
 
-  **Segmento 1: Dueños de negocios de diferentes rubros**
+  **Segmento #1: Dueños de negocios locales**
 
   **Características demográficas:**
   * ¿Cuál es tu edad?
@@ -714,7 +718,7 @@ Con un **diseño responsive** que se adapta a cualquier dispositivo, **GeoPS Lab
   * ¿Qué tan dispuesto estarías a pagar por una herramienta digital que realmente te acerque a clientes locales?
   * Si pudieras diseñar la aplicación perfecta para promocionar tu negocio, ¿qué funciones no podrían faltar?
 
-  **Segmento 2: Consumidores de ofertas de diferentes ámbitos**
+  **Segmento #2: Consumidores de ofertas de diferentes ámbitos**
 
   **Características demográficas:**
   * ¿Cuál es tu edad?
@@ -737,7 +741,7 @@ Con un **diseño responsive** que se adapta a cualquier dispositivo, **GeoPS Lab
 
   #### 2.2.2. Registro de entrevistas
 
-  **Segmento 1: Dueños de negocios de diferentes rubros**
+  **Segmento #1: Dueños de negocios locales**
 
   **Tabla 2**   
   *Registro de entrevistas — Segmento 1*
@@ -750,7 +754,7 @@ Con un **diseño responsive** que se adapta a cualquier dispositivo, **GeoPS Lab
 
   *Nota.* Elaboración propia.
 
-  **Segmento 2: Consumidores de ofertas de diferentes ámbitos**
+  **Segmento #2: Consumidores de ofertas de diferentes ámbitos**
 
   **Tabla 3**   
   *Registro de entrevistas — Segmento 2*  
@@ -765,7 +769,7 @@ Con un **diseño responsive** que se adapta a cualquier dispositivo, **GeoPS Lab
 
   #### 2.2.3. Análisis de entrevistas
 
-  **Segmento 1: Dueños de negocios de diferentes rubros**
+  **Segmento #1: Dueños de negocios locales**
 
   A partir de las entrevistas a tres dueños de negocios, de edades y rubros variados, podemos extraer las siguientes conclusiones:
 
@@ -775,7 +779,7 @@ Con un **diseño responsive** que se adapta a cualquier dispositivo, **GeoPS Lab
 
   **c) El éxito del marketing digital se mide directamente en ventas, no en interacciones superficiales.** El 100% de los entrevistados evalúa la efectividad de sus esfuerzos de promoción en función de los resultados tangibles. Kelly y Cesar mencionan explícitamente que miden su éxito a través de las ventas generadas por WhatsApp, y Mirta se enfoca en que sus acciones de marketing se traduzcan en nuevas recomendaciones. Esto indica que para este segmento, el objetivo principal de cualquier herramienta digital es el crecimiento de los ingresos.
 
-  **Segmento 2: Consumidores de ofertas de diferentes ámbitos**
+  **Segmento #2: Consumidores de ofertas de diferentes ámbitos**
 
   A partir de de las entrevistas a tres jóvenes consumidores de ofertas, podemos extraer las siguientes conclusiones:
 
@@ -788,7 +792,7 @@ Con un **diseño responsive** que se adapta a cualquier dispositivo, **GeoPS Lab
 ### 2.3. Needfinding
   #### 2.3.1. User Personas
   
-  **Segmento 1: Dueños de negocios de diferentes rubros**
+  **Segmento #1: Dueños de negocios locales**
 
   **Figura 9**<br>
   *User Persona — Segmento 1*
@@ -799,7 +803,7 @@ Con un **diseño responsive** que se adapta a cualquier dispositivo, **GeoPS Lab
 
   *Nota.* Elaboración propia (realizado en Uxpressia).
 
-  **Segmento 2: Consumidores de ofertas de diferentes ámbitos**
+  **Segmento #2: Consumidores de ofertas de diferentes ámbitos**
 
   **Figura 10**<br>
   *User Persona — Segmento 2*
@@ -812,7 +816,7 @@ Con un **diseño responsive** que se adapta a cualquier dispositivo, **GeoPS Lab
 
   #### 2.3.2  User Task Matrix
 
-  **Segmento 1: Dueños de negocios de diferentes rubros**
+  **Segmento #1: Dueños de negocios locales**
 
   **Tabla 4**
   *User Task Matrix — Segmento 1*  
@@ -830,7 +834,7 @@ Con un **diseño responsive** que se adapta a cualquier dispositivo, **GeoPS Lab
 
   *Nota.* Elaboración propia.
 
-  **Segmento 2: Consumidores de ofertas de diferentes ámbitos**
+  **Segmento #2: Consumidores de ofertas de diferentes ámbitos**
 
   **Tabla 5**   
   *User Task Matrix — Segmento 2*
@@ -850,7 +854,7 @@ Con un **diseño responsive** que se adapta a cualquier dispositivo, **GeoPS Lab
   
   #### 2.3.3. User Journey Mapping
 
-  **Segmento 1: Dueños de negocios de diferentes rubros**
+  **Segmento #1: Dueños de negocios locales**
 
   **Figura 11**<br>
   *User Journey Mapping — Segmento 1*
@@ -861,7 +865,7 @@ Con un **diseño responsive** que se adapta a cualquier dispositivo, **GeoPS Lab
 
   *Nota.* Elaboración propia (realizado en Uxpressia).
 
-  **Segmento 2: Consumidores de ofertas de diferentes ámbitos**
+  **Segmento #2: Consumidores de ofertas de diferentes ámbitos**
 
   **Figura 12**<br>
   *User Journey Mapping — Segmento 2*
@@ -874,7 +878,7 @@ Con un **diseño responsive** que se adapta a cualquier dispositivo, **GeoPS Lab
 
   #### 2.3.4. Empathy Mapping
 
-  **Segmento 1: Dueños de negocios de diferentes rubros**
+  **Segmento #1: Dueños de negocios locales**
 
   **Figura 13**<br>
   *Empathy Mapping — Segmento 1*
@@ -885,7 +889,7 @@ Con un **diseño responsive** que se adapta a cualquier dispositivo, **GeoPS Lab
 
   *Nota.* Elaboración propia (realizado en Uxpressia).
 
-  **Segmento 2: Consumidores de ofertas de diferentes ámbitos**
+  **Segmento #2: Consumidores de ofertas de diferentes ámbitos**
 
   **Figura 14**<br>
   *Empathy Mapping — Segmento 2*
@@ -8120,7 +8124,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   #### 5.3.1. Diseño de Entrevistas
   
-  **Segmento 1: Dueños de negocios locales**
+  **Segmento #1: Dueños de negocios locales**
   
   **Características Demográficas**
   
@@ -8149,7 +8153,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
   * En comparación con las herramientas o plataformas que usa actualmente para promocionar su negocio, ¿qué cree que hace GeoPS **mejor**?
   * ¿Qué tendríamos que **mejorar o añadir** para que GeoPS sea una herramienta esencial en la gestión y promoción diaria de su negocio?
   
-  **Segmento 2: Consumidores de ofertas de diferentes ámbitos**
+  **Segmento #2: Consumidores de ofertas de diferentes ámbitos**
   
   **Características Demográficas**
   
@@ -8179,7 +8183,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
   
   #### 5.3.2. Registro de Entrevistas
   
-  **Segmento 1: Dueños de negocios locales**
+  **Segmento #1: Dueños de negocios locales**
   
   **Tabla 40**   
   *Registro de Entrevistas de Validación — Segmento 1*
@@ -8188,7 +8192,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
   | :---: | :--- | :---: |
   | **1** | **Nombre:** Elián Quispe <br> **Edad:** 25 años <br> **Distrito:** San Martín de Porres <br> **Duración de la entrevista:** 10:16 <br> **Enlace:** https://tinyurl.com/val-seg-1-eli-geops <br><br> **Resumen:** Elián Quispe (25 años, San Martín de Porres) es dueño de un negocio local que usualmente busca ofertas de alimentos y está familiarizado con plataformas digitales como Yape. Al evaluar la landing page de **GeoPS**, le pareció que tiene facilidad de uso y es muy intuitiva. Pudo comprender la propuesta de valor y la considera bastante clara y concisa. La asociación con marcas conocidas le genera confianza. Sobre la usabilidad de la plataforma, el proceso de registrarse o iniciar sesión le pareció bastante sencillo. La función de buscar ofertas cercanas a su ubicación actual le parece bastante útil para evitar trasladarse a otros distritos. También consideró útil y fácil de usar los filtros por categoría (como gastronomía). No dudó en la navegación, ya que el proceso de compra y agregación está "bastante detallada". Le pareció bueno que la ficha de la oferta muestre la ubicación y permita dejar comentarios o reviews, lo que le da seguridad. La función de guardar la oferta para realizar la compra más tarde le pareció práctica. En comparación con apps que usa (como Yape), Elián cree que **GeoPS es mejor porque permite que el usuario pueda opinar/dejar reviews** acerca de lo que consume, lo cual es una buena forma de saber si la oferta es de buena calidad. Para que GeoPS se convierta en una herramienta de su rutina diaria, sugiere **agregar más ofertas de distintos lugares y más marcas** para aumentar la variedad y llamar más la atención. | **Figura 227**<br>*Entrevista de Validación 1 — Segmento 1*<br><img src="resources/images/chapter-5/EntrevistaValidacionSegmento1_1.png" alt="Entrevista-validacion-seg1-1" width="600"><br>*Nota.* Elaboración propia.   |
   
-  **Segmento 2: Consumidores de ofertas locales**
+  **Segmento #2: Consumidores de ofertas locales**
   
   **Tabla 41**   
   *Registro de Entrevistas de Validación — Segmento 2*

@@ -5791,7 +5791,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   ##### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
-  En esta sección se documenta el proceso de despliegue del backend de GeoPS desarrollado en Spring Boot hacia la plataforma Railway. El proyecto se encuentra alojado en el repositorio https://github.com/OpenSourceDevUPC/geops-backend y está disponible públicamente en https://geops-backend-production.up.railway.app/swagger-ui/index.html.
+  En esta sección se documenta el proceso de despliegue del backend de GeoPS desarrollado en Spring Boot hacia la plataforma Railway. El proyecto se encuentra alojado en el repositorio https://github.com/OpenSourceDevUPC/geops-backend y está disponible públicamente en https://geops-backend-production-6f35.up.railway.app/swagger-ui/index.html.
 
   **Proceso de Despliegue del Backend GeoPS en Railway:**
 
@@ -5952,8 +5952,8 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
   *Nota.* Elaboración propia.
 
   **URLs del Servicio Desplegado:**
-  - **Enlace del Proyecto (BackEnd) API Deploy:** https://geops-backend-production.up.railway.app
-  - **Enlace Documentación Swagger:** https://geops-backend-production.up.railway.app/swagger-ui/index.html
+  - **Enlace del Proyecto (BackEnd) API Deploy:** https://geops-backend-production-6f35.up.railway.app
+  - **Enlace Documentación Swagger:** https://geops-backend-production-6f35.up.railway.app/swagger-ui/index.html
   - **Enlace Repositorio BackEnd:** https://github.com/OpenSourceDevUPC/geops-backend
 
   El despliegue del backend GeoPS en Railway ha sido exitoso, proporcionando una API REST completamente funcional y accesible públicamente para soportar las operaciones del frontend y futuras integraciones del sistema.
@@ -6474,9 +6474,9 @@ World Bank. (2019). *World Development Report 2019: The Changing Nature of Work*
 
 - Enlace API Externo:
 
-- Enlace Documentación Swagger: https://geops-backend-production.up.railway.app/swagger-ui/index.html
+- Enlace Documentación Swagger: https://geops-backend-production-6f35.up.railway.app/swagger-ui/index.html
   
-- Enlace del Proyecto (BackEnd) API Deploy: https://geops-backend-production.up.railway.app
+- Enlace del Proyecto (BackEnd) API Deploy: https://geops-backend-production-6f35.up.railway.app
   
 - Enlace del Proyecto (FrontEnd) Deploy: https://geops-frontend.vercel.app/login
 

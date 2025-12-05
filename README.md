@@ -7476,6 +7476,9 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
   <div align="center">
     <img src="resources/imgs/ss_cart.png" alt="Endpoints Carts - Swagger UI GeoPS" width="900">
   </div>
+  <div align="center">
+    <img src="resources/imgs/ss_subscriptions.png" alt="Endpoints Subscriptions - Swagger UI GeoPS" width="900">
+  </div>
 
   *Nota.* Elaboración propia.
 
@@ -7502,7 +7505,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
     <img src="resources/imgs/ss_payments.png" alt="Endpoints Payments - Swagger UI GeoPS" width="900">
   </div>
   <div align="center">
-    <img src="resources/imgs/ss_payments.png" alt="Endpoints Payments - Swagger UI GeoPS" width="900">
+    <img src="resources/imgs/ss_campaigns.png" alt="Endpoints Campaigns - Swagger UI GeoPS" width="900">
   </div>
 
   *Nota.* Elaboración propia.

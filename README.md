@@ -8470,7 +8470,7 @@ World Bank. (2019). *World Development Report 2019: The Changing Nature of Work*
 
 **Despliegues y Documentación**
 
-- Enlace API Externo:
+- Enlace API Externo: https://github.com/angular/components/tree/main/src/google-maps
 
 - Enlace Documentación Swagger: https://geops-backend-production-6f35.up.railway.app/swagger-ui/index.html
   

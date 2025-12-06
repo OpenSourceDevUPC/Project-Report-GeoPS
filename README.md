@@ -612,23 +612,7 @@ Con un **diseño responsive** que se adapta a cualquier dispositivo, **GeoPS Lab
 
 ### 1.3. Segmentos objetivos
 
-**Segmento Objetivo #1: Consumidores de ofertas locales**
-
-**Aspectos Demográficos**  
-- Sexo: Todos los géneros.  
-- Edad: 18 a 45 años.  
-- Nivel Socioeconómico: Medio y medio–alto (jóvenes profesionales, estudiantes, familias).  
-
-**Aspectos Geográficos**  
-- Nacionalidad: Peruana.  
-- Zona Geográfica: Áreas urbanas con alta concentración de comercios.  
-
-**Aspectos Psicográficos**  
-- Dolor Principal: Dificultad para encontrar promociones relevantes y confiables en el momento de compra.  
-- Objetividad: Consumidores que buscan ahorrar tiempo y dinero accediendo a ofertas locales actualizadas.  
-- Nuestra Solución: Proveer una plataforma web con notificaciones personalizadas, mapa interactivo y reseñas verificadas para facilitar el descubrimiento de promociones cercanas.  
-
-**Segmento Objetivo #2: Dueños de negocios locales**
+**Segmento Objetivo #1: Dueños de negocios locales**
 
 **Aspectos Demográficos**  
 - Sexo: Todos los géneros.  
@@ -643,6 +627,22 @@ Con un **diseño responsive** que se adapta a cualquier dispositivo, **GeoPS Lab
 - Dolor Principal: No poder atraer clientes fácilmente debido a la saturación de publicidad tradicional y digital poco efectiva.  
 - Objetividad: Pequeños y medianos empresarios que buscan aumentar su visibilidad y atraer clientes cercanos con bajo costo.  
 - Nuestra Solución: Brindar un panel web intuitivo con campañas segmentadas, métricas en tiempo real y opciones de publicidad accesible para aumentar la competitividad.  
+
+**Segmento Objetivo #2: Consumidores de ofertas locales**
+
+**Aspectos Demográficos**  
+- Sexo: Todos los géneros.  
+- Edad: 18 a 45 años.  
+- Nivel Socioeconómico: Medio y medio–alto (jóvenes profesionales, estudiantes, familias).  
+
+**Aspectos Geográficos**  
+- Nacionalidad: Peruana.  
+- Zona Geográfica: Áreas urbanas con alta concentración de comercios.  
+
+**Aspectos Psicográficos**  
+- Dolor Principal: Dificultad para encontrar promociones relevantes y confiables en el momento de compra.  
+- Objetividad: Consumidores que buscan ahorrar tiempo y dinero accediendo a ofertas locales actualizadas.  
+- Nuestra Solución: Proveer una plataforma web con notificaciones personalizadas, mapa interactivo y reseñas verificadas para facilitar el descubrimiento de promociones cercanas.  
 
 ---
 
@@ -8200,33 +8200,22 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
   | Número de Registro | Datos del Entrevistado | Captura |
   | :---: | :--- | :---: |
   | **1** | **Nombre:** Ángel José <br> **Edad:** 22 años <br> **Distrito:** Cercado de Lima <br> **Duración de la entrevista:** [Pendiente] <br> **Enlace:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318049_upc_edu_pe/IQCWzb3uMIZjT7lzFvmgBv-GAepxJ4t5Wnzg3YkVW3y3fkw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=FqCDjI <br><br> **Resumen:** Ángel Pariona (22 años, Lima) es un buscador frecuente de ofertas y usuario activo de plataformas digitales como Yape. Al evaluar **Geops**, encontró que la Landing Page es muy intuitiva y la propuesta de valor es atractiva. Le da una alta credibilidad (7-8/10) a la plataforma. Las funcionalidades principales fueron bien recibidas: el registro es muy fácil, la función de geolocalización para ofertas cercanas es muy conveniente, y los filtros son intuitivos. Considera que **Geops es mejor** que las apps que usa actualmente (como Yape) debido a su **mejor distribución y ordenamiento de ofertas**, y la capacidad de guardarlas en favoritos. Para aumentar la credibilidad de las ofertas, sugiere añadir **recomendaciones o *reviews*** de otros usuarios. Su única sugerencia de mejora es modificar el **tamaño de la letra** para la vista móvil. | **Figura 228**<br>*Entrevista de Validación 1 — Segmento 2*<br><img src="resources/images/chapter-5/EntrevistaValidacionSegmento2_1.png" alt="Entrevista-validacion1" width="600"><br>*Nota.* Elaboración propia.   |
-  | **2** | **Nombre:** Andrés Torres <br> **Edad:** 19 años <br> **Distrito:** San Miguel <br> **Duración de la entrevista:** [Pendiente] <br> **Enlace:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318049_upc_edu_pe/IQDeTTS1ELqxQrNgI2B4yLLdAUTPgv7W5surL4i5aorIihg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=UnlTgT <br><br> **Resumen:** El entrevistado, Andrés Torres (19 años), valoró la plataforma **GeoPs** como bastante **moderna, organizada y que transmite confianza**, destacando positivamente la asociación con marcas conocidas que refuerza la credibilidad del proyecto. En cuanto a la usabilidad de la plataforma web, calificó el registro como rápido y sencillo y encontró la función de buscar ofertas por ubicación y categorías como **muy útil para ahorrar tiempo en el traslado**. Además, señaló que, en comparación con otras apps que usa (como Yape), **Geops es más rápido y tiene filtros más cómodos**. Para convertirla en una herramienta de uso diario, su principal sugerencia de mejora fue desarrollar una **aplicación para dispositivos m��viles**. | **Figura 229**<br>*Entrevista de Validación 2 — Segmento 2*<br><img src="resources/images/chapter-5/EntrevistaValidacionSegmento2_2.png" alt="Entrevista-validacion2" width="600"><br>*Nota.* Elaboración propia.   |
+  | **2** | **Nombre:** Andrés Torres <br> **Edad:** 19 años <br> **Distrito:** San Miguel <br> **Duración de la entrevista:** [Pendiente] <br> **Enlace:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318049_upc_edu_pe/IQDeTTS1ELqxQrNgI2B4yLLdAUTPgv7W5surL4i5aorIihg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=UnlTgT <br><br> **Resumen:** El entrevistado, Andrés Torres (19 años), valoró la plataforma **GeoPs** como bastante **moderna, organizada y que transmite confianza**, destacando positivamente la asociación con marcas conocidas que refuerza la credibilidad del proyecto. En cuanto a la usabilidad de la plataforma web, calificó el registro como rápido y sencillo y encontró la función de buscar ofertas por ubicación y categorías como **muy útil para ahorrar tiempo en el traslado**. Además, señaló que, en comparación con otras apps que usa (como Yape), **Geops es más rápido y tiene filtros más cómodos**. Para convertirla en una herramienta de uso diario, su principal sugerencia de mejora fue desarrollar una **aplicación para dispositivos móviles**. | **Figura 229**<br>*Entrevista de Validación 2 — Segmento 2*<br><img src="resources/images/chapter-5/EntrevistaValidacionSegmento2_2.png" alt="Entrevista-validacion2" width="600"><br>*Nota.* Elaboración propia. |
   
   #### 5.3.3 Evaluaciones Según Heurísticas
 
-  **UX Heuristics & Principles Evaluation**
-
-  **Usability - Inclusive Design - Information Architecture**
-
-  **Carrera:**
-
-  Ingenieria de Software
-
-  **Curso:**
-
-  Desarrollo de aplicaciones Open Source
-
-  **Sección:**
-
-  7391
-
-  **Profesores:**
-
-  Todos
-
-  **Auditor:**
-
-  GeoPs Labs
+  **UX Heuristics & Principles Evaluation**   
+  **Usability - Inclusive Design - Information Architecture**   
+  **Carrera:**   
+  Ingenieria de Software   
+  **Curso:**   
+  Desarrollo de aplicaciones Open Source   
+  **Sección:**   
+  7391   
+  **Profesores:**   
+  Todos   
+  **Auditor:**   
+  GeoPs Labs   
 
   **Clientes:**
   - Barturen Panez, Iker Gabriel
@@ -8549,12 +8538,15 @@ World Bank. (2019). *World Development Report 2019: The Changing Nature of Work*
 
 **Videos Entrevistas y Validaciones**
 
+- Enlace Validación Entrevista - Segmento #1 - Braden Garcia: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321941_upc_edu_pe/IQDWPDOpJfDKSrZeiiLBoxjEAQ_snkEDwwoM7rRS8mbcbb8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=gIYSWR
+
 - Enlace Validación Entrevista - Segmento #1 - Elián Quispe: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321941_upc_edu_pe/IQB_rmzvOSkpSJq3xo3bPur4AVg_Hzm_OKuJQOh4IZ-v4kI?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=nrWend
 
-- Enlace Validación Entrevista - Segmento #2 - : https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321941_upc_edu_pe/IQBya8BjGgapSKlVY7xZ6vEsAa2xfl7xZ_DHAS9z_Eh_goE?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=8tEW3I
+- Enlace Validación Entrevista - Segmento #1 -   : https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321941_upc_edu_pe/IQBya8BjGgapSKlVY7xZ6vEsAa2xfl7xZ_DHAS9z_Eh_goE?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=8tEW3I
+
+- Enlace Validación Entrevista - Segmento #1 - Néstor Rojas: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321941_upc_edu_pe/IQBjnJzDyiPzRK1oAS990WcmAU3OhJvFzaJVtPtv9pFePI0?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=PaftQz
 
 - Enlace Validación Entrevista - Segmento #2 - Andrés Torres: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318049_upc_edu_pe/IQDeTTS1ELqxQrNgI2B4yLLdAUTPgv7W5surL4i5aorIihg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=UnlTgT
 
 - Enlace Validación Entrevista - Segmento #2 - Ángel Pariona: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318049_upc_edu_pe/IQCWzb3uMIZjT7lzFvmgBv-GAepxJ4t5Wnzg3YkVW3y3fkw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=FqCDjI
 
-- Enlace Validación Entrevista - Segmento #2 - Braden Garcia: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321941_upc_edu_pe/IQDWPDOpJfDKSrZeiiLBoxjEAQ_snkEDwwoM7rRS8mbcbb8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=gIYSWR

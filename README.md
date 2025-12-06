@@ -1423,7 +1423,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   #### 4.3.1. Landing Page Wireframe
 
-  **Enlace Diseño Figma:** https://tinyurl.com/diseno-figma-geops
+  **Enlace Diseño Figma:** https://www.figma.com/design/mHHx8WStPBr63tLYj42pBX/GeoPs?node-id=336-2468&t=1Nm0EVmUTgy7sfDx-1
 
   **Figura 19**<br>
   *Wireframe — Landing Page GeoPS*
@@ -1436,7 +1436,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   #### 4.3.2. Landing Page Mock-up
 
-  **Enlace Diseño Figma:** https://tinyurl.com/diseno-figma-geops
+  **Enlace Diseño Figma:** https://www.figma.com/design/mHHx8WStPBr63tLYj42pBX/GeoPs?node-id=336-2468&t=1Nm0EVmUTgy7sfDx-1
 
   **Figura 20**<br>
   *Mock-up — Landing Page GeoPS*
@@ -1451,7 +1451,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   #### 4.4.1. Web Applications Wireframes
 
-  **Enlace Diseño Figma:** https://tinyurl.com/diseno-figma-geops
+  **Enlace Diseño Figma:** https://www.figma.com/design/mHHx8WStPBr63tLYj42pBX/GeoPs?node-id=336-2468&t=1Nm0EVmUTgy7sfDx-1
 
   **Login**
 
@@ -2053,7 +2053,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   #### 4.4.3. Web Applications Mock-ups
 
-  **Enlace Diseño Figma:** https://tinyurl.com/diseno-figma-geops
+  **Enlace Diseño Figma:** https://www.figma.com/design/mHHx8WStPBr63tLYj42pBX/GeoPs?node-id=336-2468&t=1Nm0EVmUTgy7sfDx-1
 
   **Login**
 
@@ -2655,7 +2655,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
 
   Para el desarrollo del prototype utilizamos la herramienta Figma, en la cual agregamos interacciones a los mock-ups previamente diseñados. Esto permitió simular el flujo de navegación y visualizar la experiencia del usuario de manera más realista.
 
-  **Enlace Diseño Figma Prototype:** https://tinyurl.com/prototype-figma-geops
+  **Enlace Diseño Figma Prototype:** https://www.figma.com/proto/mHHx8WStPBr63tLYj42pBX/GeoPs?node-id=2-511&t=I0J1dH7e40wYL90d-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=426%3A3299
 
   **Figura 114**<br>
   *Prototype — GeoPS*
@@ -2667,7 +2667,7 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
   *Nota.* Elaboración propia (realizado en Figma).  
   <br>
 
-  **Enlace Video Web Application Prototype:** https://tinyurl.com/web-app-prototype-geops
+  **Enlace Video Web Application Prototype:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318049_upc_edu_pe/IQD6SaN-XMsAR6NvgRD_Ev7BAf-nnmSLy5uYleYv0lLnt0Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=V5Lp6h
 
   ### 4.6. Domain-Driven Software Architecture
 
@@ -4954,7 +4954,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   **Demostración en Video y URL de la Web**
   
-  + **Enlace Video Presentación FrontEnd:**  https://tinyurl.com/web-app-fronted-geops
+  + **Enlace Video Presentación FrontEnd:**  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202322855_upc_edu_pe/IQBr_CK9nefYQYSRB6iN7OSMAZEeqliS4klukIbvKcYQ2W0?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=ztZAgD
   + **Enlace del Proyecto (FrontEnd) Deploy:** https://geops-frontend.vercel.app/login
   
   Este sprint consolida la experiencia inicial del usuario final, asegurando una base sólida para la integración futura del backend, autenticación y servicios en tiempo real.
@@ -6058,7 +6058,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   *Nota.* Elaboración propia.
 
-  + **Enlace Video Presentación BackEnd - GeoPs:** https://tinyurl.com/web-app-backend-geops
+  + **Enlace Video Presentación BackEnd - GeoPs:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202322855_upc_edu_pe/IQBaDGRLY_lmR7SNyWP_vuefAWi2TUcGcgn4Ua-R3ckkmzM?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=1ewleD
   
   ##### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
@@ -7721,7 +7721,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
   Se realizó un video demostrativo mostrando el flujo completo del módulo de proveedores, desde la creación de una campaña hasta la visualización de métricas, así como las funcionalidades del panel de administración.
 
-  + **Enlace Video Presentación BackEnd:** https://tinyurl.com/web-app-backend-geops
+  + **Enlace Video Presentación BackEnd:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202322855_upc_edu_pe/IQBaDGRLY_lmR7SNyWP_vuefAWi2TUcGcgn4Ua-R3ckkmzM?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=b90mcr
   + **Enlace del Proyecto (Frontend) Deploy:** https://geops-frontend.vercel.app/
   + **Enlace del Proyecto (BackEnd) API Deploy:** https://geops-backend-production-6f35.up.railway.app
 
@@ -8190,7 +8190,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
   
   | Número de Registro | Datos del Entrevistado | Captura |
   | :---: | :--- | :---: |
-  | **1** | **Nombre:** Elián Quispe <br> **Edad:** 25 años <br> **Distrito:** San Martín de Porres <br> **Duración de la entrevista:** 10:16 <br> **Enlace:** https://tinyurl.com/val-seg-1-eli-geops <br><br> **Resumen:** Elián Quispe (25 años, San Martín de Porres) es dueño de un negocio local que usualmente busca ofertas de alimentos y está familiarizado con plataformas digitales como Yape. Al evaluar la landing page de **GeoPS**, le pareció que tiene facilidad de uso y es muy intuitiva. Pudo comprender la propuesta de valor y la considera bastante clara y concisa. La asociación con marcas conocidas le genera confianza. Sobre la usabilidad de la plataforma, el proceso de registrarse o iniciar sesión le pareció bastante sencillo. La función de buscar ofertas cercanas a su ubicación actual le parece bastante útil para evitar trasladarse a otros distritos. También consideró útil y fácil de usar los filtros por categoría (como gastronomía). No dudó en la navegación, ya que el proceso de compra y agregación está "bastante detallada". Le pareció bueno que la ficha de la oferta muestre la ubicación y permita dejar comentarios o reviews, lo que le da seguridad. La función de guardar la oferta para realizar la compra más tarde le pareció práctica. En comparación con apps que usa (como Yape), Elián cree que **GeoPS es mejor porque permite que el usuario pueda opinar/dejar reviews** acerca de lo que consume, lo cual es una buena forma de saber si la oferta es de buena calidad. Para que GeoPS se convierta en una herramienta de su rutina diaria, sugiere **agregar más ofertas de distintos lugares y más marcas** para aumentar la variedad y llamar más la atención. | **Figura 227**<br>*Entrevista de Validación 1 — Segmento 1*<br><img src="resources/images/chapter-5/EntrevistaValidacionSegmento1_1.png" alt="Entrevista-validacion-seg1-1" width="600"><br>*Nota.* Elaboración propia.   |
+  | **1** | **Nombre:** Elián Quispe <br> **Edad:** 25 años <br> **Distrito:** San Martín de Porres <br> **Duración de la entrevista:** 10:16 <br> **Enlace:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321941_upc_edu_pe/IQB_rmzvOSkpSJq3xo3bPur4AVg_Hzm_OKuJQOh4IZ-v4kI?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=nrWend <br><br> **Resumen:** Elián Quispe (25 años, San Martín de Porres) es dueño de un negocio local que usualmente busca ofertas de alimentos y está familiarizado con plataformas digitales como Yape. Al evaluar la landing page de **GeoPS**, le pareció que tiene facilidad de uso y es muy intuitiva. Pudo comprender la propuesta de valor y la considera bastante clara y concisa. La asociación con marcas conocidas le genera confianza. Sobre la usabilidad de la plataforma, el proceso de registrarse o iniciar sesión le pareció bastante sencillo. La función de buscar ofertas cercanas a su ubicación actual le parece bastante útil para evitar trasladarse a otros distritos. También consideró útil y fácil de usar los filtros por categoría (como gastronomía). No dudó en la navegación, ya que el proceso de compra y agregación está "bastante detallada". Le pareció bueno que la ficha de la oferta muestre la ubicación y permita dejar comentarios o reviews, lo que le da seguridad. La función de guardar la oferta para realizar la compra más tarde le pareció práctica. En comparación con apps que usa (como Yape), Elián cree que **GeoPS es mejor porque permite que el usuario pueda opinar/dejar reviews** acerca de lo que consume, lo cual es una buena forma de saber si la oferta es de buena calidad. Para que GeoPS se convierta en una herramienta de su rutina diaria, sugiere **agregar más ofertas de distintos lugares y más marcas** para aumentar la variedad y llamar más la atención. | **Figura 227**<br>*Entrevista de Validación 1 — Segmento 1*<br><img src="resources/images/chapter-5/EntrevistaValidacionSegmento1_1.png" alt="Entrevista-validacion-seg1-1" width="600"><br>*Nota.* Elaboración propia.   |
   
   **Segmento #2: Consumidores de ofertas locales**
   
@@ -8199,8 +8199,8 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
   
   | Número de Registro | Datos del Entrevistado | Captura |
   | :---: | :--- | :---: |
-  | **1** | **Nombre:** Ángel José <br> **Edad:** 22 años <br> **Distrito:** Cercado de Lima <br> **Duración de la entrevista:** [Pendiente] <br> **Enlace:** https://tinyurl.com/val-seg-2-ang-geops <br><br> **Resumen:** Ángel Pariona (22 años, Lima) es un buscador frecuente de ofertas y usuario activo de plataformas digitales como Yape. Al evaluar **Geops**, encontró que la Landing Page es muy intuitiva y la propuesta de valor es atractiva. Le da una alta credibilidad (7-8/10) a la plataforma. Las funcionalidades principales fueron bien recibidas: el registro es muy fácil, la función de geolocalización para ofertas cercanas es muy conveniente, y los filtros son intuitivos. Considera que **Geops es mejor** que las apps que usa actualmente (como Yape) debido a su **mejor distribución y ordenamiento de ofertas**, y la capacidad de guardarlas en favoritos. Para aumentar la credibilidad de las ofertas, sugiere añadir **recomendaciones o *reviews*** de otros usuarios. Su única sugerencia de mejora es modificar el **tamaño de la letra** para la vista móvil. | **Figura 228**<br>*Entrevista de Validación 1 — Segmento 2*<br><img src="resources/images/chapter-5/EntrevistaValidacionSegmento2_1.png" alt="Entrevista-validacion1" width="600"><br>*Nota.* Elaboración propia.   |
-  | **2** | **Nombre:** Andrés Torres <br> **Edad:** 19 años <br> **Distrito:** San Miguel <br> **Duración de la entrevista:** [Pendiente] <br> **Enlace:** https://tinyurl.com/val-seg-2-andr-geops <br><br> **Resumen:** El entrevistado, Andrés Torres (19 años), valoró la plataforma **GeoPs** como bastante **moderna, organizada y que transmite confianza**, destacando positivamente la asociación con marcas conocidas que refuerza la credibilidad del proyecto. En cuanto a la usabilidad de la plataforma web, calificó el registro como rápido y sencillo y encontró la función de buscar ofertas por ubicación y categorías como **muy útil para ahorrar tiempo en el traslado**. Además, señaló que, en comparación con otras apps que usa (como Yape), **Geops es más rápido y tiene filtros más cómodos**. Para convertirla en una herramienta de uso diario, su principal sugerencia de mejora fue desarrollar una **aplicación para dispositivos m��viles**. | **Figura 229**<br>*Entrevista de Validación 2 — Segmento 2*<br><img src="resources/images/chapter-5/EntrevistaValidacionSegmento2_2.png" alt="Entrevista-validacion2" width="600"><br>*Nota.* Elaboración propia.   |
+  | **1** | **Nombre:** Ángel José <br> **Edad:** 22 años <br> **Distrito:** Cercado de Lima <br> **Duración de la entrevista:** [Pendiente] <br> **Enlace:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318049_upc_edu_pe/IQCWzb3uMIZjT7lzFvmgBv-GAepxJ4t5Wnzg3YkVW3y3fkw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=FqCDjI <br><br> **Resumen:** Ángel Pariona (22 años, Lima) es un buscador frecuente de ofertas y usuario activo de plataformas digitales como Yape. Al evaluar **Geops**, encontró que la Landing Page es muy intuitiva y la propuesta de valor es atractiva. Le da una alta credibilidad (7-8/10) a la plataforma. Las funcionalidades principales fueron bien recibidas: el registro es muy fácil, la función de geolocalización para ofertas cercanas es muy conveniente, y los filtros son intuitivos. Considera que **Geops es mejor** que las apps que usa actualmente (como Yape) debido a su **mejor distribución y ordenamiento de ofertas**, y la capacidad de guardarlas en favoritos. Para aumentar la credibilidad de las ofertas, sugiere añadir **recomendaciones o *reviews*** de otros usuarios. Su única sugerencia de mejora es modificar el **tamaño de la letra** para la vista móvil. | **Figura 228**<br>*Entrevista de Validación 1 — Segmento 2*<br><img src="resources/images/chapter-5/EntrevistaValidacionSegmento2_1.png" alt="Entrevista-validacion1" width="600"><br>*Nota.* Elaboración propia.   |
+  | **2** | **Nombre:** Andrés Torres <br> **Edad:** 19 años <br> **Distrito:** San Miguel <br> **Duración de la entrevista:** [Pendiente] <br> **Enlace:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318049_upc_edu_pe/IQDeTTS1ELqxQrNgI2B4yLLdAUTPgv7W5surL4i5aorIihg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=UnlTgT <br><br> **Resumen:** El entrevistado, Andrés Torres (19 años), valoró la plataforma **GeoPs** como bastante **moderna, organizada y que transmite confianza**, destacando positivamente la asociación con marcas conocidas que refuerza la credibilidad del proyecto. En cuanto a la usabilidad de la plataforma web, calificó el registro como rápido y sencillo y encontró la función de buscar ofertas por ubicación y categorías como **muy útil para ahorrar tiempo en el traslado**. Además, señaló que, en comparación con otras apps que usa (como Yape), **Geops es más rápido y tiene filtros más cómodos**. Para convertirla en una herramienta de uso diario, su principal sugerencia de mejora fue desarrollar una **aplicación para dispositivos m��viles**. | **Figura 229**<br>*Entrevista de Validación 2 — Segmento 2*<br><img src="resources/images/chapter-5/EntrevistaValidacionSegmento2_2.png" alt="Entrevista-validacion2" width="600"><br>*Nota.* Elaboración propia.   |
   
   #### 5.3.3 Evaluaciones Según Heurísticas
 
@@ -8445,7 +8445,7 @@ En esta sección se incluyen los links de las aplicaciones y productos de softwa
 
 ### 5.4 Video About-the-Product
 
-**Enlace Video About The Product - GeoPs:** https://tinyurl.com/about-the-product-geops
+**Enlace Video About The Product - GeoPs:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318049_upc_edu_pe/IQClpsJt1lv0SJVXaTq_7_RwAZulho-4j7SJR3cHofT9Bpo?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=pc3X8P
 
 ## Conclusiones
 
@@ -8509,51 +8509,52 @@ World Bank. (2019). *World Development Report 2019: The Changing Nature of Work*
 
 **Videos Exposiciones**
 
-- Enlace Video Exposición TB1: https://tinyurl.com/expo-tb1-geops
+- Enlace Video Exposición TB1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318049_upc_edu_pe/IQAYAOtcnJkrSJ5sMW1GzIvGAXt4Ff89DrfcOtG7Mzwu_LM?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=oLgDTu
 
-- Enlace Video Exposición TP: https://tinyurl.com/expo-tp-geops
+- Enlace Video Exposición TP: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318049_upc_edu_pe/IQD0TjuAyC1sRroGugZHQzJmAfJSDI0CEdc4MHir5O2VJkQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=kNfHyf
 
-- Enlace Video Exposición TB2: https://tinyurl.com/expo-tb2-geops
+- Enlace Video Exposición TB2: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318049_upc_edu_pe/IQBoZjns9ZKMSpiDkmYsdvrMAUshgf8mP27mykIx3cBOD2o?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=USps7w
 
-- Enlace Video Exposición TF: 
+- Enlace Video Exposición TF: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318049_upc_edu_pe/IQCQUnz8PZaKRJTdAfTkEoyaATwyTthfJ8GKlBBvnW2uFNY?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=atqJYN
 
 **Videos About The Team**
 
-- Enlace Video About The Team - GeoPs: https://tinyurl.com/about-the-team-geopslabs
+- Enlace Video About The Team - GeoPs: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318049_upc_edu_pe/IQC8deLfhAB-QabaXnuLVJ5oAW9Vq4hqnyj1-bRnjYHHfmY?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=P5W6WY
 
-- Enlace Video About The Team - Sprint 1: https://tinyurl.com/about-the-team-sprint-1-geops
+- Enlace Video About The Team - Sprint 1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318049_upc_edu_pe/IQBwRtkeYfyORpJETMTq48mrAZgOmB0zZHdXozfut2y4dBs?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=1jDDqO
 
-- Enlace Video About The Team - Sprint 2: https://tinyurl.com/about-the-team-sprint-2-geops
+- Enlace Video About The Team - Sprint 2: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318049_upc_edu_pe/IQAO-RkvVBjHSawn7ch62Qq9AU3gnTCTG-GxDhG5S-44kGE?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=zuMe7r
 
-- Enlace Video About The Team - Sprint 3: https://tinyurl.com/about-the-team-sprint-3-geops
+- Enlace Video About The Team - Sprint 3: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318049_upc_edu_pe/IQBqo_9vc3znQbV_enC_4_D5AZd79yuCE9Uaig9bXhOiwiA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=6ru4rr
 
-- Enlace Video About The Team - Sprint 4: https://tinyurl.com/about-the-team-sprint-4-geops
+- Enlace Video About The Team - Sprint 4: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318049_upc_edu_pe/IQCIeN5xokLGRpDZ3eAUI_-dAQcSZd_8yUbS82-r0TdGAWY?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=IcF3bJ
 
 **Video About The Product**
 
-- Enlace Video About The Product - GeoPs: https://tinyurl.com/about-the-product-geops
+- Enlace Video About The Product - GeoPs: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318049_upc_edu_pe/IQClpsJt1lv0SJVXaTq_7_RwAZulho-4j7SJR3cHofT9Bpo?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=pc3X8P
 
 **Videos Aplicación**
 
-- Enlace Video Ejecución Landing Page:
+- Enlace Video Web Application Prototype: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318049_upc_edu_pe/IQD6SaN-XMsAR6NvgRD_Ev7BAf-nnmSLy5uYleYv0lLnt0Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=V5Lp6h
 
-- Enlace Video Web Application Prototype: https://tinyurl.com/web-app-prototype-geops
+- Enlace Video Presentación FrontEnd: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318049_upc_edu_pe/IQBZ_u4YlUBrR5aUuwOgdlXyAayryes00Z1WWwE3w-MPhtU?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=i2d5ve
 
-- Enlace Video Presentación FrontEnd: https://tinyurl.com/web-app-frontend-geops
-
-- Enlace Video Presentación BackEnd: https://tinyurl.com/web-app-backend-geops
+- Enlace Video Presentación BackEnd: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202322855_upc_edu_pe/IQBaDGRLY_lmR7SNyWP_vuefAWi2TUcGcgn4Ua-R3ckkmzM?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=b90mcr
 
 **Diseño Figma**
 
-- Enlace Diseño Figma Prototype: https://tinyurl.com/prototype-figma-geops
+- Enlace Diseño Figma Prototype: https://www.figma.com/proto/mHHx8WStPBr63tLYj42pBX/GeoPs?node-id=2-511&t=I0J1dH7e40wYL90d-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=426%3A3299
 
-- Enlace Diseño Figma: https://tinyurl.com/diseno-figma-geops
+- Enlace Diseño Figma: https://www.figma.com/design/mHHx8WStPBr63tLYj42pBX/GeoPs?node-id=336-2468&t=1Nm0EVmUTgy7sfDx-1
 
 **Videos Entrevistas y Validaciones**
 
-- Enlace Validación Entrevista - Segmento #1 - Elian Quispe: https://tinyurl.com/val-seg-1-eli-geops
+- Enlace Validación Entrevista - Segmento #1 - Elián Quispe: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321941_upc_edu_pe/IQB_rmzvOSkpSJq3xo3bPur4AVg_Hzm_OKuJQOh4IZ-v4kI?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=nrWend
 
-- Enlace Validación Entrevista - Segmento #2 - Andrés Torres: https://tinyurl.com/val-seg-2-andr-geops
+- Enlace Validación Entrevista - Segmento #2 - : https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321941_upc_edu_pe/IQBya8BjGgapSKlVY7xZ6vEsAa2xfl7xZ_DHAS9z_Eh_goE?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=8tEW3I
 
-- Enlace Validación Entrevista - Segmento #2 - Ángel Pariona: https://tinyurl.com/val-seg-2-ang-geops
+- Enlace Validación Entrevista - Segmento #2 - Andrés Torres: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318049_upc_edu_pe/IQDeTTS1ELqxQrNgI2B4yLLdAUTPgv7W5surL4i5aorIihg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=UnlTgT
 
+- Enlace Validación Entrevista - Segmento #2 - Ángel Pariona: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318049_upc_edu_pe/IQCWzb3uMIZjT7lzFvmgBv-GAepxJ4t5Wnzg3YkVW3y3fkw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=FqCDjI
+
+- Enlace Validación Entrevista - Segmento #2 - Braden Garcia: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321941_upc_edu_pe/IQDWPDOpJfDKSrZeiiLBoxjEAQ_snkEDwwoM7rRS8mbcbb8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=gIYSWR

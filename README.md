@@ -2980,8 +2980,6 @@ Su propósito es organizar el trabajo en función del valor que aporta al usuari
       <img src="resources/class-diagran-geops.svg" alt="Diagrama de Clases GeoPS" width="900">
   </div>
 
-  *Nota.* El diagrama completo en formato PlantUML se encuentra en `geops-backend/geops-class-diagram.puml`
-
   **Bounded Contexts implementados:**
 
   **Contextos Core (4):**
